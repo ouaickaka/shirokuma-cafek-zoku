@@ -1,0 +1,981 @@
+{
+  "ep": "25",
+  "title": "七夕飾り",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "あれ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "あんなところにおいしそうな笹が落ちてる",
+          "en": "There's some delicious-looking bamboo grass fallen over there."
+        },
+        {
+          "ja": "ちょっと味見",
+          "en": "A little taste."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "おいしい！",
+          "en": "Delicious!"
+        },
+        {
+          "ja": "まったく　もう…",
+          "en": "Honestly, really..."
+        },
+        {
+          "ja": "もったいないな",
+          "en": "What a waste."
+        },
+        {
+          "ja": "おいしい！",
+          "en": "Delicious!"
+        },
+        {
+          "ja": "あっ",
+          "en": "Ah!"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "パンダくん",
+          "en": "Panda-kun"
+        },
+        {
+          "ja": "この笹　どうするの？",
+          "en": "What are we going to do with this bamboo?"
+        },
+        {
+          "ja": "笹パーティー？",
+          "en": "Bamboo party?"
+        },
+        {
+          "ja": "笹パーティー？",
+          "en": "Bamboo party?"
+        },
+        {
+          "ja": "笹だらけのパーティーだよ",
+          "en": "It's a party full of bamboo!"
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "七夕飾りに使うんだよ",
+          "en": "We're going to use it for Tanabata decorations."
+        },
+        {
+          "ja": "明日　七夕だから",
+          "en": "Tomorrow is Tanabata, after all."
+        },
+        {
+          "ja": "七夕？",
+          "en": "Tanabata?"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "それは　棚ぼた",
+          "en": "That's a windfall."
+        },
+        {
+          "ja": "それは　井戸端",
+          "en": "That's a water cooler chat."
+        },
+        {
+          "ja": "それは　花畑",
+          "en": "That's a flower field."
+        },
+        {
+          "ja": "七夕はね",
+          "en": "Tanabata is..."
+        },
+        {
+          "ja": "夏のお祭りだよ",
+          "en": "It's a summer festival."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "年に１回のね",
+          "en": "Once a year, you know."
+        },
+        {
+          "ja": "お祭り？　やっぱり　笹パーティー？",
+          "en": "A festival? Is it really a bamboo party?"
+        },
+        {
+          "ja": "違うよ",
+          "en": "No, it's not."
+        },
+        {
+          "ja": "違うの？",
+          "en": "Isn't it different?"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "それで神様が怒ってしまい",
+          "en": "And then the gods became angry."
+        },
+        {
+          "ja": "彦星と引き離されたんだよね",
+          "en": "He was separated from Hikoboshi, right?"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "で　七夕っていうのは",
+          "en": "So, Tanabata is..."
+        },
+        {
+          "ja": "その彦星と織姫の２人がね…",
+          "en": "The two of them, Hikoboshi and Orihime..."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "鬼姫？",
+          "en": "Demon Princess?"
+        },
+        {
+          "ja": "なんで怖い人がいるの？",
+          "en": "Why is there a scary person?"
+        },
+        {
+          "ja": "つまりね",
+          "en": "In other words, you see..."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "彦星と織姫と鬼姫の３人が揃うと",
+          "en": "When Hikoboshi, Orihime, and the demon princess all come together"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "夏の夜空に大三角が完成",
+          "en": "The Summer Triangle is completed in the night sky."
+        },
+        {
+          "ja": "違うよ！",
+          "en": "That's not right!"
+        },
+        {
+          "ja": "三角関係ってやつ？",
+          "en": "A love triangle, you mean?"
+        },
+        {
+          "ja": "それも違うよ！",
+          "en": "That's not it either!"
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "でね　その彦星と織姫の２人が…",
+          "en": "So, about those two, Hikoboshi and Orihime..."
+        },
+        {
+          "ja": "って…",
+          "en": "...so..."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "おいしい！",
+          "en": "Delicious!"
+        },
+        {
+          "ja": "ちょっと…　聞いてる？",
+          "en": "Hey... are you listening?"
+        },
+        {
+          "ja": "聞いてるよ　鬼の三角関係",
+          "en": "I'm listening, the demon love triangle."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "違うってば　もう…",
+          "en": "No, that's not it..."
+        },
+        {
+          "ja": "七夕のこと教えてって言ったのパンダくんでしょう？",
+          "en": "You're the one who asked me to tell you about Tanabata, right, Panda-kun?"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "それで　笹はいつ食べるの？",
+          "en": "So, when do we eat the bamboo leaves?"
+        },
+        {
+          "ja": "だから　食べないって",
+          "en": "That's why we don't eat it."
+        },
+        {
+          "ja": "紙なんかで作った飾りをいっぱいつけて",
+          "en": "Attach lots of decorations made from paper and such."
+        },
+        {
+          "ja": "それから　願いごとを書いた短冊なんかもぶら下げるんだよ",
+          "en": "And then, we also hang up strips of paper with our wishes written on them."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "そんなに　いろいろつけたら食べるとき邪魔だよ",
+          "en": "If you put so many things on it, they'll get in the way when you try to eat it."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "聞いてないな あの笹は食べないんだって",
+          "en": "You're not listening. I said we don't eat that bamboo."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "それを先に言ってよ",
+          "en": "You should have said that first."
+        },
+        {
+          "ja": "言ってるよ！！",
+          "en": "I did tell you!!"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "笹を食べずに 短冊をぶら下げたら",
+          "en": "If you don't eat the bamboo and hang the wish strips instead,"
+        },
+        {
+          "ja": "願いごとが叶うよ",
+          "en": "Your wish will come true."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "どんな願いごとでも？",
+          "en": "Any wish at all?"
+        },
+        {
+          "ja": "小さいのなら",
+          "en": "If it's a small one."
+        },
+        {
+          "ja": "大きい願いはダメなの？",
+          "en": "Are big wishes not allowed?"
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "中くらいなら大丈夫じゃない？",
+          "en": "If it's a medium-sized wish, it should be fine, right?"
+        },
+        {
+          "ja": "何なの？　それ",
+          "en": "What is it?"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "ねぇ　笹子さん",
+          "en": "Hey, Sasako."
+        },
+        {
+          "ja": "それが願いごとを書く紙？",
+          "en": "Is that the paper you write wishes on?"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "ああ… これは飾りを作ってるんだよ",
+          "en": "Ah... I'm making decorations with this."
+        },
+        {
+          "ja": "おもしろそうだね",
+          "en": "That sounds interesting."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "パンダくんもやる？",
+          "en": "Do you want to try it too, Panda-kun?"
+        },
+        {
+          "ja": "うん！　やる　やる！",
+          "en": "Yeah! I'll do it, I'll do it!"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "こんにちは",
+          "en": "Hello"
+        },
+        {
+          "ja": "お待たせしました",
+          "en": "Sorry for the wait."
+        },
+        {
+          "ja": "あっ…　どうも",
+          "en": "Oh... hello there."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "半田さん　動物園は今日はお休みなんですか？",
+          "en": "Mr. Handa, is the zoo closed today?"
+        },
+        {
+          "ja": "えっ！？　は…　はい…",
+          "en": "Huh!? Uh... yes..."
+        },
+        {
+          "ja": "最近　よくいらっしゃいますよね",
+          "en": "You've been coming here quite often lately, haven't you?"
+        },
+        {
+          "ja": "あっ…　いえ",
+          "en": "Oh... no."
+        },
+        {
+          "ja": "いや　はい！",
+          "en": "No, yes!"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "こ…　ここに来ると…",
+          "en": "Wh... when I come here..."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "はい？",
+          "en": "Yes?"
+        },
+        {
+          "ja": "あっ　あぁ　いや",
+          "en": "Oh, uh, no..."
+        },
+        {
+          "ja": "こ…　心が落ち着くというか",
+          "en": "It’s like... my heart feels at ease."
+        },
+        {
+          "ja": "そうなんですか",
+          "en": "Is that so?"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "あっ　じゃあ お邪魔しちゃ悪いですね",
+          "en": "Oh, then I shouldn't intrude."
+        },
+        {
+          "ja": "ごゆっくり",
+          "en": "Please take your time."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "ねぇ　笹子さん　これ　どうやるの？",
+          "en": "Hey, Sasako, how do you do this?"
+        },
+        {
+          "ja": "どうしたの？",
+          "en": "What's wrong?"
+        },
+        {
+          "ja": "どうしたらこうなるか不思議だよ",
+          "en": "I wonder how it ended up like this."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "ある意味　器用だね",
+          "en": "In a way, that's quite skillful."
+        },
+        {
+          "ja": "もう そんなこと言っちゃダメですよ",
+          "en": "You shouldn't say things like that."
+        },
+        {
+          "ja": "いい？　ここはね",
+          "en": "Okay? So, here's how you do it."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "まずはこっちから折るんだよ",
+          "en": "First, you fold this side."
+        },
+        {
+          "ja": "こう？",
+          "en": "Like this?"
+        },
+        {
+          "ja": "パンダくん　反対",
+          "en": "Panda, the other way around."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "それを３枚におろして…",
+          "en": "Cut it into three fillets..."
+        },
+        {
+          "ja": "できた！",
+          "en": "Done!"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "何それ？",
+          "en": "What's that?"
+        },
+        {
+          "ja": "パンダだよ",
+          "en": "It's a panda."
+        },
+        {
+          "ja": "ああ　そう",
+          "en": "Oh, I see."
+        },
+        {
+          "ja": "白黒模様ではあるね",
+          "en": "It does have a black and white pattern."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "はい　笹子さん",
+          "en": "Here you go, Sasako."
+        },
+        {
+          "ja": "じゃあ　飾りは ひとまず置いといて",
+          "en": "Alright, let's set the decorations aside for now."
+        },
+        {
+          "ja": "次は　短冊を作るね",
+          "en": "Next, I'll make the tanzaku."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "願いごとを書くやつ？",
+          "en": "The ones where you write your wishes?"
+        },
+        {
+          "ja": "そうそう",
+          "en": "Exactly."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "これに願いごとを書いてね",
+          "en": "Write your wish on this."
+        },
+        {
+          "ja": "明日の夕方までに 持ってきてくれたら",
+          "en": "If you could bring it by tomorrow evening, that would be great."
+        },
+        {
+          "ja": "笹につるすから",
+          "en": "We'll hang it on the bamboo."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "これに中くらいまでの願いごとを書くの？",
+          "en": "Do I write a medium-sized wish on this?"
+        },
+        {
+          "ja": "なんでも大丈夫だと思うよ",
+          "en": "I think anything is fine."
+        },
+        {
+          "ja": "えっ？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "なんでもいいの？",
+          "en": "Is anything okay?"
+        },
+        {
+          "ja": "なんでもいいんだよ",
+          "en": "It's really okay to write anything."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "どうしようかな～！",
+          "en": "What should I do?"
+        },
+        {
+          "ja": "はい　ペンギンさんも　どうぞ",
+          "en": "Here you go, Mr. Penguin."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "真剣だね",
+          "en": "You're really serious."
+        },
+        {
+          "ja": "なんでもいいんでしょ？",
+          "en": "It doesn't matter, right?"
+        },
+        {
+          "ja": "ペン子さんへの気持は なんでもよくないよ",
+          "en": "My feelings for Penko-san aren't just anything."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "１枚じゃ足りないな",
+          "en": "One sheet isn't enough."
+        },
+        {
+          "ja": "笹子さん　１０枚ちょうだい",
+          "en": "Sasako, could you give me 10 sheets, please?"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "ずるい",
+          "en": "That's unfair."
+        },
+        {
+          "ja": "じゃあ　僕は　２０枚",
+          "en": "Then I'll take 20 sheets."
+        },
+        {
+          "ja": "１人１枚です",
+          "en": "One per person."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "どうぞ",
+          "en": "Here you go."
+        },
+        {
+          "ja": "な…　なんでしょう？",
+          "en": "Wh... what is it?"
+        },
+        {
+          "ja": "半田さんも　はい",
+          "en": "Here you go, Handa-san."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "短冊です　七夕の",
+          "en": "They're tanzaku for Tanabata."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "ありがとうございます",
+          "en": "Thank you."
+        },
+        {
+          "ja": "明日は七夕デーで夜遅くまでやってますからね",
+          "en": "Tomorrow is Tanabata Day, so we'll be open late into the night."
+        },
+        {
+          "ja": "あっ　はい",
+          "en": "Oh, okay."
+        },
+        {
+          "ja": "それじゃ",
+          "en": "See you then."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "お願い　何書こう",
+          "en": "What should I write for my wish?"
+        },
+        {
+          "ja": "笹がいっぱい食べられますようにって",
+          "en": "I hope I can eat lots of bamboo leaves."
+        },
+        {
+          "ja": "どうかな？",
+          "en": "What do you think?"
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "パンダくんいつもいっぱい食べてるじゃない",
+          "en": "Panda, you always eat a lot, don't you?"
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "ペンギンさんは　何書いたの？",
+          "en": "What did you write, Penguin?"
+        },
+        {
+          "ja": "まだだよ",
+          "en": "Not yet."
+        },
+        {
+          "ja": "１枚しかないから迷っちゃうね",
+          "en": "It's hard to decide since I only have one piece."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "みんな何書いてるんだろう？",
+          "en": "I wonder what everyone else is writing?"
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "お嫁さんが欲しい",
+          "en": "I want a wife."
+        },
+        {
+          "ja": "いや　そもそもその前に彼女だよな",
+          "en": "No, first of all, I need a girlfriend before that."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "すみません",
+          "en": "Excuse me."
+        },
+        {
+          "ja": "は～い！ちょっと　お待ちくださ～い！",
+          "en": "Yes! Please wait a moment!"
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "笹子さん　かわいいな",
+          "en": "Sasako is so cute."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "すみません なんでもないです　はい",
+          "en": "Sorry, it's nothing. Yes."
+        },
+        {
+          "ja": "パンダくん",
+          "en": "Panda-kun"
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "聞いた？",
+          "en": "Did you hear?"
+        },
+        {
+          "ja": "かわいいよねぇ",
+          "en": "She's cute, isn't she?"
+        },
+        {
+          "ja": "いや　別に それだけが目的じゃ…",
+          "en": "No, that's not the only reason..."
+        },
+        {
+          "ja": "こ…　このカフェ　コーヒーおいしいし",
+          "en": "Th-this café has delicious coffee, too."
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "半田さん 動物園で会えるのに",
+          "en": "You can meet Handa-san at the zoo, though."
+        },
+        {
+          "ja": "かわいい僕を見に カフェに来るなんて",
+          "en": "Coming to the café just to see cute me, huh?"
+        },
+        {
+          "ja": "もう",
+          "en": "Geez"
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "かわいいからね　僕",
+          "en": "Because I'm cute, you know."
+        },
+        {
+          "ja": "違うでしょ！ かわいいのは笹子さん",
+          "en": "That's not it! The cute one is Sasako-san."
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "笹子さん！",
+          "en": "Sasago-san!"
+        },
+        {
+          "ja": "あのね…",
+          "en": "You know..."
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "ダメ！！",
+          "en": "No way!!"
+        },
+        {
+          "ja": "なんで？",
+          "en": "Why?"
+        },
+        {
+          "ja": "まだ　そんな 関係じゃないから！",
+          "en": "We're not at that stage in our relationship yet!"
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "そうなの！",
+          "en": "That's right!"
+        },
+        {
+          "ja": "わかった",
+          "en": "Alright."
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "ねぇ　笹子さん",
+          "en": "Hey, Sasako."
+        },
+        {
+          "ja": "動物の世話好きな男性とかどう思う？",
+          "en": "What do you think about men who like taking care of animals?"
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "あと　パンダみたいな体型の男の人…",
+          "en": "And what about a guy with a body like a panda..."
+        },
+        {
+          "ja": "パ…　パンダくん！",
+          "en": "Pa... Panda-kun!"
+        },
+        {
+          "ja": "どう思う？",
+          "en": "What do you think?"
+        },
+        {
+          "ja": "こっち…　こっちへ！",
+          "en": "This way... this way!"
+        },
+        {
+          "ja": "何やってんの？　あれ",
+          "en": "What are you doing? That."
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "さぁね",
+          "en": "Who knows?"
+        }
+      ]
+    }
+  ]
+}

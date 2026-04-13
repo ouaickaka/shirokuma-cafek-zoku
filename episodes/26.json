@@ -1,0 +1,741 @@
+{
+  "ep": "26",
+  "title": "パンダくんの願い",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "ほほう…　半田さんがね",
+          "en": "Oh... Handasan, you say."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "なんで　はっきり言わないのかな？",
+          "en": "I wonder why he doesn't say it clearly."
+        },
+        {
+          "ja": "半田さんは　奥手だしね",
+          "en": "Handa is a bit shy, you know."
+        },
+        {
+          "ja": "そうなの？",
+          "en": "Is that so?"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "雑誌なんかで知識は豊富そうだけど",
+          "en": "He seems to have a wealth of knowledge from magazines and such, though."
+        },
+        {
+          "ja": "いざとなるとてんで勇気が出ないタイプだね",
+          "en": "When it comes down to it, he's the type who can't muster any courage at all."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "あぁ　知ってる",
+          "en": "Ah, I know."
+        },
+        {
+          "ja": "えっと…　たしか耳年寄り？",
+          "en": "Um... if I remember correctly, isn't it \"an old head on young shoulders\"?"
+        },
+        {
+          "ja": "ツッコみづらい間違え方しないでよ",
+          "en": "Don't make mistakes that are hard to joke about."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "半田さんにアドバイスしたいんだけど 何かない？",
+          "en": "I want to give Handa some advice, but do you have any suggestions?"
+        },
+        {
+          "ja": "こっちに振るの？",
+          "en": "Are you passing this to me?"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "だって　常勤パンダさん経験豊富でしょ？",
+          "en": "But you're an experienced full-time panda, right?"
+        },
+        {
+          "ja": "バツ２だし",
+          "en": "I've been divorced twice."
+        },
+        {
+          "ja": "勝手に　バツ２にしないでって 言ったでしょ",
+          "en": "I told you not to assume I'm divorced twice."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "でもさ",
+          "en": "But still,"
+        },
+        {
+          "ja": "僕らってカップルに関しては目が肥えてるよね",
+          "en": "We're pretty sharp when it comes to couples, aren't we?"
+        },
+        {
+          "ja": "あぁ　それは確かにね",
+          "en": "Ah, that's certainly true."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "ここに来るお客さんは カップル多いもんね",
+          "en": "There are a lot of couples among the customers who come here, aren't there?"
+        },
+        {
+          "ja": "そうだね",
+          "en": "Yeah, that's true."
+        },
+        {
+          "ja": "初デートのカップルなんてういういしいよね",
+          "en": "Couples on their first date are so adorable, aren't they?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "手を繋ぐことも できなかったりしてさ",
+          "en": "They can't even hold hands or anything."
+        },
+        {
+          "ja": "うん　うん",
+          "en": "Yeah, yeah."
+        },
+        {
+          "ja": "あとはケンカしてるカップルとかもいるよね",
+          "en": "And then there are also couples who are fighting, right?"
+        },
+        {
+          "ja": "こっちから見てても わかるっていうか",
+          "en": "You can tell just by looking from over here."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "そう？",
+          "en": "Really?"
+        },
+        {
+          "ja": "ほら！こっちに来る あの２人は",
+          "en": "Look! Those two coming this way."
+        },
+        {
+          "ja": "今ちょっと気まずい感じだね",
+          "en": "They seem a bit awkward right now."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "あぁ　本当だ",
+          "en": "Oh, you're right."
+        },
+        {
+          "ja": "でもね　見てなよ",
+          "en": "But you know, just watch."
+        },
+        {
+          "ja": "そこで　僕らを見つけると…",
+          "en": "When they spot us there..."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "パンダだ",
+          "en": "It's a panda."
+        },
+        {
+          "ja": "あぁ　行こう",
+          "en": "Ah, let's go."
+        },
+        {
+          "ja": "わぁ～！　かわいい",
+          "en": "Wow! So cute!"
+        },
+        {
+          "ja": "ねっ？",
+          "en": "Right?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah"
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "ねね　次はどこ行こっか",
+          "en": "Hey, where should we go next?"
+        },
+        {
+          "ja": "ほら！　仲直りした",
+          "en": "Look! We made up."
+        },
+        {
+          "ja": "常勤パンダさん　すご～い",
+          "en": "Full-time Panda, you're amazing!"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "そうかな？",
+          "en": "Really?"
+        },
+        {
+          "ja": "さすがは　ラテン系だね",
+          "en": "As expected of the Latin type."
+        },
+        {
+          "ja": "また　そんなキャラ付けする…",
+          "en": "There you go, labeling me like that again..."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "アドバイス　お願いします！",
+          "en": "Please give me some advice!"
+        },
+        {
+          "ja": "ガテン系の常勤パンダさん",
+          "en": "Full-time Panda, the blue-collar worker"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "だから　ツッコミづらいって…",
+          "en": "That's why it's hard to make a comeback..."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "まぁ　アドバイスとしては",
+          "en": "Well, as for advice..."
+        },
+        {
+          "ja": "一歩前へ出るのが大事だね",
+          "en": "Taking a step forward is important."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "どすこ～い！",
+          "en": "Heave-ho!"
+        },
+        {
+          "ja": "全然　恋の予感がしないよ？",
+          "en": "I don't feel any hint of romance at all."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "相撲して どうするの",
+          "en": "What are you going to do with sumo wrestling?"
+        },
+        {
+          "ja": "しないの？",
+          "en": "You're not going to?"
+        },
+        {
+          "ja": "しないよ",
+          "en": "I'm not going to."
+        },
+        {
+          "ja": "なんにしても 恋は積極性が大事だね",
+          "en": "In any case, being proactive is important in love, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "説教くせぇか…",
+          "en": "Does it sound preachy...?"
+        },
+        {
+          "ja": "今また　変な想像したよね？",
+          "en": "You just imagined something weird again, didn't you?"
+        },
+        {
+          "ja": "積極性だよ？",
+          "en": "Being proactive, right?"
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "お疲れさまでした",
+          "en": "Good work today."
+        },
+        {
+          "ja": "お疲れ～",
+          "en": "See you later!"
+        },
+        {
+          "ja": "お疲れさま",
+          "en": "Take care."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "でさ…",
+          "en": "So, you know..."
+        },
+        {
+          "ja": "恋愛経験豊富な常勤パンダさんが",
+          "en": "The full-time panda with plenty of romantic experience"
+        },
+        {
+          "ja": "アドバイスくれたんだよ",
+          "en": "Gave me some advice."
+        },
+        {
+          "ja": "えっ",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "そうなの？",
+          "en": "Is that so?"
+        },
+        {
+          "ja": "気になる？",
+          "en": "Are you curious?"
+        },
+        {
+          "ja": "い…　いや…　別に",
+          "en": "N... No... Not really."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "じゃあ　やめとく？",
+          "en": "Then should I not tell you?"
+        },
+        {
+          "ja": "えっ！　せ…　せっかくだから 一応聞くよ",
+          "en": "Huh! W-well, since it's a good opportunity, I'll ask just in case."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "どうしたの？",
+          "en": "What's wrong?"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "でも　こんなものを飾って",
+          "en": "But to display something like this..."
+        },
+        {
+          "ja": "笹子さんに見られたら 恥ずかしいな…",
+          "en": "It would be embarrassing if Sasako-san saw it..."
+        },
+        {
+          "ja": "もう…　何悩んでるの？",
+          "en": "Geez... What are you worrying about?"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "ほら！　恋は積極性が大事！",
+          "en": "Look! Being proactive is important in love!"
+        },
+        {
+          "ja": "前に出る！",
+          "en": "Step forward!"
+        },
+        {
+          "ja": "パンダくん！",
+          "en": "Panda-kun!"
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "こんにちは～",
+          "en": "Hello~"
+        },
+        {
+          "ja": "いらっしゃい あ",
+          "en": "Welcome, ah."
+        },
+        {
+          "ja": "パンダくん　半田さん",
+          "en": "Panda-kun, Handa-san."
+        },
+        {
+          "ja": "やっほ～",
+          "en": "Hey there!"
+        },
+        {
+          "ja": "おじゃまします",
+          "en": "Excuse me for intruding."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "いいタイミングだね",
+          "en": "Perfect timing!"
+        },
+        {
+          "ja": "何が？",
+          "en": "What do you mean?"
+        },
+        {
+          "ja": "ちょうど 飾りつけが終わるところだよ",
+          "en": "We're just finishing up the decorations."
+        },
+        {
+          "ja": "これが　最後ね",
+          "en": "This is the last one."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "僕が作った飾りだ～",
+          "en": "These are the decorations I made!"
+        },
+        {
+          "ja": "じゃあ　一番上に",
+          "en": "Then, at the very top."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "今度は願いごとの短冊を つるしますよ～",
+          "en": "Now let's hang the wish strips!"
+        },
+        {
+          "ja": "皆さ～ん　どうぞ",
+          "en": "Everyone, please go ahead."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "何　書いたの？",
+          "en": "What did you write?"
+        },
+        {
+          "ja": "見る？",
+          "en": "Wanna see?"
+        },
+        {
+          "ja": "Stop 地球温暖化",
+          "en": "Stop global warming"
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "切実だからね",
+          "en": "It's a serious issue, after all."
+        },
+        {
+          "ja": "僕のは　これ！",
+          "en": "Mine is this!"
+        },
+        {
+          "ja": "ペンこさんから告白されますように",
+          "en": "I hope Penko confesses to me."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "ずうずうしいね",
+          "en": "You're so bold."
+        },
+        {
+          "ja": "どうしよう　告白されちゃったら！",
+          "en": "What should I do if I get confessed to!"
+        },
+        {
+          "ja": "困っちゃうよ　困っちゃうよ 困っちゃうよ…",
+          "en": "I'd be in trouble, I'd be in trouble, I'd be in trouble..."
+        },
+        {
+          "ja": "どっちなの？",
+          "en": "Which one is it?"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "半田さん お願い書いてきました？",
+          "en": "Mr. Handa, did you write the request?"
+        },
+        {
+          "ja": "あ　いや…",
+          "en": "Ah, well..."
+        },
+        {
+          "ja": "えっと…",
+          "en": "Um..."
+        },
+        {
+          "ja": "いや",
+          "en": "No."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "その…",
+          "en": "Um..."
+        },
+        {
+          "ja": "恋は　積極性が大事",
+          "en": "Love requires being proactive."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "書いてきました",
+          "en": "I wrote it down."
+        },
+        {
+          "ja": "じゃあ　つるしてください",
+          "en": "Then, please hang it up."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "半田さん　彼女いないんですか？",
+          "en": "Mr. Handa, do you not have a girlfriend?"
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "そうなんですか",
+          "en": "Is that so?"
+        },
+        {
+          "ja": "早くできるといいですね",
+          "en": "I hope you find one soon."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "そろそろ締め切り",
+          "en": "The deadline is approaching."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "パンダくん　願いごとつるした？",
+          "en": "Panda-kun, did you hang up your wish?"
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "もう　忘れてたの？",
+          "en": "Did you already forget?"
+        },
+        {
+          "ja": "う～ん　どうしよう",
+          "en": "Hmm, what should I do?"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "えっと　足が長くなりますように",
+          "en": "Um, I wish for my legs to become longer."
+        },
+        {
+          "ja": "おこづかいアップ",
+          "en": "An increase in allowance."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "テレビ出たい…",
+          "en": "I want to be on TV..."
+        },
+        {
+          "ja": "パンダくん",
+          "en": "Panda-kun"
+        },
+        {
+          "ja": "まだ？",
+          "en": "Not yet?"
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "飾るよ",
+          "en": "I'll put it up."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "きれい",
+          "en": "Beautiful"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "涼しいですね",
+          "en": "It's cool, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "七夕　晴れてよかったですね",
+          "en": "It's great that the weather is clear for Tanabata, isn't it?"
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        }
+      ]
+    }
+  ]
+}

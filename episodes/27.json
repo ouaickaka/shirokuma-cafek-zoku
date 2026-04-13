@@ -1,0 +1,905 @@
+{
+  "ep": "27",
+  "title": "白熊君張切る",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "どうしたの　パンダ君　溜息なんかついて",
+          "en": "What's wrong, Panda? Why are you sighing?"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "バイト行きたくないよ",
+          "en": "I don't want to go to my part-time job."
+        },
+        {
+          "ja": "またそれ",
+          "en": "That again."
+        },
+        {
+          "ja": "本当に何もすることなくて　超退屈なんだもん",
+          "en": "There's really nothing to do, and it's super boring."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "常勤パンダさんとあっち向いてほいとかしても",
+          "en": "Even if I play \"Look This Way\" with Full-Time Panda..."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "十五分ぐらい厭きるし",
+          "en": "I get bored after about fifteen minutes."
+        },
+        {
+          "ja": "よく十五分もできるね",
+          "en": "You can do it for fifteen minutes?"
+        },
+        {
+          "ja": "十五秒で厭きるよ",
+          "en": "I get bored in fifteen seconds."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "ペンギンさん　時間潰すのって大変だよ",
+          "en": "Penguin, it's really hard to kill time."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "仕方ないから　いっぱいお昼寝してたら",
+          "en": "Since there was nothing else to do, I ended up taking a lot of naps."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "寝違えって　首回らなくなっちゃうし",
+          "en": "If you sleep wrong, you end up not being able to turn your neck."
+        },
+        {
+          "ja": "ぶーくりおやつ食べても　ちょっびとの時間しか経たないし",
+          "en": "Even if I eat a snack, only a little bit of time passes."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "パンダのバイト始めてから　おやつの食べ過ぎで太っちゃった",
+          "en": "Ever since I started my part-time job as a panda, I've gained weight from eating too many snacks."
+        },
+        {
+          "ja": "また",
+          "en": "Again"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "バイトのせいだよ",
+          "en": "It's because of the part-time job."
+        },
+        {
+          "ja": "それだけが理由かな",
+          "en": "Is that the only reason?"
+        },
+        {
+          "ja": "そうだよ",
+          "en": "That's right."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "バイトしてるから太るんだよ",
+          "en": "You gain weight because of the part-time job."
+        },
+        {
+          "ja": "パンダ君のバイトって　週二日だよね",
+          "en": "Panda-kun, your part-time job is two days a week, right?"
+        },
+        {
+          "ja": "週二日で文句言わないでよ",
+          "en": "Don't complain about working two days a week."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "むしろ毎日行こうよ",
+          "en": "Let's go every day instead."
+        },
+        {
+          "ja": "そうだね",
+          "en": "That's true."
+        },
+        {
+          "ja": "そうだよ",
+          "en": "That's right."
+        },
+        {
+          "ja": "週一日にしようかな",
+          "en": "Maybe I should make it once a week."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "減らすの",
+          "en": "Reducing it?"
+        },
+        {
+          "ja": "いいな　僕は仕事忙しくて　もう少し暇になりたい",
+          "en": "Sounds nice. I'm busy with work and wish I had a bit more free time."
+        },
+        {
+          "ja": "そうなの",
+          "en": "I see."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "偶には気分転換したいね",
+          "en": "Sometimes it's nice to have a change of pace."
+        },
+        {
+          "ja": "お店忙しいですもんね",
+          "en": "Your shop is busy, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "いいなぁ　忙しいの",
+          "en": "That's nice, being busy."
+        },
+        {
+          "ja": "パンダ君になってゴロゴロしたい",
+          "en": "I want to be like a panda and just laze around."
+        },
+        {
+          "ja": "もう　二人とも ないもの強請りなんだから",
+          "en": "You two are always wishing for what you don't have."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "笹子さん　何か言ってやってよ",
+          "en": "Sasako, say something to them."
+        },
+        {
+          "ja": "そう言われても…",
+          "en": "Even if you say that..."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "いい事思いついちゃった",
+          "en": "I've got a great idea!"
+        },
+        {
+          "ja": "何ですか",
+          "en": "What is it?"
+        },
+        {
+          "ja": "パンダ君　一日だけ入れ替わってみない？",
+          "en": "Panda-kun, how about we switch places for just one day?"
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "僕が動物園へパンダのバイトに行くから",
+          "en": "I'll go to the zoo to work as a panda for a day."
+        },
+        {
+          "ja": "パンダ君は白熊カフェでマスターするの",
+          "en": "Panda-kun will be the master at the Polar Bear Café."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "いやいや　無理でしょ",
+          "en": "No, no, that's impossible."
+        },
+        {
+          "ja": "いいなぁ",
+          "en": "Sounds fun."
+        },
+        {
+          "ja": "白熊君ってかっこいいから　一回やってみたっかたんだ",
+          "en": "I wanted to try it once because Shirokuma-kun is so cool."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "いや　無理でしょ",
+          "en": "No way, that's impossible."
+        },
+        {
+          "ja": "へぇ　そうかな",
+          "en": "Oh, really?"
+        },
+        {
+          "ja": "白熊君　変なこと言わないでよ",
+          "en": "Shirokuma-kun, don't say weird things."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "あ　おはよう　パンダ君",
+          "en": "Oh, good morning, Panda."
+        },
+        {
+          "ja": "…じゃないですよね",
+          "en": "...that's not right, is it?"
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "パンダで~す",
+          "en": "It's Panda!"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "パンダコーナーってこっちだっけ？",
+          "en": "Is the panda section this way?"
+        },
+        {
+          "ja": "ちょっと待ってよ！白熊君でしょ？",
+          "en": "Wait a minute! You're Shirokuma-kun, right?"
+        },
+        {
+          "ja": "あれ",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "ばれちゃった",
+          "en": "You found me out."
+        },
+        {
+          "ja": "半田さん　平気平気",
+          "en": "Mr. Handa, it's all good, it's all good."
+        },
+        {
+          "ja": "お客さんには熊の区別なんてつかないから",
+          "en": "Customers can't tell the difference between bears."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "何言ってるの",
+          "en": "What are you talking about?"
+        },
+        {
+          "ja": "白熊君なの　物分りだよ",
+          "en": "It's Shirokuma-kun. He's understanding."
+        },
+        {
+          "ja": "帰って帰って",
+          "en": "Go back, go back."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "待ってください　先輩",
+          "en": "Please wait, senpai."
+        },
+        {
+          "ja": "何だ　桐野",
+          "en": "What's up, Kirino?"
+        },
+        {
+          "ja": "今日は　常勤パンダさんが有給休暇で休みですよ",
+          "en": "Today, Full-Time Panda is off on paid leave."
+        },
+        {
+          "ja": "そうなると…",
+          "en": "That means..."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "ママ　パンダさんいないよ",
+          "en": "Mom, the panda isn't here."
+        },
+        {
+          "ja": "白熊君　パンダ君は？",
+          "en": "Polar Bear, where's Panda?"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "今日は来ないよ",
+          "en": "He's not coming today."
+        },
+        {
+          "ja": "今すぐ呼んで！",
+          "en": "Call him right now!"
+        },
+        {
+          "ja": "今から呼んでも間に合わないよ",
+          "en": "Even if we call him now, he won't make it in time."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "大丈夫　任せて",
+          "en": "It's okay, leave it to me."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "な…なるべく目立たないように　お願いします",
+          "en": "P-please try not to draw too much attention, if possible."
+        },
+        {
+          "ja": "は～い～　頑張ります",
+          "en": "Okay, I'll do my best!"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "パンダ君　美味しそうな笹が手に入ったから",
+          "en": "Panda-kun, I got some delicious-looking bamboo."
+        },
+        {
+          "ja": "差し入れだ…よっ",
+          "en": "Here's a little treat for you... there you go."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "パンダで～す",
+          "en": "I'm a panda!"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "気になって見に来ちゃったよ",
+          "en": "I got curious and came to check it out."
+        },
+        {
+          "ja": "パンダだよ",
+          "en": "I'm a panda."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "何だか熱があるみたいだ",
+          "en": "It seems like I have a fever."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "あれ？可愛くない？",
+          "en": "Huh? Isn't it cute?"
+        },
+        {
+          "ja": "変だなぁ…",
+          "en": "That's strange..."
+        },
+        {
+          "ja": "やっぱり無理だよ　全然違うよ",
+          "en": "It's just not possible. It's completely different."
+        },
+        {
+          "ja": "あれがパンダ？",
+          "en": "Is that a panda?"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "何が違くねぇ？長すぎるっていうか　でか過ぎねぇ？",
+          "en": "What's different about it? Isn't it too long or too big?"
+        },
+        {
+          "ja": "でも俺ら生パンダ見るの始めてたし",
+          "en": "But it's our first time seeing a real panda."
+        },
+        {
+          "ja": "ああいうのかも",
+          "en": "Maybe it's something like that."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "そうだけどうさぁ…",
+          "en": "Yeah, but you know..."
+        },
+        {
+          "ja": "なんかあのシルエットは白熊じゃねぇ？",
+          "en": "Doesn't that silhouette look like a polar bear?"
+        },
+        {
+          "ja": "おっと　いけない",
+          "en": "Oops, my bad."
+        },
+        {
+          "ja": "アイテム装備",
+          "en": "Equipping item"
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "そうして技を使う",
+          "en": "And then use the skill."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "ほら　やっぱりパンダだよ",
+          "en": "See, I told you it's a panda."
+        },
+        {
+          "ja": "あはは　本当だ",
+          "en": "Haha, you're right."
+        },
+        {
+          "ja": "パンダさん",
+          "en": "Mr. Panda"
+        },
+        {
+          "ja": "でけぇ",
+          "en": "It's huge."
+        },
+        {
+          "ja": "白熊君　グッドジョブ",
+          "en": "Polar Bear, good job."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "かしこまりました",
+          "en": "Certainly."
+        },
+        {
+          "ja": "すみません",
+          "en": "Excuse me."
+        },
+        {
+          "ja": "はい　ただいま",
+          "en": "Yes, I'm back."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "確かに暇な仕事だ",
+          "en": "It is indeed a boring job."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "あんまり動かないなぁ",
+          "en": "Not much movement, huh?"
+        },
+        {
+          "ja": "パンダだもん　仕方ないよ",
+          "en": "It's a panda, so it can't be helped."
+        },
+        {
+          "ja": "おっと　サービス　サービス",
+          "en": "Oops, a little extra service!"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "あれ　タイヤでどうやって遊べばいいんだっけ",
+          "en": "Hmm, how are we supposed to play with the tire again?"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "困ってねぇ",
+          "en": "I'm not troubled."
+        },
+        {
+          "ja": "パンダさんどうしたの",
+          "en": "What's wrong, Mr. Panda?"
+        },
+        {
+          "ja": "どうしよう　皆怪しんでるよ",
+          "en": "What should I do? Everyone's getting suspicious."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "おほ　遊んでる　遊んでる",
+          "en": "Oh ho, they're playing, they're playing."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "何だ　今の",
+          "en": "What was that just now?"
+        },
+        {
+          "ja": "もう　白熊君がありえない動きするから",
+          "en": "It's because Polar Bear is moving in such an unbelievable way."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "生パンダはやっぱ違うなぁ",
+          "en": "A real panda is definitely different."
+        },
+        {
+          "ja": "セーフ",
+          "en": "Safe"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "よし　もっとサービスしよう",
+          "en": "Alright, let's give them more of a show."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "うわっ　白熊だ",
+          "en": "Whoa, it's a polar bear!"
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "うぉっ　パンダだ",
+          "en": "Whoa, it's a panda!"
+        },
+        {
+          "ja": "うわっ　白熊だ",
+          "en": "Whoa, it's a polar bear!"
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "うぉっ　パンダだ",
+          "en": "Whoa, it's a panda!"
+        },
+        {
+          "ja": "うわっ　白熊だ",
+          "en": "Whoa, it's a polar bear!"
+        },
+        {
+          "ja": "うわっ　パンダだ",
+          "en": "Whoa, it's a panda!"
+        },
+        {
+          "ja": "ちょっちょっちょっ　白熊君",
+          "en": "Whoa, whoa, whoa, Polar Bear!"
+        },
+        {
+          "ja": "（パンダ　白熊　パンダ　白熊……）",
+          "en": "(Panda, polar bear, panda, polar bear...)"
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "パンダがいないとまずい",
+          "en": "It's bad if there's no panda."
+        },
+        {
+          "ja": "白熊パンダがばれてもやばすぎる",
+          "en": "It's really bad if the polar bear-panda thing gets found out."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "はぁ…始末書の用意しといたほうがいいかな",
+          "en": "*Sigh*... Maybe I should prepare a written apology."
+        },
+        {
+          "ja": "半田さん　大変です",
+          "en": "Mr. Handa, it's serious."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "あ！ついに来た！ついにばれた",
+          "en": "Ah! It's finally happened! We've finally been found out."
+        },
+        {
+          "ja": "パンダ君が大人気ですよ",
+          "en": "Panda-kun is really popular!"
+        },
+        {
+          "ja": "どうしよう！　え？",
+          "en": "What should we do? Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "よし",
+          "en": "Alright."
+        },
+        {
+          "ja": "すげぇー　あの距離を沈めたぞ",
+          "en": "Wow, he sank it from that distance!"
+        },
+        {
+          "ja": "マスタスでられじゃねぇ？",
+          "en": "Can't escape from the master, huh?"
+        },
+        {
+          "ja": "どうも　どうも",
+          "en": "Hello, hello."
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "パンダさん　かっこいい",
+          "en": "Panda, you're so cool!"
+        },
+        {
+          "ja": "パンダグッズも飛ぶように売れてます",
+          "en": "Panda merchandise is flying off the shelves."
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "このパンダティシャツください",
+          "en": "I'll take this panda T-shirt, please."
+        },
+        {
+          "ja": "パンダバッグ三色全部",
+          "en": "All three colors of the panda bag."
+        },
+        {
+          "ja": "半田さん",
+          "en": "Handa-san"
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "大成功でしょ",
+          "en": "It's a huge success, right?"
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "そういえば　あっちはどうなったかな",
+          "en": "By the way, I wonder how things turned out over there."
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "こんにちは",
+          "en": "Hello"
+        },
+        {
+          "ja": "いらっしゃいませ",
+          "en": "Welcome"
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "なにしようかな　えっと",
+          "en": "What should I do... um..."
+        },
+        {
+          "ja": "いや　その　白熊にしてはちょっと小さい",
+          "en": "Well, it's just that, for a polar bear, it's a bit small."
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "というか",
+          "en": "Or rather,"
+        },
+        {
+          "ja": "パンダ君だよね",
+          "en": "It's a panda, right?"
+        },
+        {
+          "ja": "いいえ　白熊ですよ",
+          "en": "No, it's a polar bear."
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "白熊君　どこ行ったの",
+          "en": "Where did the polar bear go?"
+        },
+        {
+          "ja": "ここにいますよ",
+          "en": "I'm right here."
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "ばればれだね",
+          "en": "You're totally busted."
+        },
+        {
+          "ja": "ですね",
+          "en": "That's right."
+        }
+      ]
+    }
+  ]
+}

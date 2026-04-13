@@ -1,0 +1,9 @@
+anthropic
+beautifulsoup4
+python-dotenv
+langdetect
+fugashi
+mecab-python3
+jaconv
+unidic
+tqdm

@@ -1,0 +1,713 @@
+{
+  "ep": "11",
+  "title": "パンダくんのダイエット",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "いらっしゃいませ",
+          "en": "Welcome"
+        },
+        {
+          "ja": "どうしたの？　元気ないね",
+          "en": "What's wrong? You don't seem very energetic."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "パンダくん　いつもの？",
+          "en": "Panda, the usual?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "あぁ　いや…　普通盛りで",
+          "en": "Ah, no... just the regular portion."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "えっ！？　大盛りじゃないの？",
+          "en": "What!? Not the large portion?"
+        },
+        {
+          "ja": "今日から　ダイエットするの",
+          "en": "I'm starting a diet today."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "ダイエット？",
+          "en": "Dieting?"
+        },
+        {
+          "ja": "それは　インターネット",
+          "en": "That's the internet."
+        },
+        {
+          "ja": "それは　イヌイット",
+          "en": "That's Inuit."
+        },
+        {
+          "ja": "それは　カルテット",
+          "en": "That's a quartet."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "どうしたの？　急に",
+          "en": "What's going on? All of a sudden?"
+        },
+        {
+          "ja": "実は　今日　動物園でさ…",
+          "en": "Actually, today at the zoo..."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "パンダさん！",
+          "en": "Panda!"
+        },
+        {
+          "ja": "サービス　サービス",
+          "en": "Service, service!"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "え～っ！？　ケガしなくて　よかったね",
+          "en": "Huh!? I'm glad you didn't get hurt."
+        },
+        {
+          "ja": "それで　ダイエット？",
+          "en": "So, a diet then?"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "まぁ　昔から",
+          "en": "Well, since a long time ago."
+        },
+        {
+          "ja": "スマートな動物に 生まれたかったなって　思ってたんだよ",
+          "en": "I've always thought I wanted to be born as a smart animal."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "スタイル　気になるの？",
+          "en": "Are you concerned about your figure?"
+        },
+        {
+          "ja": "うん　だって…",
+          "en": "Yeah, because..."
+        },
+        {
+          "ja": "生まれたときから おっさん体型なんだもん",
+          "en": "I've had a middle-aged man's body type since I was born."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "どうなりたいの？",
+          "en": "What do you want to become?"
+        },
+        {
+          "ja": "僕の理想はね…",
+          "en": "My ideal is..."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "もっと　脚が長くて",
+          "en": "Longer legs"
+        },
+        {
+          "ja": "逆三角形の体型で",
+          "en": "A V-shaped body."
+        },
+        {
+          "ja": "顔も逆三角形なの",
+          "en": "The face is also an inverted triangle."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "ドリームパンダ　ハハハハハ！",
+          "en": "Dream Panda! Hahahahaha!"
+        },
+        {
+          "ja": "それ　かっこいいの？",
+          "en": "Is that cool?"
+        },
+        {
+          "ja": "パンダくん 悪いヤツみたいになっちゃうね",
+          "en": "Panda-kun might end up looking like a bad guy."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "いいの 僕　ワルに憧れてるから",
+          "en": "It's fine, because I admire bad guys."
+        },
+        {
+          "ja": "お待たせ",
+          "en": "Sorry to keep you waiting."
+        },
+        {
+          "ja": "はい　普通盛りね",
+          "en": "Here you go, a regular serving."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "やっぱり　いつもので",
+          "en": "As usual, please."
+        },
+        {
+          "ja": "大盛りね",
+          "en": "Large serving, right?"
+        },
+        {
+          "ja": "ダイエットは？",
+          "en": "What about your diet?"
+        },
+        {
+          "ja": "明日からにするよ",
+          "en": "I'll start it tomorrow."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "パンダくん　起きなさい！",
+          "en": "Panda, wake up!"
+        },
+        {
+          "ja": "たった　週２回のバイトなのに",
+          "en": "It's just a part-time job twice a week, though."
+        },
+        {
+          "ja": "朝から居眠りしないでよ",
+          "en": "Don't fall asleep in the morning."
+        },
+        {
+          "ja": "はい　パンダだんご",
+          "en": "Yes, Panda Dango."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "いらない",
+          "en": "I don't need it."
+        },
+        {
+          "ja": "えっ！？　どうして？",
+          "en": "Huh!? Why not?"
+        },
+        {
+          "ja": "今日から　ダイエットするの",
+          "en": "I'm starting a diet today."
+        },
+        {
+          "ja": "ダイエット！？",
+          "en": "Diet!?"
+        },
+        {
+          "ja": "へぇ…　私なんか すっかり　メタボだけど",
+          "en": "Wow... I'm totally out of shape, though."
+        },
+        {
+          "ja": "なんにもしてないな",
+          "en": "I haven't done anything about it."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "昨日は　すべり台を 壊しちゃったしさ…",
+          "en": "Yesterday, I ended up breaking the slide..."
+        },
+        {
+          "ja": "ごめん　ごめん",
+          "en": "Sorry, sorry."
+        },
+        {
+          "ja": "あれは　柱が シロアリに食われてたからで",
+          "en": "That was because the pillar had been eaten by termites."
+        },
+        {
+          "ja": "パンダくんのせいじゃないから",
+          "en": "It's not Panda-kun's fault."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "それに　まだ若いのに おっさん体型だし…",
+          "en": "And besides, even though you're still young, you have a middle-aged body..."
+        },
+        {
+          "ja": "でも　それが自然なパンダだし",
+          "en": "But that's just how pandas naturally are."
+        },
+        {
+          "ja": "そもそも パンダの名前の由来を知らないの？",
+          "en": "Do you not know the origin of the name 'panda' in the first place?"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "えっ　何？　かわいいとか？",
+          "en": "Huh? What? Something like \"cute\"?"
+        },
+        {
+          "ja": "まぁ　いろんな説があるんだけどさ",
+          "en": "Well, there are various theories about it, you know."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "そのうちの一つは…",
+          "en": "One of them is..."
+        },
+        {
+          "ja": "むか～しむかし",
+          "en": "Long, long ago"
+        },
+        {
+          "ja": "外国人が　中国を 探検していたときのこと…",
+          "en": "It was when foreigners were exploring China..."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "what’s the name of that animal?",
+          "en": "6: A long, long time ago, when foreigners were exploring China..."
+        },
+        {
+          "ja": "あ～　パンダ…",
+          "en": "Ah, panda..."
+        },
+        {
+          "ja": "ah~ they’re called pandas",
+          "en": "Ah~ they're called pandas."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "こうして　中国語の 「太った」という意味のパンダが",
+          "en": "And that's how the word \"panda,\" meaning \"fat\" in Chinese, came to be."
+        },
+        {
+          "ja": "名前として 広まったという説があるんだ",
+          "en": "There's a theory that the name spread as a term meaning \"fat\" in Chinese."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "じゃあ　僕って…",
+          "en": "Then, does that mean I'm..."
+        },
+        {
+          "ja": "パンダ　パンダ",
+          "en": "Panda, panda."
+        },
+        {
+          "ja": "メタボー　メタボー",
+          "en": "Chubby, chubby."
+        },
+        {
+          "ja": "なんか",
+          "en": "Something like that."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "すごくへこんできた…",
+          "en": "I'm really starting to feel down..."
+        },
+        {
+          "ja": "世の中には　知らないほうが 幸せなこともあるよね",
+          "en": "There are things in the world that you're happier not knowing, aren't there?"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "バイトのせいだよ",
+          "en": "It's because of the part-time job."
+        },
+        {
+          "ja": "超ヒマで",
+          "en": "Super bored"
+        },
+        {
+          "ja": "おやつを食べて　お昼寝するしかないから 太っちゃったんだ",
+          "en": "I ended up gaining weight because all I could do was eat snacks and take naps."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "ヒマじゃないでしょう！",
+          "en": "You're not bored!"
+        },
+        {
+          "ja": "ちゃんと お客さんにサービスしなさい！",
+          "en": "Make sure to properly serve the customers!"
+        },
+        {
+          "ja": "なんか最近　マンネリでさ…",
+          "en": "Lately, things have been kind of monotonous..."
+        },
+        {
+          "ja": "タイヤやすべり台で遊ぶのも 飽きちゃって…",
+          "en": "I'm getting bored of playing with the tires and the slide..."
+        },
+        {
+          "ja": "お仕事でしょ！",
+          "en": "It's your job!"
+        },
+        {
+          "ja": "ねぇ　フィットネスゲーム持ってきていい？",
+          "en": "Hey, can I bring a fitness game?"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "ダメ！",
+          "en": "No!"
+        },
+        {
+          "ja": "ゲルマニウム温浴　作ってよ",
+          "en": "Make a germanium hot bath for me."
+        },
+        {
+          "ja": "ダメです！",
+          "en": "No way!"
+        },
+        {
+          "ja": "エアロビのお姉さんを呼ぼうよ",
+          "en": "Let's call the aerobics instructor."
+        },
+        {
+          "ja": "ダメだってば！",
+          "en": "I said no!"
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "はぁ～あ… なんか　きっかけさえあれば",
+          "en": "*Sigh*... If only there were some kind of trigger..."
+        },
+        {
+          "ja": "もっと　ダイエットやる気になるのにな",
+          "en": "I would be more motivated to diet if I just had the right trigger."
+        },
+        {
+          "ja": "まぁ　ダイエットしたいなら しっかりとサービスに励みなさい",
+          "en": "Well, if you want to diet, then focus on providing good service."
+        },
+        {
+          "ja": "は～い　任せて",
+          "en": "Okay, leave it to me!"
+        },
+        {
+          "ja": "僕って　やればできる子だから",
+          "en": "I'm a kid who can do it if I try."
+        },
+        {
+          "ja": "じゃあ　ちゃんと頼むよ",
+          "en": "Alright, I'm counting on you."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "パンダさん　起きて～！",
+          "en": "Panda, wake up!"
+        },
+        {
+          "ja": "パンダさん　かわいい！",
+          "en": "Panda, you're so cute!"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "サービス　サービス！",
+          "en": "Special service, special service!"
+        },
+        {
+          "ja": "サービス　サービス！",
+          "en": "Special service, special service!"
+        },
+        {
+          "ja": "かわいいって言われたときだけ 反応するね",
+          "en": "You only respond when you're called cute."
+        },
+        {
+          "ja": "サービス　サービス！",
+          "en": "Special service, special service!"
+        },
+        {
+          "ja": "この下膨れ体型が かわいいんだよね",
+          "en": "This chubby figure is what's cute, right?"
+        },
+        {
+          "ja": "メタボパンダさんだね",
+          "en": "You're a chubby panda, aren't you?"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "目指せ　ドリームパンダ！",
+          "en": "Aim for Dream Panda!"
+        },
+        {
+          "ja": "パパンダー　パパンパン　パパンダー",
+          "en": "Papanda, pa-pan-pan, Papanda!"
+        },
+        {
+          "ja": "パパンダー　パンパンパン　パパンダー",
+          "en": "Papanda, pan pan pan, Papanda"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "ダイエット！",
+          "en": "Diet!"
+        },
+        {
+          "ja": "ダイエット",
+          "en": "Diet!"
+        },
+        {
+          "ja": "ダイエット…",
+          "en": "Diet..."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "パンダさ～ん！",
+          "en": "Mr. Panda!"
+        },
+        {
+          "ja": "ダイエット　ダイエット！",
+          "en": "Diet, diet!"
+        },
+        {
+          "ja": "ダイエット　ダイエット！",
+          "en": "Diet, diet!"
+        },
+        {
+          "ja": "ダイエット　ダイエット！",
+          "en": "Diet, diet!"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "何だか　ドキドキするね",
+          "en": "Somehow, it makes my heart race."
+        },
+        {
+          "ja": "大丈夫だよ",
+          "en": "It's okay."
+        },
+        {
+          "ja": "ここんとこ ずっと頑張ってたんだから",
+          "en": "You've been working hard all this time."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "目標　とりあえず　１３０キロ",
+          "en": "Goal: For now, 130 kilograms."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "やった！",
+          "en": "I did it!"
+        },
+        {
+          "ja": "おめでとう　ダイエット成功だね",
+          "en": "Congratulations, you succeeded in your diet!"
+        },
+        {
+          "ja": "僕　もっと頑張って スリムなドリームパンダになるよ",
+          "en": "I'll work even harder and become a slim dream panda!"
+        },
+        {
+          "ja": "いや～ そこまでしなくていいから",
+          "en": "Nah, you don't have to go that far."
+        },
+        {
+          "ja": "頑張ったパンダくんに ご褒美があるよ",
+          "en": "There's a reward for you, Panda, for all your hard work."
+        },
+        {
+          "ja": "えっ　何？",
+          "en": "Huh? What is it?"
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "楽しく滑れるように 工夫してみたんだ",
+          "en": "I've come up with a way to make it more fun to slide."
+        },
+        {
+          "ja": "パンダくんが マンネリって言ってたからね",
+          "en": "Because you said you were getting bored, Panda-kun."
+        },
+        {
+          "ja": "半田さん　ありがとう",
+          "en": "Thank you, Handa-san."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "待ってたよ　一緒に初滑りしよう",
+          "en": "I've been waiting for you. Let's go for our first slide together."
+        },
+        {
+          "ja": "うん！",
+          "en": "Yeah!"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "ワーイ！",
+          "en": "Yay!"
+        },
+        {
+          "ja": "あっ！　どうしたんですか？",
+          "en": "Oh! What happened?"
+        },
+        {
+          "ja": "あ　いや… お腹がつっかえて…(´･ω･)",
+          "en": "Oh, um... my stomach's in the way... (´･ω･)"
+        },
+        {
+          "ja": "常勤パンダさん　メタボ",
+          "en": "Full-time Panda, you're chubby."
+        },
+        {
+          "ja": "ハァー　作り直しかな…",
+          "en": "*Sigh* I guess I'll have to remake it..."
+        }
+      ]
+    }
+  ]
+}

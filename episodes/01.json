@@ -1,0 +1,1088 @@
+{
+  "ep": "01",
+  "title": "シロクマ　カフェー へようこそ",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "笹を食べながらのんびりするのは最高だなぁ",
+          "en": "It's the best to relax while eating bamboo."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "ちょっと またこの子は昼間からゴロゴロして",
+          "en": "Oh dear, this little one is lounging around again in the middle of the day."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "掃除の邪魔よ どきなさい",
+          "en": "You're in the way of my cleaning. Move aside."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "はいー",
+          "en": "Okayー"
+        },
+        {
+          "ja": "お母さん おかわり",
+          "en": "Mom, can I have seconds?"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "どうするの あなた将来は",
+          "en": "What are you going to do about your future?"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "もう ゴロゴロしてるときに 将来の話なんかしないでよ",
+          "en": "Don't talk about the future when I'm just trying to relax."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "暇があるなら ちょっとはバイトでも探しなさい",
+          "en": "If you have free time, why don't you look for a part-time job?"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "ええ ゴロゴロするのに忙しいから 後にするよ",
+          "en": "Yeah, I'm too busy lazing around, so I'll do it later."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "ああー 吸わないで",
+          "en": "Ahh, don't suck it up."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "もう",
+          "en": "Enough already."
+        },
+        {
+          "ja": "どうしてお母さんはゴロゴロする忙しさが分かんないんだろな",
+          "en": "Why doesn't Mom understand how busy I am with just lounging around?"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "えーと 働かないでお金がもらえる仕事が載っているのはどれですか",
+          "en": "Um, which one of these lists jobs where you can get paid without working?"
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "ないと思います",
+          "en": "I don't think there is one."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "え",
+          "en": "Huh?"
+        },
+        {
+          "ja": "どうせなら お洒落なバイトがいいなぁ",
+          "en": "If I'm going to do it, I'd prefer a stylish part-time job."
+        },
+        {
+          "ja": "あ これいいな",
+          "en": "Oh, this looks good."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "はい",
+          "en": "Yes"
+        },
+        {
+          "ja": "あ もしもし パンダと申しますが",
+          "en": "Ah, hello, this is Panda speaking."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "そちらでデザイナーのアルバイト募集してますよね",
+          "en": "You're hiring for a designer part-time position, right?"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "ええ そうですよ 経験は？",
+          "en": "Yes, that's right. Do you have any experience?"
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "ありません",
+          "en": "I don't have any."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "パソコンのマウスは使えますか",
+          "en": "Can you use a computer mouse?"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "使えないです あんまり細かい作業はできません",
+          "en": "I can't use it. I can't really do detailed work."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "そうですか",
+          "en": "I see."
+        },
+        {
+          "ja": "得意なことはありますか",
+          "en": "Is there anything you're good at?"
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "あります",
+          "en": "Yes, there is."
+        },
+        {
+          "ja": "笹を食べたり 寝ながらぼんやりするのが得意です",
+          "en": "I'm good at eating bamboo and lounging around daydreaming."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "あれ もしもーし",
+          "en": "Hello? Can you hear me?"
+        },
+        {
+          "ja": "もしもし そちらでインテリアコーディネーターも募集してますよね",
+          "en": "Hello, you're also hiring interior coordinators there, right?"
+        },
+        {
+          "ja": "はい",
+          "en": "Yes"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "インテリアコーディネーターって なんですか",
+          "en": "What is an interior coordinator?"
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "またゴロゴロして",
+          "en": "Lounging around again."
+        },
+        {
+          "ja": "アルバイト見つかったの",
+          "en": "Did you find a part-time job?"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "全然ないよ",
+          "en": "Not at all."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "確かコンビニで募集してたでしょう",
+          "en": "They were definitely hiring at the convenience store, right?"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "コンビニ",
+          "en": "Convenience store."
+        },
+        {
+          "ja": "品数多過ぎるよ 覚えられないよ",
+          "en": "There are too many items. I can't remember them all."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "あー 吸わないで",
+          "en": "Ah, don't smoke."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "もう 外でだらだらしようっと",
+          "en": "I'm just going to hang out outside."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "ははは あら 糸屑",
+          "en": "Haha, oh, a piece of lint."
+        },
+        {
+          "ja": "あ 取って",
+          "en": "Oh, let me get that."
+        },
+        {
+          "ja": "うん 取れた",
+          "en": "Yeah, got it."
+        },
+        {
+          "ja": "ありがとう",
+          "en": "Thank you."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "じっとしてて",
+          "en": "Hold still."
+        },
+        {
+          "ja": "あ 待って",
+          "en": "Oh, wait."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "へぇー こんな所にカフェがあったんだ",
+          "en": "Oh, I didn't know there was a café in a place like this."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "いらっしゃいませ",
+          "en": "Welcome"
+        },
+        {
+          "ja": "ようこそ しろくまカフェへ",
+          "en": "Welcome to Shirokuma Café."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "お客様 お一人様ですか",
+          "en": "Are you dining alone, sir/madam?"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "あ 別に僕は",
+          "en": "Oh, I'm not really..."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "お好きな席へどうぞ",
+          "en": "Please feel free to sit wherever you like."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "ご注文は",
+          "en": "What would you like to order?"
+        },
+        {
+          "ja": "えーと 竹はありますか",
+          "en": "Um, do you have bamboo?"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "竹はないです",
+          "en": "We don't have bamboo."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "じゃ 笹ください",
+          "en": "Then, I'll have sasa, please."
+        },
+        {
+          "ja": "笹もないです",
+          "en": "We don't have sasa either."
+        },
+        {
+          "ja": "じゃ アイスコーヒー",
+          "en": "Then, I'll have an iced coffee."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "ねえ 白熊くん",
+          "en": "Hey, Polar Bear."
+        },
+        {
+          "ja": "財布のポイントカードって増えすぎちゃわな",
+          "en": "Don't you think the point cards in your wallet just keep piling up?"
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "ペンギンさん ポイント貯める派",
+          "en": "Penguin, are you the type who likes to collect points?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "あ カフェモカお願い おかわり",
+          "en": "Oh, can I have a café mocha, please? A refill."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "それはひまわり",
+          "en": "That's a sunflower."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "それは日替わり",
+          "en": "That's the daily special."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "それは薪割り",
+          "en": "That's firewood chopping."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "それは西瓜割り",
+          "en": "That's watermelon splitting."
+        },
+        {
+          "ja": "「おかわり」ね",
+          "en": "\"Refill,\" right?"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "はい カフェモカ",
+          "en": "Here you go, a café mocha."
+        },
+        {
+          "ja": "このカフェ ダジャレがなければなぁ",
+          "en": "I wish this café didn't have puns."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "そういえば アルバイト募集してるんだって",
+          "en": "Speaking of which, I heard they're hiring part-timers."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "うん 人手が足りなくて",
+          "en": "Yeah, they're short-staffed."
+        },
+        {
+          "ja": "ペンギンさん どう",
+          "en": "How about you, Penguin?"
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "え？僕お客とバイトの両立 できるかな",
+          "en": "Huh? Do you think I can manage being both a customer and a part-timer?"
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "ウーソ これから四名ほど 面接に来るんだよ",
+          "en": "No way, about four people are coming for interviews soon."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "なんだ ちょっと考えちゃったよ",
+          "en": "Oh, I was just thinking about it for a moment."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "僕もいいですか",
+          "en": "Can I join too?"
+        },
+        {
+          "ja": "僕もアルバイトしたいと思って",
+          "en": "I was thinking I'd like to get a part-time job too."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "受けてみる 面接",
+          "en": "Try the interview."
+        },
+        {
+          "ja": "あ",
+          "en": "Ah."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "では 最初の方 どうぞ",
+          "en": "Well then, the first person, please go ahead."
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "はい",
+          "en": "Yes"
+        },
+        {
+          "ja": "穴熊です",
+          "en": "I'm Anaguma."
+        },
+        {
+          "ja": "えーと ホール係やれますか",
+          "en": "Uh, can you work as a hall attendant?"
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "はい ホールなら任せてください",
+          "en": "Yes, you can count on me for the hall duties."
+        },
+        {
+          "ja": "穴を掘るの 得意なんです",
+          "en": "I'm good at digging holes."
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "いや そのホールは違うし",
+          "en": "No, that's not the right kind of hole."
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "次の方",
+          "en": "Next person, please."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes"
+        },
+        {
+          "ja": "ゾ～ウ～ガ～メ～で～す",
+          "en": "I am a giant tortoise."
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "料理とか 運べますか",
+          "en": "Can you carry food and such?"
+        },
+        {
+          "ja": "は～い～",
+          "en": "Yes, I can."
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "ヨ～イ～ショー",
+          "en": "Heave-ho!"
+        },
+        {
+          "ja": "ゆっくりだね",
+          "en": "You're slow, aren't you?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "百年くらい働かせて～",
+          "en": "Let me work for about a hundred years~"
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "いえ そんなには",
+          "en": "Oh, not that long."
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "マンドリルです",
+          "en": "It's a mandrill."
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "食べるのが得意です",
+          "en": "I'm good at eating."
+        }
+      ]
+    },
+    {
+      "audio": 63,
+      "lines": [
+        {
+          "ja": "ちょっと それは",
+          "en": "Wait, hold on a second."
+        }
+      ]
+    },
+    {
+      "audio": 64,
+      "lines": [
+        {
+          "ja": "小蟻食です",
+          "en": "I specialize in eating ants."
+        },
+        {
+          "ja": "い 威嚇ができます",
+          "en": "I can intimidate."
+        }
+      ]
+    },
+    {
+      "audio": 65,
+      "lines": [
+        {
+          "ja": "それだけ",
+          "en": "That's all."
+        },
+        {
+          "ja": "みたいだね",
+          "en": "Seems like it."
+        }
+      ]
+    },
+    {
+      "audio": 66,
+      "lines": [
+        {
+          "ja": "最後の方 どうぞ",
+          "en": "Please, go ahead with the last part."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes"
+        },
+        {
+          "ja": "パンダと申します",
+          "en": "My name is Panda."
+        },
+        {
+          "ja": "よろしくです",
+          "en": "Nice to meet you."
+        }
+      ]
+    },
+    {
+      "audio": 67,
+      "lines": [
+        {
+          "ja": "やっとまともな人が来たね",
+          "en": "Finally, a decent person has come."
+        }
+      ]
+    },
+    {
+      "audio": 68,
+      "lines": [
+        {
+          "ja": "パンダ君 何か得意なことはありますか",
+          "en": "Panda-kun, is there anything you're particularly good at?"
+        },
+        {
+          "ja": "はい ゴロゴロしながら笹を食べることです",
+          "en": "Yes, it's eating bamboo while lounging around."
+        }
+      ]
+    },
+    {
+      "audio": 69,
+      "lines": [
+        {
+          "ja": "あれ",
+          "en": "Oh."
+        },
+        {
+          "ja": "えーと 条件に希望はありますか",
+          "en": "Um, do you have any preferences regarding the conditions?"
+        }
+      ]
+    },
+    {
+      "audio": 70,
+      "lines": [
+        {
+          "ja": "週二日希望です",
+          "en": "I hope for two days a week."
+        },
+        {
+          "ja": "うん 週二日ですか",
+          "en": "Hmm, two days a week, huh?"
+        }
+      ]
+    },
+    {
+      "audio": 71,
+      "lines": [
+        {
+          "ja": "え 週一日でいいんですか",
+          "en": "Huh, is one day a week okay?"
+        },
+        {
+          "ja": "いや せめて週四日くらい",
+          "en": "No, at least around four days a week."
+        }
+      ]
+    },
+    {
+      "audio": 72,
+      "lines": [
+        {
+          "ja": "そんなの無理です",
+          "en": "That's impossible."
+        }
+      ]
+    },
+    {
+      "audio": 73,
+      "lines": [
+        {
+          "ja": "あ けど",
+          "en": "Ah, but..."
+        },
+        {
+          "ja": "呼びに来てくれたら すぐ行きます",
+          "en": "If you come to get me, I'll go right away."
+        }
+      ]
+    },
+    {
+      "audio": 74,
+      "lines": [
+        {
+          "ja": "僕が呼びに行くんですか",
+          "en": "Am I the one who has to go and call you?"
+        },
+        {
+          "ja": "あ そんなそんな",
+          "en": "Oh, no, no, that's not necessary."
+        },
+        {
+          "ja": "遅刻した場合だけですよ",
+          "en": "Only if I'm late."
+        }
+      ]
+    },
+    {
+      "audio": 75,
+      "lines": [
+        {
+          "ja": "遅刻する気満々だね",
+          "en": "You're totally planning on being late, aren't you?"
+        }
+      ]
+    },
+    {
+      "audio": 76,
+      "lines": [
+        {
+          "ja": "ちなみに やる気はありますか",
+          "en": "By the way, are you motivated?"
+        },
+        {
+          "ja": "そんなにありません",
+          "en": "Not really."
+        }
+      ]
+    },
+    {
+      "audio": 77,
+      "lines": [
+        {
+          "ja": "発表します",
+          "en": "I'll make an announcement."
+        },
+        {
+          "ja": "全員不合格",
+          "en": "Everyone failed."
+        }
+      ]
+    },
+    {
+      "audio": 78,
+      "lines": [
+        {
+          "ja": "えー工",
+          "en": "Ugh, seriously?"
+        },
+        {
+          "ja": "そこ驚くとこ",
+          "en": "That's the surprising part."
+        }
+      ]
+    },
+    {
+      "audio": 79,
+      "lines": [
+        {
+          "ja": "結局バイトの人",
+          "en": "In the end, it's the part-timer."
+        },
+        {
+          "ja": "見つからなかったね",
+          "en": "Couldn't find them, huh?"
+        }
+      ]
+    },
+    {
+      "audio": 80,
+      "lines": [
+        {
+          "ja": "残念だね",
+          "en": "That's unfortunate."
+        },
+        {
+          "ja": "まだいたの",
+          "en": "You're still here?"
+        },
+        {
+          "ja": "家に帰ると お母さんに吸われるし",
+          "en": "When I get home, my mom will nag me."
+        },
+        {
+          "ja": "す 吸われる",
+          "en": "G-Get sucked?"
+        }
+      ]
+    },
+    {
+      "audio": 81,
+      "lines": [
+        {
+          "ja": "うん　ゴーって",
+          "en": "Yeah, like \"whoosh.\""
+        },
+        {
+          "ja": "あのう　面接中すみません",
+          "en": "Um, sorry to interrupt during the interview."
+        }
+      ]
+    },
+    {
+      "audio": 82,
+      "lines": [
+        {
+          "ja": "住み込み希望でーす",
+          "en": "I’d like to live in, please."
+        },
+        {
+          "ja": "不合格",
+          "en": "Rejected"
+        }
+      ]
+    },
+    {
+      "audio": 83,
+      "lines": [
+        {
+          "ja": "あのう アルバイト希望じゃないみたいですよ",
+          "en": "Um, it seems like they're not looking for a part-time job."
+        },
+        {
+          "ja": "庭に住み込みたいんですー",
+          "en": "I want to live in the garden."
+        }
+      ]
+    },
+    {
+      "audio": 84,
+      "lines": [
+        {
+          "ja": "ここまで運んで欲しいって　頼まれちゃいまして",
+          "en": "I was asked to bring it this far."
+        }
+      ]
+    },
+    {
+      "audio": 85,
+      "lines": [
+        {
+          "ja": "あなた お名前は",
+          "en": "What's your name?"
+        },
+        {
+          "ja": "え 私ですか",
+          "en": "Huh? Me?"
+        },
+        {
+          "ja": "笹子ですけど",
+          "en": "It's Sasako."
+        },
+        {
+          "ja": "笹子さん 合格",
+          "en": "Ms. Sasako, you're hired."
+        },
+        {
+          "ja": "え",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 86,
+      "lines": [
+        {
+          "ja": "ねぇ　お母さん",
+          "en": "Hey, Mom."
+        },
+        {
+          "ja": "僕今日、すごくいい感じのカフェ見つけちゃったよ",
+          "en": "I found a really nice café today."
+        }
+      ]
+    },
+    {
+      "audio": 87,
+      "lines": [
+        {
+          "ja": "しろくまカフェって言うんだけど",
+          "en": "It's called Shirokuma Café."
+        },
+        {
+          "ja": "なんに言ってるの？知ってるわよ",
+          "en": "What are you talking about? I know it."
+        }
+      ]
+    },
+    {
+      "audio": 88,
+      "lines": [
+        {
+          "ja": "へ？！そうなの？",
+          "en": "Huh?! Really?"
+        },
+        {
+          "ja": "ずっと前からあるじゃない？",
+          "en": "It's been around for a long time, hasn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 89,
+      "lines": [
+        {
+          "ja": "あ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "うちの隣りに～",
+          "en": "Next to my place～"
+        },
+        {
+          "ja": "へーーーーーーーー！！！！",
+          "en": "Reeeeeeeally?!?!"
+        }
+      ]
+    }
+  ]
+}

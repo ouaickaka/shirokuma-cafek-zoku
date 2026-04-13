@@ -1,0 +1,1052 @@
+{
+  "ep": "21",
+  "title": "ペンギンさんの失恋",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "はい",
+          "en": "Sure!"
+        },
+        {
+          "ja": "頼んでないよ",
+          "en": "I didn't ask for it."
+        },
+        {
+          "ja": "新メニューのホットケーキ　味見してみて",
+          "en": "Try the new menu's pancakes."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "笹が入ってないよ",
+          "en": "There's no bamboo in it."
+        },
+        {
+          "ja": "普通入れないから",
+          "en": "It's not usually included."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "なんか　しょっぱい",
+          "en": "It's kind of salty."
+        },
+        {
+          "ja": "シャケ入れてみた",
+          "en": "I tried adding salmon."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "笹子さんも食べてみてよ",
+          "en": "Sasako, you should try it too."
+        },
+        {
+          "ja": "あ…　はい",
+          "en": "Oh... okay."
+        },
+        {
+          "ja": "やっぱり　しょっぱいです",
+          "en": "It's definitely salty."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "あれ？ ペンギンさんいつからいたの？",
+          "en": "Huh? Penguin, when did you get here?"
+        },
+        {
+          "ja": "ずっといるでしょ！",
+          "en": "I've been here the whole time!"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "ちゃんと気づいてたよ",
+          "en": "I definitely noticed."
+        },
+        {
+          "ja": "でも何か話しかけちゃいけないのかと思って",
+          "en": "But I thought maybe I shouldn't say anything."
+        },
+        {
+          "ja": "話しかけてよ！",
+          "en": "Talk to me!"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "シャケ入りホットケーキ　食べる？",
+          "en": "Do you want to eat a pancake with salmon in it?"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "僕は今食欲なんかないの",
+          "en": "I don't have any appetite right now."
+        },
+        {
+          "ja": "どうしたんですか？",
+          "en": "What's wrong?"
+        },
+        {
+          "ja": "見てわからない？",
+          "en": "Can't you tell just by looking?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "わかんないよ",
+          "en": "I don't know."
+        },
+        {
+          "ja": "僕はね…　僕はね…",
+          "en": "Me... I'm..."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "失恋したんだよ！",
+          "en": "I got my heart broken!"
+        },
+        {
+          "ja": "失恋？",
+          "en": "Heartbroken?"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "それは　七輪！",
+          "en": "That's a shichirin!"
+        },
+        {
+          "ja": "それは　一輪車！",
+          "en": "That's a unicycle!"
+        },
+        {
+          "ja": "それは　三輪車！",
+          "en": "That's a tricycle!"
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "だから　僕は　失恋して ツッコむ気力もないの！",
+          "en": "That's why I had a heartbreak and don't even have the energy to make a comeback!"
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "ツッコんでるじゃない",
+          "en": "You're making a comeback, though."
+        },
+        {
+          "ja": "失恋って　ペン子さん？",
+          "en": "Are you talking about Penko's heartbreak?"
+        },
+        {
+          "ja": "決まってるじゃない！",
+          "en": "Isn't it obvious?"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "あ…　あの… なんて言ったらいいか…",
+          "en": "Uh... um... I don't know what to say..."
+        },
+        {
+          "ja": "何も言わないで　ほっておいてよ",
+          "en": "Don't say anything, just leave me alone."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "パンダくん駅前のベーグル屋さんおいしいらしいよ",
+          "en": "I heard the bagel shop in front of the station is supposed to be really good, Panda-kun."
+        },
+        {
+          "ja": "聞いてよ！",
+          "en": "Listen to me!"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "聞いてほしいんですか？",
+          "en": "Do you want me to listen?"
+        },
+        {
+          "ja": "当たり前じゃない！",
+          "en": "Isn't it obvious?"
+        },
+        {
+          "ja": "話せば楽になるぞ",
+          "en": "You'll feel better if you talk about it."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "刑事さん　実は…",
+          "en": "Detective, actually..."
+        },
+        {
+          "ja": "って…　僕は 犯人じゃないから！",
+          "en": "...I'm not the culprit!"
+        },
+        {
+          "ja": "で…　どうしたの？",
+          "en": "So... what happened?"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "見ちゃったんだよ",
+          "en": "I saw it."
+        },
+        {
+          "ja": "何を？",
+          "en": "What did you see?"
+        },
+        {
+          "ja": "ペン子さんがデートしてるところ…",
+          "en": "I saw Penko on a date..."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "だ…　誰とですか？",
+          "en": "W-Who with?"
+        },
+        {
+          "ja": "それがなんと驚いたことに…",
+          "en": "And to my surprise..."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "絶対に　ありえない相手で…",
+          "en": "With someone absolutely impossible..."
+        },
+        {
+          "ja": "本当に信じられない…",
+          "en": "I really can't believe it..."
+        },
+        {
+          "ja": "誰なんですか？",
+          "en": "Who is it?"
+        },
+        {
+          "ja": "まさかと思うくらいの…",
+          "en": "It's someone you would never expect..."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "いいから　早く吐け",
+          "en": "Just spill it already."
+        },
+        {
+          "ja": "って…　僕　犯人じゃないから！",
+          "en": "I'm not the culprit!"
+        },
+        {
+          "ja": "さっき　公園で 目撃しちゃったんだ",
+          "en": "I just witnessed it at the park earlier."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "ペン子さん！",
+          "en": "Penko!"
+        },
+        {
+          "ja": "こんなところで　めぐり会うなんて",
+          "en": "To think we'd run into each other in a place like this!"
+        },
+        {
+          "ja": "運命　感じちゃうな！",
+          "en": "I feel like it's destiny!"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "やぁ！　偶然ですねペン…",
+          "en": "Hey! What a coincidence, Pen..."
+        },
+        {
+          "ja": "お待たせ～",
+          "en": "Sorry to keep you waiting~"
+        },
+        {
+          "ja": "じゃあ　行きましょう",
+          "en": "Well then, let's go."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "ゾウガメさん？",
+          "en": "Mr. Tortoise?"
+        },
+        {
+          "ja": "本当に？",
+          "en": "Really?"
+        },
+        {
+          "ja": "ゾウガメさんが？",
+          "en": "Mr. Tortoise?"
+        },
+        {
+          "ja": "そう…",
+          "en": "Yeah..."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "ペン子さんと待ち合わせて デートしてたんだ",
+          "en": "I was meeting up with Penko and we were on a date."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "ステキなカフェですね",
+          "en": "It's a lovely café, isn't it?"
+        },
+        {
+          "ja": "僕…　ここに 甲羅干しに来るんです～",
+          "en": "I... come here to sunbathe my shell."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "まぁ！",
+          "en": "Oh my!"
+        },
+        {
+          "ja": "僕も食べたいな～",
+          "en": "I want to eat too~"
+        },
+        {
+          "ja": "はい",
+          "en": "Sure!"
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "いい天気",
+          "en": "Nice weather."
+        },
+        {
+          "ja": "だね～",
+          "en": "Sure is!"
+        },
+        {
+          "ja": "２人で楽しそうにお茶飲んだり",
+          "en": "The two of them seem to be happily drinking tea together."
+        },
+        {
+          "ja": "あ～んってしたり ボートに乗ってたんだよ！",
+          "en": "Feeding each other and riding a boat!"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "それ　どこで聞いてたの？",
+          "en": "Where did you hear that?"
+        },
+        {
+          "ja": "そりゃ…",
+          "en": "Well..."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "なんだか涙ぐましいね",
+          "en": "It's kind of touching, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "でも　それだけじゃ",
+          "en": "But that's not all."
+        },
+        {
+          "ja": "恋人同士かどうかわかんないんじゃない？",
+          "en": "You can't really tell if they're a couple just from that, can you?"
+        },
+        {
+          "ja": "それが　決定的なことに…",
+          "en": "That turned out to be the decisive factor..."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "私…　大好きなんですよね",
+          "en": "I... really love it."
+        },
+        {
+          "ja": "カ　メ…",
+          "en": "Turtle..."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "そんな～っ！",
+          "en": "No way!"
+        },
+        {
+          "ja": "知らなかった…　ペン子さん カメが大好きだったなんて…",
+          "en": "I didn't know... Penko, that you loved turtles so much..."
+        },
+        {
+          "ja": "カメのどこがいいんだろう？",
+          "en": "What’s so great about turtles?"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "ねぇどこがいいんだと思う？",
+          "en": "What do you think is so great about them?"
+        },
+        {
+          "ja": "はっきり言ってよ！",
+          "en": "Just say it clearly!"
+        },
+        {
+          "ja": "こ…",
+          "en": "T-they're..."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "甲羅があるとこですかね？",
+          "en": "Maybe it's the shell?"
+        },
+        {
+          "ja": "首とか手足が引っ込むところも キュートかも",
+          "en": "The way their neck and limbs retract might be cute too."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "千年生きるのはすごいよね",
+          "en": "Living for a thousand years is amazing, isn't it?"
+        },
+        {
+          "ja": "ペ…　ペンギンにだって いいとこあるでしょ？",
+          "en": "Pe... Penguins have their good points too, don't they?"
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "ないの！？",
+          "en": "There isn't!?"
+        },
+        {
+          "ja": "負けてる…　完璧に負けてるよ",
+          "en": "I'm losing... I'm completely losing."
+        },
+        {
+          "ja": "僕はどうして ペンギンに生まれたんだろう",
+          "en": "Why was I born a penguin?"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "お母さん！　どうして　僕を カメに生んでくれなかったの！？",
+          "en": "Mom! Why didn't you give birth to me as a turtle!?"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "ペンギンさん　あのね",
+          "en": "Mr. Penguin, you know..."
+        },
+        {
+          "ja": "ペンギンからカメは生まれないんだよ",
+          "en": "A penguin can't give birth to a turtle, you know."
+        },
+        {
+          "ja": "わかってるよ！",
+          "en": "I know!"
+        },
+        {
+          "ja": "あ～あ… こんなことなら思い切って",
+          "en": "Ah... if that's the case, I should have just gone for it."
+        },
+        {
+          "ja": "ペン子さんを ドライブに誘っとくんだった",
+          "en": "I should have just asked Penko out for a drive."
+        },
+        {
+          "ja": "い…",
+          "en": "Uh..."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "今からでも遅くないですよ",
+          "en": "It's not too late even now."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "せっかく免許も取ったんだし…",
+          "en": "I went through the trouble of getting my license, after all..."
+        },
+        {
+          "ja": "そ…　そうだよね！",
+          "en": "R-Right, you're right!"
+        },
+        {
+          "ja": "ペン子さんカメ好きなら",
+          "en": "If Penko likes turtles"
+        },
+        {
+          "ja": "速い乗り物は 好きじゃないかもね",
+          "en": "You might not like fast vehicles, then."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "ゆっくりじゃないとダメなのか～！",
+          "en": "Does it have to be slow?!"
+        },
+        {
+          "ja": "やっぱ　ダメだ…",
+          "en": "I guess it's no good after all..."
+        },
+        {
+          "ja": "もう　きっぱり ペン子さんのことは諦めよう",
+          "en": "I should just give up on Penko once and for all."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "そうですね",
+          "en": "That's right."
+        },
+        {
+          "ja": "また　ステキな子が現れるよ",
+          "en": "Another wonderful person will come along."
+        },
+        {
+          "ja": "そうだよね　いつまでも 引きずってちゃダメだよね",
+          "en": "That's right, I can't keep dwelling on it forever, can I?"
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "そうですよ",
+          "en": "That's right."
+        },
+        {
+          "ja": "やっぱ　諦めちゃダメでしょ！",
+          "en": "You really shouldn't give up!"
+        },
+        {
+          "ja": "どっちなの？",
+          "en": "Which is it?"
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "でも　ペン子さんには　ゾウガメさんが…",
+          "en": "But Penko-san has Zougame-san..."
+        },
+        {
+          "ja": "ペンギンがゾウガメなんかに 負けてたまるか～っ！",
+          "en": "A penguin can't possibly lose to a tortoise!"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "あっ　ゾウガメさん",
+          "en": "Oh, Mr. Tortoise"
+        },
+        {
+          "ja": "こんにちは～",
+          "en": "Hello~"
+        },
+        {
+          "ja": "ライバル登場だよ",
+          "en": "A rival has appeared!"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "ペン子さんの彼氏　来た",
+          "en": "Penko's boyfriend is here."
+        },
+        {
+          "ja": "ダメだよ　そんなこと言っちゃ",
+          "en": "You shouldn't say things like that."
+        },
+        {
+          "ja": "これから決闘するの？",
+          "en": "Are you going to duel now?"
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "しないよ",
+          "en": "I'm not."
+        },
+        {
+          "ja": "えっと　こういうのたしか…",
+          "en": "Um, if I remember correctly, in situations like this..."
+        },
+        {
+          "ja": "シャバダバ？",
+          "en": "Shabada-ba?"
+        },
+        {
+          "ja": "修羅場だよ",
+          "en": "It's a showdown."
+        },
+        {
+          "ja": "ちょっと黙っててよ！",
+          "en": "Just be quiet for a moment!"
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "とにかく　ペン子さんと どういうおつきあいなのか",
+          "en": "Anyway, what kind of relationship do you have with Penko?"
+        },
+        {
+          "ja": "はっきりさせないと",
+          "en": "We need to make it clear."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "ゾ…　ゾウガメ君！",
+          "en": "T-Tortoise-kun!"
+        },
+        {
+          "ja": "なに～？",
+          "en": "What?"
+        },
+        {
+          "ja": "あ…　いや…",
+          "en": "Uh... no..."
+        },
+        {
+          "ja": "いい天気だね",
+          "en": "It's a nice day, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "ペンギンさん　はっきりさせるんじゃ なかったの？",
+          "en": "Penguin, weren't you going to make things clear?"
+        },
+        {
+          "ja": "わかってるよ！",
+          "en": "I know!"
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "どうかした～？",
+          "en": "Is something wrong?"
+        },
+        {
+          "ja": "あ…　いや…　あのさ！ この間さ　公園で…",
+          "en": "Ah... no... um, you know! The other day at the park..."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "すごくおいしいマイワシを 食べたんだよね～",
+          "en": "I had some really delicious sardines, you know."
+        },
+        {
+          "ja": "おいしかった～",
+          "en": "It was delicious~"
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "違うでしょ？",
+          "en": "That's not it, right?"
+        },
+        {
+          "ja": "わかってるよ！",
+          "en": "I know!"
+        },
+        {
+          "ja": "話には順序ってものが…",
+          "en": "There's an order to how you tell a story..."
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "そういえば　あの公園でさ",
+          "en": "Speaking of which, at that park..."
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "女の子のペンギンと 一緒にいたじゃない？",
+          "en": "Weren't you with a girl and a penguin?"
+        },
+        {
+          "ja": "あの公園　気持いいよね",
+          "en": "That park feels nice, doesn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "で　ゾウガメさんとペン子さんは どういう関係？",
+          "en": "So, what's the relationship between Mr. Tortoise and Miss Penguin?"
+        },
+        {
+          "ja": "あからさまに聞かないでよ！",
+          "en": "Don't ask so blatantly!"
+        },
+        {
+          "ja": "それで",
+          "en": "And then?"
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "ゾウガメさんは どうして一緒に？",
+          "en": "Why is Mr. Tortoise with her?"
+        },
+        {
+          "ja": "笹子さんまで！？",
+          "en": "Even Sasako-san!?"
+        },
+        {
+          "ja": "なんで　公園に一緒にいたの？",
+          "en": "Why were you together at the park?"
+        },
+        {
+          "ja": "誘われて～",
+          "en": "I was invited~"
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "ペン子さんに　誘われた！？",
+          "en": "Penko invited you!?"
+        },
+        {
+          "ja": "好きだって～",
+          "en": "Because I like her~"
+        },
+        {
+          "ja": "カ…　メ…",
+          "en": "Tu...rtle..."
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "ゾウガメさん　ペン子さんとお幸せに！ うわ～ん！",
+          "en": "Tortoise, be happy with Penko! Waaah!"
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "ラ…",
+          "en": "Ra..."
+        },
+        {
+          "ja": "ラ？",
+          "en": "La?"
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "いや待てよ",
+          "en": "Wait a minute."
+        },
+        {
+          "ja": "ペン子さんが そんなにカメ好きなら…",
+          "en": "If Penko likes turtles that much..."
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "いらっしゃい",
+          "en": "Welcome"
+        }
+      ]
+    },
+    {
+      "audio": 63,
+      "lines": [
+        {
+          "ja": "こんにちは",
+          "en": "Hello"
+        }
+      ]
+    },
+    {
+      "audio": 64,
+      "lines": [
+        {
+          "ja": "何やってるの　ペンギンさん",
+          "en": "What are you doing, Mr. Penguin?"
+        },
+        {
+          "ja": "どこから持ってきたんですか？ その甲羅",
+          "en": "Where did you get that shell from?"
+        }
+      ]
+    },
+    {
+      "audio": 65,
+      "lines": [
+        {
+          "ja": "かたい",
+          "en": "Hard."
+        },
+        {
+          "ja": "ペン子さんはカメが大好き",
+          "en": "Penguin loves turtles."
+        },
+        {
+          "ja": "ああ",
+          "en": "Ah, I see."
+        }
+      ]
+    },
+    {
+      "audio": 66,
+      "lines": [
+        {
+          "ja": "ペン子さんはね",
+          "en": "Penguin loves turtles."
+        },
+        {
+          "ja": "カメじゃなくて",
+          "en": "Not a turtle."
+        },
+        {
+          "ja": "大好きなのは　カメラ",
+          "en": "What she really loves is cameras."
+        }
+      ]
+    },
+    {
+      "audio": 67,
+      "lines": [
+        {
+          "ja": "最近　カメラが趣味らしいよ",
+          "en": "Apparently, cameras have become her hobby recently."
+        },
+        {
+          "ja": "ゾウガメさんも同じ趣味みたいで",
+          "en": "It seems like Mr. Tortoise has the same hobby."
+        }
+      ]
+    },
+    {
+      "audio": 68,
+      "lines": [
+        {
+          "ja": "大好きなのはね　カメじゃなくてカメラだよ",
+          "en": "What I really love isn't turtles, it's cameras."
+        }
+      ]
+    },
+    {
+      "audio": 69,
+      "lines": [
+        {
+          "ja": "出直してきます",
+          "en": "I'll come back later."
+        }
+      ]
+    }
+  ]
+}

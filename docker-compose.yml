@@ -1,0 +1,33 @@
+services:
+
+  # --- Site (one command: docker compose up -d) ---
+  web:
+    image: nginx:alpine
+    container_name: shirokuma-cafe
+    ports:
+      - "${PORT:-8080}:80"
+    volumes:
+      - .:/usr/share/nginx/html:ro
+    mem_limit: 64m
+    restart: unless-stopped
+    networks:
+      - homelab
+
+  # --- Builder: add new episodes from subtitle + MKV files ---
+  # Usage: docker compose run --rm builder python3 build-episode.py 43 subs/ep43.ass /media/ep43.mkv
+  builder:
+    build: .
+    container_name: shirokuma-builder
+    working_dir: /app
+    volumes:
+      - .:/app
+      - ${MEDIA_DIR:-/mnt/media}:/media:ro
+    env_file:
+      - .env
+    profiles:
+      - tools
+
+networks:
+  homelab:
+    external: true
+    name: homelab_homelab

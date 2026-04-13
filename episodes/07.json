@@ -1,0 +1,945 @@
+{
+  "ep": "07",
+  "title": "スマフォに夢中",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "ねぇ　シロクマくん",
+          "en": "Hey, Shirokuma-kun"
+        },
+        {
+          "ja": "それ　楽しい？",
+          "en": "Is it fun?"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "そういう時もあるね",
+          "en": "There are times like that, too."
+        },
+        {
+          "ja": "どんな時？",
+          "en": "What kind of times?"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "こんなのが折れた時",
+          "en": "When something like this breaks."
+        },
+        {
+          "ja": "おぉ～！",
+          "en": "Oh!"
+        },
+        {
+          "ja": "シロクマだね",
+          "en": "It's a polar bear, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "ねぇ　どうやったの？",
+          "en": "Hey, how did you do that?"
+        },
+        {
+          "ja": "秘密",
+          "en": "Secret."
+        },
+        {
+          "ja": "器用だね",
+          "en": "You're quite skillful."
+        },
+        {
+          "ja": "写真撮っていいかな？",
+          "en": "Is it okay if I take a picture?"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "写真？　カメラ持ってるんだ？",
+          "en": "A photo? You have a camera?"
+        },
+        {
+          "ja": "カメラっていうかさ…",
+          "en": "It's more like a camera, you know..."
+        },
+        {
+          "ja": "買ったんだ　スマフォ",
+          "en": "I bought a smartphone."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "なに？　スマフォって",
+          "en": "What? A smartphone?"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "それは　す巻き",
+          "en": "That's a sushi roll."
+        },
+        {
+          "ja": "それは　ちまき",
+          "en": "That's chimaki."
+        },
+        {
+          "ja": "はちまき",
+          "en": "Headband"
+        },
+        {
+          "ja": "葉巻",
+          "en": "Cigar"
+        },
+        {
+          "ja": "ハマチ！",
+          "en": "Yellowtail!"
+        },
+        {
+          "ja": "キムチ！",
+          "en": "Kimchi!"
+        },
+        {
+          "ja": "スマフォだよ！　ス　マ　フォ！",
+          "en": "It's a smartphone! S-M-A-R-T-P-H-O-N-E!"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "スマートフォン　携帯電話の一種だよ",
+          "en": "A smartphone is a type of mobile phone."
+        },
+        {
+          "ja": "あっ！　ペンギンさん それが　スマートフォンですか？",
+          "en": "Oh! Mr. Penguin, is that a smartphone?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "私も　よく知らないんですよね",
+          "en": "I don't really know much about it either."
+        },
+        {
+          "ja": "え？　笹子さんも？",
+          "en": "Huh? You too, Sasako?"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "何ができるんですか？",
+          "en": "What can it do?"
+        },
+        {
+          "ja": "いろいろ便利だよ　アプリも多いし",
+          "en": "It's really convenient for a lot of things, and there are many apps too."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "地図とかも見られますしね",
+          "en": "You can also look at maps, you know."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "ネットだって見られるんだよ　ほら",
+          "en": "You can even browse the internet. Look."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "なんか　小さくて 字　読みづらくないですか？",
+          "en": "Isn't it kind of small and hard to read the text?"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "そんなことないよ こういう時はね　こうするの",
+          "en": "Not at all. In situations like this, you do it like this."
+        },
+        {
+          "ja": "パンチ操作って言ってね",
+          "en": "It's called pinch operation."
+        },
+        {
+          "ja": "叩くんですか？",
+          "en": "Do you hit it?"
+        },
+        {
+          "ja": "違うよ",
+          "en": "No, that's not it."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "ピンチ操作じゃないですか？",
+          "en": "Isn't it pinch operation?"
+        },
+        {
+          "ja": "似たようなもんでしょ",
+          "en": "It's pretty much the same thing, right?"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "そうですか",
+          "en": "I see."
+        },
+        {
+          "ja": "そうだよ",
+          "en": "That's right."
+        },
+        {
+          "ja": "いい？　笹子さん　見てて…",
+          "en": "Okay? Sasako, watch..."
+        },
+        {
+          "ja": "よっ…",
+          "en": "Here goes..."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "本当に　それ　便利なんですか？",
+          "en": "Is that really convenient?"
+        },
+        {
+          "ja": "便利だってば！",
+          "en": "I'm telling you, it's convenient!"
+        },
+        {
+          "ja": "え～と　こうやって…",
+          "en": "Uh, like this..."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "そのうち　簡単に 操作できるようになるよ",
+          "en": "Before long, you'll be able to operate it easily."
+        },
+        {
+          "ja": "あれ？　シロクマくんも持ってたの？",
+          "en": "Oh? Did you have one too, Shirokuma-kun?"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "まぁね　見てて",
+          "en": "Well, yeah. Just watch."
+        },
+        {
+          "ja": "こうやるの",
+          "en": "You do it like this."
+        },
+        {
+          "ja": "あぁ～　かっこいい！",
+          "en": "Ah, that's cool!"
+        },
+        {
+          "ja": "シロクマさん　器用ですね",
+          "en": "Mr. Polar Bear, you're so skillful."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "それほどでも アヤメの花　折ってみた",
+          "en": "It's not that impressive. I tried folding an iris flower."
+        },
+        {
+          "ja": "すご～い！",
+          "en": "Amazing!"
+        },
+        {
+          "ja": "ほんと器用ですね！",
+          "en": "You're really skillful!"
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "よ～し　こうやって…",
+          "en": "Alright, just like this..."
+        },
+        {
+          "ja": "えい！　それ！",
+          "en": "Take that! And this!"
+        },
+        {
+          "ja": "駄目だ…",
+          "en": "It's no good..."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "まぁ　慣れですよ　慣れ",
+          "en": "Well, it's all about getting used to it, getting used to it."
+        },
+        {
+          "ja": "なんか上から目線",
+          "en": "You're kind of condescending."
+        },
+        {
+          "ja": "僕も　スマフォですし",
+          "en": "I'm just using a smartphone too."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "えっ　そうなの？",
+          "en": "Oh, really?"
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "ラマさん　そういう君こそ 上手に操作できるの？",
+          "en": "Llama, can you really handle it well yourself?"
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "もちろんですよ　見ててください",
+          "en": "Of course, just watch me."
+        },
+        {
+          "ja": "おぉ～　すごい！ なんて柔軟な発想！",
+          "en": "Wow! Amazing! What a flexible way of thinking!"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "そうか… わぁ…",
+          "en": "I see... Wow..."
+        },
+        {
+          "ja": "あっ　プロフ交換します？",
+          "en": "Oh, shall we exchange profiles?"
+        },
+        {
+          "ja": "するする",
+          "en": "Sure, sure."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "お勧めの便利なアプリ　知ってるよ",
+          "en": "I know a useful app I can recommend."
+        },
+        {
+          "ja": "え？ なになに？　教えて！",
+          "en": "Huh? What is it? Tell me!"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "やっぱ時代は　スマフォだよね",
+          "en": "After all, it's the age of smartphones, isn't it?"
+        },
+        {
+          "ja": "そうなの？",
+          "en": "Is that so?"
+        },
+        {
+          "ja": "そうだよ",
+          "en": "That's right."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "スマフォがあると すっごく便利なんだから",
+          "en": "Having a smartphone is super convenient."
+        },
+        {
+          "ja": "どんなふうに？",
+          "en": "In what way?"
+        },
+        {
+          "ja": "えっとね…",
+          "en": "Um, well..."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "画面を ちまちま触って操作したり…",
+          "en": "You can fiddle with the screen to operate it..."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "なめたり…",
+          "en": "Licking it..."
+        },
+        {
+          "ja": "くちばしで　つついたり…",
+          "en": "Pecking at it with your beak..."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "そんでもって 字が　すっごく小さくて",
+          "en": "And then, the text is really tiny."
+        },
+        {
+          "ja": "読みづらいんだよ",
+          "en": "It's hard to read."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "便利なの？それ",
+          "en": "Is it convenient?"
+        },
+        {
+          "ja": "あれ？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "とにかく　外で働いてるパンダが ケータイ持ってないなんて",
+          "en": "In any case, it's hard to believe a panda working outside doesn't have a cell phone."
+        },
+        {
+          "ja": "駄目だよ　困るよ",
+          "en": "That's no good, it's a problem."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "別に困らないわよ",
+          "en": "It doesn't really bother me."
+        },
+        {
+          "ja": "いらないでしょ",
+          "en": "You don't need it, right?"
+        },
+        {
+          "ja": "それだと困るなぁ",
+          "en": "That would be a problem."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "何が？",
+          "en": "What do you mean?"
+        },
+        {
+          "ja": "ほら　ケータイあると 何かあったときに便利だよ",
+          "en": "Look, having a cell phone is convenient in case something happens."
+        },
+        {
+          "ja": "何かあったときね…",
+          "en": "When something happens, huh..."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "ねぇ　キッチンのバルサミコ酢が きれちゃったの",
+          "en": "Hey, we're out of balsamic vinegar in the kitchen."
+        },
+        {
+          "ja": "バイト帰りに買ってきてくれる？",
+          "en": "Could you pick some up on your way back from work?"
+        },
+        {
+          "ja": "うん　いいよ",
+          "en": "Yeah, sure."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "便利じゃない！",
+          "en": "It's not convenient!"
+        },
+        {
+          "ja": "いいわよ　買ってあげる",
+          "en": "Sure, I'll buy it for you."
+        },
+        {
+          "ja": "やった～！",
+          "en": "Yay!"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "ほら　見て見て～",
+          "en": "Look, look!"
+        },
+        {
+          "ja": "何ですか？",
+          "en": "What is it?"
+        },
+        {
+          "ja": "この前撮った写真 待ち受けにしてみたんだ",
+          "en": "I set the photo I took the other day as my wallpaper."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "へぇ～　今日は 折り紙折らないんですか？",
+          "en": "Oh, really? Aren't you doing origami today?"
+        },
+        {
+          "ja": "えっ？ 気が向いたら",
+          "en": "Huh? If I feel like it."
+        },
+        {
+          "ja": "そっちの感想！？",
+          "en": "Your thoughts on that!?"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "こんにちは～",
+          "en": "Hello~"
+        },
+        {
+          "ja": "いらっしゃい",
+          "en": "Welcome"
+        },
+        {
+          "ja": "パンダくん　嬉しそうだね",
+          "en": "Panda, you look happy."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "実はさぁ…",
+          "en": "Actually, you know..."
+        },
+        {
+          "ja": "ジャーン！",
+          "en": "Ta-da!"
+        },
+        {
+          "ja": "あぁ　それ！",
+          "en": "Ah, that!"
+        },
+        {
+          "ja": "パンダカバーのスマフォだよ！",
+          "en": "It's a smartphone with a panda cover!"
+        },
+        {
+          "ja": "かわいいね！",
+          "en": "It's cute!"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "いいでしょう～ 見つけるの苦労したんだよ",
+          "en": "Isn't it nice? It was hard to find, you know."
+        },
+        {
+          "ja": "どう？　スマフォ",
+          "en": "What do you think? The smartphone."
+        },
+        {
+          "ja": "やっぱり便利だよね",
+          "en": "It's really convenient, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "ほら　好きな時に　いつだって 天気予報も見られるしね",
+          "en": "Look, you can check the weather forecast anytime you want."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "地図も見られるから 迷子にならなくて済むし",
+          "en": "You can also look at maps, so you won't get lost."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "頭にのせて バランス感覚も　みがけるし",
+          "en": "You can balance it on your head to improve your sense of balance."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "それ スマフォの使い方じゃないけどね",
+          "en": "That's not really how you're supposed to use a smartphone, though."
+        },
+        {
+          "ja": "でも　ペンギンさんより 使いこなしてませんか？",
+          "en": "But aren't you using it better than Mr. Penguin?"
+        },
+        {
+          "ja": "ぼ　僕だって 待ち受けかえてるし",
+          "en": "I've even changed the wallpaper, you know."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "他にも…",
+          "en": "And there's more..."
+        },
+        {
+          "ja": "写真を撮ったり",
+          "en": "Taking photos, for example."
+        },
+        {
+          "ja": "音楽だって聴けるしね",
+          "en": "I can listen to music too, you know."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "だ　大丈夫だよ　パンダくん",
+          "en": "It's okay, Panda-kun."
+        },
+        {
+          "ja": "壊れたのは　カバーだけみたい",
+          "en": "It looks like only the cover is broken."
+        },
+        {
+          "ja": "だって",
+          "en": "But..."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "だから　元気出して",
+          "en": "So cheer up!"
+        },
+        {
+          "ja": "スマフォが無事でよかったです",
+          "en": "I'm glad the smartphone is okay."
+        },
+        {
+          "ja": "はい　パンダくん",
+          "en": "Sure, Panda."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "僕にとって…　スマフォは パンダカバーのおまけだから",
+          "en": "To me... the smartphone is just an extra that comes with the panda cover."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "あら　ちょっと スマホは　どうしたの？　スマホは",
+          "en": "Oh, what happened to your smartphone? Your smartphone."
+        },
+        {
+          "ja": "さっき電話したのよ",
+          "en": "I just called earlier."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "ねぇ　聞こえてる？",
+          "en": "Hey, can you hear me?"
+        },
+        {
+          "ja": "バ　ル　サ　ミ　コ　酢よ　バールーサーミーコー酢！",
+          "en": "Balsamic vinegar, it's baaal-saaamiiic vinegar!"
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "この電話は　お客様の 都合により　出られません",
+          "en": "This call cannot be answered due to the customer's circumstances."
+        },
+        {
+          "ja": "えっ？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "ちっとも便利じゃないわね　スマホ",
+          "en": "Smartphones aren't convenient at all."
+        },
+        {
+          "ja": "あのさ　スマートフォンなんだから スマホじゃなくて　スマフォだよ",
+          "en": "You know, since it's a smartphone, it should be \"smafo\" not \"sumaho.\""
+        },
+        {
+          "ja": "どっちだっていいじゃない",
+          "en": "It doesn't matter either way."
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "こんにちは",
+          "en": "Hello"
+        },
+        {
+          "ja": "シロクマくん　いつものお願い",
+          "en": "Polar Bear, the usual please."
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "パンダくん　ひょっとして 立ち直った？",
+          "en": "Panda-kun, have you perhaps bounced back?"
+        },
+        {
+          "ja": "何が？",
+          "en": "What do you mean?"
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "心配した僕が　バカだったよ",
+          "en": "I was foolish to have worried."
+        },
+        {
+          "ja": "パンダくんのスマフォ　ここにあるからね",
+          "en": "Panda-kun, your smartphone is right here."
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "あぁ　スマフォなら　もういいんだ",
+          "en": "Oh, as for the smartphone, it's fine now."
+        },
+        {
+          "ja": "強がり？",
+          "en": "Putting on a brave face?"
+        },
+        {
+          "ja": "本気",
+          "en": "Serious."
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "だって　パンダじゃないし",
+          "en": "Because I'm not a panda."
+        },
+        {
+          "ja": "えっ？　せっかく買ったんだから 大事に使ったら？",
+          "en": "Huh? Since you went through the trouble of buying it, why not take good care of it?"
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "パンダくん　これ見て　スマフォのケース",
+          "en": "Panda-kun, look at this smartphone case."
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "こんなの折ってみた",
+          "en": "I made something like this."
+        },
+        {
+          "ja": "あっ　パンダだ～！",
+          "en": "Oh, it's a panda!"
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "これなら　紙だから割れないね",
+          "en": "With this, since it's paper, it won't break."
+        },
+        {
+          "ja": "よかったですね",
+          "en": "That's great!"
+        },
+        {
+          "ja": "シロクマさん　さすが！",
+          "en": "Shirokuma-san, you're amazing!"
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "フフッ　やっぱり　パンダは最高だね",
+          "en": "Hehe, pandas really are the best."
+        }
+      ]
+    }
+  ]
+}

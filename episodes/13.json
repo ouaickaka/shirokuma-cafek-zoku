@@ -1,0 +1,913 @@
+{
+  "ep": "13",
+  "title": "半田さん改造計画",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "ねぇねぇ モテ期って知ってる？",
+          "en": "Hey, hey, do you know what a \"mote period\" is?"
+        },
+        {
+          "ja": "モテ期？",
+          "en": "A time when you're popular?"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "それは　汽笛",
+          "en": "That's a steam whistle."
+        },
+        {
+          "ja": "それは　射的",
+          "en": "That's a shooting gallery."
+        },
+        {
+          "ja": "それは　奇跡",
+          "en": "That's a miracle."
+        },
+        {
+          "ja": "モテ期って？",
+          "en": "A \"mote-ki\"?"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "人は一生のうちすごくモテる時期があって",
+          "en": "There is a time in a person's life when they are extremely popular."
+        },
+        {
+          "ja": "それをモテ期って言うんだって",
+          "en": "They say that's called a \"mote-ki\" (a period when you're very popular)."
+        },
+        {
+          "ja": "それ繁殖期でしょ",
+          "en": "That's the mating season, right?"
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "だよね",
+          "en": "Exactly."
+        },
+        {
+          "ja": "ちょっと違うらしいよ",
+          "en": "Apparently, it's a little different."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "繁殖期は　季節が巡ってこないと 訪れないんだけど",
+          "en": "The breeding season doesn't come around unless the seasons change."
+        },
+        {
+          "ja": "モテ期は　努力によって くるらしいんだよ",
+          "en": "It seems that the \"popular phase\" comes through effort."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "何のお話ですか？",
+          "en": "What are you talking about?"
+        },
+        {
+          "ja": "見てて",
+          "en": "Watch me."
+        },
+        {
+          "ja": "笹子さん",
+          "en": "Sasako-san"
+        },
+        {
+          "ja": "はい？",
+          "en": "Yes?"
+        },
+        {
+          "ja": "はい！",
+          "en": "Yes!"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "お面？",
+          "en": "Mask?"
+        },
+        {
+          "ja": "あれ？　じゃあ…",
+          "en": "Huh? Then..."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "ニンジン？",
+          "en": "Carrot?"
+        },
+        {
+          "ja": "あれ？　じゃあ…",
+          "en": "Huh? Then..."
+        },
+        {
+          "ja": "僕　体重１００キロ以上あるんだ",
+          "en": "I'm over 100 kilograms."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "そう",
+          "en": "I see."
+        },
+        {
+          "ja": "重いでしょ？",
+          "en": "It's heavy, right?"
+        },
+        {
+          "ja": "重いね",
+          "en": "It's heavy, isn't it?"
+        },
+        {
+          "ja": "それだけ？",
+          "en": "Is that all?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "おかしいな…",
+          "en": "That's strange..."
+        },
+        {
+          "ja": "モテるには　お面で野菜で 重かったりするはずなんだけど…",
+          "en": "To be popular, it should be heavy with masks and vegetables, but..."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "あの…",
+          "en": "Um..."
+        },
+        {
+          "ja": "イケメンで優しくて おもしろかったりしたらじゃ…",
+          "en": "If he's handsome, kind, and funny, then..."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "ちょっと違った",
+          "en": "A little different."
+        },
+        {
+          "ja": "ニアピン賞",
+          "en": "Close, but no cigar."
+        },
+        {
+          "ja": "いや　大きく間違ってるから",
+          "en": "No, you're way off."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "あっ！ 配達ですか？",
+          "en": "Oh! Are you here for a delivery?"
+        },
+        {
+          "ja": "ステキなお花ですね",
+          "en": "What lovely flowers!"
+        },
+        {
+          "ja": "ありがとうございます",
+          "en": "Thank you."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "あれがモテ期かぁ",
+          "en": "So that's what it's like to be popular, huh?"
+        },
+        {
+          "ja": "じゃあ　これ 売店に届けてきますので",
+          "en": "Alright, I'll deliver this to the shop then."
+        },
+        {
+          "ja": "行っちゃイヤ！",
+          "en": "Don't go!"
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "す…　すみません",
+          "en": "I... I'm sorry"
+        },
+        {
+          "ja": "ああ　いえ　こちらこそ",
+          "en": "Ah, no, thank you."
+        },
+        {
+          "ja": "大丈夫ですか？",
+          "en": "Are you okay?"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "ケガはないかい？",
+          "en": "Are you hurt?"
+        },
+        {
+          "ja": "ああ　僕は　大丈夫です",
+          "en": "Oh, I'm fine."
+        },
+        {
+          "ja": "本当に？",
+          "en": "Really?"
+        },
+        {
+          "ja": "ええ",
+          "en": "Yes."
+        },
+        {
+          "ja": "よかった",
+          "en": "That's good."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "心配しちゃったよ",
+          "en": "I was really worried."
+        },
+        {
+          "ja": "半田さん",
+          "en": "Handa."
+        },
+        {
+          "ja": "僕が力になるよ",
+          "en": "I'll be there to help you."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "なんとかしてあげるから",
+          "en": "I'll figure something out for you."
+        },
+        {
+          "ja": "ああ　パンダくん　おはよう！",
+          "en": "Ah, Panda-kun, good morning!"
+        },
+        {
+          "ja": "リンリンは　僕のこと必要ないでしょ",
+          "en": "Rinrin doesn't need me, right?"
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "さあ　半田さん行こう",
+          "en": "Come on, Handa-san, let's go."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "こんにちは！ 聞いて　聞いて！",
+          "en": "Hello! Listen, listen!"
+        },
+        {
+          "ja": "どうしたんですか？",
+          "en": "What's the matter?"
+        },
+        {
+          "ja": "やっと仮免　受かったよ",
+          "en": "I finally passed the learner's permit test!"
+        },
+        {
+          "ja": "ついにだよ　とうとうだよ！",
+          "en": "Finally, it happened! At long last!"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "あれ？　シロクマくんはいないの？",
+          "en": "Huh? Isn't Shirokuma-kun here?"
+        },
+        {
+          "ja": "大切な用事があるからって…",
+          "en": "He said he had something important to take care of..."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "ここでやるの？",
+          "en": "Are we doing it here?"
+        },
+        {
+          "ja": "協力してね　シロクマくん",
+          "en": "Please cooperate, Shirokuma-kun."
+        },
+        {
+          "ja": "パンダくん　やる気だね",
+          "en": "Panda, you're really motivated."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "いろいろ情報　仕入れてきたよ",
+          "en": "I've gathered a lot of information."
+        },
+        {
+          "ja": "ごめん！　ちょっと お年寄りに道を聞かれてさ",
+          "en": "Sorry! An elderly person just asked me for directions."
+        },
+        {
+          "ja": "さあ　行くよ　半田さん",
+          "en": "Alright, let's go, Handa."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "えっ？　どこへ？",
+          "en": "Huh? Where to?"
+        },
+        {
+          "ja": "半田さん改造計画！",
+          "en": "The Handa-san Transformation Plan!"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "まずは　ファッションだよ",
+          "en": "First, it's fashion."
+        },
+        {
+          "ja": "さり気ない　トラッド",
+          "en": "Subtle trad."
+        },
+        {
+          "ja": "う～ん　ちょっとカタイね",
+          "en": "Hmm, it's a bit stiff."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "パンクはどう？",
+          "en": "How about punk?"
+        },
+        {
+          "ja": "う～ん　これもね…",
+          "en": "Hmm, this too..."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "渋谷系とか",
+          "en": "How about Shibuya-kei?"
+        },
+        {
+          "ja": "というより　サブカル系？",
+          "en": "Or rather, subculture style?"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "あぁ～！　これ　これ",
+          "en": "Ah! This is it!"
+        },
+        {
+          "ja": "いいんじゃない？",
+          "en": "Isn't it good?"
+        },
+        {
+          "ja": "これじゃ　いつもと同じだよ",
+          "en": "This is just the same as always."
+        },
+        {
+          "ja": "う～ん",
+          "en": "Hmm..."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "じゃあ…",
+          "en": "Well then..."
+        },
+        {
+          "ja": "モテファッションといえば",
+          "en": "When it comes to trendy fashion..."
+        },
+        {
+          "ja": "オスとして 強く　アピールできるものがいいよね",
+          "en": "As a male, something that can strongly make an impression would be good, right?"
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "ニワトリなら　立派なトサカだし",
+          "en": "If it's a rooster, then a splendid comb."
+        },
+        {
+          "ja": "猫なら　耳かな？",
+          "en": "If it's a cat, maybe the ears?"
+        },
+        {
+          "ja": "鳥なら　羽でしょ",
+          "en": "If it's a bird, then it's the feathers, right?"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "でも　やっぱ　これだよね",
+          "en": "But in the end, it's got to be this, right?"
+        },
+        {
+          "ja": "パンダの着ぐるみ？",
+          "en": "A panda costume?"
+        },
+        {
+          "ja": "半田さん 日ごろの僕を見てて　わからない？",
+          "en": "Handa-san, don't you understand from watching me every day?"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "モテモテだよ",
+          "en": "I'm quite popular."
+        },
+        {
+          "ja": "これなんか　どう？",
+          "en": "How about this?"
+        },
+        {
+          "ja": "ちょっと　きついけど",
+          "en": "It's a bit tight, though."
+        },
+        {
+          "ja": "シロクマくん　パンダみたいだね",
+          "en": "Shirokuma-kun, you look like a panda."
+        },
+        {
+          "ja": "パンダくんの代わりに 動物園で働こうかな",
+          "en": "Maybe I should work at the zoo in Panda-kun's place."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "ムリでしょ",
+          "en": "That's impossible."
+        },
+        {
+          "ja": "袋　開けたんだから ちゃんと買いなよ",
+          "en": "You opened the bag, so you should buy it properly."
+        },
+        {
+          "ja": "お財布　持ってきてない",
+          "en": "I didn't bring my wallet."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "ありがとうございました",
+          "en": "Thank you very much."
+        },
+        {
+          "ja": "じゃあ　次",
+          "en": "Well then, next."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "グルメ情報も大事らしいよ",
+          "en": "Apparently, gourmet information is important too."
+        },
+        {
+          "ja": "どう　大事なの？",
+          "en": "How is it important?"
+        },
+        {
+          "ja": "半田さんの人生にだよ",
+          "en": "In Handa-san's life."
+        },
+        {
+          "ja": "そうなんだ…",
+          "en": "I see..."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "もう！　何？　そのやる気のなさ",
+          "en": "Geez! What's with the lack of enthusiasm?"
+        },
+        {
+          "ja": "僕が　こんなに一生懸命なのに",
+          "en": "I'm trying so hard, you know."
+        },
+        {
+          "ja": "おいしそうなもの いっぱい　あるね",
+          "en": "There are so many delicious-looking things."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "あぁ～！　笹まんじゅう 笹だんご　笹ようかん",
+          "en": "Ahh! Bamboo leaf manju, bamboo leaf dango, bamboo leaf yokan."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "買ってあげなよ",
+          "en": "You should buy them."
+        },
+        {
+          "ja": "しようがないな…　１個だけね",
+          "en": "I guess I have no choice... Just one, okay?"
+        },
+        {
+          "ja": "これも　よろしく",
+          "en": "Add this one too, please."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "半田さん！",
+          "en": "Mr. Handa!"
+        },
+        {
+          "ja": "半田さん！",
+          "en": "Mr. Handa!"
+        },
+        {
+          "ja": "１００円　１００円",
+          "en": "100 yen, 100 yen"
+        },
+        {
+          "ja": "シロクマくん　何やってるの！？",
+          "en": "Shirokuma-kun, what are you doing!?"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "半田さん　いっぱい　持ってるね　モテモテだよ",
+          "en": "Handa, you're carrying a lot. You're quite popular!"
+        },
+        {
+          "ja": "これで　半田さんも だいぶ　改造人間になったね",
+          "en": "With this, Handa-san has become quite the modified human."
+        },
+        {
+          "ja": "いや…　それ　戦っちゃうから",
+          "en": "No... because then I'll end up fighting."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "どうする？",
+          "en": "What should we do?"
+        },
+        {
+          "ja": "行こう！",
+          "en": "Let's go!"
+        },
+        {
+          "ja": "なんだろう？　こっち　見てるよ",
+          "en": "I wonder what it is? It's looking this way."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "あの…",
+          "en": "Um..."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "もし　よかったら…",
+          "en": "If you don't mind..."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "一緒に写真　撮ってもらえますか？",
+          "en": "Could you take a picture with me?"
+        },
+        {
+          "ja": "きたよ　モテ期！",
+          "en": "Here comes my time to shine!"
+        },
+        {
+          "ja": "いいですよ",
+          "en": "Sure!"
+        },
+        {
+          "ja": "お願いします！",
+          "en": "Please!"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "パンダくん　人気者だね",
+          "en": "Panda, you're quite the popular one."
+        },
+        {
+          "ja": "僕も一緒に撮ってくる",
+          "en": "I'll go take a picture with them too."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "もう１枚　撮りますよ",
+          "en": "I'll take one more picture."
+        },
+        {
+          "ja": "は～い！",
+          "en": "Okaay!"
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "あぁ　楽しかった！",
+          "en": "Ah, that was fun!"
+        },
+        {
+          "ja": "おかえり　遅かったね",
+          "en": "Welcome back, you were late."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "すみません！ 注文　お願いします",
+          "en": "Excuse me! I'd like to place an order, please."
+        },
+        {
+          "ja": "はい　お待たせしました",
+          "en": "Here you go, sorry for the wait."
+        },
+        {
+          "ja": "お水のお代わりください",
+          "en": "Could I have a refill of water, please?"
+        },
+        {
+          "ja": "ただ今！",
+          "en": "I'm back!"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "忙しそうだな",
+          "en": "Looks busy."
+        },
+        {
+          "ja": "笹子さん　モテモテだね",
+          "en": "Ms. Sasago, you're quite popular."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "あっ！ 半田さんじゃないですか",
+          "en": "Oh! Isn't that Mr. Handa?"
+        },
+        {
+          "ja": "すみません お水　お代わり　お願いします",
+          "en": "Excuse me, could I have a refill of water, please?"
+        },
+        {
+          "ja": "あぁ　半田さん！ 背中　かいてもらえますか？",
+          "en": "Ah, Handa-san! Could you scratch my back?"
+        },
+        {
+          "ja": "半田さ～ん…",
+          "en": "Haaanda..."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "ここに座らないように言って",
+          "en": "Tell them not to sit here."
+        },
+        {
+          "ja": "はい　はい",
+          "en": "Sure, sure."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "うん　ありがとうございます",
+          "en": "Yeah, thank you."
+        },
+        {
+          "ja": "いえ　いえ",
+          "en": "No, no."
+        },
+        {
+          "ja": "このへん？",
+          "en": "Around here?"
+        },
+        {
+          "ja": "も…　もうちょい　右です",
+          "en": "A little more to the right."
+        },
+        {
+          "ja": "ここに座ってね",
+          "en": "Sit here."
+        },
+        {
+          "ja": "ありがとう",
+          "en": "Thank you."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "半田さんにも　やっと…",
+          "en": "Finally, even Handa-san..."
+        },
+        {
+          "ja": "きたね",
+          "en": "You're here."
+        },
+        {
+          "ja": "モテ期",
+          "en": "Period of popularity"
+        },
+        {
+          "ja": "半田さん お水　もう１杯　もらえますか？",
+          "en": "Mr. Handa, could I have another glass of water?"
+        },
+        {
+          "ja": "はい　はい",
+          "en": "Sure, sure."
+        },
+        {
+          "ja": "半田さん",
+          "en": "Handa."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "こっちもかいて",
+          "en": "Write this one too."
+        },
+        {
+          "ja": "かくよ！",
+          "en": "I'll write it!"
+        },
+        {
+          "ja": "半田さ～ん！",
+          "en": "Haaanda!"
+        },
+        {
+          "ja": "なんだい？",
+          "en": "What is it?"
+        }
+      ]
+    }
+  ]
+}

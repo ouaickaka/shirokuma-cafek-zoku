@@ -1,0 +1,11 @@
+media/
+.Rproj.user/
+.Rhistory
+.RData
+subtitles/
+*.old
+.env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store

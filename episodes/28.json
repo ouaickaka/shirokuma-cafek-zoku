@@ -1,0 +1,960 @@
+{
+  "ep": "28",
+  "title": "海に行こう",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "いらっしゃいませ",
+          "en": "Welcome"
+        },
+        {
+          "ja": "あれ　今日白熊君は",
+          "en": "Oh, where's Shirokuma-kun today?"
+        },
+        {
+          "ja": "お出かけなんですよ",
+          "en": "He's out right now."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "やってきました　海",
+          "en": "Here we are at the beach."
+        },
+        {
+          "ja": "海",
+          "en": "The sea"
+        },
+        {
+          "ja": "夏は海だよね",
+          "en": "Summer is all about the sea, right?"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "ペンギンさん　どう　このシャツおニュウなんだ",
+          "en": "Penguin, what do you think of this shirt? It's brand new."
+        },
+        {
+          "ja": "パンダ君　普段何にも着てないのに",
+          "en": "Panda-kun, you usually don't wear anything."
+        },
+        {
+          "ja": "シーンにあわせた装い",
+          "en": "An outfit to match the scene"
+        },
+        {
+          "ja": "何のシーンなんだか",
+          "en": "What kind of scene is it, anyway?"
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "早く着替えて泳ごう",
+          "en": "Hurry up and change so we can swim."
+        },
+        {
+          "ja": "ええ　もっとゆっくりしようよ　白熊君",
+          "en": "Hey, let's take it easy, Polar Bear."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "あれ　パンダや",
+          "en": "Huh, it's a panda."
+        },
+        {
+          "ja": "ほんまや　海にパンダがいてるわ",
+          "en": "It's true, there's a panda in the sea."
+        },
+        {
+          "ja": "アロハ着て　可愛らしいな",
+          "en": "Wearing an aloha shirt, how cute."
+        },
+        {
+          "ja": "これからどこ行くん",
+          "en": "Where are you going next?"
+        },
+        {
+          "ja": "飴ちゃ　あげようか",
+          "en": "Would you like a candy?"
+        },
+        {
+          "ja": "ありがとう",
+          "en": "Thank you."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "ほなな　気ィつけてな",
+          "en": "Take care, then. See you later."
+        },
+        {
+          "ja": "モテモテだよ",
+          "en": "You're quite popular!"
+        },
+        {
+          "ja": "あれ　白熊君は",
+          "en": "Huh, where's Shirokuma-kun?"
+        },
+        {
+          "ja": "あっち",
+          "en": "Over there."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "素敵",
+          "en": "Wonderful"
+        },
+        {
+          "ja": "かっこいい",
+          "en": "Cool"
+        },
+        {
+          "ja": "モテモテだね",
+          "en": "He's so popular."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "白熊君　早く行かないと日が暮れちゃうよ",
+          "en": "Polar Bear, if you don't hurry, the sun will set."
+        },
+        {
+          "ja": "さっきまでゆっくりしようって言ってたのに",
+          "en": "You were just saying we should take it easy a moment ago."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "やっぱり着替えるんだ",
+          "en": "You're changing after all."
+        },
+        {
+          "ja": "ペンギンさんこそ　いつも同じで飽きないの",
+          "en": "Penguin, don't you ever get tired of always wearing the same thing?"
+        },
+        {
+          "ja": "パンダ君だっていつもは大体同じじゃない",
+          "en": "Panda, you're usually the same too, aren't you?"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "まず　何しようか",
+          "en": "What should we do first?"
+        },
+        {
+          "ja": "僕　魚とりに行く",
+          "en": "I'm going to catch some fish."
+        },
+        {
+          "ja": "僕はお昼寝",
+          "en": "I'll take a nap."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "いい波だね",
+          "en": "Great waves, huh?"
+        },
+        {
+          "ja": "皆　ばらばらだな",
+          "en": "Everyone's doing their own thing."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "せっかく皆で来てるんだからさ",
+          "en": "Since we're all here together, we should do something as a group."
+        },
+        {
+          "ja": "一緒になんかやろうよ",
+          "en": "Let's do something together."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "あっちでシーカヤックを貸してくれるらしいよ",
+          "en": "I heard they rent out sea kayaks over there."
+        },
+        {
+          "ja": "何それ",
+          "en": "What's that?"
+        },
+        {
+          "ja": "知らないけど　やりたい",
+          "en": "I don't know, but I want to try it."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "うん　見渡す限りの水平線　気持ちがいいね",
+          "en": "Yeah, the endless horizon is so refreshing."
+        },
+        {
+          "ja": "難しいよ白熊君　どうやるの",
+          "en": "It's difficult, Shirokuma-kun. How do you do it?"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "水面深くまでパドルを入れないで",
+          "en": "Don't put the paddle too deep into the water."
+        },
+        {
+          "ja": "利き手側のブレード引き押せたら 同時に反対側を押し出す",
+          "en": "If you can pull and push the blade on your dominant side, simultaneously push out the opposite side."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "両肩のラインよりひじが回らないように",
+          "en": "Make sure your elbows don't rotate beyond the line of your shoulders."
+        },
+        {
+          "ja": "むしろ腰を回転…",
+          "en": "Instead, rotate your hips..."
+        },
+        {
+          "ja": "もっと簡単に言ってくれる",
+          "en": "Could you explain it more simply?"
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "ペンギンさんがいつも泳ぐときみたいに",
+          "en": "Like how Mr. Penguin always swims."
+        },
+        {
+          "ja": "よーし",
+          "en": "Alright!"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "ね　見た　パンダ君",
+          "en": "Hey, did you see that, Panda?"
+        },
+        {
+          "ja": "飽きたよ",
+          "en": "I'm bored."
+        },
+        {
+          "ja": "はやっ",
+          "en": "So fast!"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "海しか見えないし　動かないよ",
+          "en": "All I can see is the ocean, and nothing's moving."
+        },
+        {
+          "ja": "海に来てるんだし　漕いでないから当たり前じゃない",
+          "en": "We're at the sea, so of course it's not moving since we're not rowing."
+        },
+        {
+          "ja": "こがなくていいやつ　乗る",
+          "en": "I'll ride the one that doesn't need paddling."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "次は　何しようか",
+          "en": "What should we do next?"
+        },
+        {
+          "ja": "やっぱり砂浜でまったりがいいよ",
+          "en": "After all, relaxing on the beach is the best."
+        },
+        {
+          "ja": "のんびり干物作り",
+          "en": "Relax and make dried fish."
+        },
+        {
+          "ja": "ウクレレ弾こうっと",
+          "en": "I'll play the ukulele."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "ねえ　僕の体を作ってよ",
+          "en": "Hey, make my body."
+        },
+        {
+          "ja": "どんなの",
+          "en": "What kind?"
+        },
+        {
+          "ja": "マッチョでね　セクシーな感じがいいな",
+          "en": "Muscular and, you know, a sexy vibe would be nice."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "前に言ってた　逆三角形の足の長いやつ",
+          "en": "The one with the inverted triangle shape and long legs you mentioned before."
+        },
+        {
+          "ja": "呼ばれて飛び出た　ドリームパンダ",
+          "en": "Called and popped out, Dream Panda!"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "あれよりごつい感じ",
+          "en": "More muscular than that."
+        },
+        {
+          "ja": "でもむきむきすぎないの",
+          "en": "But not too muscular."
+        },
+        {
+          "ja": "注文多いな",
+          "en": "You're quite picky."
+        },
+        {
+          "ja": "任せて",
+          "en": "Leave it to me."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "どう",
+          "en": "How's this?"
+        },
+        {
+          "ja": "お相撲さんだね",
+          "en": "He's like a sumo wrestler."
+        },
+        {
+          "ja": "ごつくてむきむきすぎない",
+          "en": "Bulky but not too muscular."
+        },
+        {
+          "ja": "やだ",
+          "en": "No way."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "任せて",
+          "en": "Leave it to me."
+        },
+        {
+          "ja": "ごつ過ぎるよ",
+          "en": "It's too bulky."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "もっとかっこいいのがいいな",
+          "en": "I'd prefer something cooler."
+        },
+        {
+          "ja": "任せて",
+          "en": "Leave it to me."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "かっこいいけど違う",
+          "en": "It's cool, but it's not right."
+        },
+        {
+          "ja": "モテモテがいい",
+          "en": "I want something that makes me popular."
+        },
+        {
+          "ja": "任せて",
+          "en": "Leave it to me."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "これってモテモテ",
+          "en": "Is this what you mean by popular?"
+        },
+        {
+          "ja": "うん　皆でお祝いしてるし",
+          "en": "Yeah, everyone's celebrating."
+        },
+        {
+          "ja": "僕　必要",
+          "en": "I need it."
+        },
+        {
+          "ja": "次は何しようか",
+          "en": "What should we do next?"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "誰がやる",
+          "en": "Who's going to do it?"
+        },
+        {
+          "ja": "白熊君　やりなよ",
+          "en": "Polar Bear, you should do it."
+        },
+        {
+          "ja": "いいの",
+          "en": "Is it okay?"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "何遠慮してるの",
+          "en": "What are you hesitating for?"
+        },
+        {
+          "ja": "そうじゃなくて",
+          "en": "That's not it."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "目隠ししても分かっちゃうんだよ",
+          "en": "Even with my eyes covered, I can still tell."
+        },
+        {
+          "ja": "鼻がいいから",
+          "en": "Because I have a good sense of smell."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "じゃあ　パンダ君",
+          "en": "Then, Mr. Panda."
+        },
+        {
+          "ja": "よーし",
+          "en": "Alright!"
+        },
+        {
+          "ja": "パンダ君　寝てる",
+          "en": "Panda, you're sleeping."
+        },
+        {
+          "ja": "パンダ君に目隠しはダメだね",
+          "en": "Blindfolding Panda-kun is no good."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "右だよ　ペンギンさん",
+          "en": "It's to the right, Mr. Penguin."
+        },
+        {
+          "ja": "右ってどれぐらい",
+          "en": "How far to the right?"
+        },
+        {
+          "ja": "上半身を30度右にねじって　僅かに前傾姿勢をとる",
+          "en": "Twist your upper body 30 degrees to the right and lean slightly forward."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "そして　腕を目の高さに当てて…",
+          "en": "And then, raise your arm to eye level..."
+        },
+        {
+          "ja": "もっと簡単に言ってくれる",
+          "en": "Could you explain it more simply?"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "真ん前",
+          "en": "Right in front"
+        },
+        {
+          "ja": "そこだよ　ペンギンさん",
+          "en": "That's it, Mr. Penguin."
+        },
+        {
+          "ja": "ホント",
+          "en": "Really"
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "ペン子さんにアタックするつもりで",
+          "en": "I'm planning to make a move on Penko."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "ペン子さん",
+          "en": "Penguin-san"
+        },
+        {
+          "ja": "あの　え　ペン子さん　干物がお好きですか",
+          "en": "Um, uh, Penko, do you like dried fish?"
+        },
+        {
+          "ja": "僕は好きです",
+          "en": "I like it."
+        },
+        {
+          "ja": "あの　干物が好き　というかペン子さんも　いいえ",
+          "en": "Um, it's not so much that I like dried fish, but Penko-san... no."
+        },
+        {
+          "ja": "ペン子さんが　あ",
+          "en": "Penko-san, ah..."
+        },
+        {
+          "ja": "ぺぺぺぺぺ　ペン子さん",
+          "en": "Uh, uh, uh, uh, uh, Penko-san."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "ペン子さん　聞いてくれますか",
+          "en": "Penko, will you listen to me?"
+        },
+        {
+          "ja": "ペン子さん　ペン子さん",
+          "en": "Penko, Penko."
+        },
+        {
+          "ja": "お幸せに",
+          "en": "Be happy."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "ご注文は　お決まりですか",
+          "en": "Have you decided on your order?"
+        },
+        {
+          "ja": "竹　大盛り",
+          "en": "Large bamboo"
+        },
+        {
+          "ja": "ありません",
+          "en": "There isn't any."
+        },
+        {
+          "ja": "じゃあ　普通盛りでいいんです",
+          "en": "Then, a regular serving is fine."
+        },
+        {
+          "ja": "すみません　どっちもありません",
+          "en": "Sorry, we don't have either."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "海の家名物　竹大盛り",
+          "en": "Beach House Specialty: Bamboo Large Serving"
+        },
+        {
+          "ja": "絶対人気出るよ",
+          "en": "It'll definitely become popular."
+        },
+        {
+          "ja": "パンダ君にだけでしょ",
+          "en": "It's only popular with Panda-kun, right?"
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "僕　このサーモンの軽いスモーク ミキュイ　ソース　クレソニエール",
+          "en": "I'll have the lightly smoked salmon mi-cuit with cress sauce."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "違うでしょ",
+          "en": "That's not right."
+        },
+        {
+          "ja": "じゃあ　僕もトッピング竹で",
+          "en": "Then I'll have the bamboo topping too."
+        },
+        {
+          "ja": "ないから　そのトッピング",
+          "en": "That topping doesn't exist."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "ペンギンさんは",
+          "en": "What about Mr. Penguin?"
+        },
+        {
+          "ja": "僕はシーフードラーメン",
+          "en": "I'll have the seafood ramen."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "あつっ　あつあつあつ",
+          "en": "Hot, hot, hot, hot!"
+        },
+        {
+          "ja": "ペンギンさんいつも生魚だもんね",
+          "en": "Penguin, you always go for raw fish, don't you?"
+        },
+        {
+          "ja": "ペンギン舌だね",
+          "en": "You've got a penguin tongue."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "なにそれ",
+          "en": "What's that?"
+        },
+        {
+          "ja": "猫舌のペンギン版",
+          "en": "Penguin version of a cat tongue"
+        },
+        {
+          "ja": "普通に猫舌でいいよ",
+          "en": "Just call it a regular cat tongue."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "頑張って シーフードがペンギンさんを待ってるよ",
+          "en": "Hang in there, the seafood is waiting for you, Mr. Penguin!"
+        },
+        {
+          "ja": "あつあつ",
+          "en": "Piping hot"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "シーフードなら海で食べればいいのに",
+          "en": "If it's seafood, you should just eat it at the sea."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "もっともなこと言わないでくれる",
+          "en": "Could you not say something so reasonable?"
+        },
+        {
+          "ja": "ああ　もう行儀悪いな",
+          "en": "Ah, that's so rude."
+        },
+        {
+          "ja": "女の子に嫌われちゃうよ",
+          "en": "Girls will end up disliking you."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "ほら",
+          "en": "Here you go."
+        },
+        {
+          "ja": "パンダさんが焼き蕎麦食べてる",
+          "en": "Mr. Panda is eating yakisoba."
+        },
+        {
+          "ja": "可愛い",
+          "en": "Cute."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "高評価だね",
+          "en": "That's a high rating."
+        },
+        {
+          "ja": "何で",
+          "en": "Why?"
+        },
+        {
+          "ja": "シーンに合わせたふるまい",
+          "en": "Behavior suited to the scene"
+        },
+        {
+          "ja": "僕だってラーメン食べてるのに",
+          "en": "I'm eating ramen too, though."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "ペンギンがラーメン食べてる",
+          "en": "A penguin is eating ramen."
+        },
+        {
+          "ja": "何だあれ　珍しい",
+          "en": "What's that? That's unusual."
+        },
+        {
+          "ja": "低評価だね",
+          "en": "That's a low rating."
+        },
+        {
+          "ja": "何で",
+          "en": "Why?"
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "おいしいね",
+          "en": "It's delicious, isn't it?"
+        },
+        {
+          "ja": "やっぱりおいしく感じるシーンっていうのがあるのかもね",
+          "en": "Maybe there are scenes where it really does feel delicious."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "皆と一緒に風を感じながら",
+          "en": "Feeling the wind together with everyone"
+        },
+        {
+          "ja": "次はかき氷食べよう",
+          "en": "Let's have shaved ice next."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "僕　イチゴ味がいいな",
+          "en": "I think I'd like strawberry flavor."
+        },
+        {
+          "ja": "せっかくいいこと言ったのに",
+          "en": "I said something nice for nothing."
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "もう　皆ばらばらだよ",
+          "en": "Everyone's all scattered now."
+        },
+        {
+          "ja": "ホント自分勝手っていうか　チームワークがないっていうか",
+          "en": "It's really selfish, or maybe there's just no teamwork."
+        },
+        {
+          "ja": "ばらばらだよ",
+          "en": "We're all over the place."
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "楽しかったね",
+          "en": "It was fun, wasn't it?"
+        },
+        {
+          "ja": "そうだね　干物も作れたし",
+          "en": "Yeah, that's true. We even managed to make dried fish."
+        },
+        {
+          "ja": "海って　いいよね",
+          "en": "The ocean is nice, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "本日の列車は運行を終了しました",
+          "en": "Today's train service has ended."
+        },
+        {
+          "ja": "寝過ごした",
+          "en": "I overslept."
+        },
+        {
+          "ja": "山も　いいよね",
+          "en": "Mountains are nice too, aren't they?"
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "次は何する",
+          "en": "What should we do next?"
+        },
+        {
+          "ja": "干物食べる",
+          "en": "Eat dried fish."
+        }
+      ]
+    }
+  ]
+}

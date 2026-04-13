@@ -1,0 +1,1006 @@
+{
+  "ep": "23",
+  "title": "パンダくんヒマに困る",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "どうしたの?パンダくん",
+          "en": "What's wrong, Panda-kun?"
+        },
+        {
+          "ja": "バイト行きたくないよ",
+          "en": "I don't want to go to my part-time job."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "梅雨に入ってから お客さんが少なくてさ",
+          "en": "Since the rainy season started, there have been fewer customers."
+        },
+        {
+          "ja": "ヒマでヒマで超退屈なんだ",
+          "en": "I'm so bored, bored out of my mind."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "贅沢だな",
+          "en": "That's a luxury."
+        },
+        {
+          "ja": "どうせゴロゴロしてるだけでしょ",
+          "en": "You're just lazing around anyway, right?"
+        },
+        {
+          "ja": "ヒマすぎるってつらいんだよ",
+          "en": "It's tough when it's too boring."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "それに僕は仕事でゴロゴロしてるの",
+          "en": "Besides, I'm lounging around because of work."
+        },
+        {
+          "ja": "ただのゴロゴロとは違うんだから",
+          "en": "It's not just lazing around, you know."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "意味がわからないよ",
+          "en": "I don't understand what you mean."
+        },
+        {
+          "ja": "僕もヒマになってゴロゴロしてみたいね",
+          "en": "I'd like to have some free time and just laze around too."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "ゆっくりオヤツ食べても",
+          "en": "Even if I leisurely eat snacks"
+        },
+        {
+          "ja": "１時間しか経ってなかったりするんだよ",
+          "en": "Only an hour has passed."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "オヤツに１時間ってまるでセレブなマダムだね",
+          "en": "Spending an hour on a snack is like being a celebrity madam."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "コラ!何してるんですか",
+          "en": "Hey! What are you doing?"
+        },
+        {
+          "ja": "だってお客さんいなくて ヒマなんだもん",
+          "en": "But there are no customers, so I'm bored."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "もう…ちゃぶ台なんか持ち込んで",
+          "en": "Honestly... bringing in a low table like that."
+        },
+        {
+          "ja": "いやぁ気づかれないように 持ち込むのが大変で大変で",
+          "en": "Oh, it was really tough sneaking it in without being noticed."
+        },
+        {
+          "ja": "持ち込んじゃいけません!",
+          "en": "You mustn't bring it in!"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "まぁまぁ落ち着いて",
+          "en": "There, there, calm down."
+        },
+        {
+          "ja": "健康にいい熊笹茶でも一杯どう?",
+          "en": "How about a cup of healthy bamboo grass tea?"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "えっ?熊笹茶?",
+          "en": "Huh? Bamboo grass tea?"
+        },
+        {
+          "ja": "熊笹茶に含まれる笹多糖体には",
+          "en": "The bamboo polysaccharides contained in the kumazasa tea have..."
+        },
+        {
+          "ja": "ダイエット効果もあるしね",
+          "en": "It also has a slimming effect, you know."
+        },
+        {
+          "ja": "ホント?",
+          "en": "Really?"
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "いや最近メタボ気味でさ",
+          "en": "No, I've been feeling a bit overweight lately."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "さっさと片付けなさ～い!",
+          "en": "Hurry up and clean up!"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "今何時?",
+          "en": "What time is it now?"
+        },
+        {
+          "ja": "寝てたの?う～んとね",
+          "en": "Were you sleeping? Hmm, well..."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "まだ１０時だね",
+          "en": "It's still 10 o'clock."
+        },
+        {
+          "ja": "まだ たったの３０分しか経ってないの?",
+          "en": "Has it really only been 30 minutes?"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "夢の中では アイドル歌手としてＣＤデビューして",
+          "en": "In my dream, I made my CD debut as an idol singer."
+        },
+        {
+          "ja": "年末にはヤマアラシさんと年越しカウントダウンライブまでしたのに",
+          "en": "By the end of the year, I even did a New Year's countdown live show with Mr. Porcupine."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "よくそんな都合のいい夢が見られるもんだね",
+          "en": "It's amazing how you can have such convenient dreams."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "でヤマアラシって誰?",
+          "en": "So, who is this Yamaarashi?"
+        },
+        {
+          "ja": "えっ!?あの国民的アイドルグループを 知らないの?",
+          "en": "What!? You don't know that national idol group?"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "一般常識だよ",
+          "en": "It's common knowledge."
+        },
+        {
+          "ja": "グサっときた",
+          "en": "That hit me hard."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "パンダくんに一般常識って言われて",
+          "en": "Being told by Panda-kun that it's common knowledge."
+        },
+        {
+          "ja": "今なんかグサっときた",
+          "en": "That kind of hit me hard just now."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "娘さんが２人もいるんでしょ?",
+          "en": "You have two daughters, right?"
+        },
+        {
+          "ja": "ファンじゃないの?",
+          "en": "Aren't you a fan?"
+        },
+        {
+          "ja": "最近あんまり会話がないしね",
+          "en": "We haven't really been talking much lately."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "なんか切なくなってきたから",
+          "en": "I'm starting to feel a bit sad."
+        },
+        {
+          "ja": "あっち向いてホイでもやろうか",
+          "en": "How about we play 'Look That Way'?"
+        },
+        {
+          "ja": "いいよ",
+          "en": "Sure."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "ジャンケンポン!",
+          "en": "Rock, paper, scissors!"
+        },
+        {
+          "ja": "あっち向いてホイ!",
+          "en": "Look that way!"
+        },
+        {
+          "ja": "ジャンケンポン!",
+          "en": "Rock, paper, scissors!"
+        },
+        {
+          "ja": "あっち向いてホイ!",
+          "en": "Look that way!"
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "ジャンケンポン!",
+          "en": "Rock, paper, scissors!"
+        },
+        {
+          "ja": "あっち向いてホイ!",
+          "en": "Look that way!"
+        },
+        {
+          "ja": "ホイ!",
+          "en": "This way!"
+        },
+        {
+          "ja": "ホイ!",
+          "en": "This way!"
+        },
+        {
+          "ja": "ホイ!",
+          "en": "This way!"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "もしかして私をバカにしてる?",
+          "en": "Are you making fun of me?"
+        },
+        {
+          "ja": "さっき寝違えてさ",
+          "en": "I just slept wrong earlier."
+        },
+        {
+          "ja": "右にしか首が回らなくなっちゃったみたい",
+          "en": "It seems like I can only turn my head to the right now."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "ねぇ何作ってるの?",
+          "en": "Hey, what are you making?"
+        },
+        {
+          "ja": "星銃士ビスマルＡの復刻版だよ",
+          "en": "It's a reissue of Star Musketeer Bismarck A."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "ふ～ん",
+          "en": "Hmm."
+        },
+        {
+          "ja": "ふ～んってうちの奥さんみたいな リアクションしないでよ",
+          "en": "Hmm, don't react like that, it reminds me of my wife."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "これはね プレミアもので",
+          "en": "This is a premium item."
+        },
+        {
+          "ja": "ネットオークションで落札するのが大変だったんだから",
+          "en": "It was really tough to win it on the online auction."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "ふ～ん",
+          "en": "Hmm."
+        },
+        {
+          "ja": "だからふ～んはやめて",
+          "en": "So stop saying \"hmm.\""
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "常勤パンダさんが モデラーなんて知らなかったよ",
+          "en": "I didn't know you were a modeler, Jokin Panda."
+        },
+        {
+          "ja": "プラモは男のロマンだからね",
+          "en": "Model kits are a man's romance, you know."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "ねぇ私のコレクション見たい?",
+          "en": "Hey, do you want to see my collection?"
+        },
+        {
+          "ja": "えっ!どこにあるの?",
+          "en": "Huh! Where is it?"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "家にもたくさんあるんだけど",
+          "en": "I have a lot at home too."
+        },
+        {
+          "ja": "狭くなるからって家族に迷惑がられててさ",
+          "en": "My family is annoyed because it makes the house feel cramped."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "娘さんが２人もいるしね",
+          "en": "And you have two daughters, after all."
+        },
+        {
+          "ja": "実は…",
+          "en": "Actually..."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "えっ!?何?",
+          "en": "Huh!? What?"
+        },
+        {
+          "ja": "奥さんのお腹に３人目が…",
+          "en": "Your wife is expecting a third child..."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "４人目も入ってるかもね",
+          "en": "There might even be a fourth one in there."
+        },
+        {
+          "ja": "やめてよ～",
+          "en": "Stop it~"
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "ヒマだね",
+          "en": "It's boring, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "はいしろくまカフェです",
+          "en": "Hello, this is Shirokuma Café."
+        },
+        {
+          "ja": "シロクマくん?",
+          "en": "Shirokuma-kun?"
+        },
+        {
+          "ja": "僕今ヒマだからさ",
+          "en": "I'm free right now, so..."
+        },
+        {
+          "ja": "しりとりやろうよ",
+          "en": "Let's play shiritori."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "僕はヒマじゃないんだけど",
+          "en": "I'm not bored, though."
+        },
+        {
+          "ja": "じゃありんご!",
+          "en": "Okay, then... apple!"
+        },
+        {
+          "ja": "合コン",
+          "en": "Group date"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "はいふれあい動物園です",
+          "en": "Sure, it's the petting zoo."
+        },
+        {
+          "ja": "えっ?パンダがいない?",
+          "en": "Huh? There's no panda?"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "そう言われましてもね…",
+          "en": "Even if you say that..."
+        },
+        {
+          "ja": "パンダだって 休みたいときがありますよ",
+          "en": "Even pandas need a break sometimes."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "すみません! すぐ行かせますので…",
+          "en": "Sorry! I'll send them over right away..."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "ちゃんと仕事しなさい!",
+          "en": "Do your job properly!"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "かわいい!",
+          "en": "So cute!"
+        },
+        {
+          "ja": "こっち向いて!",
+          "en": "Look this way!"
+        },
+        {
+          "ja": "今日のお客さん第１号だからサービスしちゃおう",
+          "en": "Since you're our first customer today, we'll give you a special service."
+        },
+        {
+          "ja": "サービスサービス!",
+          "en": "Special service, special service!"
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "サービスサービス!",
+          "en": "Special service, special service!"
+        },
+        {
+          "ja": "パンダさんが けいれんしてる!",
+          "en": "The panda is having a seizure!"
+        },
+        {
+          "ja": "早く飼育員さんに知らせなきゃ!!",
+          "en": "We need to let the zookeeper know right away!!"
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "せつないね…",
+          "en": "It's heartbreaking..."
+        },
+        {
+          "ja": "あれやろうか",
+          "en": "Should we do that?"
+        },
+        {
+          "ja": "あれ?",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "半田さん 急いでパンダコーナーに来てください",
+          "en": "Mr. Handa, please hurry to the panda area."
+        },
+        {
+          "ja": "なんだ?これ…",
+          "en": "What's this...?"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "今度は何やってるんですか?",
+          "en": "What are you doing this time?"
+        },
+        {
+          "ja": "半田さんマージャンできる?",
+          "en": "Handa, can you play mahjong?"
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "できません",
+          "en": "I can't."
+        },
+        {
+          "ja": "大丈夫だよ 僕もルール知らないから",
+          "en": "It's okay, I don't know the rules either."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "雨も降ってて お客さんも少ないし",
+          "en": "It's raining, and there aren't many customers."
+        },
+        {
+          "ja": "半田さんもどうせヒマでしょ?",
+          "en": "You're probably bored too, right, Handa?"
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "さっさと片づけなさい!",
+          "en": "Hurry up and clean it up!"
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "ありがとうございました",
+          "en": "Thank you very much."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "それでさヒマでヒマですごくつらかったんだ",
+          "en": "So yeah, I was so bored and it was really tough."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "まったく共感できないんだけど",
+          "en": "I can't relate to that at all."
+        },
+        {
+          "ja": "今日なんか同じ漫画を３０回も読み返したんだよ",
+          "en": "Today, I ended up rereading the same manga 30 times."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "カフェモカおかわり",
+          "en": "Another café mocha, please."
+        },
+        {
+          "ja": "シロクマくんいいヒマつぶしの方法ってないかな?",
+          "en": "Shirokuma-kun, do you know any good ways to kill time?"
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "ヒマつぶし",
+          "en": "Killing time"
+        },
+        {
+          "ja": "それはひつまぶし",
+          "en": "That's hitsumabushi."
+        },
+        {
+          "ja": "それはかつおぶし",
+          "en": "That's katsuobushi."
+        },
+        {
+          "ja": "月が…",
+          "en": "The moon is..."
+        },
+        {
+          "ja": "それは炭坑節",
+          "en": "That's the Tankō Bushi."
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "シロクマくんって ヒマつぶしに困らなそうだよね",
+          "en": "It seems like Shirokuma-kun never has trouble finding ways to kill time."
+        },
+        {
+          "ja": "笹子さんは?",
+          "en": "What about Sasako?"
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "私は目的を決めずに自転車で遠出するとかかな",
+          "en": "Maybe something like going for a long bike ride without any particular destination in mind."
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "あとは地図を眺めて風景を想像しながらの街歩き",
+          "en": "And then there's walking around the city while imagining the scenery by looking at a map."
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "みんなは?",
+          "en": "What about everyone else?"
+        },
+        {
+          "ja": "プチプチをひたすら潰します",
+          "en": "I just endlessly pop bubble wrap."
+        },
+        {
+          "ja": "長い…歴史…小説",
+          "en": "Long... history... novel."
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "黒ベタのジグソーパズルが難しすぎて時間を忘れられますよ",
+          "en": "A solid black jigsaw puzzle is so challenging that it makes you lose track of time."
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "みんなうらやましいな",
+          "en": "I'm jealous of you all."
+        },
+        {
+          "ja": "僕なんか１日２０時間は休まないとダメだから",
+          "en": "I need to rest for 20 hours a day."
+        },
+        {
+          "ja": "起きてる時間が足りなくて 困って困って…",
+          "en": "I'm in trouble because there's not enough time when I'm awake..."
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "僕だって予定表がいっぱいで足りないよ。",
+          "en": "Even my schedule is so full that it's not enough."
+        },
+        {
+          "ja": "ほら!",
+          "en": "Look!"
+        },
+        {
+          "ja": "何?",
+          "en": "What?"
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "ペン子さんって すごい働き者でね",
+          "en": "Pengko is such a hard worker, you know."
+        },
+        {
+          "ja": "毎日会いにいくのが大変で ヒマなんかないよ",
+          "en": "It's tough to visit every day, so I don't have any free time."
+        },
+        {
+          "ja": "それにね…",
+          "en": "And besides..."
+        }
+      ]
+    },
+    {
+      "audio": 63,
+      "lines": [
+        {
+          "ja": "シロクマくん笹をちょうだい",
+          "en": "Shirokuma, could you give me some bamboo?"
+        },
+        {
+          "ja": "聞いてよ!",
+          "en": "Listen to me!"
+        }
+      ]
+    },
+    {
+      "audio": 64,
+      "lines": [
+        {
+          "ja": "それでさ ペン子さんがサービス券をね…",
+          "en": "So, you know, Penko gave me a coupon..."
+        },
+        {
+          "ja": "その話はもう何度も聞いたよ",
+          "en": "I've heard that story so many times already."
+        }
+      ]
+    },
+    {
+      "audio": 65,
+      "lines": [
+        {
+          "ja": "まもなく当店は閉店いたします",
+          "en": "Our store will be closing soon."
+        },
+        {
+          "ja": "何やってるの?",
+          "en": "What are you doing?"
+        },
+        {
+          "ja": "一度やってみたくて",
+          "en": "I just wanted to try it once."
+        }
+      ]
+    },
+    {
+      "audio": 66,
+      "lines": [
+        {
+          "ja": "もう閉店か…",
+          "en": "Is it closing time already...?"
+        },
+        {
+          "ja": "しろくまカフェにいると 時間があっという間に過ぎるな",
+          "en": "When I'm at the Polar Bear Café, time just flies by."
+        }
+      ]
+    },
+    {
+      "audio": 67,
+      "lines": [
+        {
+          "ja": "あっそうだ!",
+          "en": "Oh, that's right!"
+        },
+        {
+          "ja": "何?",
+          "en": "What?"
+        }
+      ]
+    },
+    {
+      "audio": 68,
+      "lines": [
+        {
+          "ja": "半田さん 至急パンダコーナーに来てください",
+          "en": "Mr. Handa, please come to the panda section immediately."
+        }
+      ]
+    },
+    {
+      "audio": 69,
+      "lines": [
+        {
+          "ja": "なんですかこれは!",
+          "en": "What is this!"
+        },
+        {
+          "ja": "半田さんいつもの",
+          "en": "Mr. Handa, the usual."
+        },
+        {
+          "ja": "半田さんモーニングセット",
+          "en": "Handa-san, the morning set."
+        }
+      ]
+    },
+    {
+      "audio": 70,
+      "lines": [
+        {
+          "ja": "チョコパフェください",
+          "en": "I'll have a chocolate parfait, please."
+        },
+        {
+          "ja": "僕はミルフィーユ",
+          "en": "I'll have the mille-feuille."
+        },
+        {
+          "ja": "半田さんココア!",
+          "en": "Handa, cocoa!"
+        }
+      ]
+    },
+    {
+      "audio": 71,
+      "lines": [
+        {
+          "ja": "さっさと片づけなさい!",
+          "en": "Hurry up and clean it up!"
+        },
+        {
+          "ja": "ここはカフェじゃありませ～ん!",
+          "en": "This is not a café!"
+        },
+        {
+          "ja": "は～ん～だ…",
+          "en": "Haaaan-da..."
+        }
+      ]
+    }
+  ]
+}

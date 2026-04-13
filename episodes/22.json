@@ -1,0 +1,1069 @@
+{
+  "ep": "22",
+  "title": "パンダくんの夜遊び",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "お疲れさまでした",
+          "en": "Thank you for your hard work."
+        },
+        {
+          "ja": "お疲れさま",
+          "en": "Goodbye"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "パンダくん　閉店なんだけど",
+          "en": "Panda, we're closing up."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "パンダくん？",
+          "en": "Panda-kun?"
+        },
+        {
+          "ja": "ああ　おはよう",
+          "en": "Oh, good morning."
+        },
+        {
+          "ja": "もう　夜だよ",
+          "en": "It's already nighttime."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "グリズリーくん",
+          "en": "Grizzly, my friend."
+        },
+        {
+          "ja": "よう　ちょっと遊びに行こうぜ",
+          "en": "Hey, let's go hang out for a bit."
+        },
+        {
+          "ja": "いいよ",
+          "en": "Sure."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "遊びに行くの？",
+          "en": "Are we going out to have fun?"
+        },
+        {
+          "ja": "僕も行きたい！",
+          "en": "I want to go too!"
+        },
+        {
+          "ja": "ガキの行くところじゃねぇんだよ",
+          "en": "It's not a place for kids."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "大人の夜遊びだ",
+          "en": "It's an adult night out."
+        },
+        {
+          "ja": "夜遊び？",
+          "en": "Nightlife?"
+        },
+        {
+          "ja": "なんか　すごくおもしろそう",
+          "en": "It sounds really interesting."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "何でついてくるんだよ",
+          "en": "Why are you following me?"
+        },
+        {
+          "ja": "グリズリーくんが　誘ったんじゃない",
+          "en": "Didn't Grizzly invite me?"
+        },
+        {
+          "ja": "お前じゃねぇよ",
+          "en": "Not you."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "コイツだよ",
+          "en": "It's this guy."
+        },
+        {
+          "ja": "どこ行くの？",
+          "en": "Where are you going?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "というわけで　パンダくん",
+          "en": "That's why, Panda."
+        },
+        {
+          "ja": "今日は残念だけど中止だから帰ろう",
+          "en": "It's unfortunate, but it's canceled today, so let's go home."
+        },
+        {
+          "ja": "残念",
+          "en": "That's a shame."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "何でそうなるんだ！",
+          "en": "How did it come to this?!"
+        },
+        {
+          "ja": "ちょっと待て！",
+          "en": "Wait a minute!"
+        },
+        {
+          "ja": "やっぱり行くの？",
+          "en": "Are you really going?"
+        },
+        {
+          "ja": "行くに決まってんだろ！",
+          "en": "Of course I'm going!"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "すごい　ここ何？",
+          "en": "Wow, what's this place?"
+        },
+        {
+          "ja": "バッティングセンター",
+          "en": "Batting center."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "来たことねぇのか",
+          "en": "Haven't you ever been here before?"
+        },
+        {
+          "ja": "何やってんだよ！",
+          "en": "What are you doing?!"
+        },
+        {
+          "ja": "ぶら下がって遊ぶとこじゃねぇんだよ！",
+          "en": "This isn't a place to hang around and play!"
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "そうなの？",
+          "en": "Really?"
+        },
+        {
+          "ja": "ったく…",
+          "en": "Jeez..."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "これ気持いいね",
+          "en": "This feels nice."
+        },
+        {
+          "ja": "だから　そうじゃねぇんだよ",
+          "en": "That's not what I meant."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "結構　凝りがほぐれるね",
+          "en": "It really helps to relieve tension, doesn't it?"
+        },
+        {
+          "ja": "お前までやってんじゃねぇ！",
+          "en": "You're doing it too?!"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "じゃあ　ここで何して遊ぶの？",
+          "en": "So, what are we going to do for fun here?"
+        },
+        {
+          "ja": "向こうから来た球を 打ち返すんだよ",
+          "en": "You hit back the ball that comes from the other side."
+        },
+        {
+          "ja": "こうやるんだ",
+          "en": "This is how you do it."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "ナイスキャッチ",
+          "en": "Nice catch!"
+        },
+        {
+          "ja": "シロクマくんすご～い！",
+          "en": "Polar Bear, you're amazing!"
+        },
+        {
+          "ja": "ピッチャーライナーだね",
+          "en": "That's a line drive from the pitcher."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "何やってんだよ！！",
+          "en": "What are you doing?!"
+        },
+        {
+          "ja": "僕もやる",
+          "en": "I'll do it too."
+        },
+        {
+          "ja": "やらなくていいんだよ！",
+          "en": "You don't have to do it!"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "大当たり！",
+          "en": "Jackpot!"
+        },
+        {
+          "ja": "グリズリーさんやったね！",
+          "en": "Grizzly, you did it!"
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "なんかもうやる気なくなったぜ",
+          "en": "I'm just not feeling motivated anymore."
+        },
+        {
+          "ja": "じゃあ僕がお手本を",
+          "en": "Then I'll be the example."
+        },
+        {
+          "ja": "さあ　来い！",
+          "en": "Come on!"
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "バット　持ちすぎだろう！",
+          "en": "You're holding the bat too much!"
+        },
+        {
+          "ja": "じゃあ　改めてお手本を",
+          "en": "Alright, let me show you again as an example."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "バット　使えよ！",
+          "en": "Use the bat!"
+        },
+        {
+          "ja": "もう　いい… パンダ　とにかく　やってみろ",
+          "en": "Enough already... Panda, just give it a try."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "パンダくん　バットを構えて よ～く球を見るんだよ",
+          "en": "Panda, hold the bat and keep a good eye on the ball."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "いや　そうじゃなくてな…",
+          "en": "No, that's not it..."
+        },
+        {
+          "ja": "ボールを　しっかり見て",
+          "en": "Keep your eyes on the ball."
+        },
+        {
+          "ja": "じ～～～",
+          "en": "Staaaaare..."
+        },
+        {
+          "ja": "こう？",
+          "en": "Like this?"
+        },
+        {
+          "ja": "打てよ",
+          "en": "Hit it!"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "やっぱり？",
+          "en": "I knew it."
+        },
+        {
+          "ja": "やっぱりじゃねぇ！ バットで当てろ！！",
+          "en": "It's not \"I knew it!\" Hit it with the bat!!"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "ナイスショット",
+          "en": "Nice shot!"
+        },
+        {
+          "ja": "やったぁ！",
+          "en": "I did it!"
+        },
+        {
+          "ja": "ゴルフじゃねぇ！！",
+          "en": "This isn't golf!!"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "積み木じゃねぇ！",
+          "en": "It's not building blocks!"
+        },
+        {
+          "ja": "ビリヤードじゃねぇ！",
+          "en": "It's not billiards!"
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "ああ　おもしろかった",
+          "en": "Ah, that was fun."
+        },
+        {
+          "ja": "全然　バッティングしてねぇけどな",
+          "en": "We didn't hit anything at all, though."
+        },
+        {
+          "ja": "次　いくぞ",
+          "en": "Next, let's go!"
+        },
+        {
+          "ja": "また　どこか行くの？",
+          "en": "Are we going somewhere again?"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "夜はこれからだからな",
+          "en": "The night is just getting started."
+        },
+        {
+          "ja": "これからなんだ…",
+          "en": "It's just getting started..."
+        },
+        {
+          "ja": "次は　どこかな？",
+          "en": "Where to next?"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "風呂だ！",
+          "en": "The bath!"
+        },
+        {
+          "ja": "広い！",
+          "en": "It's spacious!"
+        },
+        {
+          "ja": "すごいね！",
+          "en": "Amazing!"
+        },
+        {
+          "ja": "すげぇだろう？",
+          "en": "Pretty amazing, right?"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "本当だ！",
+          "en": "It's true!"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "すごいよ！！",
+          "en": "It's amazing!!"
+        },
+        {
+          "ja": "そういう　すげぇじゃ ねぇんだけどな…",
+          "en": "That's not the kind of 'amazing' I meant..."
+        },
+        {
+          "ja": "ほら　ほら",
+          "en": "Look, look"
+        },
+        {
+          "ja": "まずはちゃんと体洗えよ",
+          "en": "First, make sure to wash your body properly."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "背中　流してあげようか？",
+          "en": "Want me to wash your back for you?"
+        },
+        {
+          "ja": "うん　頼むよ",
+          "en": "Yeah, please do."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "背中　流してあげようか？",
+          "en": "Want me to wash your back for you?"
+        },
+        {
+          "ja": "おう　お前も ちったぁ気が利くじゃねぇか",
+          "en": "Oh, you're more considerate than I thought."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "やめろ 何か　こそばゆいぞ",
+          "en": "Stop it, that tickles a bit."
+        },
+        {
+          "ja": "パンダくん もっと強くこするんだよ",
+          "en": "Panda-kun, scrub a bit harder."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "イテーッ！！　ツメ　立てんな　ツメ！",
+          "en": "Ow!! Don't dig your nails in, your nails!"
+        },
+        {
+          "ja": "あっ　ごめん",
+          "en": "Oh, sorry."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "目に染みるよ",
+          "en": "It stings my eyes."
+        },
+        {
+          "ja": "早く流せ",
+          "en": "Rinse it off quickly."
+        },
+        {
+          "ja": "グリズリーさん…",
+          "en": "Grizzly..."
+        },
+        {
+          "ja": "誰？",
+          "en": "Who?"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "ハア…",
+          "en": "*Sigh...*"
+        },
+        {
+          "ja": "すっきり",
+          "en": "All clear."
+        },
+        {
+          "ja": "グリズリーさんも流してあげるよ",
+          "en": "I'll let Grizzly-san go too."
+        },
+        {
+          "ja": "おう　頼むぜ",
+          "en": "Oh, I'm counting on you."
+        },
+        {
+          "ja": "アチーッ！！　熱いじゃねえか！",
+          "en": "Hot!! It's burning hot!"
+        },
+        {
+          "ja": "ごめんなさい…",
+          "en": "I'm sorry..."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "赤いほうを回すとお湯で",
+          "en": "Turning the red one gives you hot water."
+        },
+        {
+          "ja": "青いほうが水だからな",
+          "en": "The blue one is for cold water."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "わかった",
+          "en": "Got it."
+        },
+        {
+          "ja": "冷てぇ！！　ちゃんと調節しろよ！",
+          "en": "It's freezing!! Adjust it properly!"
+        },
+        {
+          "ja": "ごめんなさい…",
+          "en": "I'm sorry..."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "アチーッ！！",
+          "en": "Hot!!"
+        },
+        {
+          "ja": "冷てぇ！！",
+          "en": "Cold!!"
+        },
+        {
+          "ja": "アチーッ！！",
+          "en": "Hot!!"
+        },
+        {
+          "ja": "冷てぇ！！",
+          "en": "Cold!!"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "えっと…　えっと…",
+          "en": "Um... um..."
+        },
+        {
+          "ja": "パンダ…　もういい　気持だけ　もらっとく",
+          "en": "Panda... that's enough. I'll just take the sentiment."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "いいニオイになったね",
+          "en": "You smell nice now."
+        },
+        {
+          "ja": "何の香りだ？　ここのシャンプー",
+          "en": "What's that scent? The shampoo here."
+        },
+        {
+          "ja": "うん　すごく　おいしそうなニオイ",
+          "en": "Yeah, it smells really delicious."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "これ",
+          "en": "This one."
+        },
+        {
+          "ja": "クマザサシャンプーだね",
+          "en": "It's bamboo grass shampoo."
+        },
+        {
+          "ja": "飲めないかな？",
+          "en": "Do you think we could drink it?"
+        },
+        {
+          "ja": "飲むんじゃねぇぞ",
+          "en": "Don't you dare drink it."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "というわけで　パンダくん お風呂に入れてみよう",
+          "en": "So, Panda-kun, let's try putting you in the bath."
+        },
+        {
+          "ja": "いいね",
+          "en": "Sounds good."
+        },
+        {
+          "ja": "よくねぇ　やめろ",
+          "en": "Not a good idea, stop it."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "わ～い！ わ～い　飛んだ飛んだ！",
+          "en": "Yay! Yay, it's flying, it's flying!"
+        },
+        {
+          "ja": "そうそう　うまい　うまい",
+          "en": "That's right, good, good."
+        },
+        {
+          "ja": "あれ　どうやるの？",
+          "en": "Huh? How do you do that?"
+        },
+        {
+          "ja": "こうだよ",
+          "en": "Like this."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "やめろ！",
+          "en": "Stop it!"
+        },
+        {
+          "ja": "ったく！",
+          "en": "Geez!"
+        },
+        {
+          "ja": "どこ行くの？",
+          "en": "Where are you going?"
+        },
+        {
+          "ja": "俺は　サウナが好きなんだ",
+          "en": "I like saunas."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "それは　魚！",
+          "en": "That's a fish!"
+        },
+        {
+          "ja": "それは　アンテナ！",
+          "en": "That's an antenna!"
+        },
+        {
+          "ja": "それは　手品！",
+          "en": "That's a magic trick!"
+        },
+        {
+          "ja": "サウナって何？",
+          "en": "What's a sauna?"
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "ふぅ～　なんかすごい汗出るよ",
+          "en": "Whew, I'm really sweating a lot!"
+        },
+        {
+          "ja": "それがサウナのいいところだ",
+          "en": "That's the good thing about a sauna."
+        },
+        {
+          "ja": "蒸されてる感じ",
+          "en": "It feels like being steamed."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "これが体にいいんだよ！",
+          "en": "This is good for your body!"
+        },
+        {
+          "ja": "もう限界…",
+          "en": "I'm at my limit..."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "情けねぇな",
+          "en": "How pathetic."
+        },
+        {
+          "ja": "僕も　もうダメ…",
+          "en": "I'm done too..."
+        },
+        {
+          "ja": "辛抱が足りねぇな",
+          "en": "You lack endurance."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "今日は　やけに 時間が長く感じるぜ",
+          "en": "Today feels unusually long."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "俺も　もう限界…",
+          "en": "I'm at my limit too..."
+        },
+        {
+          "ja": "出よう",
+          "en": "Let's get out of here."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "テメエらの仕業か！",
+          "en": "Is this your doing?!"
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "おもしろかった！",
+          "en": "That was interesting!"
+        },
+        {
+          "ja": "夜遊びって　おもしろいね",
+          "en": "Staying out at night is fun, isn't it?"
+        },
+        {
+          "ja": "小腹も空いたし",
+          "en": "I'm a little hungry."
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "ちょっと一杯やってくか",
+          "en": "Let's grab a drink."
+        },
+        {
+          "ja": "いいね",
+          "en": "Sounds good."
+        },
+        {
+          "ja": "えっ？　なになに？",
+          "en": "Huh? What is it?"
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "へい　らっしゃい！",
+          "en": "Hey, welcome!"
+        },
+        {
+          "ja": "おや　今日は新顔さんもご一緒で",
+          "en": "Oh, it looks like we have a new face with us today."
+        },
+        {
+          "ja": "親父　とりあえず　生２つ",
+          "en": "Bartender, two drafts to start with."
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "あとアイスコーヒーください",
+          "en": "And an iced coffee, please."
+        },
+        {
+          "ja": "カフェじゃねぇんだぞ",
+          "en": "This isn't a café, you know."
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "ああ　おいしそう！",
+          "en": "Ah, looks delicious!"
+        },
+        {
+          "ja": "串ごと食うなよ",
+          "en": "Don't eat the whole skewer!"
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "おいしい！",
+          "en": "Delicious!"
+        },
+        {
+          "ja": "まぁ　ぐいっと！",
+          "en": "Well, bottoms up!"
+        },
+        {
+          "ja": "ああ　すみません",
+          "en": "Ah, sorry."
+        },
+        {
+          "ja": "夜遊びって最高だね！",
+          "en": "Staying out late is the best!"
+        },
+        {
+          "ja": "だろ！",
+          "en": "Right!"
+        },
+        {
+          "ja": "人生はな",
+          "en": "Life is, you know."
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "昼もあれば夜もある",
+          "en": "There are days and there are nights."
+        },
+        {
+          "ja": "明るいときもあれば 暗いときもある",
+          "en": "There are bright times and there are dark times."
+        },
+        {
+          "ja": "暗いときにも楽しいことはたくさんあるんだよ",
+          "en": "There are plenty of fun things even in the dark times."
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "どっちもあるから いいんだよね",
+          "en": "That's why it's good to have both."
+        },
+        {
+          "ja": "お客さん　深いね",
+          "en": "Customer, that's deep."
+        },
+        {
+          "ja": "そうだよね",
+          "en": "That's true."
+        },
+        {
+          "ja": "パンダも白いとこと黒いとこ　両方あるからいいんだもんね",
+          "en": "Pandas are great because they have both white and black parts, right?"
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "おお　そうだな！ そのとおりだ！",
+          "en": "Oh, that's right! Exactly!"
+        },
+        {
+          "ja": "だね",
+          "en": "Exactly."
+        }
+      ]
+    },
+    {
+      "audio": 63,
+      "lines": [
+        {
+          "ja": "グリズリーくん",
+          "en": "Grizzly, my friend."
+        },
+        {
+          "ja": "すっかり寝ちゃったね　パンダくん",
+          "en": "Panda, you fell completely asleep, didn't you?"
+        }
+      ]
+    },
+    {
+      "audio": 64,
+      "lines": [
+        {
+          "ja": "なんで俺がコイツをおぶって 帰んなきゃなんねぇんだよ",
+          "en": "Why do I have to carry this guy on my back and take him home?"
+        }
+      ]
+    },
+    {
+      "audio": 65,
+      "lines": [
+        {
+          "ja": "楽しかった…",
+          "en": "It was fun..."
+        },
+        {
+          "ja": "楽しかったって",
+          "en": "You said it was fun."
+        }
+      ]
+    },
+    {
+      "audio": 66,
+      "lines": [
+        {
+          "ja": "まっ　また連れてきてやっても いいかな",
+          "en": "Well, I guess I could bring him along again."
+        }
+      ]
+    }
+  ]
+}

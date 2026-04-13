@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Sawarabi Mincho', serif;
+  background: #f5f5f5;
+  color: #222;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* ── Nav ── */
+.site-nav {
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.6rem 1.2rem;
+  background: #2c2c2c;
+  color: #eee;
+  z-index: 10;
+}
+.nav-brand {
+  font-size: 1.1rem;
+  color: #eee;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.nav-links {
+  display: flex;
+  gap: 0.8rem;
+  flex: 1;
+}
+.nav-links a {
+  color: #aaa;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+.nav-links a:hover { color: #fff; }
+.en-btn {
+  background: none;
+  border: 1px solid #555;
+  color: #ccc;
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+.en-btn:hover { border-color: #aaa; color: #fff; }
+
+/* ── Episode index ── */
+.ep-grid {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+.ep-grid h1 {
+  font-size: 1.5rem;
+  margin-bottom: 1.2rem;
+  color: #333;
+}
+.ep-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.ep-table th {
+  text-align: left;
+  padding: 6px 10px;
+  font-size: 0.8rem;
+  color: #888;
+  border-bottom: 2px solid #ddd;
+}
+.ep-table td {
+  padding: 8px 10px;
+  border-bottom: 1px solid #eee;
+  vertical-align: middle;
+}
+.ep-table td:first-child {
+  color: #999;
+  font-size: 0.85rem;
+  width: 48px;
+  text-align: center;
+}
+.ep-table td:last-child { width: 48px; text-align: center; }
+.ep-table a { color: #c0392b; text-decoration: none; }
+.ep-table a:hover { text-decoration: underline; }
+.ep-table .en-link { font-size: 0.85rem; color: #888; }
+
+/* ── Episode page ── */
+main {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 4rem;
+}
+h1#ep-title {
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+  color: #333;
+}
+
+.scene { margin-bottom: 0.5rem; }
+
+.line {
+  font-size: 1.6rem;
+  margin: 0.5rem 0 0.2rem;
+  line-height: 1.5;
+}
+
+/* English translation — hidden by default, revealed on hover or when EN toggled */
+.en-text {
+  display: block;
+  font-size: 0.9rem;
+  font-family: sans-serif;
+  background: #888;
+  color: #888;  /* same as bg = invisible */
+  transition: color 0.2s, background 0.2s;
+  cursor: pointer;
+  padding: 2px 6px;
+  border-radius: 3px;
+  margin-top: 2px;
+  width: fit-content;
+}
+.line:hover .en-text,
+.show-en .en-text {
+  color: #fff;
+  background: #555;
+}
+
+.sound {
+  display: inline-block;
+  cursor: pointer;
+  font-size: 1.2rem;
+  margin: 4px 0 6px 4px;
+  opacity: 1;
+  transition: opacity 0.2s;
+}
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 0.6rem 0 1rem;
+}
+
+/* ── About / DIY pages ── */
+.page-content {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 4rem;
+}
+.page-content h1 { font-size: 1.5rem; margin-bottom: 1rem; }
+.page-content h2 { font-size: 1.1rem; margin: 1.5rem 0 0.5rem; color: #444; }
+.page-content p  { margin-bottom: 0.8rem; font-family: sans-serif; font-size: 0.95rem; }
+.page-content a  { color: #c0392b; }
+.page-content code { background: #eee; padding: 2px 5px; border-radius: 3px; font-size: 0.85rem; }
+.page-content pre { background: #eee; padding: 1rem; border-radius: 6px; overflow-x: auto; margin-bottom: 1rem; font-size: 0.85rem; }
+
+@media (max-width: 600px) {
+  .line { font-size: 1.3rem; }
+  .site-nav { flex-wrap: wrap; }
+}

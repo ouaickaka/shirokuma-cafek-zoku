@@ -1,0 +1,842 @@
+{
+  "ep": "02",
+  "title": "パンダ君の就職",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "はい、しろくまカフェです",
+          "en": "Yes, this is Shirokuma Café."
+        },
+        {
+          "ja": "あ　こんにちは",
+          "en": "Oh, hello."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "先日面接にいった、パンダですよ",
+          "en": "I'm Panda, the one who went for an interview the other day."
+        },
+        {
+          "ja": "ああ　不合格の～",
+          "en": "Ah, the one who didn't pass the interview..."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "出前を お願いしたいんです",
+          "en": "I'd like to order a delivery, please."
+        },
+        {
+          "ja": "出前はやってないですが",
+          "en": "We don't offer delivery services, though."
+        },
+        {
+          "ja": "え？！となりなのに",
+          "en": "What?! Even though it's next door?"
+        },
+        {
+          "ja": "今忙しいし",
+          "en": "I'm busy right now."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "どうすれば出前してくれるの？",
+          "en": "How can I get you to deliver?"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "ちょっと",
+          "en": "Wait a minute."
+        },
+        {
+          "ja": "お母さん",
+          "en": "Mom"
+        },
+        {
+          "ja": "またゴロゴロして",
+          "en": "Lounging around again"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "今仕事探してたの",
+          "en": "I was just looking for a job."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "ねえねえ　家近いんだから、出前してよ",
+          "en": "Hey, hey, since you live nearby, why don't you deliver it?"
+        },
+        {
+          "ja": "お願い～～～",
+          "en": "Please～～～"
+        },
+        {
+          "ja": "あああ～～～～　吸わないで～～～",
+          "en": "Ahhh~~~ Don't suck it up~~~"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "いらっしゃいませ",
+          "en": "Welcome!"
+        },
+        {
+          "ja": "こんにちは",
+          "en": "Hello"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "何しますか？",
+          "en": "What would you like to order?"
+        },
+        {
+          "ja": "ペンギンさん、何にする？",
+          "en": "Penguin, what would you like?"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "そうだね",
+          "en": "That's right."
+        },
+        {
+          "ja": "いつものやつ",
+          "en": "The usual one."
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah"
+        },
+        {
+          "ja": "いつものやつ",
+          "en": "The usual one."
+        },
+        {
+          "ja": "えっ？！",
+          "en": "Huh?!"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "いつものやつって 言われたんですけど",
+          "en": "I was told 'the usual'."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "任せて",
+          "en": "You got it."
+        },
+        {
+          "ja": "カレーライスです。。。。",
+          "en": "It's curry rice..."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "違ったみたいですよ",
+          "en": "It seems that wasn't it."
+        },
+        {
+          "ja": "やっぱりね",
+          "en": "I knew it."
+        },
+        {
+          "ja": "ちょっと",
+          "en": "Wait a minute."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "あの、竹か笹はないんですか",
+          "en": "Um, don't you have any bamboo or sasa leaves?"
+        },
+        {
+          "ja": "ないです",
+          "en": "There isn't any."
+        },
+        {
+          "ja": "じゃ～アイスコーヒー",
+          "en": "Then, I'll have an iced coffee."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "あ、君バイト探してたよね",
+          "en": "Oh, you were looking for a part-time job, right?"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "こんなのあるよ",
+          "en": "Here's something like this."
+        },
+        {
+          "ja": "マグロ船船員大募集",
+          "en": "Now Hiring: Tuna Boat Crew Members"
+        },
+        {
+          "ja": "経験者大歓迎、激しく重労働",
+          "en": "Experienced workers are very welcome, extremely hard labor."
+        },
+        {
+          "ja": "どう？",
+          "en": "What do you think?"
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "嫌だよ、僕泳げないし",
+          "en": "No way, I can't even swim."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "こっちのがいいじやない？",
+          "en": "Isn't this one better?"
+        },
+        {
+          "ja": "動物園 未経験者歓迎",
+          "en": "Zoo - No experience necessary, welcome!"
+        },
+        {
+          "ja": "呼び相談におします",
+          "en": "I'll call and ask about it."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "先ずはお電話ください　フリアイ動物園",
+          "en": "Please call us first, Furiai Zoo."
+        },
+        {
+          "ja": "マグロ船にしなよ",
+          "en": "Go with the tuna fishing boat."
+        },
+        {
+          "ja": "しろくまさん",
+          "en": "Polar bear"
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "動物園か　面白そう",
+          "en": "A zoo, huh? Sounds interesting."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "えっと 週二日の勤務希望ですか？",
+          "en": "Um, are you hoping to work two days a week?"
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "では、パンダの仕事はどうでしょう？",
+          "en": "How about a job with the pandas?"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "常勤パンダさんが一頭いるですが",
+          "en": "We already have one full-time panda."
+        },
+        {
+          "ja": "非常勤でもう一頭募集してるんです",
+          "en": "We're also looking to hire another one on a part-time basis."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "パンダって　あのパンダですよね",
+          "en": "The panda, you mean that panda, right?"
+        },
+        {
+          "ja": "気が進みませんか？",
+          "en": "Are you not interested?"
+        },
+        {
+          "ja": "でしたら　月の輪熊とゴリラも募集していますよ",
+          "en": "In that case, we're also recruiting for a moon bear and a gorilla."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "パンダでいいです",
+          "en": "The panda is fine."
+        },
+        {
+          "ja": "そうですか、では、来週から来てください",
+          "en": "I see, then please start coming from next week."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "僕、バイト決まったよ",
+          "en": "I got a part-time job."
+        },
+        {
+          "ja": "良かったですね",
+          "en": "That's great!"
+        },
+        {
+          "ja": "まぐろ船？",
+          "en": "Tuna fishing boat?"
+        },
+        {
+          "ja": "違うよ　動物園～",
+          "en": "No, a zoo~"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "動物園のバイトって、何やるんですか",
+          "en": "What do you do in a zoo part-time job?"
+        },
+        {
+          "ja": "えへへ　まだ内緒",
+          "en": "Hehe, it's still a secret."
+        },
+        {
+          "ja": "なんで照れてんの",
+          "en": "Why are you blushing?"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "いよいよ今日からバイトか　ドキドキしちゃうなぁ",
+          "en": "Finally starting the job today, huh? I'm so nervous!"
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "改めまして、半田と申します",
+          "en": "Nice to meet you, my name is Handa."
+        },
+        {
+          "ja": "今日は幼稚園から園児たちが来ます",
+          "en": "Today, children from the kindergarten are coming."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "少しサービスしてあげてください",
+          "en": "Please give them a little extra service."
+        },
+        {
+          "ja": "はい～～～～～",
+          "en": "Yes~~~~~"
+        },
+        {
+          "ja": "サービスですね　分かりました",
+          "en": "Service, got it."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "それ以外の時間はどんな感じで？",
+          "en": "What about the rest of the time?"
+        },
+        {
+          "ja": "自然態でいいです",
+          "en": "Just be yourself."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "ね　しろくま君",
+          "en": "Hey, Shirokuma-kun."
+        },
+        {
+          "ja": "パンダ君うまくやってるかなぁ～",
+          "en": "I wonder if Panda-kun is doing well..."
+        },
+        {
+          "ja": "きっと大漁だよ、まぐろ船",
+          "en": "I'm sure it's a big catch, the tuna boat."
+        },
+        {
+          "ja": "引っ張るねぇ～",
+          "en": "You're really dragging it out, huh?"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "あっ、カフェモカちょうだい",
+          "en": "Oh, I'll have a café mocha."
+        },
+        {
+          "ja": "って、それは 影武者、いいから、そういうの",
+          "en": "That's just a decoy, never mind that kind of stuff."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "え　一週七日も",
+          "en": "Huh, seven days a week?"
+        },
+        {
+          "ja": "休みはないんですか？",
+          "en": "Don't you get any days off?"
+        },
+        {
+          "ja": "あたしは常勤パンダですからね",
+          "en": "I'm a full-time panda, you know."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "でも月に二日くらいは休みますよ",
+          "en": "But I do take about two days off a month."
+        },
+        {
+          "ja": "非常勤でよかった",
+          "en": "I'm glad I'm part-time."
+        },
+        {
+          "ja": "ハハハハ　まぁ　今日からよろしくお願いします",
+          "en": "Hahaha, well, I look forward to working with you from today."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "はい～！",
+          "en": "Okay!"
+        },
+        {
+          "ja": "あっ　そういえば",
+          "en": "Oh, by the way."
+        },
+        {
+          "ja": "どうしました？",
+          "en": "What's the matter?"
+        },
+        {
+          "ja": "半田さんから",
+          "en": "From Mr. Handa"
+        },
+        {
+          "ja": "自然態でって言われたんです",
+          "en": "I was told to be natural."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "こんな感じでしょうか？自然と一体的な？",
+          "en": "Is it something like this? Like being one with nature?"
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "多分違うと思う　というか　すごく不自然",
+          "en": "I think that's probably wrong, or rather, it's very unnatural."
+        },
+        {
+          "ja": "まぁ～　難しく考えずに普通にしてれば大丈夫ですよ",
+          "en": "Well, if you don't overthink it and just act normally, you'll be fine."
+        },
+        {
+          "ja": "あ～～",
+          "en": "Ah~~"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "パンダさん～～～",
+          "en": "Panda-san~~~"
+        },
+        {
+          "ja": "はい　皆　パンダさんですよ",
+          "en": "Yes, everyone, it's Mr. Panda."
+        },
+        {
+          "ja": "あ　園児が来ましたね",
+          "en": "Oh, the kids have arrived."
+        },
+        {
+          "ja": "さ～　頑張りましょう",
+          "en": "Alright, let's do our best!"
+        },
+        {
+          "ja": "はい！",
+          "en": "Okay!"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "パンダさんは食べているよ",
+          "en": "The panda is eating."
+        },
+        {
+          "ja": "そうね～",
+          "en": "I know, right~"
+        },
+        {
+          "ja": "はは～パンダさんは滑り台滑ってるの",
+          "en": "Haha, the panda is sliding down the slide."
+        },
+        {
+          "ja": "そうね～",
+          "en": "I know, right~"
+        },
+        {
+          "ja": "パンダさんが転がってるよ",
+          "en": "The panda is rolling around."
+        },
+        {
+          "ja": "そうね～",
+          "en": "I know, right~"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "これでサービスになってるんですか？",
+          "en": "Is this considered a service?"
+        },
+        {
+          "ja": "もうちょっとの辛抱ですよ～",
+          "en": "Just a little more patience~"
+        },
+        {
+          "ja": "あ～　もう一サービスしましょう",
+          "en": "Ah, let's do one more service."
+        },
+        {
+          "ja": "は、はい！",
+          "en": "Y-yes!"
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "サービス～サービス～～",
+          "en": "Service~ Service~~"
+        },
+        {
+          "ja": "サービス～サービス～～",
+          "en": "Service~ Service~~"
+        },
+        {
+          "ja": "皆、次はキリンさんを見ましょう",
+          "en": "Everyone, let's look at the giraffe next."
+        },
+        {
+          "ja": "はい～～～",
+          "en": "Okay～～～"
+        },
+        {
+          "ja": "こっちにしよう",
+          "en": "Let's go with this one."
+        },
+        {
+          "ja": "サービス～サービス～～",
+          "en": "Service~ Service~~"
+        },
+        {
+          "ja": "サービス～サービス～～",
+          "en": "Service~ Service~~"
+        },
+        {
+          "ja": "サービス～サー～ビス～",
+          "en": "Service, service!"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "は！爆睡してた！",
+          "en": "Oh! I was sound asleep!"
+        },
+        {
+          "ja": "なんで起こしてくれないんですか、常勤パンダさん、え！",
+          "en": "Why didn't you wake me up, Full-time Panda, huh?"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "閉園の時間になりました　またのご来園をお待ちしております",
+          "en": "The park is now closed. We look forward to your next visit."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "お疲れ様でした",
+          "en": "Thank you for your hard work."
+        },
+        {
+          "ja": "お先です",
+          "en": "I'm heading out."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "あ～　パンダ君",
+          "en": "Ah, Panda-kun."
+        },
+        {
+          "ja": "あれ　皆来てたの",
+          "en": "Oh, everyone was here?"
+        },
+        {
+          "ja": "お知り合いなんですか",
+          "en": "Do you know each other?"
+        },
+        {
+          "ja": "僕たちも動物園でバイトしてるんですよ",
+          "en": "We also work part-time at the zoo."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "パンダ君　こっちこっち",
+          "en": "Panda-kun, over here, over here!"
+        },
+        {
+          "ja": "今日は園児が可愛かったね",
+          "en": "The kids were cute today, weren't they?"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "僕　張り切り過ぎでて 途中で ばてちゃった",
+          "en": "I got too enthusiastic and ended up getting exhausted halfway through."
+        },
+        {
+          "ja": "わかります　わかります",
+          "en": "I know, I know."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "今日は一日真面目に働いたなぁ",
+          "en": "I worked seriously all day today."
+        },
+        {
+          "ja": "そうですね",
+          "en": "That's right."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "すごいやりきった顔だけど　パンダ君途中からずっと寝てたらしいよ",
+          "en": "You look like you really gave it your all, but I heard Panda-kun was sleeping the whole time."
+        },
+        {
+          "ja": "パンダ君の自然態なんだねぇ　きっと",
+          "en": "That's just Panda-kun's natural state, I'm sure."
+        },
+        {
+          "ja": "パンダ君って　割りと図々しいよね",
+          "en": "Panda-kun is pretty shameless, isn't he?"
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "パンダ君　一先何か頼みませんか？",
+          "en": "Panda, why don't you order something first?"
+        },
+        {
+          "ja": "どうしようかな～～～",
+          "en": "Hmm, what should I do..."
+        },
+        {
+          "ja": "何にする？",
+          "en": "What should we get?"
+        },
+        {
+          "ja": "竹！大盛りで",
+          "en": "Bamboo! A large serving, please."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "しろくま君　それは　守宮！",
+          "en": "Shirokuma-kun, that's a gecko!"
+        },
+        {
+          "ja": "オー　よちよち～",
+          "en": "Oh, there, there~"
+        },
+        {
+          "ja": "それは　子守！",
+          "en": "That's babysitting!"
+        },
+        {
+          "ja": "笹子さんが突っ込みを！",
+          "en": "Ms. Sasako made a witty remark!"
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "それは　ハモリ",
+          "en": "That's harmonizing!"
+        },
+        {
+          "ja": "ね～　早く頂戴～",
+          "en": "Hey, hurry up and give it to me~"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,985 @@
+{
+  "ep": "39",
+  "title": "憧れの一人暮らし",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "ねぇねぇ　ペンギンさん",
+          "en": "Hey, hey, Mr. Penguin"
+        },
+        {
+          "ja": "僕に向いてると思わない？",
+          "en": "Don't you think it suits me?"
+        },
+        {
+          "ja": "え　動物園のバイト？ やっと本気出すの",
+          "en": "Huh, a part-time job at the zoo? You're finally getting serious."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "違うよ　一人暮らしだよ",
+          "en": "No, living on my own."
+        },
+        {
+          "ja": "一人暮らし？",
+          "en": "Living alone?"
+        },
+        {
+          "ja": "何　また家出するの",
+          "en": "What, are you running away from home again?"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "家出じゃないよ　一人暮らし",
+          "en": "It's not running away, it's living on my own."
+        },
+        {
+          "ja": "一人　一人",
+          "en": "Alone, alone."
+        },
+        {
+          "ja": "パンダくんが？　無理でしょ",
+          "en": "Panda-kun? That's impossible, right?"
+        },
+        {
+          "ja": "即答ですね",
+          "en": "That's a quick answer."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "即答",
+          "en": "Immediate answer."
+        },
+        {
+          "ja": "それは　木刀",
+          "en": "That's a wooden sword."
+        },
+        {
+          "ja": "それは　格闘",
+          "en": "That's martial arts."
+        },
+        {
+          "ja": "それは　食堂",
+          "en": "That's the cafeteria."
+        },
+        {
+          "ja": "それは　給湯",
+          "en": "That's the water heater."
+        },
+        {
+          "ja": "いいよね　休養",
+          "en": "Rest is nice, isn't it?"
+        },
+        {
+          "ja": "たまには　のんびりしたいね",
+          "en": "Sometimes, I just want to relax."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "いいよね　のんびり",
+          "en": "It's nice to relax."
+        },
+        {
+          "ja": "一人暮らししたいな",
+          "en": "I want to live on my own."
+        },
+        {
+          "ja": "いつものんびりしてるじゃない",
+          "en": "You're always taking it easy, aren't you?"
+        },
+        {
+          "ja": "違うよ　僕はのんびり 一人暮らしがしたいんだよ",
+          "en": "No, that's not it. I want to live alone and relax."
+        },
+        {
+          "ja": "え～　大変だよ",
+          "en": "Oh, that's tough."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "自分のことは 自分でしなくちゃいけないから",
+          "en": "You have to take care of things yourself."
+        },
+        {
+          "ja": "それがいいんじゃない",
+          "en": "That's what's good about it."
+        },
+        {
+          "ja": "パンダくん　ひょっとして 過剰な夢見てない",
+          "en": "Panda-kun, are you perhaps dreaming too big?"
+        },
+        {
+          "ja": "どういう生活考えてるの？",
+          "en": "What kind of life are you thinking about?"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "聞く？",
+          "en": "Do you want to hear?"
+        },
+        {
+          "ja": "いや　やめとく",
+          "en": "No, I'll pass."
+        },
+        {
+          "ja": "えっと…",
+          "en": "Um..."
+        },
+        {
+          "ja": "話すの？",
+          "en": "Are you going to talk?"
+        },
+        {
+          "ja": "朝はね　大きなベッドで目を覚ますの",
+          "en": "In the morning, I wake up in a big bed."
+        },
+        {
+          "ja": "そしたら　カーテンが開いて",
+          "en": "Then the curtains open"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "都会の景色が　ダーッて広がって",
+          "en": "The cityscape spreads out before me."
+        },
+        {
+          "ja": "その下には　一面の竹林",
+          "en": "Below that, there's an entire bamboo grove."
+        },
+        {
+          "ja": "都会なのか竹林なのか どっちかにしてよ",
+          "en": "Make up your mind, is it the city or the bamboo grove?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "起きたらね その景色を眺めながら…",
+          "en": "When I wake up, while gazing at that view..."
+        },
+        {
+          "ja": "朝は　フレッシュジュースで目覚めるんだ",
+          "en": "In the morning, I wake up with a fresh juice."
+        },
+        {
+          "ja": "それってもしかして　笹ジュース？",
+          "en": "Is that maybe bamboo juice?"
+        },
+        {
+          "ja": "笹ジュースのあとは…",
+          "en": "After the bamboo juice..."
+        },
+        {
+          "ja": "笹でしょ",
+          "en": "Bamboo, right?"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "何だか　全体　緑だね",
+          "en": "Somehow, everything is green."
+        },
+        {
+          "ja": "っていうか いつもと同じじゃない",
+          "en": "Isn't it the same as always?"
+        },
+        {
+          "ja": "一人暮らしなんて する必要ある？",
+          "en": "Is there really a need to live alone?"
+        },
+        {
+          "ja": "それで　聞いて",
+          "en": "So, listen."
+        },
+        {
+          "ja": "ノックの音がしたら…",
+          "en": "When you hear a knock..."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "おはようございます　パンダ様",
+          "en": "Good morning, Mr. Panda."
+        },
+        {
+          "ja": "何で僕？",
+          "en": "Why me?"
+        },
+        {
+          "ja": "本日のご予定は",
+          "en": "What are your plans for today?"
+        },
+        {
+          "ja": "１０時からゴロゴロ　１２時からご昼食",
+          "en": "Lounging around from 10 o'clock, lunch from 12 o'clock."
+        },
+        {
+          "ja": "１時からゴロゴロ",
+          "en": "Lounging around from 1 o'clock."
+        },
+        {
+          "ja": "３時のおやつののちゴロゴロとなっております",
+          "en": "After the 3 o'clock snack, you'll be lounging around."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "レストランに到着したら…",
+          "en": "When we arrive at the restaurant..."
+        },
+        {
+          "ja": "いらっしゃいませ",
+          "en": "Welcome"
+        },
+        {
+          "ja": "お待ちしておりました　パンダ様",
+          "en": "We've been expecting you, Mr. Panda."
+        },
+        {
+          "ja": "え～っ　それも僕？",
+          "en": "Huh? Is that me too?"
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "お店のテーブルについたら 豪華なディナーが用意されてるの",
+          "en": "When you sit at the table in the restaurant, a luxurious dinner is prepared for you."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "どうぞ　お召し上がりください",
+          "en": "Please enjoy your meal."
+        },
+        {
+          "ja": "まぁまぁだね",
+          "en": "It's not bad."
+        },
+        {
+          "ja": "バイトの気分じゃないな",
+          "en": "I'm not in the mood for a part-time job."
+        },
+        {
+          "ja": "代わりに行ってきてくれる？",
+          "en": "Could you go in my place?"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "かしこまりました",
+          "en": "Certainly"
+        },
+        {
+          "ja": "何で僕が？",
+          "en": "Why me?"
+        },
+        {
+          "ja": "っていうか　それだと 一人暮らしじゃないよね",
+          "en": "I mean, in that case, it's not really living alone, is it?"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "楽しくなってきたな 早く　一人暮らししたいよ",
+          "en": "This is getting fun. I can't wait to live on my own."
+        },
+        {
+          "ja": "そんな物件あるわけないでしょ！",
+          "en": "There's no way such a place exists!"
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "ありますよ",
+          "en": "There is one."
+        },
+        {
+          "ja": "一人暮らし用の物件ですよね？",
+          "en": "It's a property for living alone, right?"
+        },
+        {
+          "ja": "６畳に押し入れつきですから",
+          "en": "It's a 6-tatami room with a built-in closet."
+        },
+        {
+          "ja": "一人暮らしには 広めだと思いますよ",
+          "en": "I think it's quite spacious for living alone."
+        },
+        {
+          "ja": "ちゃんと　ゴロゴロもできますし",
+          "en": "You can even lounge around comfortably."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "窓からは　竹林も見えますしね",
+          "en": "You can also see a bamboo grove from the window."
+        },
+        {
+          "ja": "なんか　もうちょっと…　ワーッとして　ダーッとしてるのが いいんだけど",
+          "en": "I kind of want something a bit more... you know, with a \"wow\" factor and a bit more dynamic."
+        },
+        {
+          "ja": "ワーッとして　ダーッ…",
+          "en": "Lively and dynamic..."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "曖昧すぎるでしょ　パンダくん",
+          "en": "That's way too vague, Panda-kun."
+        },
+        {
+          "ja": "すみません…",
+          "en": "I'm sorry..."
+        },
+        {
+          "ja": "ありますよ　ワーッとして　ダーッ",
+          "en": "There's a place that's all \"Wow\" and \"Boom.\""
+        },
+        {
+          "ja": "本当？",
+          "en": "Really?"
+        },
+        {
+          "ja": "本当？",
+          "en": "Really?"
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "なんか普通だね",
+          "en": "It's kind of ordinary, isn't it?"
+        },
+        {
+          "ja": "ワーッとしてませんか？",
+          "en": "Isn't it exciting?"
+        },
+        {
+          "ja": "してない",
+          "en": "Not at all."
+        },
+        {
+          "ja": "ダーッとは？",
+          "en": "What do you mean by \"dah\"?"
+        },
+        {
+          "ja": "してない",
+          "en": "Not at all."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "パンダくんの理想が高すぎるんだよ",
+          "en": "Panda-kun's standards are too high."
+        },
+        {
+          "ja": "そんなことないよ",
+          "en": "That's not true."
+        },
+        {
+          "ja": "絶対どこかにあるはずだよ",
+          "en": "There must be one somewhere for sure."
+        },
+        {
+          "ja": "僕の理想の一人暮らしハウス",
+          "en": "My ideal single-person house"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "あるかなぁ…",
+          "en": "I wonder if it exists..."
+        },
+        {
+          "ja": "だって　ペンギンさんがいるもの あとは家だけでしょ？",
+          "en": "Because Penguin-san is here, all that's left is the house, right?"
+        },
+        {
+          "ja": "僕を理想の一部に 組み込まないでくれる？",
+          "en": "Could you not include me as part of your ideal?"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "ああ…　絶対あるはずなんだ",
+          "en": "Ah... It must exist somewhere."
+        },
+        {
+          "ja": "竹林！　そうそう こんな感じの竹林が理想だよ",
+          "en": "A bamboo grove! Yes, yes, a bamboo grove like this is ideal."
+        },
+        {
+          "ja": "あっ…",
+          "en": "Oh..."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "ちょっ… ちょっと！　パンダくん！",
+          "en": "Wait... hold on! Panda-kun!"
+        },
+        {
+          "ja": "うわ～っ…　いい感じ",
+          "en": "Wow... this feels great."
+        },
+        {
+          "ja": "ワーッとして　ダーッとしてるよ！",
+          "en": "It's all wild and chaotic!"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "こんなところに住みたいな…",
+          "en": "I wish I could live in a place like this..."
+        },
+        {
+          "ja": "はあ？　って… ここ　パンダくんちじゃないの？",
+          "en": "Huh? Wait... isn't this Panda-kun's place?"
+        },
+        {
+          "ja": "あっ　本当だ",
+          "en": "Oh, you're right."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "やっぱり　一人暮らしする 必要なんて　ないんじゃない？",
+          "en": "After all, maybe there's no need to live alone, right?"
+        },
+        {
+          "ja": "あれ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "アナグマくんじゃない？",
+          "en": "Isn't that Anaguma-kun?"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "何してんの？　物件探し？",
+          "en": "What are you doing? Looking for a place?"
+        },
+        {
+          "ja": "あっ… もう耐えられなくてさ",
+          "en": "Oh... I just couldn't take it anymore."
+        },
+        {
+          "ja": "一人暮らし？",
+          "en": "Living alone?"
+        },
+        {
+          "ja": "大失敗",
+          "en": "A complete disaster."
+        },
+        {
+          "ja": "パンダくん　しっかり 聞いておいたほうがいいよ",
+          "en": "Panda, you should really listen carefully."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "一人暮らしって いいことばかりじゃないんだから",
+          "en": "Living alone isn't all it's cracked up to be."
+        },
+        {
+          "ja": "フローリングの部屋はよくないよ　引っ越したい",
+          "en": "A room with hardwood floors isn't good. I want to move."
+        },
+        {
+          "ja": "えっ　そうなの？ 掃除しやすくない？",
+          "en": "Huh, really? Isn't it easy to clean?"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "掃除なら　ペンギンさんに 頼めばいいよ",
+          "en": "If it's about cleaning, you can just ask Penguin-san to do it."
+        },
+        {
+          "ja": "だから　僕を召し使いにしないで！",
+          "en": "So don't make me your servant!"
+        },
+        {
+          "ja": "どうして引っ越したいの？",
+          "en": "Why do you want to move?"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "だって…",
+          "en": "Because..."
+        },
+        {
+          "ja": "穴…　穴　掘れなくて…　もう辛くて　辛くて",
+          "en": "A hole... I can't dig a hole... It's just too hard, too hard."
+        },
+        {
+          "ja": "え～…　そんなに辛いかな？",
+          "en": "Hmm... Is it really that tough?"
+        },
+        {
+          "ja": "パンダくんでいうと　ゴロゴロを 止められるくらい辛いと思うよ",
+          "en": "In terms of Panda-kun, I think it's as tough as having to stop lounging around."
+        },
+        {
+          "ja": "ハッ…　それは辛いね",
+          "en": "Ha... that sounds tough."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "他のみんなは　どんなところに 住んでるんだろうね？",
+          "en": "I wonder what kind of places everyone else lives in."
+        },
+        {
+          "ja": "いらっしゃい！",
+          "en": "Welcome!"
+        },
+        {
+          "ja": "近い　近い　近い",
+          "en": "Close, close, close."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "さあ　どうぞ",
+          "en": "Here you go."
+        },
+        {
+          "ja": "ゆっくり　くつろいでください",
+          "en": "Please relax and make yourself at home."
+        },
+        {
+          "ja": "近い　近い　近い",
+          "en": "Close, close, close."
+        },
+        {
+          "ja": "いらっしゃい",
+          "en": "Welcome!"
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "すごいね　コアリクイくん",
+          "en": "Wow, that's amazing, Mr. Anteater."
+        },
+        {
+          "ja": "一軒家？",
+          "en": "A detached house?"
+        },
+        {
+          "ja": "買っちゃいました　３５年ローンです",
+          "en": "I went ahead and bought it. It's a 35-year mortgage."
+        },
+        {
+          "ja": "うわ～っ！ 上がって　見ていってください",
+          "en": "Wow! Come on in and take a look around."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "寂しい話するけど…",
+          "en": "I'm going to talk about something a bit sad, but..."
+        },
+        {
+          "ja": "親子ローンかな？　平均寿命的に",
+          "en": "Is it a parent-child loan? Considering the average lifespan."
+        },
+        {
+          "ja": "親子孫ローンかもね",
+          "en": "It might be a three-generation loan."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "あっ　ゾウガメさんだ",
+          "en": "Oh, it's Mr. Tortoise."
+        },
+        {
+          "ja": "どこ行くの？",
+          "en": "Where are you going?"
+        },
+        {
+          "ja": "家に…",
+          "en": "Home..."
+        },
+        {
+          "ja": "一緒に行ってもいい？",
+          "en": "Can I go with you?"
+        },
+        {
+          "ja": "一人暮らし　見せてよ",
+          "en": "Show me your single life."
+        },
+        {
+          "ja": "いいよ",
+          "en": "Sure."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "へぇ～　オシャレなマンションだね",
+          "en": "Wow, it's a stylish apartment."
+        },
+        {
+          "ja": "間取りは？",
+          "en": "What's the layout?"
+        },
+        {
+          "ja": "２ＬＳ",
+          "en": "2-bedroom with a living room and storage"
+        },
+        {
+          "ja": "Ｓ？　それって何？　サービスルーム？",
+          "en": "S? What's that? A service room?"
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "ううん",
+          "en": "Nope."
+        },
+        {
+          "ja": "セレブって感じだね",
+          "en": "It feels like a celebrity place."
+        },
+        {
+          "ja": "Ｓって　セレブのＳ？",
+          "en": "Does the \"S\" in \"S\" stand for \"celebrity\"?"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "砂",
+          "en": "Sand"
+        },
+        {
+          "ja": "こだわりの２ＬＳ",
+          "en": "A meticulously designed 2LS."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "は～い",
+          "en": "Sure!"
+        },
+        {
+          "ja": "あれ？ どうしたの２人とも",
+          "en": "Huh? What's up with you two?"
+        },
+        {
+          "ja": "おじゃまします",
+          "en": "Excuse me for intruding."
+        },
+        {
+          "ja": "結構きれいにしてるんだ",
+          "en": "It's pretty clean in here."
+        },
+        {
+          "ja": "あっ　ちょっと！",
+          "en": "Oh, wait a minute!"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "ここは　水飲み場？",
+          "en": "Is this a water fountain?"
+        },
+        {
+          "ja": "お風呂場",
+          "en": "Bathroom"
+        },
+        {
+          "ja": "じゃあ　こっちが　水飲み場？",
+          "en": "So, is this the drinking area?"
+        },
+        {
+          "ja": "トイレだよ",
+          "en": "That's the bathroom."
+        },
+        {
+          "ja": "見直したよ　半田さん",
+          "en": "I've reevaluated you, Handa."
+        },
+        {
+          "ja": "お風呂も　トイレも きれいにしてあるじゃない",
+          "en": "Both the bathroom and the toilet are clean, aren't they?"
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "あれ？　これで終わり？",
+          "en": "Huh? Is that it?"
+        },
+        {
+          "ja": "これで　全部だよ",
+          "en": "That's everything."
+        },
+        {
+          "ja": "まあ　半田さんなら しようがないか",
+          "en": "Well, if it's Handa, I guess it can't be helped."
+        },
+        {
+          "ja": "僕　ここでいいよ",
+          "en": "I'm fine here."
+        },
+        {
+          "ja": "何が？",
+          "en": "What is?"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "どういうこと？",
+          "en": "What do you mean?"
+        },
+        {
+          "ja": "半田さんは そっちの奥で寝たら？",
+          "en": "Why don't you sleep in the back over there, Handa?"
+        },
+        {
+          "ja": "えっ！？　なんで？",
+          "en": "Huh!? Why?"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "真ん中の段に 僕のものを入れるね",
+          "en": "I'll put my stuff in the middle section."
+        },
+        {
+          "ja": "勝手に笹ジュース飲まないでね",
+          "en": "Don't drink the bamboo juice without asking, okay?"
+        },
+        {
+          "ja": "飲まないよ",
+          "en": "I won't drink it."
+        },
+        {
+          "ja": "ってか入れないで！",
+          "en": "Actually, don't put it in!"
+        },
+        {
+          "ja": "自分のリズムで起きたいから 朝出るときは静かにしてね",
+          "en": "I want to wake up at my own pace, so please be quiet when you leave in the morning."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "だから寝ないで！",
+          "en": "So don't fall asleep!"
+        },
+        {
+          "ja": "バイトは　どうするの！？",
+          "en": "What about your part-time job!?"
+        },
+        {
+          "ja": "忠実なペンギンさんが 代わりに行ってくれるよ",
+          "en": "A loyal penguin will go in my place."
+        },
+        {
+          "ja": "だから 召し使いにしないでってば！",
+          "en": "That's why I said don't treat me like a servant!"
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "本当は 一人暮らしがしたいんだけど　しようがないよね",
+          "en": "The truth is, I want to live on my own, but there's nothing I can do about it."
+        },
+        {
+          "ja": "３人で頑張っていこう",
+          "en": "Let's do our best together, the three of us."
+        },
+        {
+          "ja": "じゃあ　僕　寝るから ご飯ができたら起こしてね",
+          "en": "Alright, I'm going to sleep, so wake me up when the food is ready."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "で　半田さんに お風呂掃除するからって　追い返されたの？",
+          "en": "So, did Mr. Handa send you away because he said he was going to clean the bathroom?"
+        },
+        {
+          "ja": "ひどいよね",
+          "en": "That's terrible, right?"
+        },
+        {
+          "ja": "まぁ　無理もない気がするよ",
+          "en": "Well, I kind of feel like it's understandable."
+        },
+        {
+          "ja": "パンダくん まだ一人暮らししたいの？",
+          "en": "Panda-kun, do you still want to live alone?"
+        },
+        {
+          "ja": "ふぅ～",
+          "en": "*Sigh*"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "もう諦めたよ",
+          "en": "I've already given up."
+        },
+        {
+          "ja": "あっ　でも 召し使いは見つけたよ",
+          "en": "Oh, but I found a servant."
+        },
+        {
+          "ja": "僕のことも諦めてくれる？",
+          "en": "Could you give up on me too?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,830 @@
+{
+  "ep": "31",
+  "title": "グリズリーさん　旅立つ",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "シロクマが おいしい季節でやんすよ",
+          "en": "It's the season when polar bears are delicious."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "お前… シロクマ　食ったこと　あんのか？",
+          "en": "You... have you ever eaten a polar bear?"
+        },
+        {
+          "ja": "えぇ　今日も昼に食べましたよ",
+          "en": "Yeah, I even had some for lunch today."
+        },
+        {
+          "ja": "夏はおいしいんだ",
+          "en": "It's delicious in the summer."
+        },
+        {
+          "ja": "シロクマ！",
+          "en": "Polar bear!"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "カワウソが　シロクマを！？",
+          "en": "An otter eating a polar bear!?"
+        },
+        {
+          "ja": "ありえねえ！ お前　１人でやったのか？",
+          "en": "No way! Did you do it all by yourself?"
+        },
+        {
+          "ja": "いや　いや…　仲間と一緒に",
+          "en": "No, no... with my friends."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "えっ！？　仲間とシロクマを？",
+          "en": "Huh!? You and your friends took on a polar bear?"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "クマ食うヤツが俺の店に来るんじゃねえ！",
+          "en": "Don't let someone who eats bears come into my shop!"
+        },
+        {
+          "ja": "ふざけやがって！",
+          "en": "You've got to be kidding me!"
+        },
+        {
+          "ja": "シロクマが あんなヤロウどもに食われるかよ！",
+          "en": "There's no way a polar bear would get eaten by those guys!"
+        },
+        {
+          "ja": "今日の昼",
+          "en": "Today's lunch"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "シロクマ　はじめました？",
+          "en": "Have you started serving polar bear?"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "いらっしゃい",
+          "en": "Welcome"
+        },
+        {
+          "ja": "シロクマくん　ごめんね",
+          "en": "I'm sorry, Shirokuma."
+        },
+        {
+          "ja": "何？　パンダくん",
+          "en": "What is it, Panda?"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "僕…　今までシロクマくんのこと シロクマだと思っていたけど",
+          "en": "I... always thought you were a polar bear, Shirokuma-kun, but..."
+        },
+        {
+          "ja": "まだ　シロクマじゃなかったんだね",
+          "en": "You weren't a polar bear yet, huh?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "パンダくん…　何言ってるの？",
+          "en": "Panda-kun... what are you talking about?"
+        },
+        {
+          "ja": "表に　「白くま　はじめました」って",
+          "en": "We've put up a sign outside that says 'Polar Bear Now Open for Business.'"
+        },
+        {
+          "ja": "いや　あれはさ…",
+          "en": "No, that's just..."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "だったら　今までは　ただのシロ？　ただのクマ？",
+          "en": "So, up until now, was he just a \"Shiro\"? Just a \"Kuma\"?"
+        },
+        {
+          "ja": "白くまっていうのはかき氷の名前だよ",
+          "en": "Shirokuma is the name of a shaved ice dessert."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "かき氷なの？",
+          "en": "Is it shaved ice?"
+        },
+        {
+          "ja": "そう　練乳かけて フルーツをのせたやつだよ",
+          "en": "Yes, it's the one with condensed milk and fruit on top."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "なんでも　上にのせたフルーツが シロクマの顔に見えたのが由来とか",
+          "en": "Apparently, the name comes from the fact that the fruit on top looked like a polar bear's face."
+        },
+        {
+          "ja": "ペンギンさんの退屈な話はいいから",
+          "en": "Let's skip Penguin's boring story."
+        },
+        {
+          "ja": "それ　食べてみたい！",
+          "en": "I want to try that!"
+        },
+        {
+          "ja": "退屈かどうかは　最後まで 聞いてから　判断してほしいね",
+          "en": "I'd like you to decide whether it's boring or not after you've listened to the whole story."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "これが白くまだよ",
+          "en": "This is the Shirokuma."
+        },
+        {
+          "ja": "上から見てね",
+          "en": "Look at it from above."
+        },
+        {
+          "ja": "本当だ！",
+          "en": "It's true!"
+        },
+        {
+          "ja": "シロクマだ！",
+          "en": "It's a polar bear!"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "しろくまカフェで　白くまを…",
+          "en": "A polar bear at the Polar Bear Café..."
+        },
+        {
+          "ja": "とっても　涼しい感じ？",
+          "en": "Does it feel really cool?"
+        },
+        {
+          "ja": "ものすごく涼しいよ",
+          "en": "It's incredibly cool."
+        },
+        {
+          "ja": "そして現在",
+          "en": "And now, here we are."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "ウソだろ！？　シロクマ！",
+          "en": "No way!? A polar bear!"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "ほら！　ガセだ　ガセ",
+          "en": "Look! It's fake, it's fake."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "マジか！　マジだったのか！！",
+          "en": "Seriously?! It was true?!"
+        },
+        {
+          "ja": "ごちそうさまでした",
+          "en": "Thank you for the meal."
+        },
+        {
+          "ja": "あぁ…　そんな！",
+          "en": "Ah... No way!"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "「白くま　はじめました」",
+          "en": "Shaved ice with condensed milk, now available."
+        },
+        {
+          "ja": "「はじめました」じゃねえだろ お前！",
+          "en": "It's not 'just started,' you idiot!"
+        },
+        {
+          "ja": "人生 終わっちまってんじゃねえかよ！",
+          "en": "Isn't your life over already?!"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "やっぱり　ムリですよ！　ハバネロは… 辛すぎます",
+          "en": "It's just impossible! Habaneros... they're way too spicy."
+        },
+        {
+          "ja": "そう？　結構　クセになるよ　ハバネロ",
+          "en": "Really? Habanero can be quite addictive."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "シロクマ…　お前とは ガキの頃からのつきあいだったよな",
+          "en": "Polar Bear... we've known each other since we were kids, haven't we?"
+        },
+        {
+          "ja": "ハ…　ハチミツ　食べたい！",
+          "en": "I... I want to eat honey!"
+        },
+        {
+          "ja": "大丈夫かよ？　シロクマ！",
+          "en": "Are you okay, Polar Bear?"
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "頑張れ！",
+          "en": "Hang in there!"
+        },
+        {
+          "ja": "ワカサギ　食べたい！",
+          "en": "I want to eat wakasagi!"
+        },
+        {
+          "ja": "大丈夫かよ？　シロクマ…",
+          "en": "Are you okay, Polar Bear...?"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "キノコ　食べたい！",
+          "en": "I want to eat mushrooms!"
+        },
+        {
+          "ja": "大丈夫かよ？　シロクマ！",
+          "en": "Are you okay, Polar Bear?"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "なんか　ろくな思い出がねえな…",
+          "en": "I don't have any good memories..."
+        },
+        {
+          "ja": "とはいえ　懐かしい思い出だぜ",
+          "en": "That being said, they are nostalgic memories."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "あぁ…　ダメだ！こうしていると お前のことばかり思い出しちまう",
+          "en": "Ah... This is no good! When I'm like this, I can't help but keep thinking about you."
+        },
+        {
+          "ja": "シロクマ！",
+          "en": "Polar bear!"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "ビール買う？",
+          "en": "Want to buy some beer?"
+        },
+        {
+          "ja": "持ってきたよ　ほい",
+          "en": "Brought it for you, here you go."
+        },
+        {
+          "ja": "それは　リール",
+          "en": "That's a reel."
+        },
+        {
+          "ja": "ダジャレ！",
+          "en": "Pun!"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "シロクマ！",
+          "en": "Polar bear!"
+        },
+        {
+          "ja": "孤独よ… 俺の悲しみを癒やしてくれ",
+          "en": "Loneliness... heal my sorrow."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "クマだ！かわいい！",
+          "en": "It's a bear! So cute!"
+        },
+        {
+          "ja": "何してるの～？",
+          "en": "What are you doing?"
+        },
+        {
+          "ja": "こっち向いて～",
+          "en": "Look this way~"
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "ねぇ　グリズリーさんのお店　ずっとお休みしてるって　ホント？",
+          "en": "Hey, is it true that Grizzly's shop has been closed for a while?"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "旅行にでも行ってるのかも",
+          "en": "Maybe he's on a trip or something."
+        },
+        {
+          "ja": "旅かぁ…　やっぱり　ワイルドな旅なんだろうね",
+          "en": "A trip, huh... I bet it's a wild adventure."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "おそらく",
+          "en": "Probably."
+        },
+        {
+          "ja": "あてもなく　北へと向かうグリズリー",
+          "en": "Grizzly is heading north without a destination."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "ふと立ち寄った居酒屋で…",
+          "en": "At a pub he happened to stop by..."
+        },
+        {
+          "ja": "どうぞ",
+          "en": "Please, go ahead."
+        },
+        {
+          "ja": "頼んでねえぜ？",
+          "en": "I didn't order this, you know?"
+        },
+        {
+          "ja": "サービスですよ",
+          "en": "It's on the house."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "お客さん　旅の方でしょ？",
+          "en": "Are you a traveler, sir?"
+        },
+        {
+          "ja": "わかるかい？",
+          "en": "Can you tell?"
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "都会のニオイがしますよ",
+          "en": "I can smell the city on you."
+        },
+        {
+          "ja": "…と　そこへ現れる　人相の悪い男",
+          "en": "...and then, a rough-looking man appears."
+        },
+        {
+          "ja": "よう　女将！ 今日も来てやったぜ",
+          "en": "Hey, innkeeper! I came by again today."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "帰っとくれ！ アンタが来るおかげで　他のお客さんが 寄りつきゃしないよ",
+          "en": "Go home! Because you come here, other customers won't come near."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "生意気な口をきくと　タダじゃ…",
+          "en": "If you keep mouthing off, it won't be for free..."
+        },
+        {
+          "ja": "出ていきな　文句があるなら 俺が相手になるぜ",
+          "en": "Get out. If you have any complaints, I'll take you on."
+        },
+        {
+          "ja": "すみません！",
+          "en": "Excuse me!"
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "ありがとうございます",
+          "en": "Thank you."
+        },
+        {
+          "ja": "サケのお礼さ",
+          "en": "It's a thank you for the sake."
+        },
+        {
+          "ja": "それがきっかけで グリズリーは居酒屋の用心棒になった",
+          "en": "That was the turning point for Grizzly to become the bouncer at the izakaya."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "女将の幼い子供たちも懐き…",
+          "en": "The innkeeper's young children also grew fond of him..."
+        },
+        {
+          "ja": "グリズリーおじちゃん",
+          "en": "Uncle Grizzly"
+        },
+        {
+          "ja": "近所のお年寄りたちとも馴染み…",
+          "en": "He also became familiar with the elderly in the neighborhood..."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "悪いね",
+          "en": "Sorry about that."
+        },
+        {
+          "ja": "気にすんなって",
+          "en": "Don't worry about it."
+        },
+        {
+          "ja": "いつしか　グリズリーはなくてはならない存在になっていた",
+          "en": "Before long, Grizzly had become an indispensable presence."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "パンダくん　そんな　リアリティーのない話を 本気にしちゃダメだよ",
+          "en": "Panda-kun, you shouldn't take such unrealistic stories seriously."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "まさか　こんな展開になるとはな",
+          "en": "I never expected it to turn out like this."
+        },
+        {
+          "ja": "グリの兄貴も一緒にどうっすか？",
+          "en": "How about joining us, Grizzly's big brother?"
+        },
+        {
+          "ja": "シャケをサカナに　おシャケを一杯… なんつって！",
+          "en": "Having some salmon with a drink... just kidding!"
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "シロクマ…",
+          "en": "Polar Bear..."
+        },
+        {
+          "ja": "ちょっと！ ダジャレはダメだって言ったでしょ",
+          "en": "Hey! I told you no puns!"
+        },
+        {
+          "ja": "すみません…",
+          "en": "I'm sorry..."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "しょせん俺たちは弱肉強食の世界を生きる者",
+          "en": "In the end, we are all living in a world where the strong prey on the weak."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "もう　俺は泣かないぜ！",
+          "en": "I won't cry anymore!"
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "また　いつでもおいで おじちゃん　バイバーイ！",
+          "en": "Come again anytime, uncle. Bye-bye!"
+        },
+        {
+          "ja": "あばよ　シロクマ！",
+          "en": "Goodbye, Polar Bear!"
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "この店は俺が引き継ぐ！",
+          "en": "I'll take over this shop!"
+        },
+        {
+          "ja": "どうしたんですか？　急に",
+          "en": "What's wrong? All of a sudden?"
+        },
+        {
+          "ja": "アイツの代わりが務まるのは 親友の俺しかいねえだろ",
+          "en": "I'm the only best friend who can take his place, right?"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "俺が　シロクマ始める！",
+          "en": "I'm starting Shirokuma!"
+        },
+        {
+          "ja": "しろくまカフェの店長やるの？",
+          "en": "Are you going to be the manager of the Polar Bear Café?"
+        },
+        {
+          "ja": "今日から　マスターと呼びな",
+          "en": "From today, call me Master."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "グリズリー　バーは？",
+          "en": "What about the Grizzly Bar?"
+        },
+        {
+          "ja": "やる！　昼も夜も働く！",
+          "en": "I'll do it! I'll work both day and night!"
+        },
+        {
+          "ja": "いつ　寝るんですか？",
+          "en": "When do you sleep?"
+        },
+        {
+          "ja": "合間に寝る",
+          "en": "I'll sleep in between."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "ダジャレだってやるぜ！ 何しろ　俺が　この店の…",
+          "en": "I'll even do puns! After all, I'm the..."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "シスターだろ！",
+          "en": "You're the sister, right!"
+        },
+        {
+          "ja": "それじゃあ…",
+          "en": "In that case..."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "イースターだろ！",
+          "en": "It's Easter, right!"
+        },
+        {
+          "ja": "それじゃあ　これで　どうだ？",
+          "en": "How about this, then?"
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "ポスターだろ！",
+          "en": "It's a poster!"
+        },
+        {
+          "ja": "これは　ダスター",
+          "en": "This is a duster."
+        },
+        {
+          "ja": "ダスターで　顔拭くんじゃねえ！",
+          "en": "Don't wipe your face with a duster!"
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "テメエ　なんで生きてるんだよ！",
+          "en": "Why are you even alive?!"
+        },
+        {
+          "ja": "お母さんが産んだから",
+          "en": "Because my mom gave birth to me."
+        },
+        {
+          "ja": "そうじゃねえ！",
+          "en": "That's not it!"
+        },
+        {
+          "ja": "お前　カワウソに食われたんじゃ！？",
+          "en": "Didn't you get eaten by an otter!?"
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "ちは～　今日も　白くま 食べにきたでやんす",
+          "en": "Hey there~ I came to eat some polar bear again today."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "どういうことだ！",
+          "en": "What do you mean!?"
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "まぎらわしい名前 つけてんじゃねえ",
+          "en": "Don't give it such a misleading name!"
+        },
+        {
+          "ja": "ったく…　驚かせやがって",
+          "en": "Jeez... You scared me."
+        },
+        {
+          "ja": "悲しみにくれた 俺の時間はいったい…",
+          "en": "The time I spent in sorrow was all for..."
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "思い出すと泣いちゃうほど ショックだったの？",
+          "en": "Was it so shocking that you cry just thinking about it?"
+        },
+        {
+          "ja": "キーン！　ってなってんだよ！",
+          "en": "It's like, \"Keen!\" you know!"
+        }
+      ]
+    }
+  ]
+}

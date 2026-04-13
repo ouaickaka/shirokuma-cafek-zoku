@@ -1,0 +1,943 @@
+{
+  "ep": "24",
+  "title": "パンダの悩み相談室",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "今日も１日雨ですかね",
+          "en": "Another rainy day today, huh?"
+        },
+        {
+          "ja": "書けた",
+          "en": "It's written."
+        },
+        {
+          "ja": "読めるけど書けない漢字",
+          "en": "Kanji that I can read but can't write."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "ゆう",
+          "en": "Evening"
+        },
+        {
+          "ja": "うつ",
+          "en": "Depression"
+        },
+        {
+          "ja": "シロクマさんさすがですね",
+          "en": "Mr. Polar Bear, you're impressive as always."
+        },
+        {
+          "ja": "ホント…雨続きで憂鬱ですよね",
+          "en": "Really... the continuous rain is so depressing, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "もう…",
+          "en": "Geez..."
+        },
+        {
+          "ja": "遅刻しないように せっかくケータイ渡してあげたのに",
+          "en": "I gave you a phone so you wouldn't be late, and yet..."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "半田さ～ん",
+          "en": "Mr. Handa!"
+        },
+        {
+          "ja": "ねぇ半田さ～ん",
+          "en": "Hey, Handa!"
+        },
+        {
+          "ja": "半田さ～ん遊ぼう!",
+          "en": "Handa, let's play!"
+        },
+        {
+          "ja": "先輩 あいかわらずモテますね",
+          "en": "Senpai, you're as popular as ever."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "動物と子供とお年寄りにはモテるんだ",
+          "en": "I'm popular with animals, kids, and the elderly."
+        },
+        {
+          "ja": "女性にはさっぱりだけどな",
+          "en": "But not at all with women."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "彼はパンダ飼育員の半田さん",
+          "en": "He's Mr. Handa, the panda caretaker."
+        },
+        {
+          "ja": "日夜パンダの世話を頑張っています",
+          "en": "I work hard day and night taking care of the pandas."
+        },
+        {
+          "ja": "特技は料理",
+          "en": "My special skill is cooking."
+        },
+        {
+          "ja": "流行りの弁当男子です",
+          "en": "He's a trendy \"bento guy.\""
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "ちなみに彼女いる歴０年",
+          "en": "By the way, he's had zero years of having a girlfriend."
+        },
+        {
+          "ja": "聞こえてるよ",
+          "en": "I can hear you."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "彼女いる歴０年",
+          "en": "I've never had a girlfriend."
+        },
+        {
+          "ja": "もう!ちゃんと お仕事してください!",
+          "en": "Come on! Get back to work!"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "パンダくんは今日も遅刻だし…",
+          "en": "Panda-kun is late again today..."
+        },
+        {
+          "ja": "何度もモーニングコールしたのに",
+          "en": "I called him to wake up so many times."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "半田さんていい人だよね",
+          "en": "Handa is a really nice person, isn't he?"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "パンダのストラップもつけてくれるし",
+          "en": "He even puts on a panda strap for me."
+        },
+        {
+          "ja": "まぁパンダくんはパンダ好きだしね",
+          "en": "Well, Panda-kun does like pandas, after all."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "じゃなくて ちゃんとお仕事しなさい",
+          "en": "Instead of that, make sure you do your work properly."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "彼女ができない 半田さんのことが",
+          "en": "Handa can't get a girlfriend."
+        },
+        {
+          "ja": "心配で心配で 仕事にならないんだよ",
+          "en": "I'm so worried, so worried that I can't focus on work."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "いいわけしないの!",
+          "en": "No excuses!"
+        },
+        {
+          "ja": "だって見てよあれ",
+          "en": "But look at that!"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "お客さんはカップルばかりだよ",
+          "en": "The customers are all couples."
+        },
+        {
+          "ja": "そうだね",
+          "en": "That's true."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "相合傘でアツアツだよ",
+          "en": "They're all lovey-dovey under shared umbrellas."
+        },
+        {
+          "ja": "雨の日の動物園は穴場のデートスポットだからね",
+          "en": "The zoo on a rainy day is a hidden gem for a date, you know."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "彼女もいないのに",
+          "en": "Even though I don't have a girlfriend."
+        },
+        {
+          "ja": "まるでデートの達人のようなセリフだね",
+          "en": "It's like a line from a dating expert."
+        },
+        {
+          "ja": "大きなお世話です!",
+          "en": "None of your business!"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "デートの特集ばかり読んでないで",
+          "en": "Stop just reading dating features"
+        },
+        {
+          "ja": "ちゃんと仕事しなきゃダメだよ",
+          "en": "You need to focus on your work properly."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "そんなの読んでないし",
+          "en": "I haven't been reading those at all."
+        },
+        {
+          "ja": "仕事もさぼってないよ",
+          "en": "I'm not slacking off at work either."
+        },
+        {
+          "ja": "恋人ができれば",
+          "en": "If I get a boyfriend/girlfriend"
+        },
+        {
+          "ja": "仕事に張り合いが出るのに",
+          "en": "It would make work more fulfilling."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "僕にとっては",
+          "en": "For me,"
+        },
+        {
+          "ja": "動物園のみんなが恋人みたいなもんさ",
+          "en": "It's like everyone at the zoo is my sweetheart."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "そんな清純派アイドルみたいなセリフは",
+          "en": "That's such a line straight out of a pure-hearted idol's script."
+        },
+        {
+          "ja": "聞きたくないね",
+          "en": "I don't want to hear that."
+        },
+        {
+          "ja": "そうだよ",
+          "en": "That's right."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "私トイレに行きません",
+          "en": "I don't go to the bathroom."
+        },
+        {
+          "ja": "なんて アイドルみたいなセリフは聞きたくないよ",
+          "en": "I don't want to hear lines that sound like something an idol would say."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "ホントのアイドルは僕たちのように",
+          "en": "Real idols are like us."
+        },
+        {
+          "ja": "ウンチがレモンの香りなんだよ",
+          "en": "Their poop smells like lemons."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "パンダくん話がそれてるよ",
+          "en": "Panda-kun, you're getting off topic."
+        },
+        {
+          "ja": "それに半田さんがいくら動物好きでも",
+          "en": "Even if Handa-san loves animals so much"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "動物との 結婚生活は難しいと思うよ",
+          "en": "I think married life with an animal would be difficult."
+        },
+        {
+          "ja": "何言ってるの?",
+          "en": "What are you talking about?"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "いい半田さん",
+          "en": "Good, Handa-san."
+        },
+        {
+          "ja": "これからバツ２の常勤パンダさんが",
+          "en": "From now on, Mr. Panda, who's been divorced twice, will be..."
+        },
+        {
+          "ja": "恋愛相談してくれるから",
+          "en": "He's going to give you relationship advice."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "ではお願いします先生",
+          "en": "Alright, please go ahead, Sensei."
+        },
+        {
+          "ja": "私バツ２じゃないんだけど",
+          "en": "I'm not divorced twice, though."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "じゃあお願いします",
+          "en": "Alright, please go ahead."
+        },
+        {
+          "ja": "先生じゃなくて愛の狩人",
+          "en": "Not \"teacher,\" but \"hunter of love.\""
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "訂正するのはそこじゃないから",
+          "en": "That's not the part you should be correcting."
+        },
+        {
+          "ja": "っていうか 変なキャラづけしないで",
+          "en": "I mean, don't give me a weird character."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "ともかく 恋愛相談なんていりません",
+          "en": "Anyway, I don't need any love advice."
+        },
+        {
+          "ja": "あんなこと言ってますよ 恋愛番長",
+          "en": "They're saying stuff like that, Love Master."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "番長もやめて",
+          "en": "Stop calling me \"boss\" too."
+        },
+        {
+          "ja": "でも半田さん",
+          "en": "But Handa-san"
+        },
+        {
+          "ja": "一生彼女できなくてもいいの?",
+          "en": "Are you really okay with never having a girlfriend?"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "い…一生…",
+          "en": "F-Forever..."
+        },
+        {
+          "ja": "そうなんだよね",
+          "en": "That's right."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "彼女がほしいのはもちろんなんだけど",
+          "en": "Of course, I want a girlfriend, but..."
+        },
+        {
+          "ja": "もう彼女というか お嫁さんがほしい年頃なんだよね",
+          "en": "I'm at the age where I want a wife rather than just a girlfriend."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "大丈夫だよ",
+          "en": "It's okay."
+        },
+        {
+          "ja": "半田さんいい人だから",
+          "en": "Handa-san is a good person, so..."
+        },
+        {
+          "ja": "パンダくん!",
+          "en": "Panda-kun!"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "そしていい人で終わっちゃうタイプだね",
+          "en": "And he's the type who ends up just being a nice guy."
+        },
+        {
+          "ja": "ああどうでもいい人",
+          "en": "Ah, someone who doesn't really matter."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "あごめん",
+          "en": "Oh, sorry."
+        },
+        {
+          "ja": "元気出して",
+          "en": "Cheer up."
+        },
+        {
+          "ja": "半田さんのよさをわかってくれる 女の子がきっといるよ",
+          "en": "There's definitely a girl out there who will appreciate Handa-san's good qualities."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "そそうかな",
+          "en": "I wonder if that's true."
+        },
+        {
+          "ja": "いるよ",
+          "en": "There is."
+        },
+        {
+          "ja": "宇宙に１人くらいは",
+          "en": "At least one person in the universe."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "宇宙に１人だけ…",
+          "en": "Only one person in the universe..."
+        },
+        {
+          "ja": "１人いれば十分じゃない",
+          "en": "Isn't one person enough?"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "たった１人の運命の人",
+          "en": "The one destined person"
+        },
+        {
+          "ja": "その人と出会えれば",
+          "en": "If I can meet that person"
+        },
+        {
+          "ja": "それだけで幸運でしょ",
+          "en": "That's lucky enough, isn't it?"
+        },
+        {
+          "ja": "常勤パンダさん",
+          "en": "Mr. Full-Time Panda"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "だからほら元気出しなよ",
+          "en": "So come on, cheer up!"
+        },
+        {
+          "ja": "僕たちがついてるよ",
+          "en": "We're here for you."
+        },
+        {
+          "ja": "半田さん",
+          "en": "Mr. Handa"
+        },
+        {
+          "ja": "パンダに なぐさめられてていいんすか",
+          "en": "Is it really okay to be comforted by a panda?"
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "パンダくん ほら もっと食べなよ",
+          "en": "Panda-kun, come on, eat some more."
+        },
+        {
+          "ja": "もういいよ",
+          "en": "That's enough."
+        },
+        {
+          "ja": "じゃあシロクマくん",
+          "en": "Then how about you, Polar Bear?"
+        },
+        {
+          "ja": "僕も",
+          "en": "Me too."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "じゃあ…",
+          "en": "Well then..."
+        },
+        {
+          "ja": "もういいです",
+          "en": "That's enough."
+        },
+        {
+          "ja": "ペンギンさんの買ってくる パンの食べ過ぎで",
+          "en": "Eating too much of the bread that Penguin-san buys"
+        },
+        {
+          "ja": "また太っちゃったよ",
+          "en": "I've gained weight again."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "何言ってるの?",
+          "en": "What are you talking about?"
+        },
+        {
+          "ja": "もっと食べて",
+          "en": "Eat more."
+        },
+        {
+          "ja": "だって…",
+          "en": "But..."
+        },
+        {
+          "ja": "ほら!",
+          "en": "Look!"
+        },
+        {
+          "ja": "またペン子さんにサービス券をサービスしてもらっちゃったんだ!",
+          "en": "I got another service coupon from Penko-san!"
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "これが握手券だったらもっと嬉しいんだけどな…",
+          "en": "If it were a handshake ticket, I'd be even happier..."
+        },
+        {
+          "ja": "ウヒヒヒヒ…",
+          "en": "Hehehehe..."
+        },
+        {
+          "ja": "ウヒヒって…",
+          "en": "Hehehe..."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "そんな下品な笑い方してると ペン子さんに嫌われますよ",
+          "en": "If you keep laughing in such a vulgar way, Penko-san will dislike you."
+        },
+        {
+          "ja": "失礼な!!僕ウヒヒ… なんて笑い方してないよ!",
+          "en": "Rude!! I don't laugh like \"uhihi\" at all!"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "そうだよ ウヒヒ…なんてしてないよ",
+          "en": "That's right, I don't laugh like \"uhihi\" or anything."
+        },
+        {
+          "ja": "だよね?",
+          "en": "Right?"
+        },
+        {
+          "ja": "グヒヒ…だよ",
+          "en": "It's more like \"Guhihi...\""
+        },
+        {
+          "ja": "言ってないから…",
+          "en": "I didn't say that..."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "先輩この間のコンパの子たちが",
+          "en": "Senpai, those girls from the group date the other day..."
+        },
+        {
+          "ja": "また半田さんと 飲みたいって言ってましたよ",
+          "en": "They said they want to drink with Handa again."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "またセッティングしましょうか?",
+          "en": "Shall we set it up again?"
+        },
+        {
+          "ja": "うん…",
+          "en": "Yeah..."
+        },
+        {
+          "ja": "まあそのうちな",
+          "en": "Well, maybe sometime."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "はいわかりました",
+          "en": "Yes, understood."
+        },
+        {
+          "ja": "じゃあお先に失礼します",
+          "en": "Well then, I'll be leaving now."
+        },
+        {
+          "ja": "ああお疲れさま",
+          "en": "Oh, take care."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "雨ちょっと強いから 気をつけてな",
+          "en": "The rain's a bit heavy, so take care."
+        },
+        {
+          "ja": "はい先輩もほどほどにして 帰ってくださいね",
+          "en": "Sure, senpai, make sure to take it easy and head home, okay?"
+        },
+        {
+          "ja": "わかってるよ",
+          "en": "I know, I know."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "半田さんに借りたケータイ 忘れちゃった",
+          "en": "I forgot the cell phone I borrowed from Handa."
+        },
+        {
+          "ja": "今しろくまカフェにいるから",
+          "en": "I'm at the Polar Bear Café right now."
+        },
+        {
+          "ja": "帰りに届けてくれない?",
+          "en": "Could you bring it to me on your way back?"
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "もう…パンダくんってば…",
+          "en": "Oh, Panda-kun... honestly..."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "いらっしゃいませ",
+          "en": "Welcome"
+        },
+        {
+          "ja": "大変でしたね",
+          "en": "That must have been tough."
+        },
+        {
+          "ja": "カッパお預かりします",
+          "en": "I'll take care of the kappa for you."
+        },
+        {
+          "ja": "ああ…どうも",
+          "en": "Ah... thank you."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "はい",
+          "en": "Yes"
+        },
+        {
+          "ja": "今度から忘れないでよ",
+          "en": "Don't forget next time."
+        },
+        {
+          "ja": "ありがとう",
+          "en": "Thank you."
+        },
+        {
+          "ja": "半田さんって ホントいい人だよね",
+          "en": "Mr. Handa is really a good person, isn't he?"
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "もう…",
+          "en": "Geez..."
+        },
+        {
+          "ja": "少し休ませてもらっても いいですか?",
+          "en": "Is it okay if I take a little break?"
+        },
+        {
+          "ja": "どうぞ",
+          "en": "Of course."
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "でペン子さんがさ…",
+          "en": "So, about Penko-san..."
+        },
+        {
+          "ja": "それさっきも聞いたよ",
+          "en": "I heard that earlier."
+        },
+        {
+          "ja": "恋は動物の目を曇らせるんですかね",
+          "en": "Does love cloud the eyes of animals, I wonder?"
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "いいじゃない聞いてよ",
+          "en": "It's fine, just listen to me."
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "お目覚めですか?",
+          "en": "Are you awake?"
+        },
+        {
+          "ja": "すみません ついウトウトしちゃって",
+          "en": "Sorry, I just dozed off for a moment."
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "お気になさらずに",
+          "en": "Don't worry about it."
+        },
+        {
+          "ja": "これ店長からのサービスです",
+          "en": "This is a complimentary service from the manager."
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "あったかい",
+          "en": "It's warm."
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "雨に濡れた緑が鮮やかで",
+          "en": "The green looks so vivid after the rain."
+        },
+        {
+          "ja": "ホントきれいですよね",
+          "en": "It's really beautiful, isn't it?"
+        },
+        {
+          "ja": "はい",
+          "en": "Yes"
+        }
+      ]
+    }
+  ]
+}

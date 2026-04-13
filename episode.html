@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>シロクマ カフェ</title>
+  <link rel="stylesheet" href="includes/style.css">
+</head>
+<body>
+
+<nav class="site-nav">
+  <a class="nav-brand" href="index.html">シロクマ カフェ</a>
+  <div class="nav-links">
+    <span id="nav-prev"></span>
+    <span id="nav-next"></span>
+  </div>
+  <button id="en-toggle" class="en-btn" onclick="toggleEnglish()">EN ▾</button>
+</nav>
+
+<main>
+  <h1 id="ep-title"></h1>
+  <div id="scenes"></div>
+</main>
+
+<script>
+const params = new URLSearchParams(location.search);
+const ep = (params.get('ep') || '01').padStart(2, '0');
+let showEn = params.get('en') === '1';
+let totalEps = 50;
+
+fetch(`episodes/${ep}.json`)
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(data => render(data))
+  .catch(() => {
+    document.getElementById('ep-title').textContent = 'Episode not found';
+  });
+
+function render(data) {
+  document.title = `${data.title} — シロクマ カフェ`;
+  document.getElementById('ep-title').textContent = data.title;
+
+  const epNum = parseInt(ep);
+  const prev = document.getElementById('nav-prev');
+  const next = document.getElementById('nav-next');
+  if (epNum > 1)       prev.innerHTML = `<a href="episode.html?ep=${String(epNum-1).padStart(2,'0')}">« ${String(epNum-1).padStart(2,'0')}</a>`;
+  if (epNum < totalEps) next.innerHTML = `<a href="episode.html?ep=${String(epNum+1).padStart(2,'0')}">${String(epNum+1).padStart(2,'0')} »</a>`;
+
+  const hasEn = data.scenes.some(s => s.lines.some(l => l.en));
+  if (!hasEn) document.getElementById('en-toggle').style.display = 'none';
+  if (showEn) { document.body.classList.add('show-en'); document.getElementById('en-toggle').textContent = 'EN ▴'; }
+
+  const container = document.getElementById('scenes');
+  data.scenes.forEach((scene, i) => {
+    const block = document.createElement('div');
+    block.className = 'scene';
+
+    scene.lines.forEach(line => {
+      const p = document.createElement('p');
+      p.className = 'line';
+      p.textContent = line.ja;
+      if (line.en) {
+        const en = document.createElement('span');
+        en.className = 'en-text';
+        en.textContent = line.en;
+        p.appendChild(en);
+      }
+      block.appendChild(p);
+    });
+
+    // Audio button per scene
+    const audio = document.createElement('audio');
+    audio.id = `a${i}`;
+    audio.src = `audio/${ep}/${i}.mp3`;
+    const btn = document.createElement('span');
+    btn.className = 'sound';
+    btn.textContent = '🔊';
+    btn.onclick = () => toggleSound(i);
+    block.appendChild(audio);
+    block.appendChild(btn);
+    block.appendChild(document.createElement('hr'));
+
+    container.appendChild(block);
+  });
+}
+
+function toggleSound(i) {
+  const a = document.getElementById(`a${i}`);
+  const btn = a.nextSibling;
+  if (a.paused) {
+    // pause all others
+    document.querySelectorAll('audio').forEach(x => { if (x !== a) { x.pause(); x.nextSibling.style.opacity = '1'; } });
+    a.play();
+    btn.style.opacity = '0.4';
+  } else {
+    a.pause();
+    btn.style.opacity = '1';
+  }
+  a.onended = () => btn.style.opacity = '1';
+}
+
+function toggleEnglish() {
+  showEn = !showEn;
+  document.body.classList.toggle('show-en', showEn);
+  document.getElementById('en-toggle').textContent = showEn ? 'EN ▴' : 'EN ▾';
+}
+</script>
+
+</body>
+</html>

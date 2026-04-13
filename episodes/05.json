@@ -1,0 +1,1068 @@
+{
+  "ep": "05",
+  "title": "シロクマくん　動物園へ",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "シロクマくん　暇だから　何か問題出してよ",
+          "en": "Polar Bear, I'm bored, so give me a problem to solve."
+        },
+        {
+          "ja": "いいよ",
+          "en": "Sure"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "第１問",
+          "en": "Question 1"
+        },
+        {
+          "ja": "Ｔ字路と呼ばれる交差点",
+          "en": "An intersection called a T-junction"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "法令上の正式名称は　Ｔ字路ではありません",
+          "en": "The official name according to the law is not \"T-junction.\""
+        },
+        {
+          "ja": "さて　何と言うでしょう",
+          "en": "So, what do you think it's called?"
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "もっと　フランクな問題がいいな",
+          "en": "I wish the questions were more casual."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "無洗米の製法には　いくつかありますが",
+          "en": "There are several methods for producing pre-washed rice, but..."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "NTWP 加工法という方法では　よく…",
+          "en": "In the NTWP processing method, it is often..."
+        },
+        {
+          "ja": "ごめん、もういいや",
+          "en": "Sorry, never mind."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "おぉ　パンダくん",
+          "en": "Oh, Panda-kun."
+        },
+        {
+          "ja": "いらっしゃい",
+          "en": "Welcome"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "パンダくん　いつもの？",
+          "en": "Panda, the usual?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "どうしたの？　クイズ出す？",
+          "en": "What's up? Are you giving a quiz?"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "クイズより",
+          "en": "More than a quiz."
+        },
+        {
+          "ja": "どうして　シロクマくんは　動物園に来てくれないの？",
+          "en": "Why doesn't Shirokuma-kun come to the zoo?"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "何？　急に",
+          "en": "What? All of a sudden?"
+        },
+        {
+          "ja": "僕は　いつもシロクマくんの仕事場に　遊びに来てるのに　ずるいよ",
+          "en": "I always visit Polar Bear's workplace, so it's not fair."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "カフェに　お茶しに来てるだけでしょ",
+          "en": "You're just coming to the café for tea, right?"
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "僕　人には　モテるんだからね",
+          "en": "I'm popular with people, you know."
+        },
+        {
+          "ja": "聞いてないなぁ…",
+          "en": "You're not listening..."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "一度　動物園に遊びに来てよ",
+          "en": "Come visit the zoo sometime."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "大人気で　びっくりするよ",
+          "en": "You'll be surprised at how popular it is."
+        },
+        {
+          "ja": "大人気で　びっくりするよ",
+          "en": "You'll be surprised at how popular it is."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "なんで　２回言うの？",
+          "en": "Why did you say it twice?"
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "もしもし　シロクマくん？",
+          "en": "Hello, Polar Bear?"
+        },
+        {
+          "ja": "明日　動物園に来る件だけど　忘れないでよ",
+          "en": "About coming to the zoo tomorrow, don't forget."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "じゃあ　ペンギンさんにも　伝えておいてね",
+          "en": "Then please let Penguin know too."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "おはようございま～す",
+          "en": "Good morniiiing!"
+        },
+        {
+          "ja": "おはよう　パンダくん",
+          "en": "Good morning, Panda."
+        },
+        {
+          "ja": "なんだか　元気だね",
+          "en": "You seem quite energetic."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "今日　友達が僕のこと見に来るの",
+          "en": "My friends are coming to see me today."
+        },
+        {
+          "ja": "そうなんだ",
+          "en": "I see."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "あっ　そうだ　今日は　常勤パンダさんが　娘さんの参観日だから　休むって",
+          "en": "Oh, that's right. Today, Full-time Panda is taking the day off because it's his daughter's school visit day."
+        },
+        {
+          "ja": "そうなの？",
+          "en": "Is that so?"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "あれ？　ということは…",
+          "en": "Huh? So that means..."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "パンダは　僕ひとり…",
+          "en": "I'm the only panda..."
+        },
+        {
+          "ja": "パンダさん　かわいい～！",
+          "en": "Panda-san is so cute!"
+        },
+        {
+          "ja": "パンダく～ん！　かわいい！",
+          "en": "Panda-kun! So cute!"
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "ようし！　頑張るぞ～！",
+          "en": "Alright! I'll do my best!"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "何名様ですか？",
+          "en": "How many people in your party?"
+        },
+        {
+          "ja": "動物が",
+          "en": "Animals"
+        },
+        {
+          "ja": "２名です",
+          "en": "Two people."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "ここが　動物園か",
+          "en": "So this is the zoo, huh?"
+        },
+        {
+          "ja": "思ったより　広いね",
+          "en": "It's bigger than I thought."
+        },
+        {
+          "ja": "まずは　パンダくんを見に行こう",
+          "en": "Let's go see the panda first."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "ただ今から　シロクマの　おやつタイムを行います",
+          "en": "We will now begin the polar bear snack time."
+        },
+        {
+          "ja": "シロクマが　プールへダイビングする姿を　どうぞお楽しみください",
+          "en": "Please enjoy watching the polar bear dive into the pool."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "見たい！　すごそう！",
+          "en": "I want to see it! It sounds amazing!"
+        },
+        {
+          "ja": "えっ！？　見たい！？",
+          "en": "Huh!? I want to see it!"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "シロクマくんって　シロクマだよね？",
+          "en": "The polar bear is a polar bear, right?"
+        },
+        {
+          "ja": "シロクマが　シロクマのダイビングする姿が見たいの？",
+          "en": "Do you want to see the polar bear diving?"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "行こう　行こう！",
+          "en": "Let's go, let's go!"
+        },
+        {
+          "ja": "パンダく～ん",
+          "en": "Panda-kun!"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "そんなに飛ばして大丈夫？",
+          "en": "Is it okay to go that fast?"
+        },
+        {
+          "ja": "半田さん　友達が来たら　ちゃんと写真撮ってね",
+          "en": "Mr. Handa, make sure to take some good photos when your friends arrive."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "でも　おかしいなぁ",
+          "en": "But that's strange..."
+        },
+        {
+          "ja": "シロクマくんたち　１時って言ったのに　来ないね",
+          "en": "The polar bears said they'd be here at 1 o'clock, but they haven't come yet."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "シロクマくん　駄目だよ　ほら",
+          "en": "Shirokuma-kun, that's not good, look."
+        },
+        {
+          "ja": "なに？",
+          "en": "What?"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "入館不可だって",
+          "en": "It says \"No entry allowed.\""
+        },
+        {
+          "ja": "シロクマ館へのシロクマの入館は　ご遠慮ください",
+          "en": "Please refrain from allowing polar bears to enter the polar bear exhibit."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "まぎらわしいので",
+          "en": "Because it's confusing."
+        },
+        {
+          "ja": "こっそり入れば　バレない　バレない",
+          "en": "If we sneak in, they won't notice, they won't notice."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "いや　すごく目立ってるから",
+          "en": "No, you're really standing out."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "お～！　すごい迫力",
+          "en": "Oh! That's really impressive."
+        },
+        {
+          "ja": "シロクマ！",
+          "en": "Polar bear!"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "ちょっと　ちょっと　シロクマは　入れないって書いてあったでしょう",
+          "en": "Hey, hey, it said no polar bears allowed, didn't it?"
+        },
+        {
+          "ja": "困りますよ",
+          "en": "This is a problem."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "え？　これ　剥製ですけど",
+          "en": "Huh? This is a taxidermy, though."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "今　動いてましたよ　剥製なわけないでしょう",
+          "en": "It was just moving, there's no way it's a taxidermy."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "なんで来ないの？",
+          "en": "Why aren't you coming?"
+        },
+        {
+          "ja": "もう行っていいかな？来たら呼んで",
+          "en": "Can I go now? Call me when they arrive."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "もう　叱られたじゃない",
+          "en": "I already got scolded."
+        },
+        {
+          "ja": "僕は　バレるって言ったのに",
+          "en": "I told you we'd get caught."
+        },
+        {
+          "ja": "じゃあ　パンダくんとこに行こう",
+          "en": "Then let's go to Panda-kun's place."
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "パンダくん　かわいい　キャ～ッ　かわいい",
+          "en": "Panda-kun is so cute! Eek, so cute!"
+        },
+        {
+          "ja": "パンダく～ん",
+          "en": "Panda-kun!"
+        },
+        {
+          "ja": "パンダくん　遅れてごめん",
+          "en": "Panda-kun, sorry for being late."
+        },
+        {
+          "ja": "あれ？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "お～い　パンダくん",
+          "en": "Hey, Panda!"
+        },
+        {
+          "ja": "寝てる",
+          "en": "Asleep."
+        },
+        {
+          "ja": "パンダくん　起きて",
+          "en": "Panda-kun, wake up."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "笑ってる",
+          "en": "Laughing"
+        },
+        {
+          "ja": "パンダくん　おい　パンダくん！",
+          "en": "Panda-kun, hey, Panda-kun!"
+        },
+        {
+          "ja": "駄目だ",
+          "en": "No use."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "他のとこ回ってこようか",
+          "en": "Should we go check out other places?"
+        },
+        {
+          "ja": "寝ててもいいなんて　うらやましい仕事だね",
+          "en": "It's a job to be envious of, being able to sleep like that."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "ハッ　今　ペンギンさんの声が",
+          "en": "Huh, I just heard Mr. Penguin's voice."
+        },
+        {
+          "ja": "いない",
+          "en": "Not here."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "あっ　半田さん",
+          "en": "Oh, Handa!"
+        },
+        {
+          "ja": "なに？",
+          "en": "What?"
+        },
+        {
+          "ja": "友達来なかった？",
+          "en": "Didn't your friend come?"
+        },
+        {
+          "ja": "え？　気づかなかったな",
+          "en": "Huh? I didn't notice."
+        },
+        {
+          "ja": "ちゃんと写真撮ってよ",
+          "en": "Make sure to take a proper picture."
+        },
+        {
+          "ja": "はいはい",
+          "en": "Alright, alright."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "おっ　あざらし館　行こう　行こう",
+          "en": "Oh, the seal exhibit! Let's go, let's go!"
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "シロクマの入館は　ご遠慮ください",
+          "en": "Please refrain from bringing polar bears inside."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "あざらしが怖がるので…",
+          "en": "The seals get scared, so..."
+        },
+        {
+          "ja": "だってさ",
+          "en": "That's what it says."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "バレない　バレない",
+          "en": "They won't notice, they won't notice."
+        },
+        {
+          "ja": "いや　目立ってるし",
+          "en": "No, you're standing out."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "食べない　食べない",
+          "en": "I won't eat, I won't eat."
+        },
+        {
+          "ja": "シロクマ！",
+          "en": "Polar bear!"
+        },
+        {
+          "ja": "食べないとわかっていても　実際　本物見るとテンション上がるなあ",
+          "en": "Even though I know it won't eat me, seeing a real one in person really gets me excited."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "シロクマくんの野性が　呼び覚まされないうちに　早く行こうよ",
+          "en": "Let's hurry up and go before Shirokuma-kun's wild instincts kick in."
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "ちょっと　ちょっと",
+          "en": "Wait, wait!"
+        },
+        {
+          "ja": "シロクマは　入らないで　って書いてあったでしょう",
+          "en": "It said \"No entry for polar bears,\" didn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "え？　これ絨毯ですよ",
+          "en": "Huh? This is a carpet."
+        },
+        {
+          "ja": "ほ～ら　見てみて　こんなに　ふっかふかo",
+          "en": "Look, look! It's so fluffy!"
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "いや～　騙せないもんだね",
+          "en": "Wow, you really can't fool anyone, can you?"
+        },
+        {
+          "ja": "もう",
+          "en": "Enough already."
+        },
+        {
+          "ja": "パンダくん　そろそろ起きてるんじゃない？",
+          "en": "Panda-kun, aren't you awake by now?"
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "お～い　パンダくん",
+          "en": "Hey, Panda!"
+        },
+        {
+          "ja": "また　笑ってる",
+          "en": "Laughing again"
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "よくあんな状態で寝られるね",
+          "en": "It's amazing how you can sleep in that position."
+        },
+        {
+          "ja": "あれは逆に尊敬するね",
+          "en": "I actually admire that in a way."
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "あの　もしかして　パンダくんのお友達ですか？",
+          "en": "Um, are you perhaps a friend of Panda-kun?"
+        },
+        {
+          "ja": "あ　はい",
+          "en": "Oh, yes."
+        },
+        {
+          "ja": "写真撮りましょうか",
+          "en": "Shall we take a picture?"
+        },
+        {
+          "ja": "撮ってくれって頼まれてるんで",
+          "en": "They asked me to take the picture."
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "キリンさん　シロクマカフェに　来てくれないかな？",
+          "en": "Giraffe, would you come to the Polar Bear Café?"
+        },
+        {
+          "ja": "いや　カフェに入れないでしょ",
+          "en": "No, I can't get into the café, right?"
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "別のところも回ってみよう",
+          "en": "Let's check out some other places."
+        },
+        {
+          "ja": "そうだね",
+          "en": "Yeah, you're right."
+        },
+        {
+          "ja": "で　どこ行こうか？",
+          "en": "So, where should we go?"
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "う～ん　あっ！　ペンギンコーナー",
+          "en": "Hmm... Ah! The penguin exhibit!"
+        },
+        {
+          "ja": "えぇ～",
+          "en": "Huh?"
+        },
+        {
+          "ja": "ペンギンさん　曲芸に飛び入りしてよ",
+          "en": "Mr. Penguin, join in the acrobatics!"
+        }
+      ]
+    },
+    {
+      "audio": 63,
+      "lines": [
+        {
+          "ja": "僕　運動神経　悪いから",
+          "en": "I'm not very athletic."
+        },
+        {
+          "ja": "ちょっと　ちょっと",
+          "en": "Wait, wait!"
+        }
+      ]
+    },
+    {
+      "audio": 64,
+      "lines": [
+        {
+          "ja": "あ　ラマさん",
+          "en": "Oh, a llama!"
+        },
+        {
+          "ja": "今日は　どうしたんですか？",
+          "en": "What's going on today?"
+        }
+      ]
+    },
+    {
+      "audio": 65,
+      "lines": [
+        {
+          "ja": "パンダくんに会いにきたのに　寝てるんだよね",
+          "en": "I came to see Panda-kun, but he's sleeping."
+        },
+        {
+          "ja": "たまには　起きてますよ",
+          "en": "Sometimes he's awake."
+        },
+        {
+          "ja": "そっか",
+          "en": "I see."
+        }
+      ]
+    },
+    {
+      "audio": 66,
+      "lines": [
+        {
+          "ja": "いいかげん　パンダくん　起きてるよね？",
+          "en": "Isn't Panda-kun awake by now?"
+        },
+        {
+          "ja": "戻ろう",
+          "en": "Let's go back."
+        }
+      ]
+    },
+    {
+      "audio": 67,
+      "lines": [
+        {
+          "ja": "また寝てる",
+          "en": "Asleep again."
+        },
+        {
+          "ja": "更に　だらしないね",
+          "en": "Even more lazy, huh?"
+        },
+        {
+          "ja": "パンダくん　僕たちに　いったい何を　見てもらいたかったんだろうね",
+          "en": "I wonder what exactly Panda-kun wanted us to see."
+        }
+      ]
+    },
+    {
+      "audio": 68,
+      "lines": [
+        {
+          "ja": "あのパンダさん　寝てばっかりで　つまんない",
+          "en": "That panda is always sleeping, it's boring."
+        },
+        {
+          "ja": "うん　行こう",
+          "en": "Yeah, let's go."
+        }
+      ]
+    },
+    {
+      "audio": 69,
+      "lines": [
+        {
+          "ja": "大人気ねぇ…",
+          "en": "So popular..."
+        },
+        {
+          "ja": "あ　また　笑った",
+          "en": "Oh, it laughed again."
+        }
+      ]
+    },
+    {
+      "audio": 70,
+      "lines": [
+        {
+          "ja": "ず～っと待ってたのに　なんで来てくれなかったの？",
+          "en": "I was waiting for so long, so why didn't you come?"
+        },
+        {
+          "ja": "いや　何度も行ったよ",
+          "en": "No, I went many times."
+        }
+      ]
+    },
+    {
+      "audio": 71,
+      "lines": [
+        {
+          "ja": "ほんと？",
+          "en": "Really?"
+        },
+        {
+          "ja": "行ったってば",
+          "en": "I told you, I did go."
+        },
+        {
+          "ja": "ねぇ　ラマさん　今日　動物園で会ったよね？",
+          "en": "Hey, Lama, we met at the zoo today, didn't we?"
+        },
+        {
+          "ja": "会いましたよ",
+          "en": "We did meet."
+        },
+        {
+          "ja": "ほら　ちゃんと行ったでしょ？",
+          "en": "See, I told you I went, didn't I?"
+        }
+      ]
+    },
+    {
+      "audio": 72,
+      "lines": [
+        {
+          "ja": "どうして僕のとこには　来てくれないの？",
+          "en": "Why didn't you come to see me?"
+        },
+        {
+          "ja": "だから　行ったんだって！",
+          "en": "I told you, I did go!"
+        },
+        {
+          "ja": "そんなに　ずっと　ラマさんを見てたの？",
+          "en": "Were you really watching the llama the whole time?"
+        }
+      ]
+    },
+    {
+      "audio": 73,
+      "lines": [
+        {
+          "ja": "だから　パンダくんとこに行ったってば！",
+          "en": "I told you, I went to see Panda-kun!"
+        },
+        {
+          "ja": "じゃあ　なんで　会えなかったんだろうね",
+          "en": "Then why couldn't we meet, I wonder?"
+        },
+        {
+          "ja": "パンダくんが　寝てばっかりだったからでしょ",
+          "en": "Because Panda-kun was sleeping all the time."
+        }
+      ]
+    },
+    {
+      "audio": 74,
+      "lines": [
+        {
+          "ja": "起こしてよ",
+          "en": "Wake him up!"
+        },
+        {
+          "ja": "起きなかったよ",
+          "en": "He didn't wake up."
+        },
+        {
+          "ja": "せっかく半田さんが　写真　撮ってくれるって言ってたのに",
+          "en": "Even though Handa-san said they would take a picture for us."
+        }
+      ]
+    },
+    {
+      "audio": 75,
+      "lines": [
+        {
+          "ja": "撮ったよ",
+          "en": "I took them."
+        },
+        {
+          "ja": "ほんとだ　来てたんだね",
+          "en": "It's true, you really came."
+        }
+      ]
+    },
+    {
+      "audio": 76,
+      "lines": [
+        {
+          "ja": "だから　言ったのに",
+          "en": "That's why I told you."
+        },
+        {
+          "ja": "へぇ～　僕って　寝てても　かわいいなぁ",
+          "en": "Wow, I'm cute even when I'm sleeping."
+        }
+      ]
+    },
+    {
+      "audio": 77,
+      "lines": [
+        {
+          "ja": "ねえねえ　どの寝顔が　いちばん好き？",
+          "en": "Hey, hey, which sleeping face do you like the best?"
+        },
+        {
+          "ja": "シロクマくん　おかわりくれる？",
+          "en": "Shirokuma-kun, can I have a refill?"
+        }
+      ]
+    }
+  ]
+}

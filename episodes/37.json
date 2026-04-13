@@ -1,0 +1,1135 @@
+{
+  "ep": "37",
+  "title": "ペンギンにも いろいろあるよ",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "わかった　先に入ってる",
+          "en": "Got it, I'll go in first."
+        },
+        {
+          "ja": "笹子さん　なんって？",
+          "en": "What did Sasako say?"
+        },
+        {
+          "ja": "海が　きれいだって",
+          "en": "She said the sea is beautiful."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "なんで　海にいるの？",
+          "en": "Why are you at the sea?"
+        },
+        {
+          "ja": "久しぶりに電車に乗ったから　方向間違えたって",
+          "en": "It's been a while since I took the train, so I went the wrong direction."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "ペンギンさんも遅いね",
+          "en": "Mr. Penguin is late too, isn't he?"
+        },
+        {
+          "ja": "また　逃げ回ってるんじゃないの？ ペン子さんズから",
+          "en": "Maybe he's running away again from the Penko-sans?"
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "７人もいるから　名前を覚えるだけで 大変だね",
+          "en": "With seven of them, just remembering their names is tough, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "お待たせ！",
+          "en": "Sorry to keep you waiting!"
+        },
+        {
+          "ja": "誰？",
+          "en": "Who?"
+        },
+        {
+          "ja": "ペン子さん８号？",
+          "en": "Penguin No. 8?"
+        },
+        {
+          "ja": "やめてよ",
+          "en": "Stop it."
+        },
+        {
+          "ja": "この子は僕の甥っ子",
+          "en": "This is my nephew."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "こんにちは",
+          "en": "Hello"
+        },
+        {
+          "ja": "かわいい！",
+          "en": "So cute!"
+        },
+        {
+          "ja": "コウテイペンギンのヒナって 本当に　かわいいよね",
+          "en": "Emperor penguin chicks are really cute, aren't they?"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "あら　アンタも来てたの？",
+          "en": "Oh, you came too?"
+        },
+        {
+          "ja": "げっ！？",
+          "en": "Yikes!?"
+        },
+        {
+          "ja": "ペン子さん８号？",
+          "en": "Penguin No. 8?"
+        },
+        {
+          "ja": "しつこいね",
+          "en": "Persistent, aren't you?"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "ペンギンさんのお友達？",
+          "en": "Are you a friend of the penguins?"
+        },
+        {
+          "ja": "まあ　失礼な！！",
+          "en": "Well, how rude!!"
+        },
+        {
+          "ja": "コウテイペンギンなんかと 仲間にしないでよ！",
+          "en": "Don't lump me in with emperor penguins!"
+        },
+        {
+          "ja": "それはこっちのセリフだよ！",
+          "en": "That's my line!"
+        },
+        {
+          "ja": "えっ？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "どっちも コウテイペンギンさんじゃないの？",
+          "en": "Aren't both of you Emperor Penguins?"
+        },
+        {
+          "ja": "違うよ！ 違うわよ！",
+          "en": "No, we're not! No, we're not!"
+        },
+        {
+          "ja": "僕が　正真正銘のコウテイペンギン！",
+          "en": "I'm the real emperor penguin!"
+        },
+        {
+          "ja": "私が　正真正銘のキングペンギン！",
+          "en": "I am the genuine King Penguin!"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "こんな図体がでかいだけのヤツと 一緒にしないでちょうだい！",
+          "en": "Don't lump me together with someone who's just big and bulky!"
+        },
+        {
+          "ja": "イタッ！　こっちこそ 一緒にされたくないね",
+          "en": "Ouch! I don't want to be lumped together with you either."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "ド派手なオレンジ色の キングペンギンなんかと",
+          "en": "A flashy orange King Penguin like you."
+        },
+        {
+          "ja": "ド派手じゃなくて　エレガント！！",
+          "en": "It's not flashy, it's elegant!!"
+        },
+        {
+          "ja": "イタッ！",
+          "en": "Ouch!"
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "なんか　仲　悪いね",
+          "en": "You two don't seem to get along very well."
+        },
+        {
+          "ja": "僕らは　平和主義なのに",
+          "en": "We're pacifists, though."
+        },
+        {
+          "ja": "キングペンギンたちが　やたらと ケンカを売ってくるから",
+          "en": "The king penguins keep picking fights with us."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "原因はアンタたちでしょ",
+          "en": "You're the reason for it, aren't you?"
+        },
+        {
+          "ja": "コウテイペンギンのせいで　私たちはいっつも大迷惑しているんだから",
+          "en": "Because of the emperor penguins, we're always in big trouble."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "大迷惑？",
+          "en": "Huge inconvenience?"
+        },
+        {
+          "ja": "そうよ　例えば…",
+          "en": "Yes, for example..."
+        },
+        {
+          "ja": "動物園じゃ　キングペンギンのほうが 大活躍しているのに",
+          "en": "At the zoo, the king penguins are the ones really making a splash."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "人間たちは 平気で間違うのよ！",
+          "en": "Humans make mistakes without a care!"
+        },
+        {
+          "ja": "ハア…　大迷惑よ",
+          "en": "*Sigh*... It's such a nuisance."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "ペンギンにも　いろいろあるんだね",
+          "en": "There are different kinds of penguins, aren't there?"
+        },
+        {
+          "ja": "まあ　大人同士は 多少　似てるかもしれないけど",
+          "en": "Well, adult ones might look somewhat similar to each other."
+        },
+        {
+          "ja": "キングペンギンのヒナときたら",
+          "en": "When it comes to King Penguin chicks..."
+        },
+        {
+          "ja": "まるで 汚れたモップみたいなんだから",
+          "en": "It's just like a dirty mop."
+        },
+        {
+          "ja": "まあ",
+          "en": "Well,"
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "失礼ね！！",
+          "en": "How rude!!"
+        },
+        {
+          "ja": "イタッ！　乱暴しないでよ！！",
+          "en": "Ouch! Don't be so rough!"
+        },
+        {
+          "ja": "あれ？　その子は？",
+          "en": "Huh? What about that one?"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "家の息子よ かわいいでしょ？",
+          "en": "He's my son. Isn't he cute?"
+        },
+        {
+          "ja": "かわいいというより…",
+          "en": "More than cute..."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "ちょっと　怖いかも",
+          "en": "He might be a little scary."
+        },
+        {
+          "ja": "失礼ね！　こういうのが ブスかわいいっていうのよ！！",
+          "en": "How rude! This is what you call \"ugly-cute\"!!"
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "ぼ…　僕… モップとか言って　ごめんね",
+          "en": "Uh... I'm sorry for calling you a mop."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "フワフワ…",
+          "en": "Fluffy..."
+        },
+        {
+          "ja": "モコモコ…",
+          "en": "Fluffy..."
+        },
+        {
+          "ja": "フワフワ…",
+          "en": "Fluffy..."
+        },
+        {
+          "ja": "モコモコ…",
+          "en": "Fluffy..."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "こっちは 仲よくなってるよ",
+          "en": "We're getting along over here."
+        },
+        {
+          "ja": "そっちも仲よくしたら？",
+          "en": "Why don't you get along too?"
+        },
+        {
+          "ja": "ま…　まあ 僕は　もともと　平和主義だし…",
+          "en": "W-Well, I'm naturally a pacifist, after all..."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "しかたないわね 特別に停戦してあげるわ",
+          "en": "I guess I have no choice. I'll grant you a special ceasefire."
+        },
+        {
+          "ja": "よかった",
+          "en": "That's good."
+        },
+        {
+          "ja": "南極平和条約　締結だね",
+          "en": "It's like we've signed the Antarctic Peace Treaty."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "おっ　コウテイペンギンだぞ",
+          "en": "Oh, it's an emperor penguin!"
+        },
+        {
+          "ja": "本当だ！",
+          "en": "It's true!"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "うわぁ～！",
+          "en": "Wow!"
+        },
+        {
+          "ja": "プール！　プール！",
+          "en": "Pool! Pool!"
+        },
+        {
+          "ja": "僕でも余裕の広さだね",
+          "en": "It's spacious enough even for me."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "最近　飲みすぎで　メタボ気味だから",
+          "en": "Lately, I've been drinking too much, so I'm getting a bit chubby."
+        },
+        {
+          "ja": "今日は　いっぱい泳ごう",
+          "en": "Let's swim a lot today."
+        },
+        {
+          "ja": "あっ　ペンギンさん　発見！",
+          "en": "Oh, look! I found a penguin!"
+        },
+        {
+          "ja": "ペンギンさん　ひどい！ どうして私を誘ってくれないの？",
+          "en": "Penguin, that's so mean! Why didn't you invite me?"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "さて　ここで問題です",
+          "en": "Now, here's a question for you."
+        },
+        {
+          "ja": "ペンジョリーナさんは 右から何番目でしょう？",
+          "en": "Which position from the right is Penjorina?"
+        },
+        {
+          "ja": "それ　難しいね",
+          "en": "That's difficult."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "どうして　ここに？",
+          "en": "Why are you here?"
+        },
+        {
+          "ja": "けさ　スマホで つぶやいてたでしょ？",
+          "en": "This morning, you were tweeting on your smartphone, right?"
+        },
+        {
+          "ja": "甥っ子をよろしく！",
+          "en": "Please take care of my nephew!"
+        },
+        {
+          "ja": "あっ　逃げた！",
+          "en": "Oh, it ran away!"
+        },
+        {
+          "ja": "あ～～～",
+          "en": "Ah~~~"
+        },
+        {
+          "ja": "待ってーー",
+          "en": "Waitーー"
+        },
+        {
+          "ja": "ペンギンさん　今日は　いっぱい 泳げそうだね",
+          "en": "Mr. Penguin, it looks like you'll be able to swim a lot today."
+        },
+        {
+          "ja": "ペンギンさん～～",
+          "en": "Penguin~~"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "私が　ペン子",
+          "en": "I'm Penko."
+        },
+        {
+          "ja": "私が　ペン美",
+          "en": "I'm Penmi."
+        },
+        {
+          "ja": "私が　ペン乃",
+          "en": "I'm Penno."
+        },
+        {
+          "ja": "私が　ペン花",
+          "en": "I'm Penka."
+        },
+        {
+          "ja": "私が　ペン奈",
+          "en": "I'm Penna."
+        },
+        {
+          "ja": "私が　ペンニュエル",
+          "en": "I am Pen Nuel."
+        },
+        {
+          "ja": "私が　ペンジョリーナ",
+          "en": "I am Penjolina."
+        },
+        {
+          "ja": "私が…",
+          "en": "Me too..."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "あれ剥製じゃないよね？",
+          "en": "That's not a taxidermy, right?"
+        },
+        {
+          "ja": "話かけようか？",
+          "en": "Should we talk to it?"
+        },
+        {
+          "ja": "やばいよ！目玉　つつかれるぞ！",
+          "en": "Oh no! Your eyeballs are going to get poked!"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "パンダくん　せっかく プールに来たんだから　泳ごうよ",
+          "en": "Panda-kun, since we're at the pool, let's swim!"
+        },
+        {
+          "ja": "泳ごうよ！",
+          "en": "Let's swim!"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "えぇ～？ 僕　涼みに来たんだもん",
+          "en": "Huh? I came here to cool off."
+        },
+        {
+          "ja": "食っちゃ寝してたら太るよ",
+          "en": "If you just eat and sleep, you'll gain weight."
+        },
+        {
+          "ja": "太るよ",
+          "en": "You'll get fat."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "いいも～ん",
+          "en": "I don't care."
+        },
+        {
+          "ja": "運動　嫌いだもん",
+          "en": "I don't like exercise."
+        },
+        {
+          "ja": "シロクマさん！ 一緒に遊びましょう！",
+          "en": "Polar Bear! Let's play together!"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "いいよ",
+          "en": "Sure!"
+        },
+        {
+          "ja": "わぁ　やった！",
+          "en": "Wow, yay!"
+        },
+        {
+          "ja": "少しは運動しなよ",
+          "en": "You should exercise a little."
+        },
+        {
+          "ja": "はぁ～　極楽　極楽",
+          "en": "Ahh, this is paradise, pure bliss."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "あっ　コウテイペンギンだ！",
+          "en": "Oh, it's an Emperor Penguin!"
+        },
+        {
+          "ja": "違うわよ　私は　キングペンギンよ！",
+          "en": "No, I'm a King Penguin!"
+        },
+        {
+          "ja": "あっ　コウテイペンギンだろ？",
+          "en": "Oh, it's an Emperor Penguin, right?"
+        },
+        {
+          "ja": "イテテテ！",
+          "en": "Ouch! Ouch! Ouch!"
+        },
+        {
+          "ja": "もう！　人間たちって　どうして 私たちを間違うのかしらね",
+          "en": "Geez! Why do humans always mix us up?"
+        },
+        {
+          "ja": "なんで　キングとコウテイなの？",
+          "en": "Why are they called King and Emperor?"
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "あんまり言いたくないけど…",
+          "en": "I don't really want to say it, but..."
+        },
+        {
+          "ja": "昔むかし",
+          "en": "A long time ago"
+        },
+        {
+          "ja": "人間が　まだ 南極へ行けなかった頃のことよ",
+          "en": "It was a time when humans still couldn't reach Antarctica."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "でかっ！ なんて　でかいペンギンなんだ！",
+          "en": "Huge! What an enormous penguin!"
+        },
+        {
+          "ja": "最大のペンギン　まさに王様　キングペンギンと名づけよう",
+          "en": "The largest penguin, truly a king. Let's name it the King Penguin."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "当時　人が見たことのある 一番大きなペンギンはあたしたちだったの",
+          "en": "At that time, the largest penguin that people had ever seen was us."
+        },
+        {
+          "ja": "へぇ～　かっこいい　それで？",
+          "en": "Wow, that's cool. And then?"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "その後　人間が南極大陸へ 行けるようになって",
+          "en": "After that, humans were able to travel to the Antarctic continent."
+        },
+        {
+          "ja": "そこには　ヤツらがいたのよ！",
+          "en": "They were there!"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "あっ　でかっ！　隊長！ キングペンギンより　でかいっすよ！",
+          "en": "Oh, it's huge! Captain! It's bigger than a king penguin!"
+        },
+        {
+          "ja": "名前どうしましょう？",
+          "en": "What should we name it?"
+        },
+        {
+          "ja": "あぁ…　それじゃあ　もう 王様の上の皇帝ってことで",
+          "en": "Ah... then let's call it the Emperor, above the King."
+        },
+        {
+          "ja": "コウテイペンギンにしちゃえ",
+          "en": "Let's call it the Emperor Penguin."
+        },
+        {
+          "ja": "えっ！？",
+          "en": "What!?"
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "そんなに簡単に？",
+          "en": "That easily?"
+        },
+        {
+          "ja": "そうよ！",
+          "en": "That's right!"
+        },
+        {
+          "ja": "適当なネーミングをしたのは 人間なのに",
+          "en": "Humans are the ones who came up with such a random name."
+        },
+        {
+          "ja": "その人間に コウテイと間違われるなんて…",
+          "en": "To be mistaken for an emperor by those humans..."
+        },
+        {
+          "ja": "悔しいわ！",
+          "en": "It's frustrating!"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "そんなの気にしなくても 大丈夫だよ",
+          "en": "You don't have to worry about that."
+        },
+        {
+          "ja": "ほら　人生　山あり谷ありって 言うじゃない？",
+          "en": "You know, they say life has its ups and downs, right?"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "山には　竹あり",
+          "en": "There are bamboo in the mountains."
+        },
+        {
+          "ja": "お腹が空いたら　竹あり笹あり",
+          "en": "When you're hungry, there's bamboo and sasa leaves."
+        },
+        {
+          "ja": "ピシッ！　ムカつく！",
+          "en": "Snap! So annoying!"
+        },
+        {
+          "ja": "なんか　アンタ　ムカつくのよ！",
+          "en": "You know, you really annoy me!"
+        },
+        {
+          "ja": "ピシッ　ピシッ…",
+          "en": "Snap, snap..."
+        },
+        {
+          "ja": "あっ　あぁ…　やめて！",
+          "en": "Ah, ah... stop it!"
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "あっ　パンダくん！",
+          "en": "Oh, Panda-kun!"
+        },
+        {
+          "ja": "なんか運動してる！",
+          "en": "He's doing some kind of exercise!"
+        },
+        {
+          "ja": "楽しそう！",
+          "en": "Looks fun!"
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "ひぃ～　だぁ～！",
+          "en": "Eek! Ahh!"
+        },
+        {
+          "ja": "待って！",
+          "en": "Wait!"
+        },
+        {
+          "ja": "あっ　ペンギンさん！",
+          "en": "Oh, Penguin!"
+        },
+        {
+          "ja": "ペンギンさんも運動してる！",
+          "en": "The penguin is exercising too!"
+        },
+        {
+          "ja": "楽しそう！",
+          "en": "Looks fun!"
+        },
+        {
+          "ja": "私が…",
+          "en": "Me too..."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "人気ナンバーワンのパンダに 私の気持なんか　わかんないわ！",
+          "en": "The number one popular panda could never understand how I feel!"
+        },
+        {
+          "ja": "こんにちは！",
+          "en": "Hello!"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "また　ペンギン？",
+          "en": "Penguin again?"
+        },
+        {
+          "ja": "南極の恋人 アデリーペンギンです",
+          "en": "Adélie Penguin, the lover from Antarctica."
+        },
+        {
+          "ja": "渋めで地味め アゴヒモペンギンです",
+          "en": "I'm the understated and plain Chinstrap Penguin."
+        },
+        {
+          "ja": "オシャレな性格美人 ジェンツーペンギンです",
+          "en": "I'm the stylish and charming Gentoo Penguin."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "３羽合わせて　ピゴセリス属！",
+          "en": "Together, the three of us are the Pygoscelis genus!"
+        },
+        {
+          "ja": "決まったね",
+          "en": "It's settled then."
+        },
+        {
+          "ja": "決まった",
+          "en": "It's settled."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "ピ…　ピゴ？",
+          "en": "Pi... Pigo?"
+        },
+        {
+          "ja": "ピゴセリス！",
+          "en": "Pygoscelis!"
+        },
+        {
+          "ja": "アンタたちの属性は呼びにくいのよ",
+          "en": "Your species name is hard to pronounce."
+        },
+        {
+          "ja": "お久しぶりです　キングペンギンさん",
+          "en": "It's been a while, King Penguin."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "キングペンギンさんのアプテノディテス属のほうが 呼びにくいです",
+          "en": "The Aptenodytes genus of King Penguin is harder to pronounce."
+        },
+        {
+          "ja": "同じく　アプテノディテス属の コウテイペンギンさんとは仲よくしてますか？",
+          "en": "Are you getting along well with the Emperor Penguin, who is also from the Aptenodytes genus?"
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "フン！　アイツのまぎらわしい名前で 迷惑しているわ",
+          "en": "Hmph! That confusing name of his is such a nuisance."
+        },
+        {
+          "ja": "それを言うなら 僕らの名前も適当なもんです",
+          "en": "If you're going to say that, our names are pretty arbitrary too."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "そうなの？",
+          "en": "Is that so?"
+        },
+        {
+          "ja": "僕ら　アデリーペンギンなんて　探検家の奥さんの名前なんです",
+          "en": "We, the Adelie penguins, are named after an explorer's wife."
+        },
+        {
+          "ja": "だから　オスでも　アデリーちゃん",
+          "en": "That's why, even the males are called Adelie-chan."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "私たちは アゴヒモをしてることにされて",
+          "en": "We are said to be wearing chinstraps."
+        },
+        {
+          "ja": "アゴヒモペンギンに…",
+          "en": "Chinstrap penguins..."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "僕ら　ジェンツーペンギンなんか",
+          "en": "We're Gentoo penguins or something like that."
+        },
+        {
+          "ja": "頭の白い模様が ターバンに似てるから",
+          "en": "The white pattern on our heads looks like a turban."
+        },
+        {
+          "ja": "ポルトガル語で　異教徒を意味する ジェンツーだなんて！",
+          "en": "To think that 'Gentoo' means 'infidel' in Portuguese!"
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "本当に適当だね",
+          "en": "It's really arbitrary, isn't it?"
+        },
+        {
+          "ja": "アンタたちも　いろいろ　あんのね…",
+          "en": "You guys have your own issues too, huh..."
+        },
+        {
+          "ja": "どうです？　パンダくん！",
+          "en": "What do you think, Panda-kun?"
+        },
+        {
+          "ja": "僕たちのこと 覚えてくれました？",
+          "en": "Did you remember us?"
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "えっ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "助けて！",
+          "en": "Help!"
+        },
+        {
+          "ja": "ペンギンさん！",
+          "en": "Penguin!"
+        },
+        {
+          "ja": "助けて！",
+          "en": "Help!"
+        },
+        {
+          "ja": "ペンギン！",
+          "en": "Penguin!"
+        },
+        {
+          "ja": "助けて！",
+          "en": "Help!"
+        },
+        {
+          "ja": "ペンギン！！",
+          "en": "Penguin!!"
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "覚えてくれました？",
+          "en": "Do you remember me?"
+        },
+        {
+          "ja": "ピ…　ピ…",
+          "en": "P... P..."
+        },
+        {
+          "ja": "なかなか　覚えられませんよね",
+          "en": "It's pretty hard to remember, isn't it?"
+        },
+        {
+          "ja": "しかも　ペンギンは 全部で　１８種類もいるんですよ！",
+          "en": "Moreover, there are as many as 18 different species of penguins!"
+        },
+        {
+          "ja": "えっ！？",
+          "en": "What!?"
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "でも　大丈夫！",
+          "en": "But don't worry!"
+        },
+        {
+          "ja": "そこで　この…　ペンギンカード！",
+          "en": "That's where these... penguin cards come in!"
+        },
+        {
+          "ja": "遊びながら　楽しく覚えられて…",
+          "en": "You can enjoy learning while playing..."
+        },
+        {
+          "ja": "今なら　特別価格の５００円！",
+          "en": "Right now, it's available at a special price of 500 yen!"
+        },
+        {
+          "ja": "何　営業してんのよ！？",
+          "en": "What are you doing, trying to sell something!?"
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "電車って難しい…",
+          "en": "Trains are complicated..."
+        },
+        {
+          "ja": "特別快速とか　通勤急行とか いろいろ　ありすぎ",
+          "en": "There are too many things like \"Special Rapid\" and \"Commuter Express.\""
+        },
+        {
+          "ja": "バスみたいに　ボタン押したら 止まってくれればいいのに",
+          "en": "It would be nice if it stopped when you pressed a button, like a bus."
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "なんで　コウテイが最強カードなのよ！？",
+          "en": "Why is the Emperor the strongest card!?"
+        },
+        {
+          "ja": "知らないよ…",
+          "en": "I don't know..."
+        },
+        {
+          "ja": "シロクマさん！　ほいっと",
+          "en": "Shirokuma-san! Here you go!"
+        },
+        {
+          "ja": "こっち　こっち！",
+          "en": "Over here, over here!"
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "泳ごっと！",
+          "en": "Let's swim!"
+        }
+      ]
+    }
+  ]
+}

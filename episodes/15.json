@@ -1,0 +1,815 @@
+{
+  "ep": "15",
+  "title": "雑誌取材がやってきた",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "なんで　うまく いかないんだろう…",
+          "en": "I wonder why things aren't going well..."
+        },
+        {
+          "ja": "えっ？　なに？",
+          "en": "Huh? What?"
+        },
+        {
+          "ja": "あっ　あれ？ 縦列駐車？",
+          "en": "Oh, huh? Parallel parking?"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "違うよ！",
+          "en": "No, it's not!"
+        },
+        {
+          "ja": "じゃあ　できるようになったの？",
+          "en": "So, have you gotten the hang of it?"
+        },
+        {
+          "ja": "まだ　ちゃんと　できてないけど… 違うってば！",
+          "en": "I still can't do it properly, but I told you it's not that!"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "僕が言いたいのは　デートだよ",
+          "en": "What I'm trying to say is, it's a date."
+        },
+        {
+          "ja": "デートのお誘いだよ",
+          "en": "It's an invitation to a date."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "会って言えば いいんじゃないの？",
+          "en": "Why don't you just say it in person?"
+        },
+        {
+          "ja": "それができないから 困ってるんだよ",
+          "en": "That's what I'm having trouble with because I can't do it."
+        },
+        {
+          "ja": "なんで？",
+          "en": "Why?"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "もう　いい… パンダくんに 相談するんじゃなかった",
+          "en": "Never mind... I shouldn't have asked Panda-kun for advice."
+        },
+        {
+          "ja": "シロクマさん！",
+          "en": "Polar Bear!"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "すみません 遅くなりました",
+          "en": "Sorry, I'm late."
+        },
+        {
+          "ja": "どなたですか？",
+          "en": "Who is it?"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "取材の人ですよ",
+          "en": "It's the reporter."
+        },
+        {
+          "ja": "取材？",
+          "en": "Interview?"
+        },
+        {
+          "ja": "昨日　言ったじゃないですか",
+          "en": "Didn't I tell you yesterday?"
+        },
+        {
+          "ja": "うん　知ってる",
+          "en": "Yeah, I know."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "『月刊　フラフラウォーカー』のライター 大崎と申します",
+          "en": "I'm Osaki, a writer for \"Monthly Fluffy Walker.\""
+        },
+        {
+          "ja": "よろしくね",
+          "en": "Nice to meet you."
+        },
+        {
+          "ja": "何か？",
+          "en": "What is it?"
+        },
+        {
+          "ja": "あの…　編集長が 先に来ているはずなんですが",
+          "en": "Um... the editor-in-chief should have arrived before me."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "編集長？　そういう方は まだ　お見えではないですね",
+          "en": "Editor-in-chief? I haven't seen anyone like that yet."
+        },
+        {
+          "ja": "そうですか… どうしたんだろう？",
+          "en": "I see... I wonder what happened?"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "実は こちらの　しろくまカフエを絶対　取り上げよう って言ったのは",
+          "en": "Actually, it was the editor-in-chief who insisted on featuring this Shirokuma Café."
+        },
+        {
+          "ja": "うちの編集長なんですよ",
+          "en": "It's our editor-in-chief."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "知る人ぞ知る隠れ処カフェや",
+          "en": "It's a hidden gem café known only to those in the know."
+        },
+        {
+          "ja": "オープンカフェを見つける勘がとても鋭くて",
+          "en": "He has a very keen sense for discovering open cafes."
+        },
+        {
+          "ja": "うちの雑誌は　編集長のセンスに 支えられているようなものです",
+          "en": "Our magazine is practically supported by the editor-in-chief's sense of style."
+        },
+        {
+          "ja": "聞いた？",
+          "en": "Did you hear?"
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "雑誌の取材だって",
+          "en": "It's for a magazine interview."
+        },
+        {
+          "ja": "取材？",
+          "en": "Interview?"
+        },
+        {
+          "ja": "いろいろ　インタビューしたり 写真撮ったりするんじゃない？",
+          "en": "Won't they be doing various interviews and taking photos?"
+        },
+        {
+          "ja": "インタビュー？ 写真？",
+          "en": "Interviews? Photos?"
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "ファンレターとか届いたりして",
+          "en": "Maybe we'll even get fan letters."
+        },
+        {
+          "ja": "パンダくんの取材じゃないよ",
+          "en": "It's not an interview about Panda-kun."
+        },
+        {
+          "ja": "お客さんに　インタビューしたら雑誌に写真載るよ",
+          "en": "If you interview the customers, their photos will be published in the magazine."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "えっ！？　それは困るよ！",
+          "en": "What!? That would be a problem!"
+        },
+        {
+          "ja": "僕写真写り自信ないんだよ",
+          "en": "I'm not confident about how I look in photos."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "ああ…",
+          "en": "Oh..."
+        },
+        {
+          "ja": "じゃあ　とりあえず 取材を 始めさせていただきますね",
+          "en": "Well then, for now, let me go ahead and start the interview."
+        },
+        {
+          "ja": "まずはシロクマさんに",
+          "en": "First, let's start with Mr. Polar Bear."
+        },
+        {
+          "ja": "カフェを始めたいきさつなんかをお聞きしたいんですが",
+          "en": "I'd like to ask about how you came to start the café."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "いきさつ…",
+          "en": "The background..."
+        },
+        {
+          "ja": "それは　力作",
+          "en": "That's quite a story."
+        },
+        {
+          "ja": "それは　印刷",
+          "en": "That's a printout."
+        },
+        {
+          "ja": "それは　警察",
+          "en": "That's the police."
+        },
+        {
+          "ja": "それは　改札",
+          "en": "That's a ticket gate."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "あ…　えっと…　そのダジャレは…",
+          "en": "Ah... um... that pun is..."
+        },
+        {
+          "ja": "それは　挨拶！！",
+          "en": "That's a greeting!!"
+        },
+        {
+          "ja": "かぶせてきましたね編集長",
+          "en": "You piled it on, didn't you, Editor-in-Chief?"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "マスターはダジャレが得意なナイスガイ…　と",
+          "en": "The master is a nice guy who's great at puns..."
+        },
+        {
+          "ja": "編集長？",
+          "en": "Editor-in-chief?"
+        },
+        {
+          "ja": "はい　うちの編集長 ハシビロコウさんです",
+          "en": "Yes, our editor-in-chief is Mr. Shoebill."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "ですよね！ ホント今回大当たりです",
+          "en": "That's right! This time it's really a big hit."
+        },
+        {
+          "ja": "編集長が　本当に ここは　すばらしいカフェだと",
+          "en": "The editor-in-chief truly said that this is a wonderful café."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "あっ　そう",
+          "en": "Oh, really?"
+        },
+        {
+          "ja": "それでは　改めまして",
+          "en": "Well then, let me formally introduce myself."
+        },
+        {
+          "ja": "挨拶ならぬ カフェを始めたいきさつですが",
+          "en": "The story behind how we started the café, rather than just a greeting, is..."
+        },
+        {
+          "ja": "やっぱ　聞いちゃうんだ　それ",
+          "en": "So you're really going to ask about that, huh?"
+        },
+        {
+          "ja": "なんで？",
+          "en": "Why?"
+        },
+        {
+          "ja": "話せば長くなるんだけど",
+          "en": "It's a long story."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "僕はカナダのハドソン湾で生まれたの",
+          "en": "I was born in Hudson Bay, Canada."
+        },
+        {
+          "ja": "僕は三つ子のいちばん下で いちばん体が小さかった",
+          "en": "I'm the youngest of triplets and was the smallest in size."
+        },
+        {
+          "ja": "お母さんが食べ物を探して歩くと",
+          "en": "When my mother went out searching for food"
+        },
+        {
+          "ja": "いつも僕だけ遅れてしまった",
+          "en": "I was always the one who fell behind."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "そして　ある吹雪の日",
+          "en": "And then, on a blizzard day,"
+        },
+        {
+          "ja": "僕はとうとう お母さんたちと はぐれてしまった",
+          "en": "I finally got separated from my mom and the others."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "吹雪がやむと…",
+          "en": "When the blizzard stopped..."
+        },
+        {
+          "ja": "お母さんたちの姿はどこにもなかった",
+          "en": "There was no sign of my mother and the others anywhere."
+        },
+        {
+          "ja": "一生懸命呼んだけど 応えはない",
+          "en": "I called out with all my might, but there was no response."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "そのうち気づいた",
+          "en": "Eventually, I realized."
+        },
+        {
+          "ja": "僕のいる氷は沖へ流されてる",
+          "en": "The ice I'm on is drifting out to sea."
+        },
+        {
+          "ja": "僕はひとりぼっちで海の上を漂流していった",
+          "en": "I was drifting alone on the sea."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "何日も　何日も…",
+          "en": "For days and days..."
+        },
+        {
+          "ja": "そ…　それで どうなったの？",
+          "en": "So... what happened then?"
+        },
+        {
+          "ja": "お腹が減って ついに動けなくなったとき",
+          "en": "When I finally became unable to move from hunger"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "僕は通りがかった猟師の人に助けられたんだ",
+          "en": "I was rescued by a passing hunter."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "それから　僕は助けてくれた人の両親に預けられた",
+          "en": "After that, I was taken in by the parents of the person who rescued me."
+        },
+        {
+          "ja": "そこは小さな食堂をやっていて",
+          "en": "They ran a small diner there."
+        },
+        {
+          "ja": "店を手伝ううちに",
+          "en": "While helping out at the shop"
+        },
+        {
+          "ja": "僕は料理が好きになった",
+          "en": "I grew to love cooking."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "でも　そんな生活も長くは続かなかったよ",
+          "en": "But that kind of life didn't last long."
+        },
+        {
+          "ja": "僕は　大きくなりすぎて",
+          "en": "I grew too big."
+        },
+        {
+          "ja": "おじいさんと　おばあさんの家にいられなくなってしまったんだ",
+          "en": "I couldn't stay at my grandparents' house anymore."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "それで家を出て",
+          "en": "So I left home."
+        },
+        {
+          "ja": "カフェを始めた",
+          "en": "I started a café."
+        },
+        {
+          "ja": "お店をやっていたら いつか話が伝わって",
+          "en": "If I ran the shop, word would eventually get around."
+        },
+        {
+          "ja": "お母さんたちに会えるかもしれないから",
+          "en": "I might be able to meet my parents."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "なに！？",
+          "en": "What!?"
+        },
+        {
+          "ja": "わかります 編集長",
+          "en": "I understand, Chief Editor."
+        },
+        {
+          "ja": "シロクマさんの大変さを思うと…",
+          "en": "Thinking about how hard it must be for Mr. Polar Bear..."
+        },
+        {
+          "ja": "シロクマくん",
+          "en": "Polar Bear"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "大変だったんだね",
+          "en": "It must have been tough for you."
+        },
+        {
+          "ja": "お母さんたちには まだ会えないの？",
+          "en": "Can't you meet your parents yet?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "今のところ",
+          "en": "For now"
+        },
+        {
+          "ja": "あれ？　私この前は建設会社を脱サラして",
+          "en": "Huh? Last time, I quit my job at the construction company and..."
+        },
+        {
+          "ja": "カフェを始めたって 聞いたんですけど…",
+          "en": "I heard you started a café..."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "ああ… そういうバージョンもあるね",
+          "en": "Oh... there's that version too."
+        },
+        {
+          "ja": "作り話ですか",
+          "en": "Is it a made-up story?"
+        },
+        {
+          "ja": "だから言ったのに",
+          "en": "That's why I told you."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "ははぁ　真相は お好みってことですね",
+          "en": "Haha, so the truth is whatever you prefer, huh?"
+        },
+        {
+          "ja": "さすがナイスガイ",
+          "en": "As expected, you're a nice guy."
+        },
+        {
+          "ja": "じゃあ　次の質問ですが…",
+          "en": "Well then, onto the next question..."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "どうしました！？　編集長！",
+          "en": "What's wrong, Chief Editor!?"
+        },
+        {
+          "ja": "ああ　そのお花ですね",
+          "en": "Ah, those flowers, right?"
+        },
+        {
+          "ja": "このステキなアレンジメントはどなたが？",
+          "en": "Who made this lovely arrangement?"
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "近くの花屋さんに お願いしてるんです",
+          "en": "I asked a nearby florist to do it."
+        },
+        {
+          "ja": "編集長？",
+          "en": "Editor-in-chief?"
+        },
+        {
+          "ja": "編集長！",
+          "en": "Editor-in-Chief!"
+        },
+        {
+          "ja": "編集長！",
+          "en": "Editor-in-Chief!"
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "編集…",
+          "en": "Editor..."
+        },
+        {
+          "ja": "これは！",
+          "en": "This is!"
+        },
+        {
+          "ja": "自家菜園です",
+          "en": "It's a home garden."
+        },
+        {
+          "ja": "お店で使う野菜やハーブを 育てているんですよ",
+          "en": "We're growing vegetables and herbs to use in the restaurant."
+        },
+        {
+          "ja": "さすが編集長！ どんなことも見逃しませんね",
+          "en": "As expected of the editor-in-chief! You don't miss a thing, do you?"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "こだわりの食材",
+          "en": "Specialty ingredients"
+        },
+        {
+          "ja": "景色も良好",
+          "en": "The view is great, too."
+        },
+        {
+          "ja": "客席も充実",
+          "en": "The seating area is also well-equipped."
+        },
+        {
+          "ja": "洗練された外観",
+          "en": "Sophisticated exterior"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "そんなステキなしろくまカフェさんなんですが",
+          "en": "That wonderful Shirokuma Café, however,"
+        },
+        {
+          "ja": "オススメがあれば ぜひ紹介していただけますか？",
+          "en": "If you have any recommendations, could you please share them with us?"
+        },
+        {
+          "ja": "笹大盛りがオススメだよ！",
+          "en": "I recommend the large serving of bamboo!"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "それ　料理じゃなくて素材だよね",
+          "en": "That's not a dish, it's an ingredient, right?"
+        },
+        {
+          "ja": "あぁ　家の隣にあってすぐ来られるのもオススメ",
+          "en": "Ah, I also recommend it because it's right next to my house and I can come here easily."
+        },
+        {
+          "ja": "パンダくんだけでしょ",
+          "en": "That's just for Panda-kun, right?"
+        },
+        {
+          "ja": "素材と立地が抜群　と…",
+          "en": "The ingredients and location are excellent, huh..."
+        },
+        {
+          "ja": "その他は？",
+          "en": "What about the rest?"
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "ランチパスタが人気ですね",
+          "en": "The lunch pasta is popular."
+        },
+        {
+          "ja": "うん　うん… アンチョビの入ったやつね",
+          "en": "Yeah, yeah... The one with anchovies, right?"
+        },
+        {
+          "ja": "春野菜も　いいよね",
+          "en": "Spring vegetables are nice too, aren't they?"
+        },
+        {
+          "ja": "せっかくだから 食べてもらったら　どうでしょう？",
+          "en": "Why not take the opportunity to try it?"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "どうですか？　編集長",
+          "en": "What do you think, Editor-in-Chief?"
+        },
+        {
+          "ja": "パスタ　嫌いなのかな？",
+          "en": "Do you think they don't like pasta?"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "意外とダイナミックだよね",
+          "en": "It's surprisingly dynamic, isn't it?"
+        },
+        {
+          "ja": "そうですか！ とっても　おいしいそうです",
+          "en": "Is that so! It sounds really delicious."
+        },
+        {
+          "ja": "あぁ　そう",
+          "en": "Oh, really?"
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "えっ！？ この間の雑誌もう出たの？",
+          "en": "Huh!? Is the magazine from the other day already out?"
+        },
+        {
+          "ja": "うん　サンプルが来てる",
+          "en": "Yeah, the sample has arrived."
+        },
+        {
+          "ja": "見せて　見せて！",
+          "en": "Show me, show me!"
+        },
+        {
+          "ja": "あっ！　これだね",
+          "en": "Ah! This is it."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "写ってない…",
+          "en": "I'm not in it..."
+        },
+        {
+          "ja": "写ってる…",
+          "en": "It's in there..."
+        },
+        {
+          "ja": "ですね",
+          "en": "That's right."
+        }
+      ]
+    }
+  ]
+}

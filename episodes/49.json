@@ -1,0 +1,1790 @@
+{
+  "ep": "49",
+  "title": "グリズリーさんの再会",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "ただいま",
+          "en": "I'm home."
+        },
+        {
+          "ja": "電話アンケートを行っております",
+          "en": "We are currently conducting a telephone survey."
+        },
+        {
+          "ja": "自動音声に従って質問にお答えください",
+          "en": "Please answer the questions by following the automated voice prompts."
+        },
+        {
+          "ja": "あなたは 最近寝不足でお悩みですか",
+          "en": "Have you been troubled by lack of sleep recently?"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "シロクマだろ",
+          "en": "It's a polar bear, isn't it?"
+        },
+        {
+          "ja": "バレた",
+          "en": "I've been found out."
+        },
+        {
+          "ja": "この前 起きたばかりなのにまた寝てるの",
+          "en": "You just woke up a moment ago, and now you're sleeping again?"
+        },
+        {
+          "ja": "ああ 冬眠の二度寝だ",
+          "en": "Ah, it's a second nap during hibernation."
+        },
+        {
+          "ja": "二度寝じゃないでしょ",
+          "en": "That's not a second sleep, is it?"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "もう八度寝くらいだよ",
+          "en": "At this point, it's like my eighth nap or something."
+        },
+        {
+          "ja": "お前が 何度も起こすからだろ",
+          "en": "It's because you keep waking me up over and over again."
+        },
+        {
+          "ja": "寝かせろ",
+          "en": "Let me sleep."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "シロクマ…",
+          "en": "White bear..."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "いい加減にしやがれ",
+          "en": "Cut it out already!"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "久しぶりね",
+          "en": "It's been a while."
+        },
+        {
+          "ja": "母さん",
+          "en": "Mom"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "もう 乱暴な言葉遣いはおよしなさい",
+          "en": "Stop using such rough language already."
+        },
+        {
+          "ja": "はい お土産よ",
+          "en": "Yes, here's a souvenir for you."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "来るときは連絡しろっていつも言ってるだろ",
+          "en": "How many times do I have to tell you to let me know when you're coming?"
+        },
+        {
+          "ja": "冬眠してたのに",
+          "en": "I was hibernating."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "驚かそうと思ってね",
+          "en": "I was trying to surprise you."
+        },
+        {
+          "ja": "はい グリちゃん",
+          "en": "Yes, Guri-chan."
+        },
+        {
+          "ja": "グリちゃんはいい加減やめてくれよ",
+          "en": "Come on, Guri, you've got to stop doing this."
+        },
+        {
+          "ja": "おっ メープルシロップとアラスカサーモンじゃねえか",
+          "en": "Oh! Maple syrup and Alaskan salmon, huh?"
+        },
+        {
+          "ja": "サンキュー",
+          "en": "Thanks."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "ウフッ",
+          "en": "Hehe."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "いつ帰国したんだ",
+          "en": "When did you get back to your country?"
+        },
+        {
+          "ja": "昨日の最終便",
+          "en": "On the last flight yesterday."
+        },
+        {
+          "ja": "やっぱり 我が家は落ち着くわね",
+          "en": "After all, there's nothing like home to help you relax."
+        },
+        {
+          "ja": "このまま住んじゃおうかしら",
+          "en": "I might just stay here for good."
+        },
+        {
+          "ja": "冗談だろ じいちゃんの生まれ故郷で",
+          "en": "You're joking, right? This is your grandfather's birthplace."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "ロハスな田舎暮らしをするって海外移住したくせに",
+          "en": "You say you want to live a wholesome rural lifestyle, but you're the one who moved overseas in the first place."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "どう 本場のメープルシロップは",
+          "en": "How about it? The real thing—authentic maple syrup."
+        },
+        {
+          "ja": "春に収穫した旬のものよ",
+          "en": "It's something we harvested at its peak season this spring."
+        },
+        {
+          "ja": "うめぇ",
+          "en": "Damn, that's good."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "あら お客様かしらあ…",
+          "en": "Oh my, do we have a visitor...?"
+        },
+        {
+          "ja": "あっ いいよ 母さん 俺が出るから",
+          "en": "Ah, it's okay, Mom. I'll get it."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "こら シロクマ",
+          "en": "Hey, Polar Bear!"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "シロクマ",
+          "en": "Hey, you!"
+        },
+        {
+          "ja": "それは 広島だろうが",
+          "en": "That's Hiroshima, isn't it?"
+        },
+        {
+          "ja": "テメエ 何モンだ",
+          "en": "Who the hell are you?"
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "それは イロモンだ",
+          "en": "That's a color monster."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "それは伊賀者だ",
+          "en": "That's an Iga ninja."
+        },
+        {
+          "ja": "これは鍋物だ～",
+          "en": "This is a hot pot dish~"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "シロクマ君 ごきげんよう",
+          "en": "Polar Bear, how do you do."
+        },
+        {
+          "ja": "あっ どうも ご無沙汰してます",
+          "en": "Oh, it's been a while. Thanks for everything."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "お花見電車が通過しま～す",
+          "en": "The cherry blossom viewing train is passing through~"
+        },
+        {
+          "ja": "しま～す",
+          "en": "Coming through~"
+        },
+        {
+          "ja": "もう春ですし",
+          "en": "Well, it's already spring, after all."
+        },
+        {
+          "ja": "鍋ではなく ムニエルにしてみました",
+          "en": "I decided to go with a meunière instead of a hot pot."
+        },
+        {
+          "ja": "まあ おいしそう",
+          "en": "Well, that looks delicious."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "いいの 私たちまでいただいちゃって",
+          "en": "It's fine, we shouldn't indulge like this too."
+        },
+        {
+          "ja": "どうぞ めしあがってください",
+          "en": "Please, help yourself."
+        },
+        {
+          "ja": "じゃあ…",
+          "en": "Then..."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "おいしい",
+          "en": "It's delicious."
+        },
+        {
+          "ja": "うん さすが本場産の天然物だわね",
+          "en": "Yeah, it's authentic wild-caught seafood from the source—that really shows."
+        },
+        {
+          "ja": "それにしてもグリズリーさんのお母さんにしては",
+          "en": "Even so, for Grizzly's mother, this is..."
+        },
+        {
+          "ja": "お若いわね",
+          "en": "You look so young."
+        },
+        {
+          "ja": "そう言われれば…",
+          "en": "Now that you mention it..."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "失礼ですけど おいくつ",
+          "en": "If you don't mind my asking, how old are you?"
+        },
+        {
+          "ja": "えっ 今年 １７歳です",
+          "en": "Huh? I'm seventeen this year."
+        },
+        {
+          "ja": "１７歳",
+          "en": "Seventeen years old."
+        },
+        {
+          "ja": "えっ 見えないわ",
+          "en": "What? You don't look it."
+        },
+        {
+          "ja": "私より年上",
+          "en": "I'm older than you."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "クマですから",
+          "en": "Because I'm a bear."
+        },
+        {
+          "ja": "毛並みも艶やかで 若々しいわ",
+          "en": "Your coat is glossy and you look so young."
+        },
+        {
+          "ja": "キューティクルの秘訣 教えてくださらない",
+          "en": "Won't you tell me the secret to your cuticles?"
+        },
+        {
+          "ja": "いえ 特別なことは何も",
+          "en": "No, there's nothing special really."
+        },
+        {
+          "ja": "あら 田中さん どうしたの",
+          "en": "Oh, Tanaka, what's the matter?"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "あっ いえ…私がいちばん年上で",
+          "en": "Oh, no... I'm just the oldest one here."
+        },
+        {
+          "ja": "はじめまして ペンギンです",
+          "en": "Nice to meet you. I'm Penguin."
+        },
+        {
+          "ja": "パンダです",
+          "en": "I'm a panda."
+        },
+        {
+          "ja": "いつも グリズリーさんをお世話してます",
+          "en": "I'm always taking care of Grizzly."
+        },
+        {
+          "ja": "違うでしょ 「お世話になってます」でしょ",
+          "en": "That's not it. It should be 'Thank you for all your help,' shouldn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "はじめまして グリちゃんの母です",
+          "en": "Nice to meet you. I'm Grizzy's mother."
+        },
+        {
+          "ja": "グリちゃん",
+          "en": "Grizz, dear."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "母さん余計なこと言うんじゃねえ",
+          "en": "Mom, don't say unnecessary things."
+        },
+        {
+          "ja": "グリちゃん",
+          "en": "Gri-chan"
+        },
+        {
+          "ja": "へえ～ グリちゃんですか",
+          "en": "Oh, so you're Guri-chan?"
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "ご乗車の方はお急ぎくださ～い",
+          "en": "Please board quickly, everyone."
+        },
+        {
+          "ja": "くださ～い",
+          "en": "Please hurry along~"
+        },
+        {
+          "ja": "出発進行",
+          "en": "All aboard"
+        },
+        {
+          "ja": "特急",
+          "en": "Express (train)"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "また来るわね",
+          "en": "I'll be back."
+        },
+        {
+          "ja": "ごちそうさまでした",
+          "en": "Thank you for the meal."
+        },
+        {
+          "ja": "た～じゃあね",
+          "en": "See you~"
+        },
+        {
+          "ja": "じゃあ 俺は店に行くから",
+          "en": "Alright, I'm heading to the shop then."
+        },
+        {
+          "ja": "母さんは先に帰っててくれ",
+          "en": "Mom, go ahead and head home first."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "はい",
+          "en": "Okay, I will."
+        },
+        {
+          "ja": "お仕事 頑張ってね",
+          "en": "Do your best at work."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "まったく 調子狂うぜ",
+          "en": "Man, this is really throwing me off."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "久しぶりに打ってから行くか",
+          "en": "I'll hit some balls before heading to the shop."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "ふぅ～ スッキリしたぜ",
+          "en": "Phew~ That really hit the spot."
+        },
+        {
+          "ja": "悪いな カワウソ 店任せて",
+          "en": "Sorry about this, Otter. I'm leaving the shop in your hands."
+        },
+        {
+          "ja": "お待ちどおさま",
+          "en": "Sorry for the wait!"
+        },
+        {
+          "ja": "はい バーボン",
+          "en": "Yes, bourbon."
+        },
+        {
+          "ja": "ありがとう ママ",
+          "en": "Thank you, Mom."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "母さん なんでいるんだ",
+          "en": "Why are you here, Mom?"
+        },
+        {
+          "ja": "どう 似合ってる",
+          "en": "How does it look?"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "カワウソ どういうことだ",
+          "en": "What's the deal with the otter?"
+        },
+        {
+          "ja": "いやぁ 助かるでやんす",
+          "en": "Well, that's a real lifesaver!"
+        },
+        {
+          "ja": "マスター 寝不足なんだって",
+          "en": "Master, I hear you haven't been getting enough sleep."
+        },
+        {
+          "ja": "代わりに店に立ってくれるなんて",
+          "en": "You mean you're helping out at the shop instead of me?"
+        },
+        {
+          "ja": "いいおふくろさんじゃない",
+          "en": "You're a good mother/woman."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "ママ ふきのとうの春巻きおいしいよ",
+          "en": "Mom, the spring rolls with fuki shoots are delicious."
+        },
+        {
+          "ja": "ふきのとう",
+          "en": "Butterbur sprouts"
+        },
+        {
+          "ja": "ママ 助六寿司もうまいぜ",
+          "en": "Mom, the assorted sushi is delicious too."
+        },
+        {
+          "ja": "助六",
+          "en": "Assorted sushi"
+        },
+        {
+          "ja": "ママ 味噌汁おかわり",
+          "en": "Mom, I'd like another bowl of miso soup."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "味噌汁",
+          "en": "Miso soup"
+        },
+        {
+          "ja": "ただの味噌汁じゃねえよな",
+          "en": "It's not just plain miso soup, is it?"
+        },
+        {
+          "ja": "おふくろの味だ",
+          "en": "It's Mother's cooking."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "おっかさ～ん",
+          "en": "Mom~!"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "勝手に ヘルシーでファミリーなもん出してんじゃねえ",
+          "en": "Don't go serving me something so wholesome and family-friendly without asking."
+        },
+        {
+          "ja": "うちは 小料理屋じゃねえ",
+          "en": "This isn't some casual little restaurant."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "ごめんね",
+          "en": "I'm sorry."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "じゃあ マスターも来たし私は帰るわね",
+          "en": "Well, since the master's here now, I'll be heading home."
+        },
+        {
+          "ja": "皆さんこれからもグリズリーバーをごひいきに",
+          "en": "Everyone, please continue to patronize Grizzly Bar."
+        },
+        {
+          "ja": "よろしくお願いしますね",
+          "en": "Thanks so much for your continued patronage."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "マスター",
+          "en": "Master"
+        },
+        {
+          "ja": "何だ",
+          "en": "What's going on?"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "飲んでみなよ",
+          "en": "Try drinking it."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "な うまいだろ",
+          "en": "Go on, try it. Pretty good, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "おい 待てよ",
+          "en": "Hey, wait a minute."
+        },
+        {
+          "ja": "母さん",
+          "en": "Mother"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "あぁ これ なかなかうまいね",
+          "en": "Ah, this is pretty good, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "たまにはこういう味もいいよね",
+          "en": "Once in a while, a taste like this is nice, you know?"
+        },
+        {
+          "ja": "あぁ そうだな",
+          "en": "Yeah, that's right."
+        },
+        {
+          "ja": "ママ ジンライムおかわりでやんす",
+          "en": "Mom, I'll have another gin and lime, please."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "このイワシの生姜煮  絶品だよ ママ",
+          "en": "This sardine ginger stew is absolutely delicious, Mom."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "ありがとうございます",
+          "en": "Thank you."
+        },
+        {
+          "ja": "だし巻き卵も美味ですね",
+          "en": "The tamagoyaki is delicious too, isn't it?"
+        },
+        {
+          "ja": "マスター こちらは僕が修業してるパン屋のロバさんです",
+          "en": "Master, this is Robahn, the baker at the bakery where I'm apprenticing."
+        },
+        {
+          "ja": "はじめまして",
+          "en": "Nice to meet you."
+        },
+        {
+          "ja": "いらっしゃい",
+          "en": "Welcome."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "店長 これを使って和風の惣菜パンを作りませんか",
+          "en": "Manager: Why don't we use this to make some Japanese-style savory bread?"
+        },
+        {
+          "ja": "だし巻きサンド いいですね",
+          "en": "A dashi egg sandwich—that sounds great!"
+        },
+        {
+          "ja": "グリちゃ",
+          "en": "[Guri sound/cutesy vocalization]"
+        },
+        {
+          "ja": "スコッチ おかわり",
+          "en": "Scotch, another one."
+        },
+        {
+          "ja": "グリちゃん シャンディガフ",
+          "en": "Guri-chan, Shandy Gaff"
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "笹ジュース グリちゃん",
+          "en": "Bamboo leaf juice, Guri-chan."
+        },
+        {
+          "ja": "テメエら また…",
+          "en": "You guys again..."
+        },
+        {
+          "ja": "カルーアミルクください グリちゃん",
+          "en": "Kahlua and milk for me too, Guli-chan."
+        },
+        {
+          "ja": "笹子まで",
+          "en": "Even Sasako too"
+        },
+        {
+          "ja": "ったく しようがねえな",
+          "en": "Geez, you guys are hopeless."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "テキーラ グリちゃん",
+          "en": "Tequila, please, Guri-chan."
+        },
+        {
+          "ja": "お前は許さねえ",
+          "en": "I won't forgive you."
+        },
+        {
+          "ja": "なんで",
+          "en": "Why?"
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "グリちゃんじゃねえ",
+          "en": "It's not Gri-chan."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "おやすみ グリちゃん",
+          "en": "Good night, Guri-chan."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "え タイムカプセルですか",
+          "en": "Huh? A time capsule?"
+        },
+        {
+          "ja": "はい 昔 自分宛てに出した手紙が届きまして",
+          "en": "Yes, a letter I sent to myself a long time ago has arrived."
+        },
+        {
+          "ja": "あっ もののけの森",
+          "en": "Ah, the forest of spirits."
+        },
+        {
+          "ja": "ここにタイムカプセルを",
+          "en": "I'm going to bury a time capsule here."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "なんで 笹子さんが知ってるの",
+          "en": "Why does Sasako know about that?"
+        },
+        {
+          "ja": "むかしむかし 昔笹子さんとラマさんは",
+          "en": "Long, long ago, Sasako and Rama were"
+        },
+        {
+          "ja": "同じ町に住んどったんじゃ",
+          "en": "used to live in the same town."
+        },
+        {
+          "ja": "なんで 昔ばなし風",
+          "en": "Why are you telling it like an old folk tale?"
+        },
+        {
+          "ja": "坊や",
+          "en": "Kid / Boy / Little one"
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "歌は やめよう",
+          "en": "Let's stop the song."
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "わかった 「まんが日本…」",
+          "en": "Got it. \"Let me try 'Manga Japan...'\""
+        },
+        {
+          "ja": "イントロクイズじゃないんだから",
+          "en": "It's not an intro quiz, so..."
+        },
+        {
+          "ja": "ラマさん 何を埋めたんですか",
+          "en": "Llama, what did you bury?"
+        },
+        {
+          "ja": "それが もう覚えてなくて…",
+          "en": "I'm afraid I can't quite remember what it was..."
+        },
+        {
+          "ja": "明日 掘り返しに行くので 何が出てくるか楽しみです",
+          "en": "I'm looking forward to digging it up tomorrow to see what comes out."
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "シロクマさん お店はいいんですか",
+          "en": "Polar Bear, is it okay to leave your shop?"
+        },
+        {
+          "ja": "大丈夫 うちは別名 気まぐれカフェだから",
+          "en": "Don't worry, our shop goes by another name—the Whimsical Café—so it's fine."
+        },
+        {
+          "ja": "それ ダメな気まぐれですから",
+          "en": "That's the kind of whimsical behavior that's not okay."
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "笹子さん ミクロ系になったね",
+          "en": "Sasago, you've gotten into the micro stuff, huh?"
+        },
+        {
+          "ja": "略して ミクロ笹子さんだね",
+          "en": "So you could call her Micro Sasako in short."
+        },
+        {
+          "ja": "略してませんね",
+          "en": "You're not abbreviating it."
+        },
+        {
+          "ja": "ミクロ笹子です",
+          "en": "It's Micro Sasako."
+        },
+        {
+          "ja": "ペンギンさん やめてくれませんか",
+          "en": "Mr. Penguin, would you please stop?"
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "なんで 昨日 徹夜してまで作ってきたのに",
+          "en": "Why did you stay up all night making this yesterday?"
+        },
+        {
+          "ja": "すごい 一夜づけだね",
+          "en": "That's quite a last-minute job, isn't it?"
+        },
+        {
+          "ja": "ほめてませんね それ",
+          "en": "You're not complimenting me, are you?"
+        },
+        {
+          "ja": "僕も いるよ",
+          "en": "I've got one too."
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "点呼 １",
+          "en": "Roll call: One"
+        },
+        {
+          "ja": "2",
+          "en": "That's some serious cramming you did overnight."
+        },
+        {
+          "ja": "3",
+          "en": "3"
+        },
+        {
+          "ja": "4",
+          "en": "4"
+        },
+        {
+          "ja": "5",
+          "en": "5"
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "５人全員いるね",
+          "en": "All five people are here."
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "あれ パンダ君は",
+          "en": "Wait, where's Panda?"
+        },
+        {
+          "ja": "かわいい",
+          "en": "That's cute."
+        },
+        {
+          "ja": "網棚で寝るパンダなんてレアだな",
+          "en": "A panda sleeping on the overhead rack is really rare."
+        },
+        {
+          "ja": "ブログにアップしよう",
+          "en": "I'll post this on the blog."
+        }
+      ]
+    },
+    {
+      "audio": 63,
+      "lines": [
+        {
+          "ja": "網棚で寝るパンダが 検索ワードランキングで急上昇してるよ",
+          "en": "The trending search rankings show that \"panda sleeping in the overhead rack\" is skyrocketing."
+        },
+        {
+          "ja": "パンダ君をペンギンさんと回収してくるから",
+          "en": "I'm going to go retrieve Panda-kun and Penguin-san."
+        },
+        {
+          "ja": "ラマさんと先に行ってて",
+          "en": "Go ahead with the llama and I'll catch up."
+        },
+        {
+          "ja": "はい じゃあ ラマさん…",
+          "en": "Yes, then lamb..."
+        }
+      ]
+    },
+    {
+      "audio": 64,
+      "lines": [
+        {
+          "ja": "ベンチの下で寝るラマはいかがでしょう",
+          "en": "How about a llama sleeping under the bench?"
+        }
+      ]
+    },
+    {
+      "audio": 65,
+      "lines": [
+        {
+          "ja": "じゃあ 旅の記念に１枚",
+          "en": "Well then, let's take one photo as a souvenir of our trip."
+        }
+      ]
+    },
+    {
+      "audio": 66,
+      "lines": [
+        {
+          "ja": "懐かしいな",
+          "en": "That brings back memories."
+        }
+      ]
+    },
+    {
+      "audio": 67,
+      "lines": [
+        {
+          "ja": "あすなろベーカリー",
+          "en": "Asunaro Bakery"
+        }
+      ]
+    },
+    {
+      "audio": 68,
+      "lines": [
+        {
+          "ja": "クリームパン 葉っぱの形は昔のまんまですね",
+          "en": "Cream pan—the leaf shape is just like it used to be."
+        },
+        {
+          "ja": "せっかくですから買っていきましょう",
+          "en": "Since we're here, let's buy some."
+        },
+        {
+          "ja": "５つ",
+          "en": "Five of them."
+        },
+        {
+          "ja": "え ５つも",
+          "en": "What? Five of them?"
+        },
+        {
+          "ja": "みんなのぶんもです",
+          "en": "It's for everyone else too."
+        }
+      ]
+    },
+    {
+      "audio": 69,
+      "lines": [
+        {
+          "ja": "ブランコ こんなに小さかったんだ",
+          "en": "Swing: I didn't realize it was this small."
+        },
+        {
+          "ja": "昔は 僕も余裕で乗れたんですけどね",
+          "en": "I used to be able to ride it easily back then, though."
+        },
+        {
+          "ja": "どうやって乗ってたんですか",
+          "en": "How were you able to fit on it?"
+        }
+      ]
+    },
+    {
+      "audio": 70,
+      "lines": [
+        {
+          "ja": "ご想像にお任せします",
+          "en": "I'll leave that to your imagination."
+        }
+      ]
+    },
+    {
+      "audio": 71,
+      "lines": [
+        {
+          "ja": "ラマさん すごいですね",
+          "en": "Wow, that's impressive, Llama."
+        }
+      ]
+    },
+    {
+      "audio": 72,
+      "lines": [
+        {
+          "ja": "昔も砂場が好きだったんですか",
+          "en": "Did you like the sandbox when you were younger too?"
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        }
+      ]
+    },
+    {
+      "audio": 73,
+      "lines": [
+        {
+          "ja": "いつの日か サグラダファミリアを造るのが目標です",
+          "en": "Someday, my goal is to build a Sagrada Família."
+        }
+      ]
+    },
+    {
+      "audio": 74,
+      "lines": [
+        {
+          "ja": "アライグマさん",
+          "en": "Mr. Raccoon"
+        }
+      ]
+    },
+    {
+      "audio": 75,
+      "lines": [
+        {
+          "ja": "笹子です",
+          "en": "It's Sasago."
+        }
+      ]
+    },
+    {
+      "audio": 76,
+      "lines": [
+        {
+          "ja": "ああ 浜の湯の裏に住んでた",
+          "en": "Ah, I used to live behind Hama-no-Yu."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "迷子で有名な 笹子ちゃん",
+          "en": "Sasako, who's famous for getting lost"
+        },
+        {
+          "ja": "はい…",
+          "en": "Yes..."
+        },
+        {
+          "ja": "たしか 風力発電の風車を近くで見たいからって",
+          "en": "If I remember correctly, it was because you wanted to see the wind turbine for the wind farm up close."
+        }
+      ]
+    },
+    {
+      "audio": 77,
+      "lines": [
+        {
+          "ja": "隣町まで行っちゃったのよね",
+          "en": "She wandered all the way to the next town over."
+        },
+        {
+          "ja": "はい…",
+          "en": "Yes..."
+        }
+      ]
+    },
+    {
+      "audio": 78,
+      "lines": [
+        {
+          "ja": "ちゃんとやってる アンタ放浪癖があるから",
+          "en": "You've got a wandering habit, so I'm impressed you're actually staying put."
+        },
+        {
+          "ja": "昔から 心配してたのよ",
+          "en": "I've been worried about it since way back."
+        },
+        {
+          "ja": "はい… なんとか",
+          "en": "Yes... I'm managing somehow."
+        },
+        {
+          "ja": "どうも お久しぶりです",
+          "en": "It's been quite a while."
+        },
+        {
+          "ja": "ん アンタは",
+          "en": "Hmm, and you..."
+        }
+      ]
+    },
+    {
+      "audio": 79,
+      "lines": [
+        {
+          "ja": "いつも アライグマさんに怒られて",
+          "en": "I'm always getting scolded by Mr. Raccoon."
+        },
+        {
+          "ja": "洗い物をさせられた ラマです",
+          "en": "I'm Llama. I'm the one who always gets made to do the dishes by Raccoon."
+        },
+        {
+          "ja": "あの やんちゃな",
+          "en": "That mischievous one..."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        }
+      ]
+    },
+    {
+      "audio": 80,
+      "lines": [
+        {
+          "ja": "ご無沙汰してます",
+          "en": "It's been a while."
+        },
+        {
+          "ja": "まあ すっかり落ち着いちゃって",
+          "en": "Well, you've certainly calmed down completely."
+        },
+        {
+          "ja": "こう見えても もう社会人ですから",
+          "en": "Even though I may not look it, I'm a working adult now."
+        },
+        {
+          "ja": "でも 落ち着きすぎて",
+          "en": "But you've settled down too much."
+        },
+        {
+          "ja": "５割増しで地味な顔になったわよね",
+          "en": "You've gotten half again as dull-looking, haven't you?"
+        }
+      ]
+    },
+    {
+      "audio": 81,
+      "lines": [
+        {
+          "ja": "アライグマさんの毒舌 変わりませんね",
+          "en": "You haven't lost your sharp tongue, Raccoon."
+        },
+        {
+          "ja": "ええ",
+          "en": "Yeah, that's right."
+        }
+      ]
+    },
+    {
+      "audio": 82,
+      "lines": [
+        {
+          "ja": "まるで 時間旅行で",
+          "en": "It's as if we've time traveled."
+        },
+        {
+          "ja": "思い出の町を旅してるみたいですね",
+          "en": "It feels like we're traveling through a nostalgic town as if on a time machine."
+        }
+      ]
+    },
+    {
+      "audio": 83,
+      "lines": [
+        {
+          "ja": "ラマさんって ロマンチストなんですね",
+          "en": "So you're a romantic at heart, aren't you, Llama?"
+        },
+        {
+          "ja": "そうですか",
+          "en": "Is that so?"
+        }
+      ]
+    },
+    {
+      "audio": 84,
+      "lines": [
+        {
+          "ja": "笹子さん どこにいるの",
+          "en": "Where are you, Sasago?"
+        },
+        {
+          "ja": "なかなか来ないから お風呂に入っちゃったよ",
+          "en": "He hasn't shown up yet, so I went ahead and took a bath."
+        }
+      ]
+    },
+    {
+      "audio": 85,
+      "lines": [
+        {
+          "ja": "いいお湯だったね",
+          "en": "That was nice hot water."
+        },
+        {
+          "ja": "たまにはあったかいお風呂もいいよね",
+          "en": "Every now and then, a nice warm bath feels good, doesn't it?"
+        },
+        {
+          "ja": "笹子さん なつかしいでしょ",
+          "en": "It brings back memories, doesn't it, Sasako?"
+        },
+        {
+          "ja": "ひとっ風呂 浴びてきなよ",
+          "en": "Why don't you go take a bath yourself?"
+        },
+        {
+          "ja": "いえ 大丈夫です",
+          "en": "No, I'm fine."
+        }
+      ]
+    },
+    {
+      "audio": 86,
+      "lines": [
+        {
+          "ja": "結局 何を埋めたか思い出せないまま",
+          "en": "In the end, I couldn't remember what it was I buried."
+        },
+        {
+          "ja": "ええ",
+          "en": "Yeah."
+        },
+        {
+          "ja": "土偶ですかね",
+          "en": "It's a clay figurine, perhaps?"
+        },
+        {
+          "ja": "ハズレに１万トゥグルグ賭けるよ",
+          "en": "I'll bet 10,000 tugriks that it's a dud."
+        },
+        {
+          "ja": "ポイントカードだよ",
+          "en": "It's a loyalty card."
+        }
+      ]
+    },
+    {
+      "audio": 87,
+      "lines": [
+        {
+          "ja": "もう期限切れかな",
+          "en": "I bet ten thousand tugriks it's a miss."
+        },
+        {
+          "ja": "埋蔵金",
+          "en": "Buried treasure"
+        },
+        {
+          "ja": "それは徳川でしょ",
+          "en": "That's Tokugawa, isn't it?"
+        },
+        {
+          "ja": "ああ 胸が高鳴ります",
+          "en": "Oh, my heart is racing."
+        },
+        {
+          "ja": "みんな もうすぐですよ",
+          "en": "Everyone, it'll be here soon."
+        }
+      ]
+    },
+    {
+      "audio": 88,
+      "lines": [
+        {
+          "ja": "そこの角を曲がれば もののけの森です",
+          "en": "If you turn the corner over there, you'll reach the Forest of Spirits."
+        }
+      ]
+    },
+    {
+      "audio": 89,
+      "lines": [
+        {
+          "ja": "これじゃあ タイムカプセルは掘り返せないね",
+          "en": "At this rate, we won't be able to dig up the time capsule."
+        },
+        {
+          "ja": "一本杉だけ残したんですね",
+          "en": "So you left just that one cedar tree standing."
+        },
+        {
+          "ja": "あの下に埋めたんですが",
+          "en": "We buried it beneath that tree."
+        }
+      ]
+    },
+    {
+      "audio": 90,
+      "lines": [
+        {
+          "ja": "僕 お腹空いた",
+          "en": "I'm hungry."
+        },
+        {
+          "ja": "パン食べる",
+          "en": "I'll eat some bread."
+        }
+      ]
+    },
+    {
+      "audio": 91,
+      "lines": [
+        {
+          "ja": "おいしいね",
+          "en": "That's delicious."
+        },
+        {
+          "ja": "素朴な味わいがいいね",
+          "en": "There's something nice about the simple, wholesome flavor."
+        },
+        {
+          "ja": "カスタードクリームがたっぷりでしょ",
+          "en": "It's got lots of custard cream in it, doesn't it?"
+        },
+        {
+          "ja": "味は昔のままですね",
+          "en": "The taste is just like it used to be."
+        }
+      ]
+    },
+    {
+      "audio": 92,
+      "lines": [
+        {
+          "ja": "なに スーパーマン",
+          "en": "What, Superman?"
+        },
+        {
+          "ja": "違うよ",
+          "en": "That's not it."
+        },
+        {
+          "ja": "ほら あそこに風車が見えるでしょ",
+          "en": "Look, you can see the windmill over there, can't you?"
+        },
+        {
+          "ja": "あれ 思い出の風車なんだよ",
+          "en": "That's the windmill from my memories."
+        }
+      ]
+    },
+    {
+      "audio": 93,
+      "lines": [
+        {
+          "ja": "ラマさん 残念だったね",
+          "en": "Lama, that's too bad."
+        },
+        {
+          "ja": "ええ",
+          "en": "Yes, it is."
+        },
+        {
+          "ja": "でも 久しぶりにこの町に来られたので よかったです",
+          "en": "But I'm glad I was able to come back to this town after such a long time."
+        },
+        {
+          "ja": "あっ そうだ",
+          "en": "Oh, that's right."
+        },
+        {
+          "ja": "なに",
+          "en": "What is it?"
+        }
+      ]
+    },
+    {
+      "audio": 94,
+      "lines": [
+        {
+          "ja": "どうも 遅くなりました",
+          "en": "Sorry for the late arrival"
+        },
+        {
+          "ja": "頼むね アナグマ君",
+          "en": "I'm counting on you, Badger."
+        },
+        {
+          "ja": "穴掘りなら任せてください",
+          "en": "Leave the digging to me."
+        },
+        {
+          "ja": "一本杉の下です",
+          "en": "It's under the lone cedar tree."
+        },
+        {
+          "ja": "よろしくお願いします",
+          "en": "Leave it to me."
+        }
+      ]
+    },
+    {
+      "audio": 95,
+      "lines": [
+        {
+          "ja": "は～い",
+          "en": "Okay!"
+        }
+      ]
+    },
+    {
+      "audio": 96,
+      "lines": [
+        {
+          "ja": "お待たせしました",
+          "en": "Sorry for the wait."
+        },
+        {
+          "ja": "出た 徳川の埋蔵金",
+          "en": "Found it! The Tokugawa treasure!"
+        },
+        {
+          "ja": "埋蔵金だったら 糸井さんが悔しがると思うな",
+          "en": "If it turns out to be buried treasure, I think Itoi will be really disappointed."
+        },
+        {
+          "ja": "水野さんもね",
+          "en": "Mizuno would be upset too."
+        },
+        {
+          "ja": "イトイさん ミズノさん",
+          "en": "Itoi and Mizuno."
+        }
+      ]
+    },
+    {
+      "audio": 97,
+      "lines": [
+        {
+          "ja": "パンダ君 いらない知識だよ",
+          "en": "Panda, that's useless knowledge."
+        }
+      ]
+    },
+    {
+      "audio": 98,
+      "lines": [
+        {
+          "ja": "これですか",
+          "en": "Is this it?"
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "何が入ってるんでしょうね",
+          "en": "I wonder what's in it."
+        }
+      ]
+    },
+    {
+      "audio": 99,
+      "lines": [
+        {
+          "ja": "なに これ",
+          "en": "What is this?"
+        },
+        {
+          "ja": "カセットテープ",
+          "en": "A cassette tape"
+        }
+      ]
+    },
+    {
+      "audio": 100,
+      "lines": [
+        {
+          "ja": "お疲れさま",
+          "en": "You did good work"
+        },
+        {
+          "ja": "今が旬の アミガサタケのクリームパスタ どうぞ",
+          "en": "Here's a cream pasta with morels—they're in season right now. Please, help yourself."
+        },
+        {
+          "ja": "キノコ大好きです いただきます",
+          "en": "I love mushrooms. Thank you for the meal."
+        },
+        {
+          "ja": "何が録音されてるの",
+          "en": "What's recorded on it?"
+        },
+        {
+          "ja": "志ん生だよ きっと",
+          "en": "It's Shinjsei, I'm sure of it."
+        }
+      ]
+    },
+    {
+      "audio": 101,
+      "lines": [
+        {
+          "ja": "落語ではありません",
+          "en": "It's not rakugo."
+        },
+        {
+          "ja": "じゃあ 何",
+          "en": "Then what is it?"
+        }
+      ]
+    },
+    {
+      "audio": 102,
+      "lines": [
+        {
+          "ja": "聴いてみての お楽しみです",
+          "en": "You'll have to listen and find out for yourself."
+        },
+        {
+          "ja": "シロクマさん これですか",
+          "en": "Is this it, Mr. Polar Bear?"
+        },
+        {
+          "ja": "ありがとう よく見つけたね",
+          "en": "Thank you. You found it well."
+        }
+      ]
+    },
+    {
+      "audio": 103,
+      "lines": [
+        {
+          "ja": "じゃあ 再生するよ",
+          "en": "Then I'll play it."
+        }
+      ]
+    },
+    {
+      "audio": 104,
+      "lines": [
+        {
+          "ja": "「ラマママ リャママラミャ ラッミャママミャラマンボー」",
+          "en": "Llama mama, lya mama ra mya, la mmya mama mya ra mambo"
+        }
+      ]
+    },
+    {
+      "audio": 105,
+      "lines": [
+        {
+          "ja": "何 これ",
+          "en": "What is this?"
+        },
+        {
+          "ja": "僕が作詞作曲しました",
+          "en": "I composed and wrote the lyrics for it myself."
+        },
+        {
+          "ja": "子供の頃 ３丁目のモーツァルトと呼ばれていたんですよ",
+          "en": "When I was a child, I was called the Mozart of Third Street."
+        }
+      ]
+    },
+    {
+      "audio": 106,
+      "lines": [
+        {
+          "ja": "そう すごいね…",
+          "en": "Yeah, that's amazing..."
+        }
+      ]
+    },
+    {
+      "audio": 107,
+      "lines": [
+        {
+          "ja": "シロクマ君 カフェモカおかわり",
+          "en": "Mr. Polar Bear, another Café Mocha, please."
+        },
+        {
+          "ja": "「リャママママ リャマンボーリャママママ リャマンボー」",
+          "en": "Llama mama mama, llama mambo llama mama mama, llama mambo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,864 @@
+{
+  "ep": "16",
+  "title": "サケハンター　グリズリーさん",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "おはよう",
+          "en": "Good morning"
+        },
+        {
+          "ja": "おはよう　パンダくん",
+          "en": "Good morning, Panda."
+        },
+        {
+          "ja": "あれ！？　これ　なんの荷物？",
+          "en": "Huh!? What's this package?"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "お出かけの準備",
+          "en": "Getting ready to go out"
+        },
+        {
+          "ja": "えっ！？　出かけちゃうの？ カフェは？",
+          "en": "Huh!? You're going out? What about the cafe?"
+        },
+        {
+          "ja": "今日はお休み",
+          "en": "Today's my day off."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "せっかく　早起きできたからモーニング食べようと思ったのに",
+          "en": "I woke up early for once, so I was thinking I'd eat breakfast here."
+        },
+        {
+          "ja": "ごめんね",
+          "en": "I'm sorry."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "どこ行くの？",
+          "en": "Where are you going?"
+        },
+        {
+          "ja": "今日はね…",
+          "en": "Today, well..."
+        },
+        {
+          "ja": "シロクマ！ 用意はできてんだろうな？",
+          "en": "White bear! You're all ready, aren't you?"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "荷物はこれで全部か？",
+          "en": "Is that all your luggage?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "グリズリーさんおはよう",
+          "en": "Good morning, Mr. Grizzly."
+        },
+        {
+          "ja": "おう",
+          "en": "Hey."
+        },
+        {
+          "ja": "シロクマくんとどこ行くの？",
+          "en": "Where are you going with Polar Bear?"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "あぁ　ちょっと食材をな",
+          "en": "Oh, just going to get some groceries."
+        },
+        {
+          "ja": "料理の材料を発掘しに",
+          "en": "We're going to hunt for cooking ingredients."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "発掘？ 楽しそう！",
+          "en": "Excavation? That sounds fun!"
+        },
+        {
+          "ja": "僕も行きたい…",
+          "en": "I want to go too..."
+        },
+        {
+          "ja": "遊びじゃねえんだよ！",
+          "en": "This isn't a game!"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "まぁ　でも 遠足みたいなものかな",
+          "en": "Well, I suppose you could say it's kind of like a field trip."
+        },
+        {
+          "ja": "遠足？",
+          "en": "A field trip?"
+        },
+        {
+          "ja": "笹はおやつに入る？ ごはんかな？",
+          "en": "Does bamboo count as a snack? Or is it a meal?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "う～ん…　難しいね",
+          "en": "Hmm... That's a tough one."
+        },
+        {
+          "ja": "アザラシはごはんだけど…",
+          "en": "Seals are just food though..."
+        },
+        {
+          "ja": "おやつは？",
+          "en": "What about snacks?"
+        },
+        {
+          "ja": "セイウチかな",
+          "en": "A walrus, maybe?"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "何　ダラダラとくっちゃべってんだよ！",
+          "en": "Hey! What are you two doing just sitting around chattering away like that!"
+        },
+        {
+          "ja": "行くぞ 早く乗れ",
+          "en": "Let's go. Get in, quick!"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "おい　シロクマ",
+          "en": "Hey, Polar Bear"
+        },
+        {
+          "ja": "何？　グリズリーくん",
+          "en": "What? Grizzly?"
+        },
+        {
+          "ja": "なんでアイツがいるんだよ？",
+          "en": "Why is that guy here?"
+        },
+        {
+          "ja": "グリズリーくんが乗れって言ったんじゃない",
+          "en": "It was Grizzly who told me to get on."
+        },
+        {
+          "ja": "そうじゃなくてよ！",
+          "en": "That's not what I meant!"
+        },
+        {
+          "ja": "まぁ　いいじゃない",
+          "en": "Well, what's the harm in it?"
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "ねぇ　どこ行くの？",
+          "en": "Hey, where are we going?"
+        },
+        {
+          "ja": "山？　それとも　海？",
+          "en": "Mountains? Or the beach?"
+        },
+        {
+          "ja": "山はおいしい笹がいっぱい生えてるし…",
+          "en": "The mountains have lots of delicious bamboo grass growing all over..."
+        },
+        {
+          "ja": "海はかわいい女の子がいっぱいいるよね",
+          "en": "The ocean has lots of cute girls, doesn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "川だよ",
+          "en": "The river."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "お前は店で出す分が欲しいんだろ？",
+          "en": "You just want the stuff they sell at the shop, don't you?"
+        },
+        {
+          "ja": "うん　いっぱい獲れるといいな",
+          "en": "Yeah, I hope we can catch a lot."
+        },
+        {
+          "ja": "結構いそうな感じだぜ",
+          "en": "It looks like there's quite a bit of it around."
+        },
+        {
+          "ja": "あっ",
+          "en": "Ah!"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "魚！",
+          "en": "Fish!"
+        },
+        {
+          "ja": "あれが俺たちの獲物だ",
+          "en": "That's our catch right there."
+        },
+        {
+          "ja": "え…　あれが？",
+          "en": "Huh...? That one?"
+        },
+        {
+          "ja": "そうだ　サケだ",
+          "en": "That's right. It's a salmon."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "なんだよ？",
+          "en": "What's wrong?"
+        },
+        {
+          "ja": "もっと　タケノコ的なものを 想像してたのに…",
+          "en": "I was imagining something more bamboo shoot-like..."
+        },
+        {
+          "ja": "イヤなら帰れ！",
+          "en": "If you don't like it, go home!"
+        },
+        {
+          "ja": "なんだ…　発掘じゃないじゃない",
+          "en": "What is this... It's not excavation at all."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "似たようなもんでしょ",
+          "en": "They're pretty much the same thing."
+        },
+        {
+          "ja": "そうかなぁ…",
+          "en": "I guess so..."
+        },
+        {
+          "ja": "頑張ってよ",
+          "en": "Come on, try harder."
+        },
+        {
+          "ja": "明日からのしろくまカフェのランチ",
+          "en": "Starting tomorrow's polar bear cafe lunch"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "グリズリー君にかかってるんだから",
+          "en": "It's up to Grizzly, after all."
+        },
+        {
+          "ja": "まったく…　他力本願なヤツめ",
+          "en": "Good grief... you're so dependent on others."
+        },
+        {
+          "ja": "えっ　どうやって獲るの？",
+          "en": "Huh? How am I supposed to catch it?"
+        },
+        {
+          "ja": "シッ！",
+          "en": "Shh!"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "オラァッ！",
+          "en": "Grrrgh!"
+        },
+        {
+          "ja": "オラ　１匹目！",
+          "en": "Got one!"
+        },
+        {
+          "ja": "２匹目！　３匹　４匹！",
+          "en": "The second one! Three, four!"
+        },
+        {
+          "ja": "まぁ　俺の手にかかりゃ こんなもんよ",
+          "en": "Well, that's nothing when it comes to my hands."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "さすが！",
+          "en": "That's amazing!"
+        },
+        {
+          "ja": "わぁ…　ピチピチしてる",
+          "en": "Wow... they're flopping around!"
+        },
+        {
+          "ja": "ん？　このシチュエーション ガキの頃にもあったぞ…",
+          "en": "Hm? I feel like I've been in this situation before when I was a kid..."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "あれ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "全然　獲れねえ…",
+          "en": "I can't catch any..."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "なんだシロクマ！　テメエ！ 笑って見てんじゃねえ！",
+          "en": "What the hell, polar bear! You! Stop standing there laughing at us!"
+        },
+        {
+          "ja": "え？　笑ってないよ？",
+          "en": "Huh? I'm not laughing."
+        },
+        {
+          "ja": "笑ってるだろうが　口がよ！",
+          "en": "You're laughing, you bastard! Your mouth gives it away!"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "口の下が黒いだけだよ",
+          "en": "It's just black under my mouth."
+        },
+        {
+          "ja": "ホントだ　口　閉じてる",
+          "en": "That's true... his mouth is closed."
+        },
+        {
+          "ja": "ね？",
+          "en": "Right?"
+        },
+        {
+          "ja": "まぎらわしいヤツだな！",
+          "en": "You're a confusing guy!"
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "うおりゃ～っ！",
+          "en": "Grraaagh!"
+        },
+        {
+          "ja": "イテッ",
+          "en": "Ow!"
+        },
+        {
+          "ja": "やっぱ　笑ってんじゃねえか！",
+          "en": "I knew it! You're smiling after all!"
+        },
+        {
+          "ja": "思わず…",
+          "en": "I couldn't help but..."
+        },
+        {
+          "ja": "アイツに笑われてた俺も",
+          "en": "I was laughing along with that guy too."
+        },
+        {
+          "ja": "今じゃ　立派にサケが獲れるようになったんだぜ",
+          "en": "Now I can catch salmon like a pro."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "何やってんだ",
+          "en": "What are you doing?"
+        },
+        {
+          "ja": "えっ？　ピクニックの準備",
+          "en": "Huh? Preparing for a picnic?"
+        },
+        {
+          "ja": "俺が働いてるときに何だそりゃ！",
+          "en": "What the hell are you doing that for while I'm out working!"
+        },
+        {
+          "ja": "まぁまぁ　グリズリーくんがサケ獲って お腹が空いたら",
+          "en": "Come on now, if Grizzly-kun catches some salmon and gets hungry..."
+        },
+        {
+          "ja": "ランチができてるってわけ",
+          "en": "That's why I've got lunch ready for when Grizzly gets hungry from catching salmon."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "なかなか　いいでしょ",
+          "en": "Not too bad, right?"
+        },
+        {
+          "ja": "腹にたまるもんを頼むぜ",
+          "en": "Make sure it's something that'll stick to my ribs."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "ん？ サケがいねえ",
+          "en": "Huh? There's no salmon."
+        },
+        {
+          "ja": "何やってんだ！",
+          "en": "What are you doing?!"
+        },
+        {
+          "ja": "なかなか グリズリーさんみたいにはいかないね",
+          "en": "I can't quite pull off the grizzly bear treatment, you know."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "誰でもできそうに見えたのにな",
+          "en": "Even though it looked like anyone could do it."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "いいか　よく見てろ",
+          "en": "Listen up. Watch carefully."
+        },
+        {
+          "ja": "もういいや　笹食べよっと",
+          "en": "Never mind, I'll just eat some bamboo."
+        },
+        {
+          "ja": "そんな簡単に諦めんな！",
+          "en": "Don't give up that easily!"
+        },
+        {
+          "ja": "えっ？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "でも疲れちゃったし お腹空いたし…",
+          "en": "But I'm tired and hungry..."
+        },
+        {
+          "ja": "そういう問題じゃねえ！",
+          "en": "That's not the point!"
+        },
+        {
+          "ja": "同じクマとして　シロクマ！お前もコイツに何か言ってやれ！",
+          "en": "As a fellow bear, Polar Bear! You say something to this guy too!"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "パンダくんは 竹と笹があれば満足だから",
+          "en": "Panda guy's satisfied as long as he has bamboo and arrow bamboo, so..."
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "何だと？",
+          "en": "What did you just say?"
+        },
+        {
+          "ja": "クマは狩りだろ 狩ってこそのクマだろ！",
+          "en": "A bear hunts! That's what makes a bear a bear!"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "タケノコだ！",
+          "en": "It's bamboo shoots!"
+        },
+        {
+          "ja": "ちょっとそこでとってきた",
+          "en": "I just grabbed some from over there."
+        },
+        {
+          "ja": "これだったら　パンダくんも狩りをする気になるでしょ",
+          "en": "If it's this, even Panda would feel like hunting."
+        },
+        {
+          "ja": "なるほどな",
+          "en": "I see, that makes sense."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "えっ　サケってタケノコ食べるの？",
+          "en": "Wait, do salmon eat bamboo shoots?"
+        },
+        {
+          "ja": "違う",
+          "en": "No, that's not it."
+        },
+        {
+          "ja": "お前が食うんだよ　パンダ",
+          "en": "You're the one eating it, Panda."
+        },
+        {
+          "ja": "パンダくん",
+          "en": "Panda"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "グリズリーくんが 狩りのお手本見せてくれるって",
+          "en": "Grizzly's going to show us an example of how to hunt."
+        },
+        {
+          "ja": "狩りをしてこそのクマだもんね",
+          "en": "That's what it means to be a bear—going out and hunting."
+        },
+        {
+          "ja": "お　おう　よく見てろよ　パンダ",
+          "en": "Alright, alright, watch closely now, Panda."
+        },
+        {
+          "ja": "まずは　標的を見つける",
+          "en": "First, you find your target."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "絶対に目を離さない",
+          "en": "Don't take your eyes off it for a second."
+        },
+        {
+          "ja": "獲物の動きを予測する",
+          "en": "Predict the prey's movements."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "どうだ　やってみろ",
+          "en": "How about it? Give it a try."
+        },
+        {
+          "ja": "おいしいね",
+          "en": "That's delicious."
+        },
+        {
+          "ja": "って食ってんじゃねえ！",
+          "en": "Don't eat it!"
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "ちゃんと泳いでるタケノコをとれ",
+          "en": "Catch the bamboo shoots that are swimming properly."
+        },
+        {
+          "ja": "タケノコは泳がないよ",
+          "en": "Bamboo shoots don't swim."
+        },
+        {
+          "ja": "だよね",
+          "en": "Right?"
+        },
+        {
+          "ja": "んなの知ってる！",
+          "en": "Of course I know that!"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "イライラしないで　グリズリーさん",
+          "en": "Don't get so irritated, Mr. Grizzly."
+        },
+        {
+          "ja": "僕のとっておきの笹あげるから",
+          "en": "I'll give you a special bamboo treat, so"
+        },
+        {
+          "ja": "笹は健康にもいいんだよ",
+          "en": "Bamboo leaves are good for your health too, you know."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "お前も食わず嫌いしてないで",
+          "en": "You shouldn't be picky about food either."
+        },
+        {
+          "ja": "サケくらい食ってみろよ",
+          "en": "Just try drinking some sake already."
+        },
+        {
+          "ja": "うん　わかった",
+          "en": "Yeah, okay."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "笹どう？",
+          "en": "How's the bamboo?"
+        },
+        {
+          "ja": "あんまし　うまくねえ",
+          "en": "Not really that tasty."
+        },
+        {
+          "ja": "サケのほうがうまいだろ",
+          "en": "Sake tastes better, doesn't it?"
+        },
+        {
+          "ja": "ん～　あんまり",
+          "en": "Hmm, not really."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "いいニオイ！",
+          "en": "Smells good!"
+        },
+        {
+          "ja": "コーヒー入ったよ",
+          "en": "Coffee's ready."
+        },
+        {
+          "ja": "おう　ありがてえ",
+          "en": "Yeah, thanks a lot."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "おいしいね",
+          "en": "That's delicious."
+        },
+        {
+          "ja": "ああ",
+          "en": "Yeah."
+        },
+        {
+          "ja": "いっぱいとれてよかったね",
+          "en": "We got a good haul, didn't we?"
+        },
+        {
+          "ja": "お前もな",
+          "en": "You too."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "おい　パンダ！　こっちだ",
+          "en": "Hey, Panda! Over here!"
+        },
+        {
+          "ja": "いらっしゃい",
+          "en": "Come on in!"
+        },
+        {
+          "ja": "おかげさまで大人気ですよ　ランチパスタ",
+          "en": "Thanks to you, our lunch pasta is really popular."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "これって…",
+          "en": "What is this...?"
+        },
+        {
+          "ja": "サケと…",
+          "en": "Sake and..."
+        },
+        {
+          "ja": "タケノコ？",
+          "en": "Bamboo shoots?"
+        },
+        {
+          "ja": "昨日のお礼ね",
+          "en": "It's a thank you for yesterday."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "おい　パンダ　俺のタケノコお前にやる",
+          "en": "Hey, Panda. I'm giving you my bamboo shoot."
+        },
+        {
+          "ja": "グリズリーさん　僕のサケあげるね",
+          "en": "Mr. Grizzly, I'll give you my sake."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "あ　好き嫌いはダメですよ",
+          "en": "Ah, you mustn't be a picky eater, you know."
+        },
+        {
+          "ja": "細かいこと気にするなよ",
+          "en": "Don't sweat the small stuff."
+        },
+        {
+          "ja": "そうそう",
+          "en": "That's right."
+        },
+        {
+          "ja": "もう",
+          "en": "Come on."
+        },
+        {
+          "ja": "まぁ　いいじゃない",
+          "en": "Well, what's the harm in it?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,967 @@
+{
+  "ep": "35",
+  "title": "カフェの怪談",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "笹子さん 今日の夜　あれやるよ",
+          "en": "Sasako, we're doing that thing tonight."
+        },
+        {
+          "ja": "えっ！？ あれ　ホントに　やるんですか？",
+          "en": "What!? Are we really doing that?"
+        },
+        {
+          "ja": "何？　あれって…",
+          "en": "What? That thing..."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "ほら　夏の定番の…",
+          "en": "You know, the classic summer..."
+        },
+        {
+          "ja": "定番？",
+          "en": "Classic?"
+        },
+        {
+          "ja": "それは　黒板",
+          "en": "That's the chalkboard."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "それは　食パン",
+          "en": "That's toast."
+        },
+        {
+          "ja": "それは　海パン",
+          "en": "That's swim trunks."
+        },
+        {
+          "ja": "それは　階段",
+          "en": "That's a staircase."
+        },
+        {
+          "ja": "大当たり！",
+          "en": "Bingo!"
+        },
+        {
+          "ja": "怪談やるよ",
+          "en": "Let's tell a ghost story."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "これでだいたい揃ったかな",
+          "en": "I think we've got just about everything."
+        },
+        {
+          "ja": "僕　帰ってもいいですか？",
+          "en": "Can I go home?"
+        },
+        {
+          "ja": "怖い話 聞きたいっていうから　連れてきたよ",
+          "en": "You said you wanted to hear a scary story, so I brought you here."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "苦手だって言ってるのに…",
+          "en": "Even though I said I'm not good with this..."
+        },
+        {
+          "ja": "ロウソクは　これでいいですか？",
+          "en": "Are these candles okay?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "そんなのいらないですよ！",
+          "en": "We don't need that!"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "ほら～　やっぱり　こうなっちゃう",
+          "en": "See, I knew it would end up like this."
+        },
+        {
+          "ja": "ムードがあって　いいんじゃない？",
+          "en": "It sets the mood, doesn't it?"
+        },
+        {
+          "ja": "しろくまカフェ怪談ナイトにようこそ",
+          "en": "Welcome to the Shirokuma Café Ghost Story Night."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "帰りたいな",
+          "en": "I want to go home."
+        },
+        {
+          "ja": "帰り道に おばけが出るかもしれないよ",
+          "en": "There might be ghosts on the way home."
+        },
+        {
+          "ja": "なんでそういうこと言うの！？",
+          "en": "Why would you say something like that!?"
+        },
+        {
+          "ja": "わかりましたよ！　いますよ",
+          "en": "I get it! They're here!"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "始めようか",
+          "en": "Shall we begin?"
+        },
+        {
+          "ja": "じゃあ　僕から",
+          "en": "Then, I'll start."
+        },
+        {
+          "ja": "これは　僕が実際に体験した",
+          "en": "This is something I actually experienced."
+        },
+        {
+          "ja": "動物園のラマコーナーで 起こったことなんですけど",
+          "en": "It happened at the llama corner in the zoo."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "その夜　ラマコーナーには　残業していた 僕しかいなかったんです",
+          "en": "That night, I was the only one working overtime at the llama corner."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "僕が　いつものように 草を食べていると",
+          "en": "As I was eating grass like I usually do"
+        },
+        {
+          "ja": "ふと　何かの気配を感じたんです",
+          "en": "Suddenly, I felt the presence of something."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "け…　気配？",
+          "en": "A... a presence?"
+        },
+        {
+          "ja": "けど　他のラマたちはいるはずがありません",
+          "en": "But there shouldn't have been any other llamas around."
+        },
+        {
+          "ja": "錯覚だろうと思って 僕はまた草を食べ始めました",
+          "en": "I thought it was just my imagination, so I started eating grass again."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "ところが… やっぱり何かの気配を感じます",
+          "en": "However... I still feel like there's something there."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "その気配は どんどん近づいてきて",
+          "en": "The presence kept getting closer and closer."
+        },
+        {
+          "ja": "ついに　僕のすぐ後ろに…",
+          "en": "Finally, right behind me..."
+        },
+        {
+          "ja": "僕は　思い切って振り返ったんです",
+          "en": "I mustered up the courage and turned around."
+        },
+        {
+          "ja": "そこにはいるはずのない",
+          "en": "It wasn't supposed to be there."
+        },
+        {
+          "ja": "シマウマが…",
+          "en": "A zebra..."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "いるはずのない　シマウマの姿は",
+          "en": "The zebra that shouldn't have been there was..."
+        },
+        {
+          "ja": "次の瞬間 跡形もなく消えていました",
+          "en": "The next moment, it vanished without a trace."
+        },
+        {
+          "ja": "あぁ～！！",
+          "en": "Ahh!!"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "あれ？　怖くなかったですか？",
+          "en": "Huh? Weren't you scared?"
+        },
+        {
+          "ja": "シマウマの霊ですよ？",
+          "en": "It's the spirit of a zebra, you know?"
+        },
+        {
+          "ja": "なんか　シマウマの霊って言われても ピンと　こないっていうか…",
+          "en": "I don't know, even if you say it's the spirit of a zebra, it just doesn't really click with me..."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "僕は話してるだけで ゾッとしますよ",
+          "en": "I get chills just talking about it."
+        },
+        {
+          "ja": "シマウマ…　シマウマ…",
+          "en": "Zebra... Zebra..."
+        },
+        {
+          "ja": "全然　怖くないよ じゃあ",
+          "en": "Not scary at all, then."
+        },
+        {
+          "ja": "次　僕ね",
+          "en": "Next, it's my turn."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "パンダくん？",
+          "en": "Panda-kun?"
+        },
+        {
+          "ja": "あっ！　寝てる！",
+          "en": "Oh! He's sleeping!"
+        },
+        {
+          "ja": "パンダくん！",
+          "en": "Panda-kun!"
+        },
+        {
+          "ja": "あっ　暗いと眠くなるね",
+          "en": "Oh, it makes me sleepy when it's dark."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "頑張ろうよ",
+          "en": "Let's do our best!"
+        },
+        {
+          "ja": "こないだの夜 僕がベッドで寝ようとしたとき…",
+          "en": "The other night, when I was trying to sleep in bed..."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "あれ？　何時頃に寝たんだっけ？",
+          "en": "Huh? What time did I fall asleep again?"
+        },
+        {
+          "ja": "いいよ　そこは何時でも　続けて",
+          "en": "Sure, anytime is fine. Go on."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "けど　今が眠いよ",
+          "en": "But I'm sleepy right now."
+        },
+        {
+          "ja": "頑張ろうよ　パンダくん",
+          "en": "Let's do our best, Panda-kun."
+        },
+        {
+          "ja": "わかった！",
+          "en": "Alright!"
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "僕が　ベッドで寝てると",
+          "en": "When I'm sleeping in bed"
+        },
+        {
+          "ja": "枕もとで変な音がしたんだよ",
+          "en": "There was a strange noise by my pillow."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "変な音っていうのは どんな音かな？",
+          "en": "What kind of strange sound was it?"
+        },
+        {
+          "ja": "僕に聞かれても困るよ",
+          "en": "I'm not sure how to describe it."
+        },
+        {
+          "ja": "どんな音だったの？",
+          "en": "What kind of sound was it?"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "忘れたよ",
+          "en": "I forgot."
+        },
+        {
+          "ja": "パンダくん　もういいから… キミ　聞いてて",
+          "en": "Panda-kun, that's enough... You just listen."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "じゃあ　僕が話すよ",
+          "en": "Then I'll talk."
+        },
+        {
+          "ja": "去年の夏のことだけど…",
+          "en": "It was about last summer..."
+        },
+        {
+          "ja": "やめて！",
+          "en": "Stop it!"
+        },
+        {
+          "ja": "まだ　何も話してないのに",
+          "en": "But I haven't said anything yet."
+        },
+        {
+          "ja": "顔　怖すぎ！",
+          "en": "Your face is too scary!"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "じゃあ　僕が…",
+          "en": "Then I'll..."
+        },
+        {
+          "ja": "ゾウガメくん　頼むよ　思いっきり　怖いやつ",
+          "en": "Tortoise-kun, I'm counting on you to make it really scary."
+        },
+        {
+          "ja": "動物好きの～",
+          "en": "Animal lover's~"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "タカシくんは～",
+          "en": "Takashi-kun is..."
+        },
+        {
+          "ja": "ペース　上げられないかな？",
+          "en": "Can't you pick up the pace?"
+        },
+        {
+          "ja": "わかった～",
+          "en": "Got it!"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "タカシくんが亡くなりました～",
+          "en": "Takashi-kun has passed away..."
+        },
+        {
+          "ja": "お母さんは　毎日　お墓に",
+          "en": "My mother goes to the grave every day."
+        },
+        {
+          "ja": "タカシくんが好きだった パンの耳を持っていきました～",
+          "en": "She took the bread crusts that Takashi liked."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "もう　オチ　いこう　終わらないから",
+          "en": "Let's get to the punchline already, or we'll never finish."
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "ある日　お墓から声が…",
+          "en": "One day, a voice came from the grave..."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "お母さん… もう　パンの耳は飽きたよ",
+          "en": "Mom... I'm tired of bread crusts already."
+        },
+        {
+          "ja": "じゃあ　何がいいの？",
+          "en": "Then what would you like?"
+        },
+        {
+          "ja": "それは…",
+          "en": "That would be..."
+        },
+        {
+          "ja": "お前の耳だ～",
+          "en": "Your ears~"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "あれ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "寝てた～？",
+          "en": "Were you asleep?"
+        },
+        {
+          "ja": "遅いんだな 怖がるタイミングを逃しちゃうよ",
+          "en": "You're late. You'll miss the chance to be scared."
+        },
+        {
+          "ja": "み　み…　耳！　耳！！",
+          "en": "E-E... Ear! Ear!!"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "半田さん　よく怖がれるね",
+          "en": "Handa, you sure get scared easily."
+        },
+        {
+          "ja": "じゃあ　次は　僕が話すよ",
+          "en": "Then, I'll tell the next story."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "あるペンギンが体験した",
+          "en": "A penguin experienced"
+        },
+        {
+          "ja": "皆さんの知らない世界の話を お聞かせします",
+          "en": "Let me tell you a story about a world you all don't know."
+        },
+        {
+          "ja": "そのペンギンが　あるパン屋に 出かけたときのことです",
+          "en": "It's about the time that penguin went to a certain bakery."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "そこには　１人の 看板ペンギンの女の子がいました",
+          "en": "There was a girl penguin who was the shop's mascot."
+        },
+        {
+          "ja": "彼女に会うため　ペンギンは 毎日　毎日　パン屋に通いました",
+          "en": "To see her, the penguin went to the bakery every single day."
+        },
+        {
+          "ja": "ところが　ある日",
+          "en": "However, one day"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "１人だと思っていた ペンギンの女の子が",
+          "en": "The penguin girl, who he thought was alone,"
+        },
+        {
+          "ja": "７人いたのです！",
+          "en": "There were seven of them!"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "それは　怖かっただろうね",
+          "en": "That must have been scary, huh?"
+        },
+        {
+          "ja": "怖かった…",
+          "en": "I was scared..."
+        },
+        {
+          "ja": "けど　そういう 怖いのじゃなくて…",
+          "en": "But it wasn't that kind of scary..."
+        },
+        {
+          "ja": "怖いのは おばけじゃなくて　ペンギンだよ",
+          "en": "What's scary isn't the ghost, it's the penguins."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "大変なんだね　ペンギンさん",
+          "en": "It must be tough, Mr. Penguin."
+        },
+        {
+          "ja": "つらいよ　毎日が",
+          "en": "It's tough, every day is."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "実は　僕にもつらくて怖い話があるんだよ",
+          "en": "Actually, I have a story that's tough and scary for me too."
+        },
+        {
+          "ja": "そうなの？",
+          "en": "Really?"
+        },
+        {
+          "ja": "そう",
+          "en": "Yes."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "あれは…",
+          "en": "That was..."
+        },
+        {
+          "ja": "その昔　僕の毛が まだ　黒かった頃のこと",
+          "en": "Back in the day when my hair was still black."
+        },
+        {
+          "ja": "ちょっと待って！",
+          "en": "Wait a minute!"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "なんだろう？　その話…",
+          "en": "What's that story about?"
+        },
+        {
+          "ja": "待たなくていい？",
+          "en": "Don't I need to wait?"
+        },
+        {
+          "ja": "うん　という答えも待たずに 話は続くんでしょ？",
+          "en": "You're going to continue the story without waiting for a 'yes,' right?"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "ある日　川で 鮭をたくさんとったあと",
+          "en": "One day, after catching a lot of salmon at the river"
+        },
+        {
+          "ja": "お腹がいっぱいになって 昼寝していた　僕の耳もとで何か音がした",
+          "en": "After eating my fill and taking a nap, I heard a sound near my ear."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "なんと　ネズミが 僕の耳をかじっていた",
+          "en": "To my surprise, a mouse was nibbling on my ear."
+        },
+        {
+          "ja": "あまりの恐怖で…",
+          "en": "I was so terrified that..."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "こうして　僕の毛は白くなった",
+          "en": "And that's how my fur turned white."
+        },
+        {
+          "ja": "だから僕は今でもネズミが怖い…",
+          "en": "That's why I'm still afraid of mice..."
+        },
+        {
+          "ja": "待って！",
+          "en": "Wait!"
+        },
+        {
+          "ja": "別の意味で怖いよ　その話",
+          "en": "That story is scary in a different way."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "ダメ？",
+          "en": "Not okay?"
+        },
+        {
+          "ja": "ダメ！",
+          "en": "No!"
+        },
+        {
+          "ja": "どういう意味？",
+          "en": "What do you mean?"
+        },
+        {
+          "ja": "知らなくていいの",
+          "en": "You don't need to know."
+        },
+        {
+          "ja": "ネ…　ネ…　ネズミ…　ネズミ…",
+          "en": "Ra... Ra... Rat... Rat..."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "半田さん　いいお客だな",
+          "en": "Mr. Handa is a good customer."
+        },
+        {
+          "ja": "じゃあ　次　笹子さん",
+          "en": "Alright, next up is Sasago."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "私　あんまりうまくないんですよ",
+          "en": "I'm not very good at it."
+        },
+        {
+          "ja": "怖い話とか苦手で…",
+          "en": "I'm not good with scary stories..."
+        },
+        {
+          "ja": "あっ！　ぼ…　僕も同じです",
+          "en": "Ah! I... I'm the same way."
+        },
+        {
+          "ja": "あ…　でも　笹子さんの話 聞いてみたいな",
+          "en": "Ah... but I'd like to hear your story, Sasago-san."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "じゃあ　ちょっとだけ",
+          "en": "Then, just a little bit."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "と　振り返ると…",
+          "en": "And when I turned around..."
+        },
+        {
+          "ja": "やめて～っ！",
+          "en": "Stop it!"
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "怖すぎるね…",
+          "en": "That's too scary..."
+        },
+        {
+          "ja": "もういい！",
+          "en": "Enough already!"
+        },
+        {
+          "ja": "けど　ここからが怖いんですよ？",
+          "en": "But this is where it gets scary, you know?"
+        },
+        {
+          "ja": "ごめん…　もういいから",
+          "en": "Sorry... it's okay now."
+        },
+        {
+          "ja": "半田さん！",
+          "en": "Mr. Handa!"
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "じゃあね　半田さん",
+          "en": "See you, Handa-san."
+        },
+        {
+          "ja": "もし　おばけ見たら　電話してね",
+          "en": "If you see a ghost, give me a call, okay?"
+        },
+        {
+          "ja": "バイバーイ",
+          "en": "Bye-bye!"
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "やっぱり　今日は 誰かと一緒に帰ろうかな",
+          "en": "I guess I'll go home with someone today after all."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "半田さん",
+          "en": "Handa-san!"
+        },
+        {
+          "ja": "半田さん　１人で帰るの 怖いんじゃないですか？",
+          "en": "Handa-san, aren't you scared to go home alone?"
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "あ…　それは…",
+          "en": "Ah... that's..."
+        },
+        {
+          "ja": "でしたら…　私でよかったら 送っていきますよ",
+          "en": "In that case... if you don't mind, I can walk you home."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "あ…　じゃ…　じゃあ…",
+          "en": "Oh... well... then..."
+        },
+        {
+          "ja": "そうですか",
+          "en": "I see."
+        },
+        {
+          "ja": "僕　半田さんと 方向　一緒ですから",
+          "en": "I'm heading in the same direction as you, Handa-san."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "それなら 僕が　送っていきますよ",
+          "en": "In that case, I'll take you home."
+        },
+        {
+          "ja": "あ…　けど…",
+          "en": "Ah... but..."
+        },
+        {
+          "ja": "気にしないでください",
+          "en": "Please don't worry about it."
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "それじゃあ ラマさん　半田さん　また",
+          "en": "See you later, Rama and Handa."
+        },
+        {
+          "ja": "また",
+          "en": "See you."
+        },
+        {
+          "ja": "また…",
+          "en": "Again..."
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "ねぇ　これでよかったのかな？",
+          "en": "Hey, was this really okay?"
+        },
+        {
+          "ja": "よかったんじゃない？ 怖くなく帰れて",
+          "en": "I think it was fine, right? We got to leave without being scared."
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "半田さん　ラクダの霊って 見たことありますか？",
+          "en": "Mr. Handa, have you ever seen the spirit of a camel?"
+        },
+        {
+          "ja": "えぇ？　ないよ",
+          "en": "Huh? No, I haven't."
+        },
+        {
+          "ja": "僕　この前　トイレで見たんですよ",
+          "en": "I saw one in the bathroom the other day."
+        },
+        {
+          "ja": "えっ　そうなの！？",
+          "en": "Oh, really!?"
+        }
+      ]
+    }
+  ]
+}

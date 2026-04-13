@@ -1,0 +1,1319 @@
+{
+  "ep": "20",
+  "title": "半田さんの合コン！",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "前半からつづく",
+          "en": "Continued from the first half"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "ご注文　お決まりですか？",
+          "en": "Are you ready to order?"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "シロクマ！？",
+          "en": "Polar bear!?"
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "そ…　それじゃ 自己紹介から始めましょうか",
+          "en": "W-Well then, shall we start with introductions?"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "僕からいきますね",
+          "en": "I'll go first."
+        },
+        {
+          "ja": "桐野です",
+          "en": "I'm Kirino."
+        },
+        {
+          "ja": "動物園の飼育員をやっています",
+          "en": "I work as a zookeeper."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "じゃ　次は先輩",
+          "en": "Okay, next is you, Senpai."
+        },
+        {
+          "ja": "は…　は…　半田です！",
+          "en": "I- I- I'm Handa!"
+        },
+        {
+          "ja": "本日は　このように 晴れがましい合コンに　お…　お招きいただき",
+          "en": "Today, I am honored to be invited to such a splendid mixer..."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "誠にありがとうございます",
+          "en": "I sincerely thank you."
+        },
+        {
+          "ja": "ふつつか者ではありますが",
+          "en": "I may be inexperienced, but..."
+        },
+        {
+          "ja": "以後　よろしく お見知りおきください",
+          "en": "I look forward to getting to know you better from now on."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "先輩　かたい…",
+          "en": "Senpai, you're so stiff..."
+        },
+        {
+          "ja": "そこまで丁寧な 自己紹介じゃなくて大丈夫です",
+          "en": "You don't need to introduce yourself so formally."
+        },
+        {
+          "ja": "けど　初対面だから",
+          "en": "But it's our first meeting."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "大丈夫です",
+          "en": "It's all right."
+        },
+        {
+          "ja": "合コンって　そういう感じのものじゃないんで",
+          "en": "A group date isn't really something like that."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "続きまして 私と同じ職場に勤める",
+          "en": "Next, someone who works at the same place as me."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "パンダくんを紹介します！",
+          "en": "Let me introduce Panda-kun!"
+        },
+        {
+          "ja": "だから　かたいって…",
+          "en": "That's why you're being too formal..."
+        },
+        {
+          "ja": "すみません パンダ　連れてきちゃって",
+          "en": "Sorry for bringing Panda along."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "パンダで～す",
+          "en": "I'm Panda!"
+        },
+        {
+          "ja": "かわいい！！",
+          "en": "So cute!!"
+        },
+        {
+          "ja": "パンダ　意外にウケた…",
+          "en": "The panda was surprisingly well-received..."
+        },
+        {
+          "ja": "では　続いて…",
+          "en": "Now, moving on..."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "シロクマです ふだんは　カフェやってます",
+          "en": "I'm a polar bear. I usually run a café."
+        },
+        {
+          "ja": "すご～い！",
+          "en": "Amazing!"
+        },
+        {
+          "ja": "カフェですか？",
+          "en": "A café?"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "行ってみたい！",
+          "en": "I want to go!"
+        },
+        {
+          "ja": "なんてカフェですか？",
+          "en": "What's the name of the café?"
+        },
+        {
+          "ja": "しろくまカフェ",
+          "en": "Polar Bear Café"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "そのまんまなんですね",
+          "en": "It's exactly as it is."
+        },
+        {
+          "ja": "あの　もしかして 雑誌とかに載ってないですか？",
+          "en": "Um, by any chance, is it featured in magazines or anything like that?"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "時々",
+          "en": "Sometimes"
+        },
+        {
+          "ja": "すごい！　見たことある",
+          "en": "Wow! I've seen it before."
+        },
+        {
+          "ja": "今度　行ってもいいですか？",
+          "en": "Can I visit next time?"
+        },
+        {
+          "ja": "もちろん",
+          "en": "Of course."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "こっちも大好評だな…",
+          "en": "This is really popular here too..."
+        },
+        {
+          "ja": "趣味は　アザラシの捕獲",
+          "en": "My hobby is capturing seals."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "何ですか？それ",
+          "en": "What is that?"
+        },
+        {
+          "ja": "今度連れてってください",
+          "en": "Please take me with you next time."
+        },
+        {
+          "ja": "やめたほうがいいよ…",
+          "en": "You'd better not..."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "じゃあ　女子 いきますね",
+          "en": "Alright, let's move on to the girls."
+        },
+        {
+          "ja": "ヒロミで～す",
+          "en": "I'm Hiromi!"
+        },
+        {
+          "ja": "先輩　ヒロミちゃん",
+          "en": "Senpai, Hiromi-chan."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "リカです",
+          "en": "I'm Rika."
+        },
+        {
+          "ja": "リカちゃん",
+          "en": "Rika-chan"
+        },
+        {
+          "ja": "ミズキです",
+          "en": "I'm Mizuki."
+        },
+        {
+          "ja": "ミズキちゃん",
+          "en": "Mizuki."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "わかってるよ　大丈夫 聞こえるから",
+          "en": "I know, it's okay. I can hear you."
+        },
+        {
+          "ja": "ご注文　どうぞ",
+          "en": "Please go ahead with your order."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "とりあえず　生",
+          "en": "For now, draft beer."
+        },
+        {
+          "ja": "はい",
+          "en": "Okay."
+        },
+        {
+          "ja": "とりあえず　竹",
+          "en": "For now, bamboo."
+        },
+        {
+          "ja": "竹？",
+          "en": "Bamboo?"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "ちょっと 置いてないんですが…",
+          "en": "We don't have that right now..."
+        },
+        {
+          "ja": "え～っ　じゃあ　笹",
+          "en": "Huh? Then, how about sasa?"
+        },
+        {
+          "ja": "笹も　ないんですが…",
+          "en": "We don't have any bamboo grass either..."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "じゃあ　みんな　どうしてるの？",
+          "en": "So, what is everyone else doing?"
+        },
+        {
+          "ja": "ビール　飲んだり…",
+          "en": "Drinking beer..."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "枝豆　食べたり…",
+          "en": "Eating edamame..."
+        },
+        {
+          "ja": "唐揚げ　食べたり…",
+          "en": "Eating fried chicken..."
+        },
+        {
+          "ja": "とりあえず　アザラシ",
+          "en": "For now, a seal."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "ないです",
+          "en": "There aren't any."
+        },
+        {
+          "ja": "持ち込みは？",
+          "en": "Can we bring our own?"
+        },
+        {
+          "ja": "ダメです",
+          "en": "It's not allowed."
+        },
+        {
+          "ja": "とりあえず　生６つと ジュース１つでいいです",
+          "en": "For now, six draft beers and one juice, please."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "僕　竹がいいよ",
+          "en": "I’d like bamboo."
+        },
+        {
+          "ja": "そうよね　パンダっていったら やっぱり竹よね",
+          "en": "That's right, when you think of pandas, it's definitely bamboo."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "食べてるとこ　見てみたい",
+          "en": "I'd like to see them eating."
+        },
+        {
+          "ja": "かわいいかも！",
+          "en": "It might be cute!"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "いや～ん！ 竹　食べて！",
+          "en": "No way! Eat the bamboo!"
+        },
+        {
+          "ja": "何なんだ？　この合コン…",
+          "en": "What is this? This group date..."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "いや　僕はね　合コンに行きたいって言ってるわけじゃないんだよ",
+          "en": "No, it's not that I'm saying I want to go to a group date."
+        },
+        {
+          "ja": "はい",
+          "en": "Okay."
+        },
+        {
+          "ja": "ただね",
+          "en": "It's just that..."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "僕がずっとパンダくんの話を聞いていたわけだからさ",
+          "en": "I've been listening to Panda-kun's stories all along, you know."
+        },
+        {
+          "ja": "誘うなら　僕を誘うでしょ？",
+          "en": "If you're going to invite someone, you'd invite me, right?"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "僕にはペン子さんとい ペンギンがいるわけだから",
+          "en": "I have Penko, the penguin, after all."
+        },
+        {
+          "ja": "別に行きたくはないんだけど 社会勉強というか…",
+          "en": "I don't particularly want to go, but it's more like a social learning experience..."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "行きたいんですか？",
+          "en": "Do you want to go?"
+        },
+        {
+          "ja": "だから行きたくないよ",
+          "en": "That's why I don't want to go."
+        },
+        {
+          "ja": "笹子さんも　笹子さんでしょ",
+          "en": "Sasako-san is Sasako-san, after all."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "誘うなら　シロクマさんじゃなくてペンギンさんですよってひと言…",
+          "en": "If you're going to invite someone, it should be Penguin-san, not Shirokuma-san..."
+        },
+        {
+          "ja": "欲しかったな",
+          "en": "I wish I had that."
+        },
+        {
+          "ja": "行きたいんですか？",
+          "en": "Do you want to go?"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "行きたいよ",
+          "en": "I want to go."
+        },
+        {
+          "ja": "みんな今頃楽しくやってるんだろうな！",
+          "en": "Everyone's probably having a great time right about now!"
+        },
+        {
+          "ja": "笹子さん カフェモカおかわり",
+          "en": "Ms. Sasako, another café mocha, please."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "はい",
+          "en": "Okay."
+        },
+        {
+          "ja": "へぇ～　みんな大学からのお友達なんだ",
+          "en": "Oh, so they're all friends from college."
+        },
+        {
+          "ja": "そうなんです",
+          "en": "That's right."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "そうそう　動物園にカピバラいますか？",
+          "en": "Oh, by the way, are there capybaras at the zoo?"
+        },
+        {
+          "ja": "今　流行ってますよね",
+          "en": "They're really popular right now, aren't they?"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "カピバラはネズミだってホントですか？",
+          "en": "Is it true that capybaras are rodents?"
+        },
+        {
+          "ja": "じゃあ　動物園にはカピバラの温泉とか あるんですか？",
+          "en": "So, does the zoo have a hot spring for capybaras?"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "先輩　声に出して しゃべってください",
+          "en": "Senior, please speak out loud."
+        },
+        {
+          "ja": "っていうか　さっきから何も　しゃべって ないじゃないですか",
+          "en": "I mean, you haven't said anything at all since earlier, have you?"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "俺そろそろ…",
+          "en": "I'm about to..."
+        },
+        {
+          "ja": "何か用事あるんですか？",
+          "en": "Do you have something to do?"
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "いや　風呂の掃除があるから",
+          "en": "No, I have to clean the bath."
+        },
+        {
+          "ja": "わぁ～　ちょっと半田さん！",
+          "en": "Wow, hold on, Handa!"
+        },
+        {
+          "ja": "風呂の掃除で帰るとか",
+          "en": "Leaving because you have to clean the bathroom?"
+        },
+        {
+          "ja": "絶対女の子の前で言っちゃダメですって",
+          "en": "You absolutely shouldn't say that in front of girls."
+        },
+        {
+          "ja": "どうかしたの？",
+          "en": "Is something wrong?"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "い…　いや大丈夫",
+          "en": "N-No, it's fine."
+        },
+        {
+          "ja": "先輩　ちょっと酔っちゃって",
+          "en": "Senior, I'm a little drunk."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "掃除がどうかしたんですか？",
+          "en": "Is there something wrong with the cleaning?"
+        },
+        {
+          "ja": "ソ…　ソーセージ注文しようかって 先輩が",
+          "en": "S-Senpai suggested we order sausages."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "ねっ　先輩　僕注文しますね",
+          "en": "Hey, senpai, I'll place the order, okay?"
+        },
+        {
+          "ja": "ソーセージ盛り合わせ２つ",
+          "en": "Two sausage platters."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "お刺身　盛り合わせも",
+          "en": "Assorted sashimi too."
+        },
+        {
+          "ja": "シロクマさん　すみません",
+          "en": "Mr. Shirokuma, excuse me."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "あれ？　パンダくんは？",
+          "en": "Huh? Where's Panda-kun?"
+        },
+        {
+          "ja": "お待ちどおさま！",
+          "en": "Here you go!"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "待ってないよ！",
+          "en": "I wasn't waiting!"
+        },
+        {
+          "ja": "わざわざ取りに行ったの？",
+          "en": "Did you go out of your way to get it?"
+        },
+        {
+          "ja": "だって　ここ　何もないんだもん",
+          "en": "Because there's nothing here."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "あるでしょ　いろいろ！",
+          "en": "There's plenty of stuff here!"
+        },
+        {
+          "ja": "ナッツとか小エビの唐揚げとか",
+          "en": "Fried nuts and small shrimp, for example."
+        },
+        {
+          "ja": "いただきま～す",
+          "en": "Let's eat!"
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "かわいい！",
+          "en": "So cute!"
+        },
+        {
+          "ja": "パンダが竹食べてるとこ初めて見た！",
+          "en": "It's the first time I've seen a panda eating bamboo!"
+        },
+        {
+          "ja": "私も　私も！",
+          "en": "Me too, me too!"
+        },
+        {
+          "ja": "写メ　撮っていいですか？",
+          "en": "Can I take a picture?"
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "持ち込みはダメだって書いてあるよ",
+          "en": "It says no outside food allowed."
+        },
+        {
+          "ja": "お店の人にバレたら…",
+          "en": "If the store staff finds out..."
+        },
+        {
+          "ja": "お待ちどおさまで…",
+          "en": "Here you go..."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "すみません　持ち込みはダメだって 言ったんですけど",
+          "en": "Excuse me, but I did say that bringing things in is not allowed."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "か…かわいい！",
+          "en": "S-So cute!"
+        },
+        {
+          "ja": "写メ　いいですか！？",
+          "en": "Can I take a picture!?"
+        },
+        {
+          "ja": "あの　持ち込みは？",
+          "en": "Um, about bringing things in?"
+        },
+        {
+          "ja": "いいです　いいです！",
+          "en": "It's fine, it's fine!"
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "半田さんは何の動物の飼育を しているんですか？",
+          "en": "What kind of animal does Handa-san take care of?"
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "パ…　パンダとか",
+          "en": "Uh... pandas and such."
+        },
+        {
+          "ja": "パンダ！？ パンダの飼育をしてるんですか？",
+          "en": "Panda!? You take care of pandas?"
+        },
+        {
+          "ja": "え…　えぇ",
+          "en": "Uh... yes."
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "かわいい！",
+          "en": "So cute!"
+        },
+        {
+          "ja": "か…　かわいい？",
+          "en": "C-cute?"
+        },
+        {
+          "ja": "パンダの話",
+          "en": "Talking about pandas"
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "いろいろ　聞かせてください！",
+          "en": "Please tell me all about it!"
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "昼寝しているところ",
+          "en": "When they're napping"
+        },
+        {
+          "ja": "キャーッ！　かわいい！！",
+          "en": "Eek! So cute!!"
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "遊んでいるところ",
+          "en": "When they're playing"
+        },
+        {
+          "ja": "キャーッ！　かわいい！！",
+          "en": "Eek! So cute!!"
+        },
+        {
+          "ja": "ダラダラしているところ",
+          "en": "Just lounging around."
+        },
+        {
+          "ja": "キャーッ！　かわいい！！",
+          "en": "Eek! So cute!!"
+        },
+        {
+          "ja": "よく　見分けがつきますね",
+          "en": "You can really tell the difference, huh?"
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "一応　プロだから",
+          "en": "I'm a professional, after all."
+        },
+        {
+          "ja": "かわいい！",
+          "en": "So cute!"
+        },
+        {
+          "ja": "もっと聞かせてください！",
+          "en": "Please tell me more!"
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "パンダは腸が短くて　竹からだと あまり栄養がとれないんです",
+          "en": "Pandas have short intestines, so they don't get much nutrition from bamboo."
+        },
+        {
+          "ja": "だから量で補うために１日中竹を食べているんです",
+          "en": "That's why they eat bamboo all day long to make up for it with quantity."
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "腸が短いんだ",
+          "en": "Their intestines are short."
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "かわいい！",
+          "en": "So cute!"
+        },
+        {
+          "ja": "そこもかわいいんだ",
+          "en": "That's cute too."
+        },
+        {
+          "ja": "半田さん　もっと教えてあげて 僕のかわいいとこ",
+          "en": "Mr. Handa, tell them more about my cute traits."
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "竹しか食べてないから",
+          "en": "Because I only eat bamboo."
+        },
+        {
+          "ja": "パンダのウンチって いいにおいなんですよ",
+          "en": "Panda poop actually smells nice."
+        },
+        {
+          "ja": "ちょっと レモンのにおいに似ているんです",
+          "en": "It kind of smells like lemon."
+        }
+      ]
+    },
+    {
+      "audio": 63,
+      "lines": [
+        {
+          "ja": "あぁ…　これ　これ",
+          "en": "Ah... this, this."
+        },
+        {
+          "ja": "うん　パンダのウンチのにおいです",
+          "en": "Yeah, it's the smell of panda poop."
+        },
+        {
+          "ja": "どうぞ",
+          "en": "Go ahead."
+        }
+      ]
+    },
+    {
+      "audio": 64,
+      "lines": [
+        {
+          "ja": "先輩！　その情報は いらないんじゃないですか？",
+          "en": "Senior! Isn't that information unnecessary?"
+        },
+        {
+          "ja": "もう！　もっと かわいいエピソードにしてよ",
+          "en": "Geez! Make it a cuter story, will you?"
+        }
+      ]
+    },
+    {
+      "audio": 65,
+      "lines": [
+        {
+          "ja": "えっ！？　そう？",
+          "en": "Huh!? Really?"
+        },
+        {
+          "ja": "あっ！　パンダって 垂れ目でかわいい感じでしょ？",
+          "en": "Oh! Pandas have those droopy eyes and look cute, right?"
+        }
+      ]
+    },
+    {
+      "audio": 66,
+      "lines": [
+        {
+          "ja": "あれって　実際の目は 小さくて　鋭いんですよ",
+          "en": "Their actual eyes are small and sharp, you know."
+        },
+        {
+          "ja": "それも　いらないよ",
+          "en": "We don't need that either."
+        }
+      ]
+    },
+    {
+      "audio": 67,
+      "lines": [
+        {
+          "ja": "そうなの？",
+          "en": "Really?"
+        },
+        {
+          "ja": "僕にとっては かわいいところなんだけど",
+          "en": "For me, that's the cute part, though."
+        },
+        {
+          "ja": "もう！　半田さん！！",
+          "en": "Oh, Handa-san!!"
+        }
+      ]
+    },
+    {
+      "audio": 68,
+      "lines": [
+        {
+          "ja": "ペンギンさん　カフェモカ　おかわり お待たせしました",
+          "en": "Penguin, here's your refill of café mocha. Sorry for the wait."
+        },
+        {
+          "ja": "あれ？　いない…",
+          "en": "Huh? They're not here..."
+        }
+      ]
+    },
+    {
+      "audio": 69,
+      "lines": [
+        {
+          "ja": "今度　パンダコーナー 遊びにいってもいいですか？",
+          "en": "Can I visit the panda corner next time?"
+        },
+        {
+          "ja": "もちろんです　見にきてください",
+          "en": "Of course, please come and see."
+        }
+      ]
+    },
+    {
+      "audio": 70,
+      "lines": [
+        {
+          "ja": "常勤パンダさんも紹介しますよ",
+          "en": "I'll introduce you to the full-time panda as well."
+        },
+        {
+          "ja": "常勤パンダさん？ このパンダさんは何なんですか？",
+          "en": "Full-time Panda? What is this Panda?"
+        },
+        {
+          "ja": "週２のバイトなんです",
+          "en": "It's a part-time job, two days a week."
+        }
+      ]
+    },
+    {
+      "audio": 71,
+      "lines": [
+        {
+          "ja": "へぇ～　アルバイトなんだ？",
+          "en": "Oh, it's a part-time job?"
+        },
+        {
+          "ja": "かわいい！",
+          "en": "So cute!"
+        },
+        {
+          "ja": "かわいいかな？",
+          "en": "Is it really cute?"
+        },
+        {
+          "ja": "かわいいですよ！",
+          "en": "It's cute!"
+        },
+        {
+          "ja": "ねっ？",
+          "en": "Right?"
+        }
+      ]
+    },
+    {
+      "audio": 72,
+      "lines": [
+        {
+          "ja": "あっ！",
+          "en": "Oh!"
+        },
+        {
+          "ja": "どうしたの？",
+          "en": "What's wrong?"
+        }
+      ]
+    },
+    {
+      "audio": 73,
+      "lines": [
+        {
+          "ja": "な…　何？",
+          "en": "Wha... What?"
+        },
+        {
+          "ja": "ペンギン！？",
+          "en": "Penguin!?"
+        },
+        {
+          "ja": "どうも　こんばんは",
+          "en": "Good evening."
+        },
+        {
+          "ja": "何しにきたの？",
+          "en": "What brings you here?"
+        }
+      ]
+    },
+    {
+      "audio": 74,
+      "lines": [
+        {
+          "ja": "忙しいんじゃなかったの？ ペンギンさん",
+          "en": "Weren't you busy, Mr. Penguin?"
+        },
+        {
+          "ja": "いや",
+          "en": "No."
+        }
+      ]
+    },
+    {
+      "audio": 75,
+      "lines": [
+        {
+          "ja": "それは…",
+          "en": "Well, it's just that..."
+        },
+        {
+          "ja": "かわいい！",
+          "en": "So cute!"
+        },
+        {
+          "ja": "えっ！？　そこも？",
+          "en": "Huh!? Even there?"
+        }
+      ]
+    },
+    {
+      "audio": 76,
+      "lines": [
+        {
+          "ja": "マ·マ·マハロ",
+          "en": "M-M-Mahalo"
+        },
+        {
+          "ja": "ペンギンさん　マイク 代わってもらっていいですか？",
+          "en": "Mr. Penguin, could you please take over the mic?"
+        },
+        {
+          "ja": "もう１曲　もう１曲！",
+          "en": "One more song, one more song!"
+        },
+        {
+          "ja": "しようがないな",
+          "en": "I guess I have no choice."
+        }
+      ]
+    },
+    {
+      "audio": 77,
+      "lines": [
+        {
+          "ja": "「ぐぅ」？",
+          "en": "\"Growl\"?"
+        },
+        {
+          "ja": "寝てる！",
+          "en": "Asleep!"
+        },
+        {
+          "ja": "パンダくん　起きて！　パンダくん！！",
+          "en": "Panda, wake up! Panda!!"
+        }
+      ]
+    },
+    {
+      "audio": 78,
+      "lines": [
+        {
+          "ja": "って…　先輩まで！",
+          "en": "Even you, senpai!"
+        },
+        {
+          "ja": "見て　寝てる！",
+          "en": "Look, they're sleeping!"
+        },
+        {
+          "ja": "ねぇ　なんか似てない？",
+          "en": "Hey, don't they look kind of similar?"
+        }
+      ]
+    },
+    {
+      "audio": 79,
+      "lines": [
+        {
+          "ja": "このカフェにたどり着いた ラッキーボーイズ　アンド　ガールズ",
+          "en": "The lucky boys and girls who made it to this café."
+        }
+      ]
+    },
+    {
+      "audio": 80,
+      "lines": [
+        {
+          "ja": "今日は　ありがとうございました",
+          "en": "Thank you for today."
+        },
+        {
+          "ja": "楽しかったです",
+          "en": "I had a great time."
+        },
+        {
+          "ja": "また　パンダの話聞かせてください",
+          "en": "Please tell me more panda stories again."
+        }
+      ]
+    },
+    {
+      "audio": 81,
+      "lines": [
+        {
+          "ja": "えぇ　動物園に遊びにきてください",
+          "en": "Sure, come visit the zoo."
+        },
+        {
+          "ja": "はい じゃあ　おやすみなさい",
+          "en": "Okay, then good night."
+        }
+      ]
+    },
+    {
+      "audio": 82,
+      "lines": [
+        {
+          "ja": "それじゃ　俺も 風呂の掃除あるから　帰るわ",
+          "en": "Well then, I have to clean the bath, so I'm heading home."
+        },
+        {
+          "ja": "また　明日な",
+          "en": "See you tomorrow."
+        },
+        {
+          "ja": "はい",
+          "en": "Okay."
+        }
+      ]
+    },
+    {
+      "audio": 83,
+      "lines": [
+        {
+          "ja": "半田さんらしいや",
+          "en": "That's so typical of Handa."
+        },
+        {
+          "ja": "うちで　コーヒーでも飲んでく？",
+          "en": "Do you want to come over for some coffee?"
+        }
+      ]
+    },
+    {
+      "audio": 84,
+      "lines": [
+        {
+          "ja": "はい　シロクマさん",
+          "en": "Sure, Mr. Polar Bear."
+        },
+        {
+          "ja": "マ·マ·マハロ",
+          "en": "M-M-Mahalo"
+        },
+        {
+          "ja": "イエーイ！",
+          "en": "Yay!"
+        },
+        {
+          "ja": "あっ！　あれ？　みんなは？",
+          "en": "Oh! Huh? Where is everyone?"
+        },
+        {
+          "ja": "おしまい",
+          "en": "The end."
+        }
+      ]
+    }
+  ]
+}

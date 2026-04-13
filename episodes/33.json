@@ -1,0 +1,956 @@
+{
+  "ep": "33",
+  "title": "キャンプに行こう！",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "荷物　多いね",
+          "en": "We have a lot of stuff."
+        },
+        {
+          "ja": "キャンプだからね",
+          "en": "It's because it's camping."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "キャンプ？",
+          "en": "Camping?"
+        },
+        {
+          "ja": "それは　チャンプ",
+          "en": "That's champ."
+        },
+        {
+          "ja": "それは　スランプ",
+          "en": "That's a slump."
+        },
+        {
+          "ja": "それは　バグパイプ",
+          "en": "That's a bagpipe."
+        },
+        {
+          "ja": "それは　ゴーヤチャンプルー",
+          "en": "That's Goya Champuru."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "僕　キャンプって　したことないんだよ",
+          "en": "I've never been camping before."
+        },
+        {
+          "ja": "キャンプっていうのはね…",
+          "en": "Camping is..."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "真っ暗な山の中で　ひっそり寂しく 冷たい地べたの上で寝るんだよ",
+          "en": "You sleep quietly and alone on the cold ground in the pitch-dark mountains."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "ペンギンさん　真っ暗なところで ひっそり寝るのが好きなの？",
+          "en": "Mr. Penguin, do you like sleeping quietly in the pitch dark?"
+        },
+        {
+          "ja": "好きじゃないよ",
+          "en": "I don't like it."
+        },
+        {
+          "ja": "キャンプっていうのは大自然のなかでおいしいご飯食べて",
+          "en": "Camping is about enjoying delicious meals in the great outdoors."
+        },
+        {
+          "ja": "テント張ってきれいな星空眺めたりするものでしょ！",
+          "en": "You set up a tent and gaze at the beautiful starry sky, right?"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "笹か竹があればいいよ",
+          "en": "Bamboo or reeds would be nice."
+        },
+        {
+          "ja": "それじゃ いつもと変わらないじゃない…",
+          "en": "Then it's no different from usual..."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "もうすぐ　グリズリーくんも来るよ",
+          "en": "Grizzly will be here soon."
+        },
+        {
+          "ja": "えっ？　それ　誰？",
+          "en": "Huh? Who's that?"
+        },
+        {
+          "ja": "草むしりのとき　来てたよ",
+          "en": "He came by when we were weeding."
+        },
+        {
+          "ja": "草むしり？",
+          "en": "Weeding?"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "あぁ！　あの　パーッと来て ピューッて帰ったクマね",
+          "en": "Ah! That bear who showed up suddenly and left just as quickly, right?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "よう！　シロクマ",
+          "en": "Hey! Polar Bear"
+        },
+        {
+          "ja": "おはよう　グリズリーさん",
+          "en": "Good morning, Grizzly."
+        },
+        {
+          "ja": "おっ！　パンダも行くのか",
+          "en": "Oh! Is Panda going too?"
+        },
+        {
+          "ja": "このちっちぇえのは　鳥か？",
+          "en": "Is this little one a bird?"
+        },
+        {
+          "ja": "ペンギンだよ！",
+          "en": "It's a penguin!"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "ちっちゃくて わかんなかったぜ",
+          "en": "It was so small, I couldn't tell."
+        },
+        {
+          "ja": "コウテイペンギンは　ペンギン界のなかでは 最大のペンギンだよ！",
+          "en": "The Emperor Penguin is the largest penguin in the penguin world!"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "クマより　ちっちぇえのに 変わりはないだろう？",
+          "en": "It's still smaller than a bear, right?"
+        },
+        {
+          "ja": "なっ！？",
+          "en": "What!?"
+        },
+        {
+          "ja": "ほら！　行くぞ",
+          "en": "Come on! Let's go."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "あのクマ！　失礼しちゃうな",
+          "en": "That bear! How rude!"
+        },
+        {
+          "ja": "グリズリーさん わりと　ざっくりしてるからね",
+          "en": "Grizzly is pretty rough around the edges, you know."
+        },
+        {
+          "ja": "キミが言わないで",
+          "en": "Don't you say that."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "涼しいね",
+          "en": "It's cool, isn't it?"
+        },
+        {
+          "ja": "さすが　大自然は気持いいね",
+          "en": "As expected, the great outdoors feels wonderful."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "よし！　じゃあ　まず…",
+          "en": "Alright! So, first..."
+        },
+        {
+          "ja": "キャンプの係を決めようぜ！",
+          "en": "Let's decide on the camping duties!"
+        },
+        {
+          "ja": "ちょっと　ちょっと！ わきから　仕切らないでよ",
+          "en": "Hey, hey! Don't try to take over from the sidelines!"
+        },
+        {
+          "ja": "いいだろ？ 別に　誰が仕切っても",
+          "en": "It's fine, right? It doesn't matter who takes charge."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "お前ら！",
+          "en": "You guys!"
+        },
+        {
+          "ja": "何やってんの？",
+          "en": "What are you doing?"
+        },
+        {
+          "ja": "大自然のなかで読書",
+          "en": "Reading in the great outdoors"
+        },
+        {
+          "ja": "え～　どうしたの？ あっ！　もう　ご飯の時間？",
+          "en": "Huh? What's going on? Oh! Is it already time to eat?"
+        },
+        {
+          "ja": "違うよ！",
+          "en": "No, it's not!"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "とっとと準備しねえと 日が暮れちまうぞ",
+          "en": "Hurry up and get ready, or it'll be dark soon!"
+        },
+        {
+          "ja": "きちんと 準備しようよ　ペンギンさん",
+          "en": "Let's get properly prepared, Mr. Penguin."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "今　その話をしていたんだよ！",
+          "en": "We were just talking about that!"
+        },
+        {
+          "ja": "まずは係を決めようよ　グリズリーくん",
+          "en": "Let's decide on the roles first, Grizzly."
+        },
+        {
+          "ja": "だから　そう言ってんだろ！",
+          "en": "That's what I'm saying!"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "何から　するの？",
+          "en": "What should we start with?"
+        },
+        {
+          "ja": "まずはテントの設営だな　それから　火起こし　調理飯炊きは分担するか",
+          "en": "First, we need to set up the tent. Then, we'll divide the tasks for starting the fire and cooking."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "じゃあ…　ご飯ができたら起こして",
+          "en": "Then... wake me up when the food is ready."
+        },
+        {
+          "ja": "おい！　パンダくんもやるの！",
+          "en": "Hey! Panda, you need to help out too!"
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "そうなの？",
+          "en": "Is that so?"
+        },
+        {
+          "ja": "そうなの！",
+          "en": "Is that so?"
+        },
+        {
+          "ja": "係は　どうする？",
+          "en": "How should we divide the tasks?"
+        },
+        {
+          "ja": "そうだね…",
+          "en": "Yeah, that's right..."
+        },
+        {
+          "ja": "テントはみんなで　火起こしはシロクマ",
+          "en": "The tent will be set up by everyone, and the fire starting will be done by Shirokuma."
+        },
+        {
+          "ja": "調理が俺で　飯炊きはペンギンだ",
+          "en": "I'll handle the cooking, and the penguin will take care of the rice."
+        },
+        {
+          "ja": "ちょっと！ 勝手にどんどん決めないでよ",
+          "en": "Hey! Don't just decide everything on your own!"
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "細けぇこと　気にすんなよ　鳥！",
+          "en": "Don't sweat the small stuff, Bird!"
+        },
+        {
+          "ja": "と…　鳥！？",
+          "en": "Wha... bird!?"
+        },
+        {
+          "ja": "ねぇ　僕は？",
+          "en": "Hey, what about me?"
+        },
+        {
+          "ja": "お前は手伝い係ってとこか？",
+          "en": "You're the assistant, I guess?"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "じゃあ　まずはテント張ろう",
+          "en": "Alright, let's start by setting up the tent."
+        },
+        {
+          "ja": "テントできた！",
+          "en": "The tent's ready!"
+        },
+        {
+          "ja": "できてないよ！",
+          "en": "It's not done yet!"
+        },
+        {
+          "ja": "それ　テントじゃねえだろ！",
+          "en": "That's not a tent!"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "完成だね",
+          "en": "It's finished."
+        },
+        {
+          "ja": "いつもは野暮ったいペンギンさんが 輝いてみえるよ",
+          "en": "The usually awkward penguin looks dazzling."
+        },
+        {
+          "ja": "パンダくん そういう感想はいらないから",
+          "en": "Panda, I don't need that kind of feedback."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "じゃあ　中に入ってみよう",
+          "en": "Alright, let's try going inside."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "狭いだろ！",
+          "en": "It's cramped!"
+        },
+        {
+          "ja": "これは全員入るのはムリだね",
+          "en": "It's impossible for everyone to fit in here."
+        },
+        {
+          "ja": "どうすんだよ　シロクマ！",
+          "en": "What are we going to do, Shirokuma?"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "名案があるよ",
+          "en": "I have a great idea."
+        },
+        {
+          "ja": "どうするの？",
+          "en": "What are we going to do?"
+        },
+        {
+          "ja": "テントをもう一つ持ってきたから",
+          "en": "I brought another tent."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "２つ建てよう",
+          "en": "Let's set up two."
+        },
+        {
+          "ja": "あんのかよ！",
+          "en": "You actually have one!"
+        },
+        {
+          "ja": "先に言ってよ！",
+          "en": "You should have told me earlier!"
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "さぁ　夕食の支度するぞ",
+          "en": "Alright, let's get dinner ready."
+        },
+        {
+          "ja": "薪は　どうなった？",
+          "en": "What about the firewood?"
+        },
+        {
+          "ja": "それは…",
+          "en": "That's..."
+        },
+        {
+          "ja": "マス！",
+          "en": "Trout!"
+        },
+        {
+          "ja": "シロクマくんは　マスじゃなくて 薪を集めてよ！",
+          "en": "Shirokuma-kun, instead of catching trout, gather firewood!"
+        },
+        {
+          "ja": "火起こし係なんだから！",
+          "en": "You're in charge of starting the fire!"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "みんな　真面目に 自分の係やってほしいよ",
+          "en": "I wish everyone would seriously do their own tasks."
+        },
+        {
+          "ja": "まったくだな",
+          "en": "Exactly."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "アチッ！　アチチチ！ うわっ　アチッ！",
+          "en": "Hot! Ouch, ouch, ouch! Whoa, hot!"
+        },
+        {
+          "ja": "ちょっと　やめてよ！ 火が　はぜるでしょ！",
+          "en": "Hey, stop it! The fire's going to spark!"
+        },
+        {
+          "ja": "え～　せっかく　集めてきたのに",
+          "en": "Oh, but I went through all the trouble of gathering it!"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "何やってんだ！",
+          "en": "What are you doing?!"
+        },
+        {
+          "ja": "切り株はやめてよ！ むしろ　火が消えちゃうよ",
+          "en": "Stop using the tree stump! It'll actually put the fire out."
+        },
+        {
+          "ja": "せっかく　集めてきたのに",
+          "en": "I went through all the trouble to gather it."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "まったく　パンダもシロクマも…",
+          "en": "Honestly, both the panda and the polar bear..."
+        },
+        {
+          "ja": "手がかかるよね",
+          "en": "They're such a handful, aren't they?"
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "いいニオイ…",
+          "en": "Smells good..."
+        },
+        {
+          "ja": "何作ってるの？",
+          "en": "What are you making?"
+        },
+        {
+          "ja": "カレーだ",
+          "en": "It's curry."
+        },
+        {
+          "ja": "キャンプの定番だよね",
+          "en": "It's a camping classic, isn't it?"
+        },
+        {
+          "ja": "あっ　そうだ！",
+          "en": "Oh, that's right!"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "隠し味～！",
+          "en": "Secret ingredient!"
+        },
+        {
+          "ja": "入れんなよ！",
+          "en": "Don't add it!"
+        },
+        {
+          "ja": "笹がないカレーなんて…",
+          "en": "Curry without bamboo leaves is just..."
+        },
+        {
+          "ja": "ないの！　普通は",
+          "en": "It's not! Normally."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "まったく　油断も隙もねえ",
+          "en": "Seriously, you can't let your guard down for a second."
+        },
+        {
+          "ja": "シロクマくん！",
+          "en": "Polar Bear!"
+        },
+        {
+          "ja": "余計なもん 入れんなって言ってんだろ！",
+          "en": "I'm telling you not to put unnecessary stuff in!"
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "シーフードカレーにしようかと…",
+          "en": "I was thinking of making seafood curry..."
+        },
+        {
+          "ja": "シーじゃなくて レークになっちゃうでしょ",
+          "en": "It'll turn into a lake instead of a sea, you know."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "ねぇ 焦げ臭くない？",
+          "en": "Hey, does it smell burnt?"
+        },
+        {
+          "ja": "真っ黒だ…",
+          "en": "It's completely black..."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "アイツらかまってて　忘れてたな",
+          "en": "I got distracted by those guys and forgot."
+        },
+        {
+          "ja": "ごめん…",
+          "en": "Sorry..."
+        },
+        {
+          "ja": "気にすんな",
+          "en": "Don't worry about it."
+        },
+        {
+          "ja": "お～い！　小麦粉　持ってきてるよ",
+          "en": "Hey! I've got the flour with me!"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "カレーだし　ナンでも焼くか",
+          "en": "It's curry, so why not bake some naan?"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "おいしいね～",
+          "en": "It's delicious~"
+        },
+        {
+          "ja": "苦労して作った甲斐があるね",
+          "en": "It was worth the effort to make it."
+        },
+        {
+          "ja": "シロクマくん　すご～い！",
+          "en": "Shirokuma, you're amazing!"
+        },
+        {
+          "ja": "ピザじゃないんだよ！",
+          "en": "It's not pizza!"
+        },
+        {
+          "ja": "おもに作ったのは 僕とグリズリーくんだけど…",
+          "en": "Mainly, it was Grizzly and I who made it..."
+        },
+        {
+          "ja": "だよな",
+          "en": "That's right."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "よし　沸いたな",
+          "en": "Alright, it's boiling."
+        },
+        {
+          "ja": "１ば～ん！",
+          "en": "Number one!"
+        },
+        {
+          "ja": "お前は後だ",
+          "en": "You're after him."
+        },
+        {
+          "ja": "ペンギン　お前から入れよ",
+          "en": "Penguin, you go in first."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "お前が　いちばん働いたからな",
+          "en": "You worked the hardest, after all."
+        },
+        {
+          "ja": "ありがとう",
+          "en": "Thank you."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "どうだ？　湯かげんは",
+          "en": "How is it? Is the water temperature okay?"
+        },
+        {
+          "ja": "本当は　あったかいお風呂より 冷たいほうがいいけど…",
+          "en": "Honestly, I prefer a cold bath over a warm one, but..."
+        },
+        {
+          "ja": "ちょうどいいよ",
+          "en": "It's just right."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "そうか　ま　あったまれよ",
+          "en": "I see. Well, warm up then."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "いい気持…",
+          "en": "Feels nice..."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "どう？　湯かげんは",
+          "en": "How is it? The water temperature."
+        },
+        {
+          "ja": "パンダくん　煮えてるよ！",
+          "en": "Panda-kun, you're boiling!"
+        },
+        {
+          "ja": "氷風呂もあるよ",
+          "en": "There's also an ice bath."
+        },
+        {
+          "ja": "シロクマくん　最初から言ってよ！",
+          "en": "Polar Bear, you should have said so from the start!"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "そろそろ寝るか",
+          "en": "Shall we get some sleep soon?"
+        },
+        {
+          "ja": "じゃあ　誰と誰が同じテントになるか　くじ引きしよう",
+          "en": "Alright, let's draw lots to see who will share a tent with whom."
+        },
+        {
+          "ja": "みんな　１本ずつ引いてくれ",
+          "en": "Everyone, draw one each."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "葉っぱがついてるよ",
+          "en": "There's a leaf on it."
+        },
+        {
+          "ja": "ひとつは　シロクマとパンダ",
+          "en": "One pair is Shirokuma and Panda."
+        },
+        {
+          "ja": "もうひとつは俺とお前だな",
+          "en": "The other one is you and me."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "今日はお疲れ",
+          "en": "You must be tired today."
+        },
+        {
+          "ja": "だね",
+          "en": "Yeah, it is."
+        },
+        {
+          "ja": "お前も大変だろう",
+          "en": "You must be having a hard time too."
+        },
+        {
+          "ja": "えっ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "ったく　シロクマもパンダも 何もしやしねえどころか",
+          "en": "Seriously, neither the polar bear nor the panda do anything at all."
+        },
+        {
+          "ja": "面倒ばかりかけやがるからな",
+          "en": "They just keep causing trouble."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "そうそう",
+          "en": "Exactly."
+        },
+        {
+          "ja": "世話が焼けるよな",
+          "en": "They're a handful, aren't they?"
+        },
+        {
+          "ja": "でも　何だか",
+          "en": "But somehow,"
+        },
+        {
+          "ja": "放っとけねえんだよな",
+          "en": "I just can't leave them alone."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "飲むか　とっておきの 持ってきたんだよ",
+          "en": "Want a drink? I brought something special."
+        },
+        {
+          "ja": "いいね！",
+          "en": "Sounds good!"
+        },
+        {
+          "ja": "俺たちも苦労するよな",
+          "en": "We have our own struggles, don't we?"
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "なぁ　ペンギン",
+          "en": "Hey, Penguin."
+        },
+        {
+          "ja": "まったくだよ　面倒見きれないよ！",
+          "en": "Absolutely, I can't handle it all!"
+        },
+        {
+          "ja": "あ～　叫びたいぜ！",
+          "en": "Ah, I just want to scream!"
+        },
+        {
+          "ja": "叫ぼう！",
+          "en": "Let's shout!"
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "何やってるんだろう？",
+          "en": "What are we doing?"
+        },
+        {
+          "ja": "騒がしいね",
+          "en": "It's noisy, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "こんなところで寝てると 風邪ひくよ",
+          "en": "If you sleep here, you'll catch a cold."
+        },
+        {
+          "ja": "もう　ペンギンさんも グリズリーくんもホントに…",
+          "en": "Honestly, both Mr. Penguin and Grizzly-kun..."
+        },
+        {
+          "ja": "世話が焼けるね",
+          "en": "They're a handful, aren't they?"
+        },
+        {
+          "ja": "それは…",
+          "en": "That's..."
+        },
+        {
+          "ja": "そっちだ",
+          "en": "That would be you."
+        }
+      ]
+    }
+  ]
+}

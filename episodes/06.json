@@ -1,0 +1,978 @@
+{
+  "ep": "06",
+  "title": "パンダくんの悩み",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "笹子さん　肉じゃがが好きな男って　どう思う？",
+          "en": "Sasako, what do you think about guys who like meat and potatoes stew?"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "え！？　今　答えなくていいですか？",
+          "en": "Huh!? Do I have to answer that right now?"
+        },
+        {
+          "ja": "いいですよ",
+          "en": "Sure, that's fine."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "つれないなぁ",
+          "en": "You're so cold."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "ねえ　僕　いまだに　自然体っていうのがわからないの",
+          "en": "Hey, I still don't understand what it means to be natural."
+        },
+        {
+          "ja": "自然体でいいです",
+          "en": "Just be yourself."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "いくら考えても　答えが出なくて",
+          "en": "No matter how much I think about it, I can't come up with an answer."
+        },
+        {
+          "ja": "常勤パンダさん　自然体って何？",
+          "en": "Mr. Full-time Panda, what does \"being natural\" mean?"
+        },
+        {
+          "ja": "寝てる！",
+          "en": "Asleep!"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "ねえ　半田さん",
+          "en": "Hey, Handa-san"
+        },
+        {
+          "ja": "自然体って何？",
+          "en": "What does \"being natural\" mean?"
+        },
+        {
+          "ja": "言ったでしょ",
+          "en": "I told you."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "「自然体でいいです」って",
+          "en": "It's fine to be natural."
+        },
+        {
+          "ja": "自然でいることが　自然体じゃないかな",
+          "en": "Being natural is what it means to be yourself, I think."
+        },
+        {
+          "ja": "ちょっと　お手本見せてよ",
+          "en": "Could you show me an example?"
+        },
+        {
+          "ja": "えぇ～",
+          "en": "Ehh~"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "こんな感じだけど",
+          "en": "Something like this."
+        },
+        {
+          "ja": "かわいくない",
+          "en": "Not cute."
+        },
+        {
+          "ja": "えぇ～～",
+          "en": "Whaaat~~"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "う～ん",
+          "en": "Hmm..."
+        },
+        {
+          "ja": "自然体って　どういうことなの？",
+          "en": "What do you mean by being natural?"
+        },
+        {
+          "ja": "こんな表情？",
+          "en": "Like this expression?"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "自然体かどうか　わかんないけど　かわいいね",
+          "en": "I'm not sure if it's natural, but it's cute."
+        },
+        {
+          "ja": "これは？",
+          "en": "How about this?"
+        },
+        {
+          "ja": "かわいい",
+          "en": "Cute."
+        },
+        {
+          "ja": "これは～？",
+          "en": "How about this one?"
+        },
+        {
+          "ja": "もう　かわいいのは　わかったよ",
+          "en": "Alright, I get it, it's cute."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "そうなんだよね",
+          "en": "That's right."
+        },
+        {
+          "ja": "かわいい　かわいいって言われても　どうしていいか　わかんなくて",
+          "en": "Even if you keep saying it's cute, I don't really know what to do about it."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "いいなぁ　僕も　かわいいって　言われてみたいですよ",
+          "en": "That sounds nice. I wish someone would call me cute too."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "ゴロゴロしてるだけなのになぁ",
+          "en": "I'm just lazing around, though."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "楽しそうで　うらやましいよ",
+          "en": "You look like you're having fun, I'm jealous."
+        },
+        {
+          "ja": "ラッコさん？",
+          "en": "Otter?"
+        },
+        {
+          "ja": "僕さ　お腹で貝割るでしょ？",
+          "en": "I crack open clams on my belly, right?"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "あれって大変だよ　お腹痛くなる",
+          "en": "That's actually tough; it makes my stomach hurt."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "お腹に石だよ　笹子さん",
+          "en": "It's a rock on my stomach, Sasako."
+        },
+        {
+          "ja": "はい？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "自分のお腹を石で叩いてみなよ",
+          "en": "Try hitting your own stomach with a rock."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "痛いでしょ？",
+          "en": "It hurts, doesn't it?"
+        },
+        {
+          "ja": "はい…",
+          "en": "Yes..."
+        },
+        {
+          "ja": "お腹で割らなければいいのに",
+          "en": "You shouldn't try to break it with your stomach."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "あれをやると　お客が　わくからさ",
+          "en": "When I do that, it draws in the customers."
+        },
+        {
+          "ja": "もうやめたら？　その出し物",
+          "en": "Why don't you stop doing that act?"
+        },
+        {
+          "ja": "出し物っていうか　習性だからね",
+          "en": "It's more of a habit than a performance."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "かわいいから　いいじゃないですか",
+          "en": "It's cute, so it's fine, isn't it?"
+        },
+        {
+          "ja": "かわいいんだけどさ　もう　お腹が限界",
+          "en": "It's cute and all, but my stomach is at its limit."
+        },
+        {
+          "ja": "かわいいで言ったら　私も　かわいいんですけど",
+          "en": "If we're talking about cute, I'm cute too, you know."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "コアラさん？",
+          "en": "Koala?"
+        },
+        {
+          "ja": "ユーカリ？　かわいく食べてますけど　もう　あれ限界です",
+          "en": "Eucalyptus? It's cute how they eat it, but that's already at its limit."
+        },
+        {
+          "ja": "飽きました",
+          "en": "I'm tired of it."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "１日それを　１キロくらい食べるんですから",
+          "en": "They eat about a kilo of it a day."
+        },
+        {
+          "ja": "涙目にもなりますよ",
+          "en": "It would bring tears to your eyes."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "わかる　わかるよ～",
+          "en": "I understand, I really do~"
+        },
+        {
+          "ja": "コアリクイくんも？",
+          "en": "Anteater too?"
+        },
+        {
+          "ja": "アリクイって　やめて！",
+          "en": "Stop calling me anteater!"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "僕だってね　アリばっかり　食べたくないよ！　飽きたよ。",
+          "en": "Even I don't want to eat just ants all the time! I'm tired of it."
+        },
+        {
+          "ja": "笹子さん　アリばっかり食べる気持わかる？",
+          "en": "Ms. Sasako, do you understand what it's like to eat only ants?"
+        },
+        {
+          "ja": "はい？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "わかりません",
+          "en": "I don't understand."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "アリクイだからね",
+          "en": "Because I'm an anteater."
+        },
+        {
+          "ja": "しかたないね",
+          "en": "It can't be helped."
+        },
+        {
+          "ja": "確かに　そうだけど　もっと　いろんなもの食べてみたいよ",
+          "en": "That's true, but I'd like to try eating a variety of things."
+        },
+        {
+          "ja": "いろんなもの？",
+          "en": "Different things?"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "何食べたいの？",
+          "en": "What do you want to eat?"
+        },
+        {
+          "ja": "ほら　ラーメンとかさ",
+          "en": "You know, like ramen and stuff."
+        },
+        {
+          "ja": "チャーシュー食べられないんじゃない？",
+          "en": "You can't eat chashu, can you?"
+        },
+        {
+          "ja": "いいんだよ　細かいところは",
+          "en": "It's fine, don't worry about the details."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "見てくれるだけ　いいじゃないですか",
+          "en": "Isn't it fine just to look at it?"
+        },
+        {
+          "ja": "ラマさん？",
+          "en": "Llama?"
+        },
+        {
+          "ja": "僕なんて　みんな　ほぼ素通りですよ",
+          "en": "For me, everyone pretty much just passes by without noticing."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "いるの　気づいてます？",
+          "en": "Are you aware that I'm here?"
+        },
+        {
+          "ja": "そういえば…",
+          "en": "Come to think of it..."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "動物園に行ったとき…",
+          "en": "When I went to the zoo..."
+        },
+        {
+          "ja": "みごとに素通りしたね",
+          "en": "They completely passed by without noticing."
+        },
+        {
+          "ja": "ほらね　ラマなんて　そんなものですよ",
+          "en": "See, that's just how it is with llamas."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "もっと　じっくり見たり",
+          "en": "Take a closer look."
+        },
+        {
+          "ja": "行列つくって　感想とか言ってほしいです",
+          "en": "I wish people would line up and share their thoughts."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "わぁ～い　ラマさん！",
+          "en": "Yay, a llama!"
+        },
+        {
+          "ja": "おい　見ろよ！　草食ってるぞ！　写真　写真撮れって！",
+          "en": "Hey, look! It's eating grass! Take a picture, take a picture!"
+        },
+        {
+          "ja": "草　食べてるだけ？",
+          "en": "Just eating grass?"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "地味だね",
+          "en": "It's pretty dull, huh?"
+        },
+        {
+          "ja": "ラマさんって　ロバなの？",
+          "en": "Is a llama a donkey?"
+        },
+        {
+          "ja": "だから　ラマです",
+          "en": "That's why it's a llama."
+        },
+        {
+          "ja": "どっちかというと　ラクダです",
+          "en": "If anything, it's more like a camel."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "コブは？",
+          "en": "What about the hump?"
+        },
+        {
+          "ja": "ないです",
+          "en": "There aren't any."
+        },
+        {
+          "ja": "あの…　何か芸とかないんですか？",
+          "en": "Um... do you have any tricks or something?"
+        },
+        {
+          "ja": "草を食べるくらいです",
+          "en": "About all I can do is eat grass."
+        },
+        {
+          "ja": "あと　まつ毛が長いです",
+          "en": "Also, my eyelashes are long."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "できるといいね　行列",
+          "en": "It would be nice if you could do that, like lining up."
+        },
+        {
+          "ja": "見られればいいってもんじゃないよ",
+          "en": "It's not just about being seen."
+        },
+        {
+          "ja": "バクさん",
+          "en": "Mr. Tapir"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "僕なんて　夢を食べる動物って　言われがちだけど",
+          "en": "People often say that I'm an animal that eats dreams."
+        },
+        {
+          "ja": "見た人に夢がないなんて　言われてさ",
+          "en": "They say that people who see me have no dreams."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "夢を食べる動物って何？",
+          "en": "What is an animal that eats dreams?"
+        },
+        {
+          "ja": "ハードル上げすぎなんだよ",
+          "en": "You're setting the bar too high."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "まぁまぁ…　ジュゴンさんよりは　いいよ",
+          "en": "Well, well... it's better than being a dugong."
+        },
+        {
+          "ja": "人魚って　前振りされてるんだから",
+          "en": "They've been set up as mermaids, after all."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "ママ！　人魚さん　どこ？",
+          "en": "Mom! Where's the mermaid?"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "見た人　みんな黙っちゃうよ",
+          "en": "Everyone who sees it is left speechless."
+        },
+        {
+          "ja": "ねぇ？",
+          "en": "Hey?"
+        },
+        {
+          "ja": "私に聞かないでください…",
+          "en": "Please don't ask me..."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "あぁ　そうだね…",
+          "en": "Ah, that's right..."
+        },
+        {
+          "ja": "ジュゴンさんに比べたら　僕は　まだ　マシかもね",
+          "en": "Compared to the dugong, I might still be better off."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "僕も…",
+          "en": "Me too..."
+        },
+        {
+          "ja": "ナマケモノくん",
+          "en": "Sloth-kun"
+        },
+        {
+          "ja": "動物園とは関係ないけど…",
+          "en": "It has nothing to do with the zoo, but..."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "僕って　一日中　木に　ぶら下がってるイメージあるけど…",
+          "en": "I know people think I just hang from trees all day, but..."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "実際　どうなの？",
+          "en": "What's it really like?"
+        },
+        {
+          "ja": "実際　そうだけど…　大変　腕　パンパン",
+          "en": "In reality, that's true... My arms get really tired."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "一日中　木に　ぶら下がったことある？笹子さん",
+          "en": "Have you ever hung from a tree all day, Sasako-san?"
+        },
+        {
+          "ja": "え？　ないです",
+          "en": "Huh? No, I haven't."
+        },
+        {
+          "ja": "ナマケモノくんって　ナマケモノじゃないな",
+          "en": "Sloth-kun isn't really a sloth, is he?"
+        },
+        {
+          "ja": "頑張り者だね",
+          "en": "You're a hard worker."
+        },
+        {
+          "ja": "もっと言って",
+          "en": "Say more."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "みんな悩んでるんだな",
+          "en": "Everyone's got their worries, huh?"
+        },
+        {
+          "ja": "僕も悩んでてね",
+          "en": "I'm struggling too, you know."
+        },
+        {
+          "ja": "実は　好きなペンギンがいてさ",
+          "en": "Actually, there's a penguin I like."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "誰にも　言わないでほしいんだけどね",
+          "en": "I don't want you to tell anyone, though."
+        },
+        {
+          "ja": "あぁ　やっぱり　いろいろと　皆さん悩みが尽きないんですね",
+          "en": "Ah, I see, everyone really has their own endless worries, don't they?"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "そうだよね",
+          "en": "That's right."
+        },
+        {
+          "ja": "ほんとですね",
+          "en": "That's true."
+        },
+        {
+          "ja": "ちょっと　聞いてよ",
+          "en": "Hey, listen to this."
+        },
+        {
+          "ja": "シロクマさんは　悩みはないの？",
+          "en": "Shirokuma, don't you have any worries?"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "あるよ",
+          "en": "I do."
+        },
+        {
+          "ja": "え？　そうなの？　意外",
+          "en": "Huh? Really? That's surprising."
+        },
+        {
+          "ja": "アイドルにならないかって　言われてるんだけど",
+          "en": "I've been asked if I want to become an idol."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "アイドルと学業の両立がねぇ",
+          "en": "Balancing being an idol and my studies, you know."
+        },
+        {
+          "ja": "また嘘ばっかり",
+          "en": "You're lying again."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "笹子さんは？",
+          "en": "What about Sasako?"
+        },
+        {
+          "ja": "え？　ありません",
+          "en": "Huh? No, I haven't."
+        },
+        {
+          "ja": "ひとつも？",
+          "en": "Not even one?"
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "あ…",
+          "en": "Oh..."
+        },
+        {
+          "ja": "ん？　何？",
+          "en": "Huh? What?"
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "雛人形って　燃えるゴミなのか、燃えないゴミなのか　どっちなんだろうって",
+          "en": "I was wondering whether hina dolls are considered burnable trash or non-burnable trash."
+        },
+        {
+          "ja": "いいかな？　それは　あとで",
+          "en": "Is it okay? Let's deal with that later."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "僕なんてさ　パン屋に行くたびに思うよ",
+          "en": "Every time I go to the bakery, I think about it."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "いい？　誰にも言わないでよ",
+          "en": "Okay? Don't tell anyone."
+        },
+        {
+          "ja": "どうやって告白しようか　悩みは尽きないよ",
+          "en": "I'm constantly worried about how to confess."
+        },
+        {
+          "ja": "どう思う？　パンダくん",
+          "en": "What do you think, Panda-kun?"
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "フフフ…",
+          "en": "Hehehe..."
+        },
+        {
+          "ja": "ちょっと笑いごとじゃないよ",
+          "en": "This isn't something to laugh about."
+        },
+        {
+          "ja": "寝てる！",
+          "en": "Asleep!"
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "えぇと…",
+          "en": "Um..."
+        },
+        {
+          "ja": "いつから　寝てたんですかね？",
+          "en": "Since when has he been sleeping, I wonder?"
+        },
+        {
+          "ja": "チャーシューの話のあとくらいじゃない？",
+          "en": "Maybe right after the talk about the roast pork?"
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "前半ですね",
+          "en": "The first half, I think."
+        },
+        {
+          "ja": "あっ　シロクマさん",
+          "en": "Oh, Mr. Polar Bear."
+        },
+        {
+          "ja": "おかわり　お願いします",
+          "en": "Could I have a refill, please?"
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "自然体かぁ",
+          "en": "Being natural, huh?"
+        },
+        {
+          "ja": "どうしたら　いいんだろう…",
+          "en": "What should I do...?"
+        },
+        {
+          "ja": "パンダくん　すっかり自然体だね",
+          "en": "Panda, you're completely at ease, aren't you?"
+        },
+        {
+          "ja": "そうですね",
+          "en": "That's right."
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "いらっしゃい",
+          "en": "Welcome"
+        },
+        {
+          "ja": "はぁ…　今日は疲れちゃった",
+          "en": "Sigh... I'm so tired today."
+        },
+        {
+          "ja": "パンダくん",
+          "en": "Panda-kun"
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "なぁに？",
+          "en": "What's up?"
+        },
+        {
+          "ja": "あれから　ずっと考えてたんだけどさ",
+          "en": "I've been thinking about it ever since then."
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "パンダくんにとって　自然体っていうのはさ",
+          "en": "For you, Panda-kun, what does being natural mean?"
+        },
+        {
+          "ja": "君が　いちばんリラックスできる場所",
+          "en": "The place where you can relax the most."
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "あっ！",
+          "en": "Oh!"
+        },
+        {
+          "ja": "つまりさ…",
+          "en": "In other words..."
+        },
+        {
+          "ja": "そんなことより　ペンギンさん",
+          "en": "More importantly, Penguin."
+        },
+        {
+          "ja": "新しいパンダグッズ　買っちゃったんだけど",
+          "en": "I ended up buying some new panda merchandise, though."
+        },
+        {
+          "ja": "何入れればいいと思う？",
+          "en": "What do you think I should put in it?"
+        },
+        {
+          "ja": "肉まんでいいんじゃない？",
+          "en": "How about meat buns?"
+        }
+      ]
+    }
+  ]
+}

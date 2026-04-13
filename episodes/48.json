@@ -1,0 +1,1839 @@
+{
+  "ep": "48",
+  "title": "ナマケモノ君の旅行",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "ナマケモノ君の旅行",
+          "en": "Sloth Guy's Trip"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "ナマケモノ君",
+          "en": "Sloth Boy's Journey\n\nSloth Boy"
+        },
+        {
+          "ja": "パンダ君",
+          "en": "Panda"
+        },
+        {
+          "ja": "どうしたの",
+          "en": "What's wrong?"
+        },
+        {
+          "ja": "旅に行くんです",
+          "en": "I'm going on a trip."
+        },
+        {
+          "ja": "どこに",
+          "en": "Where to?"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "温泉",
+          "en": "A hot spring"
+        },
+        {
+          "ja": "いいね",
+          "en": "That sounds nice."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "いつも　笹子さんに",
+          "en": "When are you always going with Sasako?"
+        },
+        {
+          "ja": "いろんなとこに連れていってもらってるんです",
+          "en": "I'm always being taken to various places by Sasago."
+        },
+        {
+          "ja": "あぁ　言ってたね",
+          "en": "Oh yeah, you mentioned that."
+        },
+        {
+          "ja": "一度　自分の足で",
+          "en": "Once on my own"
+        },
+        {
+          "ja": "温泉に行こうと思ったんです",
+          "en": "I thought I'd go to a hot spring on my own."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "いつ出発したの",
+          "en": "When did you leave?"
+        },
+        {
+          "ja": "まだ暗いうちに",
+          "en": "While it was still dark."
+        },
+        {
+          "ja": "昨日の",
+          "en": "Yesterday"
+        },
+        {
+          "ja": "昨日か",
+          "en": "Yesterday, huh?"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "ナマケモノ君　僕も行くよ",
+          "en": "Sloth: I'm going too."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "ホットティーちょうだい",
+          "en": "I'd like a hot tea, please."
+        },
+        {
+          "ja": "ハチミツたっぷり入れて",
+          "en": "Put lots of honey in it."
+        },
+        {
+          "ja": "今日はカフェモカじゃないんですか",
+          "en": "So no café mocha today?"
+        },
+        {
+          "ja": "ハチミツ入り紅茶は　ノドにいいからね",
+          "en": "Honey tea is good for the throat, you know."
+        },
+        {
+          "ja": "風邪ですか",
+          "en": "Are you catching a cold?"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "違うよ",
+          "en": "No, it's not that."
+        },
+        {
+          "ja": "久しぶりに行こうかと思ってさ",
+          "en": "I'm thinking I might go there for the first time in a while."
+        },
+        {
+          "ja": "１人カラオケ",
+          "en": "Karaoke for one"
+        },
+        {
+          "ja": "１人カラオケ",
+          "en": "Solo karaoke."
+        },
+        {
+          "ja": "楽しいんですか",
+          "en": "Is it fun?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "楽しいんです",
+          "en": "It is fun."
+        },
+        {
+          "ja": "ペンギンさん 行くの　１人カラオケ",
+          "en": "Penguin's going to karaoke alone?"
+        },
+        {
+          "ja": "うん　死ぬほど歌おうかと思って",
+          "en": "Yeah, I'm thinking I'll go sing my heart out."
+        },
+        {
+          "ja": "いいね　早速行こう",
+          "en": "That sounds great! Let's go right now."
+        },
+        {
+          "ja": "ちょっと待って　シロクマ君",
+          "en": "Hold on a second, Polar Bear."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "２人で行ったら １人カラオケにならないじゃない",
+          "en": "If we both go, it won't be solo karaoke anymore, will it?"
+        },
+        {
+          "ja": "大丈夫　違う部屋に入るから",
+          "en": "It's fine. We'll go into different rooms."
+        },
+        {
+          "ja": "じゃあ　行こう",
+          "en": "Then let's go."
+        },
+        {
+          "ja": "行っちゃうんですか",
+          "en": "Are you really going?"
+        },
+        {
+          "ja": "行っちゃう　行っちゃう",
+          "en": "He's really going. He's really going."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "「ママ　ママ　マハロ」",
+          "en": "Mom, Mom, Mahalo"
+        },
+        {
+          "ja": "急ごう もう歌いたくてたまらないよ",
+          "en": "Let's hurry. I can barely contain my urge to sing anymore."
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "待ちきれないよ",
+          "en": "I can't wait any longer."
+        },
+        {
+          "ja": "どっか　その辺にカラオケボックスないかな",
+          "en": "Isn't there a karaoke box somewhere around here?"
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "あっ",
+          "en": "Oh!"
+        },
+        {
+          "ja": "えっ　どこ　カラオケボックスあった",
+          "en": "Wait, where? There's a karaoke box?"
+        },
+        {
+          "ja": "あれ　パンダ君とナマケモノ君だ",
+          "en": "Oh, there's Panda and Sloth!"
+        },
+        {
+          "ja": "まぁいいや カラオケボックスに急ごう　シロクマ君",
+          "en": "Never mind, let's hurry to the karaoke box, Polar Bear."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "何してるの",
+          "en": "What are you doing?"
+        },
+        {
+          "ja": "ナマケモノ君と温泉に行くんだ",
+          "en": "I'm going to go to a hot spring with Sloth Guy."
+        },
+        {
+          "ja": "何してるの",
+          "en": "What are you doing?"
+        },
+        {
+          "ja": "ナマケモノ君と温泉に行くんだ",
+          "en": "I'm going to the hot spring with Sloth."
+        },
+        {
+          "ja": "あぁ　そう　駅まで送ろうか",
+          "en": "Oh, I see. Want me to give you a ride to the station?"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "ううん　歩いて行くんだ",
+          "en": "No, I'll walk there."
+        },
+        {
+          "ja": "電車で行けばいいじゃない",
+          "en": "Why don't you just take the train?"
+        },
+        {
+          "ja": "自分で歩いて行きたいんだって",
+          "en": "He says he wants to walk there himself."
+        },
+        {
+          "ja": "あぁ　そう　変わってるな",
+          "en": "Ah, I see. You're quite the independent one, aren't you?"
+        },
+        {
+          "ja": "じゃあ　シロクマ君…",
+          "en": "Well then, Polar Bear..."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "行こうか　温泉",
+          "en": "Come on, Polar Bear. Let's go to the hot spring."
+        },
+        {
+          "ja": "えっ　カラオケは",
+          "en": "Wait, what about karaoke?"
+        },
+        {
+          "ja": "さぁ　温泉　温泉",
+          "en": "Come on, let's go to the hot spring. The hot spring!"
+        },
+        {
+          "ja": "え　カラオケは",
+          "en": "What about karaoke?"
+        },
+        {
+          "ja": "え　歩き",
+          "en": "Wait, we're walking?"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "ねぇ　ナマケモノ君 もう少しペース上げてかない",
+          "en": "Hey, Sloth, can't you pick up the pace a little?"
+        },
+        {
+          "ja": "ナマケモノ君は　歩くことだけに体力のすべてを使いたいから",
+          "en": "Mr. Sloth wants to use all of his energy just for walking."
+        },
+        {
+          "ja": "しゃべらないって",
+          "en": "He doesn't want to talk."
+        },
+        {
+          "ja": "あぁ　そう",
+          "en": "Yeah, that's right."
+        },
+        {
+          "ja": "ペンギンさん",
+          "en": "Penguin"
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "何　パンダ君",
+          "en": "What, Panda?"
+        },
+        {
+          "ja": "あそこに　コロッケ売ってるよ",
+          "en": "There's a croquette stand over there."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "おいしいね",
+          "en": "That's delicious."
+        },
+        {
+          "ja": "歩きながら食べるコロッケは最高だね",
+          "en": "Walking while eating croquettes is the best, isn't it?"
+        },
+        {
+          "ja": "その最高のコロッケは僕のおごりだってことを",
+          "en": "The fact that this amazing croquette is my treat."
+        },
+        {
+          "ja": "末代まで語り継いでほしいよ",
+          "en": "I want you to tell that story about how I treated you to those amazing croquettes down through the generations."
+        },
+        {
+          "ja": "ナマケモノ君は食べなくていいの",
+          "en": "You're not going to eat any, Sloth?"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "ナマケモノ君は　歩くことだけに体力のすべてを使いたいから",
+          "en": "Sloth only wants to use all his energy just for walking."
+        },
+        {
+          "ja": "食べないって",
+          "en": "I'm not eating."
+        },
+        {
+          "ja": "食べないなら　ナマケモノ君の分は僕が食べてもいいよ",
+          "en": "If you're not going to eat it, I can have your share, Sloth."
+        },
+        {
+          "ja": "ね　ペンギンさん",
+          "en": "Hey, Penguin."
+        },
+        {
+          "ja": "それ　コロッケをおごった僕が賛同すると思うの",
+          "en": "I find it hard to believe you'd agree with that when it was me who treated you to the croquette."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "シロクマ君　ついに　カラオケボックスだよ",
+          "en": "Polar Bear, we're finally at the karaoke box!"
+        },
+        {
+          "ja": "温泉　温泉",
+          "en": "Hot spring, hot spring!"
+        },
+        {
+          "ja": "先の温泉より　今　ここにあるカラオケボックスじゃないかな",
+          "en": "Isn't the karaoke box right here now more appealing than the hot spring we saw earlier?"
+        },
+        {
+          "ja": "先の温泉　先の温泉",
+          "en": "The hot spring from before... the hot spring from before."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "先の温泉ね",
+          "en": "The hot spring from before."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "ねぇ　あんまり進んでないよ",
+          "en": "Hey, we're not really making any progress, are we?"
+        },
+        {
+          "ja": "そう",
+          "en": "That's right."
+        },
+        {
+          "ja": "キミはこういうの気にならないんだね",
+          "en": "You don't mind this sort of thing, do you?"
+        },
+        {
+          "ja": "シロクマ君　ナマケモノ君を運んであげて",
+          "en": "Polar Bear, carry Sloth for me."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "いいんです",
+          "en": "It's fine."
+        },
+        {
+          "ja": "僕は歩きたいんです",
+          "en": "I want to walk."
+        },
+        {
+          "ja": "けど　これじゃ　いつまでたっても温泉につかないじゃない",
+          "en": "But at this rate, we'll never get to soak in the hot spring."
+        },
+        {
+          "ja": "いいんです",
+          "en": "That's fine with me."
+        },
+        {
+          "ja": "旅の目的は早く着くことじゃないよ",
+          "en": "The purpose of a journey isn't to arrive quickly."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "途中を楽しまないと",
+          "en": "You won't enjoy the journey if you don't appreciate what's along the way."
+        },
+        {
+          "ja": "まあね",
+          "en": "Yeah, I guess you're right."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "そうだ",
+          "en": "That's right."
+        },
+        {
+          "ja": "どうしたの",
+          "en": "What's wrong?"
+        },
+        {
+          "ja": "ペンギンさんに　あとは任せて",
+          "en": "Leave the rest to Penguin."
+        },
+        {
+          "ja": "僕はあっちに歩いていくよ",
+          "en": "I'm going to head off in that direction."
+        },
+        {
+          "ja": "あっちに何があるの",
+          "en": "What's over there?"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "僕のお家",
+          "en": "My home."
+        },
+        {
+          "ja": "帰るんだね",
+          "en": "You're going home, huh?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "歩こうか",
+          "en": "Shall we walk?"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "わかったよ",
+          "en": "Got it."
+        },
+        {
+          "ja": "どうしたの",
+          "en": "What's wrong?"
+        },
+        {
+          "ja": "もしかして疲れちゃったの",
+          "en": "Are you tired? Did something happen?"
+        },
+        {
+          "ja": "まさか",
+          "en": "No way."
+        },
+        {
+          "ja": "旅は途中が楽しいんでしょ",
+          "en": "The fun of traveling is in the journey itself, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "ですよね",
+          "en": "That's right, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "銭湯だね",
+          "en": "It's a public bathhouse."
+        },
+        {
+          "ja": "温泉じゃないけど 初めて自分の足で来ました",
+          "en": "It's not a hot spring, but I've come here on my own two feet for the first time."
+        },
+        {
+          "ja": "入ってみようよ",
+          "en": "Let's go in."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "いいお風呂だった",
+          "en": "That was a nice bath."
+        },
+        {
+          "ja": "本当だね ナマケモノ君に感謝だね",
+          "en": "That's right. We have to thank Sloth for this."
+        },
+        {
+          "ja": "そうだね　遠くに行くだけが旅じゃないんだね",
+          "en": "You're right. Traveling isn't just about going far away."
+        },
+        {
+          "ja": "違う景色を見ることが旅なんだね",
+          "en": "The real essence of travel is seeing different landscapes."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "遅いね",
+          "en": "That's taking a while."
+        },
+        {
+          "ja": "ナマケモノ君出てこないね",
+          "en": "Sloth still hasn't come out, huh?"
+        },
+        {
+          "ja": "湯冷めしちゃう",
+          "en": "The hot water's getting cold."
+        },
+        {
+          "ja": "シロクマ君も湯冷めするの",
+          "en": "Do sloths get cold too when the bath water cools down?"
+        },
+        {
+          "ja": "湯冷めは特別だよ",
+          "en": "Getting cold after a bath is special for me."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "湯冷めは",
+          "en": "Getting chilled after a bath is special."
+        },
+        {
+          "ja": "万国共通の残念賞だね",
+          "en": "It's a universal disappointment prize, isn't it?"
+        },
+        {
+          "ja": "ペンギンさん　ダッシュで様子を見てきてよ",
+          "en": "Penguin, dash over and check on them right away."
+        },
+        {
+          "ja": "ダッシュする意味あるの",
+          "en": "What's the point of dashing?"
+        },
+        {
+          "ja": "いいお湯でした",
+          "en": "That was nice hot water."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "よかったね",
+          "en": "That's good."
+        },
+        {
+          "ja": "よし",
+          "en": "Alright."
+        },
+        {
+          "ja": "じゃあ　いよいよ　カラオケボックスに…",
+          "en": "Well then, it's finally time for the karaoke box..."
+        },
+        {
+          "ja": "はい　温泉に行きましょう",
+          "en": "Yes, let's go to the hot spring."
+        },
+        {
+          "ja": "えっ　カラオケじゃないの",
+          "en": "What? We're not going to karaoke?"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "自分の足で　どうしても温泉に行きたいんです",
+          "en": "I really want to go to the hot spring on my own two feet."
+        },
+        {
+          "ja": "けど　銭湯でいいんじゃないかな",
+          "en": "But wouldn't a public bathhouse be fine?"
+        },
+        {
+          "ja": "ねぇ",
+          "en": "Hey."
+        },
+        {
+          "ja": "そうそう",
+          "en": "Yeah, that's right."
+        },
+        {
+          "ja": "遠くに行くだけが旅じゃないんじゃない",
+          "en": "Traveling isn't just about going to distant places, is it?"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "すっかり銭湯でリフレッシュできました",
+          "en": "I've completely refreshed myself at the public bathhouse."
+        },
+        {
+          "ja": "さあ　温泉へ　レッツゴー",
+          "en": "Come on, let's head to the hot spring! Let's go!"
+        },
+        {
+          "ja": "えっ　行くの",
+          "en": "Huh? We're going?"
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "ああ こんな夜中になっちゃったよ",
+          "en": "Oh man, it's gotten this late at night."
+        },
+        {
+          "ja": "ナマケモノ君　そろそろ寝たら",
+          "en": "Hey Sloth, don't you think it's about time you got some sleep?"
+        },
+        {
+          "ja": "そうだよ",
+          "en": "That's right."
+        },
+        {
+          "ja": "ふだん２０時間以上寝てるんでしょ",
+          "en": "You sleep more than twenty hours a day normally, don't you?"
+        },
+        {
+          "ja": "集中したいので",
+          "en": "That's why I want to concentrate."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "数時間　話しかけないでください",
+          "en": "Please don't talk to me for the next few hours."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "ここからすぐ 僕ん家なんだけどな",
+          "en": "My place is just right around the corner from here, you know."
+        },
+        {
+          "ja": "ペンギンさん　パンダ君",
+          "en": "Penguin, Panda"
+        },
+        {
+          "ja": "すごいよ",
+          "en": "That's amazing."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "すごいね",
+          "en": "That's amazing."
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "ナマケモノ君と来なかったら",
+          "en": "If I hadn't come with Sloth."
+        },
+        {
+          "ja": "こんな景色　見られなかったね",
+          "en": "If we hadn't come with Sloth, we never would have seen a view like this."
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "けど　僕ん家すぐそこなんだよね…",
+          "en": "But my house is right over there..."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "人形になった",
+          "en": "I turned into a doll."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "ペンギンさん　ペンギンさん",
+          "en": "Penguin... Penguin..."
+        },
+        {
+          "ja": "なに　パンダ君",
+          "en": "What? Panda?"
+        },
+        {
+          "ja": "ホワイトデーに　土地の権利書くれない",
+          "en": "Won't you give me the deed to the land for White Day?"
+        },
+        {
+          "ja": "あげないかな",
+          "en": "I won't give it to you."
+        },
+        {
+          "ja": "ねぇ　今日は　なんか違うね",
+          "en": "Hey, something's different about today, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "このまま　『ワールド　ビジネス　サテライト』くらいまで　いくよ",
+          "en": "At this rate, we'll end up going all the way to something like \"World Business Satellite.\""
+        },
+        {
+          "ja": "そんなに　もつかな",
+          "en": "Will it last that long?"
+        },
+        {
+          "ja": "じゃあ　『カンブリア宮殿』まで頑張るよ",
+          "en": "Then I'll do my best to make it to \"Cambria Palace.\""
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "ねぇ　何が違うの",
+          "en": "Hey, what's different?"
+        },
+        {
+          "ja": "戻っちゃってるよ",
+          "en": "We've gone back to the beginning."
+        },
+        {
+          "ja": "何が違うんですか",
+          "en": "What's the difference?"
+        },
+        {
+          "ja": "笹子さんも　そっちのチーム",
+          "en": "Sasago is on that team too."
+        },
+        {
+          "ja": "もう少し頑張ろう",
+          "en": "Let's hang in there a little longer."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "はい　そのまま",
+          "en": "Yes, that's right."
+        },
+        {
+          "ja": "ペンギンさん　カフェモカは",
+          "en": "Penguin, a café mocha is..."
+        },
+        {
+          "ja": "あ…　今日は　いいかな",
+          "en": "Ah... I think it's okay for today."
+        },
+        {
+          "ja": "よし　グリズリー君やラマさんや",
+          "en": "Alright, Grizzly and Llama and—"
+        },
+        {
+          "ja": "もうみんな呼んで　パーティーしよう",
+          "en": "Let's call everyone and have a party already."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "メンバーを増やすのはやめよう",
+          "en": "Let's stop adding more members."
+        },
+        {
+          "ja": "じゃあ みんなで草野球大会しようよ",
+          "en": "Then let's all have a casual baseball tournament together."
+        },
+        {
+          "ja": "聞いてた　メンバーを増やすの…",
+          "en": "I was listening... about increasing the members..."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "前…",
+          "en": "Before..."
+        },
+        {
+          "ja": "あっ　ゾウガメさん",
+          "en": "Oh! Mr. Tortoise!"
+        },
+        {
+          "ja": "失礼し…",
+          "en": "Excuse me..."
+        },
+        {
+          "ja": "違うかな",
+          "en": "Is that not it?"
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "何が違うの",
+          "en": "What's different about it?"
+        },
+        {
+          "ja": "だいぶ違うんだけど",
+          "en": "They're pretty different, though."
+        },
+        {
+          "ja": "たしかに　いつもと違いますね",
+          "en": "You're right, it is different from usual."
+        },
+        {
+          "ja": "あれ　ここ　どこ",
+          "en": "Huh? Where is this place?"
+        },
+        {
+          "ja": "「楽しいロンドン　ゆかいなロンドン」",
+          "en": "Fun London, Cheerful London"
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "僕たち　どうやって来たの",
+          "en": "How did we get here?"
+        },
+        {
+          "ja": "どこでも行けるドアだよ",
+          "en": "It's a door that can go anywhere."
+        },
+        {
+          "ja": "略して",
+          "en": "In short / Abbreviated as / Short for"
+        },
+        {
+          "ja": "どこでもド…",
+          "en": "Anywhere D..."
+        },
+        {
+          "ja": "ダメ",
+          "en": "No good."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "ペンギンさん　カフェモカは",
+          "en": "Penguin, what about the café mocha?"
+        },
+        {
+          "ja": "まだいらないかな",
+          "en": "Not yet, I think."
+        },
+        {
+          "ja": "そんな調子じゃ…",
+          "en": "At this rate..."
+        },
+        {
+          "ja": "「だってばよ」まで　もたないよ",
+          "en": "We won't make it until 'believe it.'"
+        },
+        {
+          "ja": "キミって　動揺しないんだね",
+          "en": "You really don't get rattled, do you?"
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "どうよう",
+          "en": "Agitation; disturbance; unease"
+        },
+        {
+          "ja": "それは御用",
+          "en": "That's official business."
+        },
+        {
+          "ja": "バクハツだ",
+          "en": "It's an explosion!"
+        },
+        {
+          "ja": "それは太陽",
+          "en": "That's the sun."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "それは単４",
+          "en": "That's simple/basic four."
+        },
+        {
+          "ja": "僕もやりたい",
+          "en": "I want to do it too."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "やりたい",
+          "en": "I want to do it (too)."
+        },
+        {
+          "ja": "ネクタイ",
+          "en": "Necktie"
+        },
+        {
+          "ja": "兵隊",
+          "en": "Soldier"
+        },
+        {
+          "ja": "めんたい",
+          "en": "Mentaiko"
+        },
+        {
+          "ja": "めんたい　めんたい　めんたい",
+          "en": "Mentaiko"
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "笹子さんまで",
+          "en": "Sasago mackerel too"
+        },
+        {
+          "ja": "すみません",
+          "en": "Sorry."
+        },
+        {
+          "ja": "どうぞ　カフェモカです",
+          "en": "Here you are. It's a café mocha."
+        },
+        {
+          "ja": "あれ　出しちゃった",
+          "en": "Oh, I already made it."
+        },
+        {
+          "ja": "今日は特別サービスで…",
+          "en": "Today's special service is..."
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "餃子セットです",
+          "en": "It's a gyoza set."
+        },
+        {
+          "ja": "特別にいらないサービスかな",
+          "en": "I don't think I needed that special service."
+        },
+        {
+          "ja": "戻ろう",
+          "en": "Let me go back."
+        },
+        {
+          "ja": "うん　今度はクレイアニメでやろうね",
+          "en": "Yeah, let's do it with clay animation next time."
+        },
+        {
+          "ja": "たぶん　やらないかな…",
+          "en": "Probably not going to do it..."
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "うわぁ～　とう",
+          "en": "Whoa! That's it!"
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "お～し～ま…",
+          "en": "Alright, we're done..."
+        },
+        {
+          "ja": "ホワイトデー",
+          "en": "White Day"
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "半田さん　大丈夫ですか",
+          "en": "Is Handa-san okay?"
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "半田さん",
+          "en": "Handa"
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "どうしたんですか　半田さん",
+          "en": "What's wrong, Handa?"
+        },
+        {
+          "ja": "ボーッとして",
+          "en": "You're spaced out."
+        },
+        {
+          "ja": "いや…",
+          "en": "No, it's nothing..."
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "何か悩みがあったら 聞きますよ",
+          "en": "If there's something troubling you, I'll listen."
+        },
+        {
+          "ja": "ラマデーを作ってくれた半田さんの力になりたいんです",
+          "en": "I want to be of help to Handa-san, who created Ramadé."
+        },
+        {
+          "ja": "いや　そんな…",
+          "en": "No, that's not necessary..."
+        },
+        {
+          "ja": "さあ",
+          "en": "Come on."
+        },
+        {
+          "ja": "その目で見つめられると弱いな",
+          "en": "When you look at me with those eyes, I can't resist."
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "実は　来週ホワイトデーでしょ",
+          "en": "Actually, isn't White Day coming up next week?"
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "笹子さんへのお返し　何にしようかずっと悩んでるんだよね",
+          "en": "I've been worrying about what to give back to Sasako for White Day."
+        },
+        {
+          "ja": "何あげたらいいと思う",
+          "en": "What do you think I should give her?"
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "それは　ラマに聞かれてもわからないですね",
+          "en": "I can't tell you that, even if you ask Lama."
+        },
+        {
+          "ja": "人間のことは人間に聞いたほうが",
+          "en": "You should ask a human about human matters."
+        }
+      ]
+    },
+    {
+      "audio": 63,
+      "lines": [
+        {
+          "ja": "先輩",
+          "en": "Senior"
+        },
+        {
+          "ja": "笹子さんへのホワイトデーに 何あげるか悩んでるんですって",
+          "en": "I heard you're struggling with what to give Sasago for White Day."
+        },
+        {
+          "ja": "えぇ　なぜ　それを",
+          "en": "Huh? Why would you ask me about that?"
+        }
+      ]
+    },
+    {
+      "audio": 64,
+      "lines": [
+        {
+          "ja": "半田さんが笹子さんにホワイトデーに何をあげたらいいか悩んでいます",
+          "en": "Handa is worried about what to give Sasako for White Day."
+        }
+      ]
+    },
+    {
+      "audio": 65,
+      "lines": [
+        {
+          "ja": "ラマさん　なんで掲示板に貼っちゃうんですか",
+          "en": "Lama, why did you have to post it on the bulletin board?"
+        },
+        {
+          "ja": "半田さん困ってたからなんとかしてあげたくて",
+          "en": "Handa was in trouble, so I wanted to do something to help."
+        },
+        {
+          "ja": "ありがたいけど　困りますよ",
+          "en": "I appreciate it, but that's embarrassing."
+        },
+        {
+          "ja": "けど　先輩　いつの間に笹子さんにチョコレートもらったんですか",
+          "en": "But senpai, when did you get chocolate from Sasako?"
+        }
+      ]
+    },
+    {
+      "audio": 66,
+      "lines": [
+        {
+          "ja": "いや～",
+          "en": "Well..."
+        },
+        {
+          "ja": "これ　ちょっと遅れちゃったんだけど",
+          "en": "Well, this one came a little late."
+        },
+        {
+          "ja": "パンダ君　バレンタインのチョコレート",
+          "en": "Panda-kun, Valentine's Day chocolate"
+        },
+        {
+          "ja": "ありがとう",
+          "en": "Thank you."
+        },
+        {
+          "ja": "あっ　半田さんにも渡しておいてくれる",
+          "en": "Oh, and could you give some to Handa too?"
+        }
+      ]
+    },
+    {
+      "audio": 67,
+      "lines": [
+        {
+          "ja": "はい　半田さん",
+          "en": "Yes, I'll give it to Handa."
+        }
+      ]
+    },
+    {
+      "audio": 68,
+      "lines": [
+        {
+          "ja": "完全な義理チョコですね",
+          "en": "It's completely just obligation chocolate, isn't it?"
+        },
+        {
+          "ja": "形としてはパンダ君にもらってますしね",
+          "en": "Well, formally speaking, I did receive chocolate from Panda too."
+        },
+        {
+          "ja": "ラマさん　言わなくていいから",
+          "en": "Llama, you don't need to say that."
+        },
+        {
+          "ja": "お返しは決まったんですか",
+          "en": "Have you decided on what you're giving in return?"
+        },
+        {
+          "ja": "何か　候補はあるんですか",
+          "en": "Do you have any candidates in mind?"
+        }
+      ]
+    },
+    {
+      "audio": 69,
+      "lines": [
+        {
+          "ja": "ま…　まあ　一応",
+          "en": "Well... I mean, I suppose so."
+        }
+      ]
+    },
+    {
+      "audio": 70,
+      "lines": [
+        {
+          "ja": "バイクとか",
+          "en": "A motorcycle or something like that."
+        }
+      ]
+    },
+    {
+      "audio": 71,
+      "lines": [
+        {
+          "ja": "バイク",
+          "en": "A motorcycle."
+        }
+      ]
+    },
+    {
+      "audio": 72,
+      "lines": [
+        {
+          "ja": "完全な義理チョコのお返しにバイクって",
+          "en": "A motorcycle as a return gift for obligatory chocolate? That's completely over the top."
+        },
+        {
+          "ja": "どこの大富豪すか",
+          "en": "What kind of wealthy person are you?"
+        },
+        {
+          "ja": "他にもあるよ　候補",
+          "en": "There are other options too."
+        },
+        {
+          "ja": "実家から送られてきたおイモで作った　煮っころがしとか",
+          "en": "Stewed sweet potatoes made from sweet potatoes sent from my parents' place, or something like that."
+        },
+        {
+          "ja": "却下です",
+          "en": "That's a no-go."
+        }
+      ]
+    },
+    {
+      "audio": 73,
+      "lines": [
+        {
+          "ja": "笹子さん",
+          "en": "Sasako."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "ちょっと早いけど",
+          "en": "It's a bit early, but..."
+        },
+        {
+          "ja": "もうすぐホワイトデーだからね お返し",
+          "en": "White Day's coming up soon, so this is a return gift."
+        }
+      ]
+    },
+    {
+      "audio": 74,
+      "lines": [
+        {
+          "ja": "これは　えっと…",
+          "en": "This is, um..."
+        },
+        {
+          "ja": "アメで作った　ギョレメ国立公園と",
+          "en": "Candy made into Cappadocia's Göreme National Park"
+        },
+        {
+          "ja": "カッパドキアの岩窟群だよ",
+          "en": "It's the rock formations of Cappadocia made from candy."
+        },
+        {
+          "ja": "すごいことはすごいけど わかりにくいね",
+          "en": "It's impressive and all, but it's hard to tell what it is."
+        },
+        {
+          "ja": "世界遺産だよ",
+          "en": "It's a World Heritage Site."
+        }
+      ]
+    },
+    {
+      "audio": 75,
+      "lines": [
+        {
+          "ja": "ありがとうございます",
+          "en": "Thank you very much."
+        }
+      ]
+    },
+    {
+      "audio": 76,
+      "lines": [
+        {
+          "ja": "笹子さん　僕もお返し",
+          "en": "Sasako, I'd like to give you something in return too."
+        },
+        {
+          "ja": "なんで笹かまぼこかは聞かないで",
+          "en": "Don't ask why it's satsuma kamaboko."
+        },
+        {
+          "ja": "ありがとうございます",
+          "en": "Thank you so much."
+        }
+      ]
+    },
+    {
+      "audio": 77,
+      "lines": [
+        {
+          "ja": "いよいよ今日はホワイトデーですが お返しは決まりましたか",
+          "en": "So it's finally White Day today—have you decided on your return gift yet?"
+        },
+        {
+          "ja": "えっ　まあ…",
+          "en": "Huh? Well..."
+        }
+      ]
+    },
+    {
+      "audio": 78,
+      "lines": [
+        {
+          "ja": "服とかあげるんでしょ 普通は",
+          "en": "You usually give clothes or something like that, right?"
+        },
+        {
+          "ja": "普通",
+          "en": "Normally"
+        }
+      ]
+    },
+    {
+      "audio": 79,
+      "lines": [
+        {
+          "ja": "じゃあ…　バスタオルとか",
+          "en": "Well then... maybe a bath towel or something?"
+        }
+      ]
+    },
+    {
+      "audio": 80,
+      "lines": [
+        {
+          "ja": "あって困るもんじゃないし",
+          "en": "Well, it's not like a bath towel is something you'd be troubled to have."
+        },
+        {
+          "ja": "えっと　えっと…",
+          "en": "Um... um..."
+        },
+        {
+          "ja": "水 しかも　何でその量",
+          "en": "Water. And why that much of it?"
+        },
+        {
+          "ja": "もうわけわかんなくなっちゃって",
+          "en": "I'm getting completely confused now."
+        },
+        {
+          "ja": "却下ですね",
+          "en": "Reject that."
+        }
+      ]
+    },
+    {
+      "audio": 81,
+      "lines": [
+        {
+          "ja": "だね",
+          "en": "Yeah."
+        },
+        {
+          "ja": "普通に　マシュマロとかアメとかでいいんじゃないですか",
+          "en": "Wouldn't it be fine to just go with something normal like marshmallows or candy?"
+        }
+      ]
+    },
+    {
+      "audio": 82,
+      "lines": [
+        {
+          "ja": "わかった　そうするよ",
+          "en": "Got it. I'll do that."
+        }
+      ]
+    },
+    {
+      "audio": 83,
+      "lines": [
+        {
+          "ja": "お疲れさまでした",
+          "en": "Good work today."
+        },
+        {
+          "ja": "お疲れさま",
+          "en": "Thank you for your hard work."
+        }
+      ]
+    },
+    {
+      "audio": 84,
+      "lines": [
+        {
+          "ja": "いらっしゃいませ",
+          "en": "Welcome."
+        }
+      ]
+    },
+    {
+      "audio": 85,
+      "lines": [
+        {
+          "ja": "笹子さん…",
+          "en": "Sasako..."
+        }
+      ]
+    },
+    {
+      "audio": 86,
+      "lines": [
+        {
+          "ja": "笹子さん",
+          "en": "Sasako..."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "カフェラテできたよ",
+          "en": "Your caffe latte is ready."
+        }
+      ]
+    },
+    {
+      "audio": 87,
+      "lines": [
+        {
+          "ja": "大丈夫",
+          "en": "Are you okay?"
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        }
+      ]
+    },
+    {
+      "audio": 88,
+      "lines": [
+        {
+          "ja": "お待たせしました",
+          "en": "Sorry for the wait."
+        }
+      ]
+    },
+    {
+      "audio": 89,
+      "lines": [
+        {
+          "ja": "ところで　シロクマ君",
+          "en": "By the way, Polar Bear."
+        },
+        {
+          "ja": "何",
+          "en": "What?"
+        },
+        {
+          "ja": "半田さん　何してるんだろう",
+          "en": "I wonder what Handa is doing."
+        }
+      ]
+    },
+    {
+      "audio": 90,
+      "lines": [
+        {
+          "ja": "あれれ",
+          "en": "Hmm?"
+        },
+        {
+          "ja": "ペンギンさん",
+          "en": "Mr. Penguin"
+        }
+      ]
+    },
+    {
+      "audio": 91,
+      "lines": [
+        {
+          "ja": "アメあまってるんだけど　いらない",
+          "en": "I have some candy left over. Do you want any?"
+        }
+      ]
+    },
+    {
+      "audio": 92,
+      "lines": [
+        {
+          "ja": "見るのが怖いな けど　いただきましょう",
+          "en": "I'm scared to look, but I'll take it."
+        },
+        {
+          "ja": "はい　どうぞ",
+          "en": "Here, have some."
+        }
+      ]
+    },
+    {
+      "audio": 93,
+      "lines": [
+        {
+          "ja": "サグラダファミリア",
+          "en": "Sagrada Familia"
+        },
+        {
+          "ja": "正解",
+          "en": "Correct."
+        },
+        {
+          "ja": "しかも完成形　本物より早いよ",
+          "en": "And it's even complete—faster than the real thing."
+        },
+        {
+          "ja": "アメで作らなくていいよね",
+          "en": "You don't need to make it out of candy, do you?"
+        },
+        {
+          "ja": "あの…",
+          "en": "Um..."
+        }
+      ]
+    },
+    {
+      "audio": 94,
+      "lines": [
+        {
+          "ja": "シロクマさん　すみません",
+          "en": "Polar bear, I'm sorry."
+        }
+      ]
+    },
+    {
+      "audio": 95,
+      "lines": [
+        {
+          "ja": "半田さん",
+          "en": "Handa"
+        },
+        {
+          "ja": "あっ　笹子さん",
+          "en": "Ah, Sasako."
+        },
+        {
+          "ja": "どうしたんですか　お店は",
+          "en": "What's wrong? What about the shop?"
+        },
+        {
+          "ja": "早退させてもらったんです",
+          "en": "I left work early."
+        },
+        {
+          "ja": "早退",
+          "en": "Early leave"
+        }
+      ]
+    },
+    {
+      "audio": 96,
+      "lines": [
+        {
+          "ja": "なんか　ちょっと熱っぽくて",
+          "en": "I felt a bit feverish."
+        },
+        {
+          "ja": "風邪ですか",
+          "en": "Do you have a cold?"
+        },
+        {
+          "ja": "ふだん　あんまりひかないんですけど",
+          "en": "I don't usually catch colds, but..."
+        }
+      ]
+    },
+    {
+      "audio": 97,
+      "lines": [
+        {
+          "ja": "そうだ…",
+          "en": "That's right..."
+        }
+      ]
+    },
+    {
+      "audio": 98,
+      "lines": [
+        {
+          "ja": "これよかったらどうぞ",
+          "en": "Here, please take this if you'd like."
+        },
+        {
+          "ja": "わぁ　ありがとうございます",
+          "en": "Oh wow, thank you so much!"
+        },
+        {
+          "ja": "早く 風邪治してくださいね",
+          "en": "I hope you feel better soon."
+        }
+      ]
+    },
+    {
+      "audio": 99,
+      "lines": [
+        {
+          "ja": "ありがとうございます",
+          "en": "Thank you so much."
+        }
+      ]
+    },
+    {
+      "audio": 100,
+      "lines": [
+        {
+          "ja": "ホワイトデー　どうだったんですか",
+          "en": "How was White Day?"
+        },
+        {
+          "ja": "何あげたんですか",
+          "en": "What did you give?"
+        },
+        {
+          "ja": "みかん",
+          "en": "Mandarins."
+        },
+        {
+          "ja": "みかん…　ですか",
+          "en": "Mandarin oranges...? Is that so?"
+        },
+        {
+          "ja": "うん　みかん",
+          "en": "Yeah, tangerines."
+        }
+      ]
+    }
+  ]
+}

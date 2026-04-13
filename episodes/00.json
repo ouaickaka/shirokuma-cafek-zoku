@@ -1,0 +1,15 @@
+{
+  "ep": "00",
+  "title": "title",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "text",
+          "en": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1256 @@
+{
+  "ep": "08",
+  "title": "わくわくドライブレッスン",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "はぁ～",
+          "en": "*Sigh*"
+        },
+        {
+          "ja": "どうしたの　ペンギンさん　食あたり？",
+          "en": "What's wrong, Penguin? Did you get food poisoning?"
+        },
+        {
+          "ja": "そんなんじゃないよ",
+          "en": "It's not that."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "ペン子さんのことですよね",
+          "en": "You're talking about Penko, right?"
+        },
+        {
+          "ja": "違うよ　今 教習所に通ってて　それで…",
+          "en": "No, that's not it. I'm attending a driving school right now, and..."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "車の免許取るんだって",
+          "en": "You're getting your driver's license, right?"
+        },
+        {
+          "ja": "どうして急に？",
+          "en": "Why all of a sudden?"
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "ペン子さんをドライブに誘いたいみたい",
+          "en": "It seems like you want to invite Penko-san for a drive."
+        },
+        {
+          "ja": "どうして　それを？",
+          "en": "How do you know that?"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "ブログに書いてありましたよ",
+          "en": "It was written on the blog."
+        },
+        {
+          "ja": "あ～　ペン子さん　ペン子さん あなたと行きたい海辺のドライブ",
+          "en": "Ah, Penko, Penko, I want to go on a seaside drive with you."
+        },
+        {
+          "ja": "僕は通うよ　教習所",
+          "en": "I'll go to driving school."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "人の日記勝手に読まないでよ！",
+          "en": "Don't read other people's diaries without permission!"
+        },
+        {
+          "ja": "いや　ブログってそういうものだし",
+          "en": "Well, that's what blogs are for."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "読まれたくないなら 非公開にした方がいいですよ",
+          "en": "If you don't want it to be read, you should make it private."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "教習所　大変なんですか？",
+          "en": "Is driving school tough?"
+        },
+        {
+          "ja": "結構",
+          "en": "Quite."
+        },
+        {
+          "ja": "車の運転って　そんなに難しいの？",
+          "en": "Is driving a car really that difficult?"
+        },
+        {
+          "ja": "まあね",
+          "en": "Well, yeah."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "教えてくれる教官は厳しいし",
+          "en": "The instructor teaching me is strict."
+        },
+        {
+          "ja": "今日も縦列駐車ができなくってさ",
+          "en": "I couldn't do parallel parking again today."
+        },
+        {
+          "ja": "最初は難しいよね　縦列駐車",
+          "en": "Parallel parking is tough at first, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "だよね",
+          "en": "Yeah, right."
+        },
+        {
+          "ja": "縦列駐車？",
+          "en": "Parallel parking?"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "１０列駐車？",
+          "en": "10 cars parked in a row?"
+        },
+        {
+          "ja": "１０列注射？",
+          "en": "Ten injections?"
+        },
+        {
+          "ja": "１０列カチューシャ？",
+          "en": "Ten rows of headbands?"
+        },
+        {
+          "ja": "１０列チュ～？",
+          "en": "Ten rows of kisses?"
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "じゃあ　明日１１時に集合ね",
+          "en": "Alright, let's meet tomorrow at 11 o'clock."
+        },
+        {
+          "ja": "もう　聞いてなかったの？",
+          "en": "Weren't you listening?"
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "勉強に行くの",
+          "en": "I'm going to study."
+        },
+        {
+          "ja": "そうなの？",
+          "en": "Really?"
+        },
+        {
+          "ja": "シロクマさんに　ペンギンさんが運転の コツを教えてもらうんですよ",
+          "en": "Mr. Penguin is going to teach Mr. Polar Bear some driving tips."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "パンダくん　どうせ暇でしょ？",
+          "en": "Panda, you're free anyway, right?"
+        },
+        {
+          "ja": "ゴロゴロするのに忙しいよ",
+          "en": "I'm busy lounging around."
+        },
+        {
+          "ja": "それって暇じゃないの？",
+          "en": "Isn't that the same as being free?"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "まあいいや",
+          "en": "Oh well, never mind."
+        },
+        {
+          "ja": "じゃあ　やめとく？　ドライブ",
+          "en": "Then, should we skip the drive?"
+        },
+        {
+          "ja": "え？　ドライブなの？　行くよ",
+          "en": "Huh? A drive? I'm in!"
+        },
+        {
+          "ja": "もう",
+          "en": "Geez"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "じゃあ明日　カフェの前ね",
+          "en": "Then tomorrow, in front of the café."
+        },
+        {
+          "ja": "うん",
+          "en": "Okay."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "パンダくん　まだかな？",
+          "en": "I wonder if Panda-kun is here yet."
+        },
+        {
+          "ja": "呼びに行こうか？",
+          "en": "Should we go call him?"
+        },
+        {
+          "ja": "そのうち来るよ",
+          "en": "He'll come eventually."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "おはよう",
+          "en": "Good morning."
+        },
+        {
+          "ja": "遅いよ　パンダくん",
+          "en": "You're late, Panda-kun."
+        },
+        {
+          "ja": "え？　何　その竹は？",
+          "en": "Huh? What's with that bamboo?"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "ドライブに　おやつは必要だよ",
+          "en": "You need snacks for a drive."
+        },
+        {
+          "ja": "みんなの分も持ってきたからね",
+          "en": "I brought some for everyone."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "いや　いらないから",
+          "en": "No, I don't need it."
+        },
+        {
+          "ja": "それ　パンダくんだけのおやつだし",
+          "en": "That's just a snack for you, Panda-kun."
+        },
+        {
+          "ja": "おやつ",
+          "en": "Snacks"
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "それは　こたつ",
+          "en": "That's a kotatsu."
+        },
+        {
+          "ja": "それは　脚立",
+          "en": "That's a step ladder."
+        },
+        {
+          "ja": "それは　キャベツ",
+          "en": "That's cabbage."
+        },
+        {
+          "ja": "いいから出発しようよ",
+          "en": "Come on, let's get going."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "ラマさんは？",
+          "en": "What about the llama?"
+        },
+        {
+          "ja": "動物園のバイトだって",
+          "en": "I heard he's working part-time at the zoo."
+        },
+        {
+          "ja": "じゃあ　シロクマくん　頼むね",
+          "en": "Then, we'll count on you, Polar Bear."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "後部座席って微妙だよね",
+          "en": "The back seat is kind of awkward, isn't it?"
+        },
+        {
+          "ja": "寝っ転がるには狭いしさ",
+          "en": "It's too cramped to lie down."
+        },
+        {
+          "ja": "パンダくん　ちゃんと座って",
+          "en": "Panda, sit properly."
+        },
+        {
+          "ja": "じゃあ　行くよ",
+          "en": "Alright, let's go."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "お～　さすが 発車からして上手だね和",
+          "en": "Oh, as expected, you're good at starting the car, Kazu."
+        },
+        {
+          "ja": "それほどでも",
+          "en": "It's not that great."
+        },
+        {
+          "ja": "ねぇ　コツは？　コツ",
+          "en": "Hey, what's the trick? The trick."
+        },
+        {
+          "ja": "そうだね",
+          "en": "Yeah, that's right."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "グッときたらピッとして ゴー！",
+          "en": "When you feel it, press and go!"
+        },
+        {
+          "ja": "って感じ",
+          "en": "Something like that."
+        },
+        {
+          "ja": "抽象的だな",
+          "en": "That's pretty vague."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "よくわかんないよ",
+          "en": "I don't really get it."
+        },
+        {
+          "ja": "ペンギンさん",
+          "en": "Penguin."
+        },
+        {
+          "ja": "なに？",
+          "en": "What?"
+        },
+        {
+          "ja": "つるしたタイヤに ジャレるみたいな感じだよ　たぶん",
+          "en": "It's like playing around with a hanging tire, I guess."
+        },
+        {
+          "ja": "ますます　わかんないから",
+          "en": "I understand even less now."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "で　どこに行く？",
+          "en": "So, where are we going?"
+        },
+        {
+          "ja": "山とか？",
+          "en": "Mountains, maybe?"
+        },
+        {
+          "ja": "笹が　いっぱい生えてそうな",
+          "en": "It seems like there would be a lot of bamboo growing."
+        },
+        {
+          "ja": "その辺でいいよ",
+          "en": "Somewhere around there is fine."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "今日は　シロクマくんの運転技術を 僕が勉強するドライブなんだからね",
+          "en": "Today is a drive for me to study Shirokuma-kun's driving skills."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "シロクマくん　免許はいつ取ったの？",
+          "en": "Shirokuma-kun, when did you get your driver's license?"
+        },
+        {
+          "ja": "大人になってから",
+          "en": "After I became an adult."
+        },
+        {
+          "ja": "いや　そうじゃなくてさ",
+          "en": "No, that's not what I meant."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "終わりました",
+          "en": "It's finished."
+        },
+        {
+          "ja": "ご苦労さまでした",
+          "en": "Thank you for your hard work."
+        },
+        {
+          "ja": "笹の葉？",
+          "en": "Bamboo leaves?"
+        },
+        {
+          "ja": "こんにちは　パンダくん",
+          "en": "Hello, Panda-kun."
+        },
+        {
+          "ja": "ん？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "お出かけ？",
+          "en": "Going out?"
+        },
+        {
+          "ja": "おやつ中",
+          "en": "Snack time"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "バイバ～イ！",
+          "en": "Bye-bye!"
+        },
+        {
+          "ja": "あ～あ なんか　お腹減っちゃったね",
+          "en": "Ah, I'm feeling kind of hungry."
+        },
+        {
+          "ja": "今　笹食べてたじゃない",
+          "en": "You were just eating bamboo, weren't you?"
+        },
+        {
+          "ja": "あっ！　あそこ行こうよ！",
+          "en": "Oh! Let's go over there!"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "いらっしゃいませ ご注文は　お決まりですか？",
+          "en": "Welcome! Have you decided on your order?"
+        },
+        {
+          "ja": "笹か竹ください",
+          "en": "Bamboo leaves or bamboo, please."
+        },
+        {
+          "ja": "申し訳ありません 当店のメニューにはございません",
+          "en": "I'm sorry, but that's not on our menu."
+        },
+        {
+          "ja": "えぇ～",
+          "en": "Huh?"
+        },
+        {
+          "ja": "また来ます",
+          "en": "I'll come again."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "いらっしゃいませ ご注文は　お決まりですか？",
+          "en": "Welcome! Have you decided on your order?"
+        },
+        {
+          "ja": "フィッシュバーガー　フィッシュ　生で",
+          "en": "Fish burger, fish, raw."
+        },
+        {
+          "ja": "申し訳ありません 当店のメニューにはございません",
+          "en": "I'm sorry, but that's not on our menu."
+        },
+        {
+          "ja": "えぇ～",
+          "en": "Huh?"
+        },
+        {
+          "ja": "また来ます",
+          "en": "I'll come again."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "いらっしゃいませ ご注文は　お決まりですか？",
+          "en": "Welcome! Have you decided on your order?"
+        },
+        {
+          "ja": "いいボケが思いつかないので",
+          "en": "I can't think of a good joke, so..."
+        },
+        {
+          "ja": "また来ます",
+          "en": "I'll come again."
+        },
+        {
+          "ja": "あの　お客様！",
+          "en": "Um, excuse me, sir!"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "いらっしゃいませ",
+          "en": "Welcome!"
+        },
+        {
+          "ja": "だから フィッシュバーガーセットでいいじゃない",
+          "en": "Then why not just go with the fish burger set?"
+        },
+        {
+          "ja": "レタスバーガーセットがいいよ",
+          "en": "The lettuce burger set is better."
+        },
+        {
+          "ja": "笹じゃないけど葉っぱだし",
+          "en": "It's not bamboo, but it's still a leaf."
+        },
+        {
+          "ja": "てりやきバーガーセットがいいよ",
+          "en": "The teriyaki burger set is good."
+        },
+        {
+          "ja": "よし",
+          "en": "Alright."
+        },
+        {
+          "ja": "じゃあ…",
+          "en": "Then..."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "お決まりですか？",
+          "en": "Have you decided?"
+        },
+        {
+          "ja": "また来ます",
+          "en": "I'll come again."
+        },
+        {
+          "ja": "あの　グルグル回らず そこで相談なさって かまいませんから！",
+          "en": "Um, you don't have to keep wandering around; it's perfectly fine to discuss it right there!"
+        },
+        {
+          "ja": "ご注文を　うけたまわりました",
+          "en": "Your order has been received."
+        },
+        {
+          "ja": "受け渡し窓口まで お進みになって　お待ちください",
+          "en": "Please proceed to the pick-up window and wait there."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "はぁ…",
+          "en": "*Sigh*..."
+        },
+        {
+          "ja": "うわっ！",
+          "en": "Wow!"
+        },
+        {
+          "ja": "ここでいいの？",
+          "en": "Is this the right place?"
+        },
+        {
+          "ja": "ドライブスルーで遊ばないでください",
+          "en": "Please don't play around in the drive-thru."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "どう？　ペンギンさん　コツは　つかめた？",
+          "en": "How is it? Penguin, have you got the hang of it?"
+        },
+        {
+          "ja": "何の？",
+          "en": "What do you mean?"
+        },
+        {
+          "ja": "ドライブスルーで遊ぶコツ？",
+          "en": "The trick to playing in the drive-thru?"
+        },
+        {
+          "ja": "僕は　運転のコツを つかみたいんだけどな～",
+          "en": "I want to get the hang of driving, though."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "ねえ　シロクマくん あれは　やらないの？",
+          "en": "Hey, Shirokuma, aren't you going to do that?"
+        },
+        {
+          "ja": "あれ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "ほら　わらしべ長者",
+          "en": "You know, like the Straw Millionaire."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "縦列駐車のこと？",
+          "en": "Parallel parking?"
+        },
+        {
+          "ja": "それそれ",
+          "en": "That's it, that's it."
+        },
+        {
+          "ja": "全然　違うから",
+          "en": "That's completely different."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "ペンギンさん　よくわかったね",
+          "en": "Mr. Penguin, you figured it out well."
+        },
+        {
+          "ja": "ねぇ　やってみてよ　シロクマくん",
+          "en": "Hey, give it a try, Polar Bear."
+        },
+        {
+          "ja": "ちゃんと運転のコツ教えてよ",
+          "en": "Teach me the proper driving tips."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "うん　わかった",
+          "en": "Yeah, got it."
+        },
+        {
+          "ja": "よし　ここにしよう",
+          "en": "Alright, let's do it here."
+        },
+        {
+          "ja": "じゃあ　よく見ててね",
+          "en": "Okay, watch closely."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "うん",
+          "en": "Okay."
+        },
+        {
+          "ja": "周りをよく見て　バックする",
+          "en": "Look around carefully and back up."
+        },
+        {
+          "ja": "よく見て　バックね",
+          "en": "Watch carefully, I'm backing up."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "コツはね…",
+          "en": "The trick is..."
+        },
+        {
+          "ja": "コツは？",
+          "en": "What's the trick?"
+        },
+        {
+          "ja": "こうやって　上からだと見やすい",
+          "en": "It's easier to see from above like this."
+        },
+        {
+          "ja": "真似できないから！　もう…",
+          "en": "I can't imitate that! Geez..."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "あっ 何？",
+          "en": "Oh, what?"
+        },
+        {
+          "ja": "大丈夫？　ぶつけた？",
+          "en": "Are you okay? Did you bump into something?"
+        },
+        {
+          "ja": "お～い！　笹子さ～ん！",
+          "en": "Hey! Sasako!"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "あっ　シロクマさん",
+          "en": "Oh, Mr. Polar Bear."
+        },
+        {
+          "ja": "今日は皆さんでドライブですか？ どちらまで？",
+          "en": "Are you all going for a drive today? Where to?"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "当てのない旅です",
+          "en": "It's a journey without a destination."
+        },
+        {
+          "ja": "笹子さんは？",
+          "en": "Where is Sasako?"
+        },
+        {
+          "ja": "家に帰るところです",
+          "en": "I'm on my way home."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "あ…　そうだ",
+          "en": "Oh... right."
+        },
+        {
+          "ja": "これ　おすそ分け",
+          "en": "Here, a little something for you."
+        },
+        {
+          "ja": "ベーグル？",
+          "en": "Bagels?"
+        },
+        {
+          "ja": "この先に　おいしいお店があるって 聞いて　買いに行ったんです",
+          "en": "I heard there's a delicious shop up ahead, so I went to buy some."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "わぁ～　ありがとうO(∩_∩)O",
+          "en": "Wow, thank you! O(∩_∩)O"
+        },
+        {
+          "ja": "ちょうど　お腹が減ってたんだ",
+          "en": "I was just getting hungry."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "食べてばっかりだね",
+          "en": "You're always eating, aren't you?"
+        },
+        {
+          "ja": "育ち盛りだもの",
+          "en": "I'm in my growth spurt, after all."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "大丈夫です…　笹は別腹ですから",
+          "en": "It's okay... Bamboo leaves are a separate stomach."
+        },
+        {
+          "ja": "パンダくん　夢のなかでも まだ食べてるみたいだね",
+          "en": "Panda-kun, it seems like you're still eating even in your dreams."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "ペンギンさん？",
+          "en": "Penguin?"
+        },
+        {
+          "ja": "ねねね…　寝てないよ！",
+          "en": "Hey, hey, hey... I'm not asleep!"
+        },
+        {
+          "ja": "助手席で寝るなんて失礼なこと 僕は　しないよ！",
+          "en": "Falling asleep in the passenger seat would be rude, and I would never do that!"
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "ペンギンさんって　黙ってると 寝てるか起きてるかわからないね",
+          "en": "With Penguin, it's hard to tell if you're asleep or awake when you're quiet."
+        },
+        {
+          "ja": "起きてる！　ほんと　信じて！",
+          "en": "I'm awake! Really, believe me!"
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "いや　寝てても　かまわないけど",
+          "en": "No, I don't mind if you sleep."
+        },
+        {
+          "ja": "パンダくんと一緒にしないでよ！",
+          "en": "Don't lump me together with Panda-kun!"
+        },
+        {
+          "ja": "僕は運転のコツを学ぶんだから",
+          "en": "I'm learning the tricks of driving."
+        },
+        {
+          "ja": "免許取ったら　車買うの？",
+          "en": "Are you going to buy a car once you get your license?"
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "え？　う～ん　どうしようかなぁ",
+          "en": "Huh? Hmm, I wonder what I should do."
+        },
+        {
+          "ja": "この車みたいなミニバンもいいよね～",
+          "en": "A minivan like this one would be nice too, right?"
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "ああいうのも　かっこいいな～",
+          "en": "Those kinds of cars are cool too."
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "ペン子さん 君に見せたいものがあるんだ",
+          "en": "Penko, there's something I want to show you."
+        },
+        {
+          "ja": "わぁ～　何かしら？",
+          "en": "Wow, what could it be?"
+        },
+        {
+          "ja": "ほら　見てごらん",
+          "en": "Here, take a look."
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "あれは？",
+          "en": "What's that?"
+        },
+        {
+          "ja": "トビウオさ",
+          "en": "It's a flying fish."
+        },
+        {
+          "ja": "まぁ～！",
+          "en": "Wow!"
+        },
+        {
+          "ja": "食べ放題ですよ",
+          "en": "It's all-you-can-eat!"
+        },
+        {
+          "ja": "すてき…",
+          "en": "Wonderful..."
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "ペン子さん…",
+          "en": "Penko..."
+        },
+        {
+          "ja": "笹だらけ…",
+          "en": "It's full of bamboo leaves..."
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "ベーグル？",
+          "en": "Bagels?"
+        },
+        {
+          "ja": "イーグル？",
+          "en": "Eagle?"
+        },
+        {
+          "ja": "サーベル？",
+          "en": "Saber?"
+        },
+        {
+          "ja": "ヨロレ　ヒヒ～！　ヨーデル？",
+          "en": "Yodel-ay-hee-hoo! Yodel?"
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "うん…　ツッコんでくれる 相手がいないとは　寂しいね",
+          "en": "Yeah... It's lonely not having someone to joke around with."
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "何なに？",
+          "en": "What?"
+        },
+        {
+          "ja": "これって…",
+          "en": "Is this..."
+        },
+        {
+          "ja": "あれだね",
+          "en": "That's it."
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "それは　ダンク",
+          "en": "That's a dunk."
+        },
+        {
+          "ja": "それは　インク",
+          "en": "That's ink."
+        },
+        {
+          "ja": "それは　ピンク",
+          "en": "That's pink."
+        },
+        {
+          "ja": "それは　スカンク",
+          "en": "That's a skunk."
+        },
+        {
+          "ja": "いいね",
+          "en": "That's nice."
+        }
+      ]
+    },
+    {
+      "audio": 63,
+      "lines": [
+        {
+          "ja": "何言ってるの？　よくないでしょ",
+          "en": "What are you talking about? That's not good."
+        },
+        {
+          "ja": "どうするの？　ペンギンさん",
+          "en": "What are you going to do, Mr. Penguin?"
+        },
+        {
+          "ja": "そうだなぁ",
+          "en": "Hmm, let me think."
+        }
+      ]
+    },
+    {
+      "audio": 64,
+      "lines": [
+        {
+          "ja": "車屋さん呼べばいいのかなぁ",
+          "en": "Should we call a mechanic?"
+        },
+        {
+          "ja": "慌てない　慌てない",
+          "en": "No need to panic, no need to panic."
+        },
+        {
+          "ja": "こういうときはね",
+          "en": "In times like this, you know"
+        }
+      ]
+    },
+    {
+      "audio": 65,
+      "lines": [
+        {
+          "ja": "引いて帰ればいいから",
+          "en": "You can just tow it back home."
+        },
+        {
+          "ja": "なるほどね",
+          "en": "I see."
+        },
+        {
+          "ja": "コツは　バンパーにツメを引っ掛ける",
+          "en": "The trick is to hook your fingers onto the bumper."
+        }
+      ]
+    },
+    {
+      "audio": 66,
+      "lines": [
+        {
+          "ja": "いろいろ 教えてもらえてよかったね",
+          "en": "It's good that we got to learn a lot of things, isn't it?"
+        },
+        {
+          "ja": "絶対　真似はできないけどね",
+          "en": "I definitely can't imitate that, though."
+        },
+        {
+          "ja": "まぁ　でも　おもしろいから 写真撮っておこう",
+          "en": "Well, it's interesting, so let's take a picture."
+        }
+      ]
+    },
+    {
+      "audio": 67,
+      "lines": [
+        {
+          "ja": "ペンギンさん　ペンギンさん　何か面白い話して",
+          "en": "Penguin, Penguin, tell us something interesting."
+        },
+        {
+          "ja": "お～　パンダ君",
+          "en": "Oh~ Panda-kun"
+        },
+        {
+          "ja": "絵に書いたようなむちゃぶりだね",
+          "en": "That's a tall order, just like something out of a cartoon."
+        }
+      ]
+    },
+    {
+      "audio": 68,
+      "lines": [
+        {
+          "ja": "じゃ～今日からペンギンさんのこと　忠実な下部と考えていい",
+          "en": "Then, from today, can I consider you my loyal subordinate, Mr. Penguin?"
+        },
+        {
+          "ja": "ダメ",
+          "en": "No way."
+        }
+      ]
+    },
+    {
+      "audio": 69,
+      "lines": [
+        {
+          "ja": "ペンギンさんって　絵に書いたようにケチだね",
+          "en": "Penguin, you're as stingy as they come."
+        },
+        {
+          "ja": "白熊君",
+          "en": "Polar Bear"
+        },
+        {
+          "ja": "さ～て　来週のしろくまカフェは",
+          "en": "Now, next week's Shirokuma Cafe is..."
+        },
+        {
+          "ja": "ジャン　ケン",
+          "en": "Rock, paper, scissors"
+        },
+        {
+          "ja": "ちょっと　やめて　そういうの",
+          "en": "Please stop that kind of thing."
+        },
+        {
+          "ja": "お楽しみに",
+          "en": "Stay tuned!"
+        }
+      ]
+    }
+  ]
+}

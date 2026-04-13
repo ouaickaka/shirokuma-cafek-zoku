@@ -1,0 +1,898 @@
+{
+  "ep": "18",
+  "title": "ペンギンさんの告白",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "クロワッサンもいけるね",
+          "en": "Croissants are good too."
+        },
+        {
+          "ja": "これに竹の葉を練りこんだら もっと　おいしくなるんじゃない？",
+          "en": "If we knead bamboo leaves into this, won't it become even more delicious?"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "それはどうかな？",
+          "en": "I'm not so sure about that."
+        },
+        {
+          "ja": "それより　パンダあんぱん っていうのが　あるみたいだよ",
+          "en": "It seems there's something called panda anpan."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "本当？",
+          "en": "Really?"
+        },
+        {
+          "ja": "ねぇ　ペンギンさん 次は　そのパンダあんぱんを…",
+          "en": "Hey, Mr. Penguin, next time let's try that panda anpan..."
+        },
+        {
+          "ja": "あぁ　もう…",
+          "en": "Oh, come on..."
+        },
+        {
+          "ja": "僕は　別にパンを買うためにパン屋さんに 行ってるわけじゃないんだよ！",
+          "en": "I'm not going to the bakery just to buy bread!"
+        },
+        {
+          "ja": "ペン子さんを…　その…",
+          "en": "Penguin-san, I... um... Penko-san... that..."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "デートに誘いたいんだよ…",
+          "en": "I want to ask Penko out on a date..."
+        },
+        {
+          "ja": "知ってるよ　そんなの",
+          "en": "I know that already."
+        },
+        {
+          "ja": "でも　結局　いつも　パンを 買って帰ってくるだけじゃない",
+          "en": "But in the end, you always just end up buying bread and coming back, don't you?"
+        },
+        {
+          "ja": "だって…",
+          "en": "But..."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "いっそ　告白しちゃったら どうです？",
+          "en": "Why don't you just confess already?"
+        },
+        {
+          "ja": "そ…　そんな！",
+          "en": "Th-that's not possible!"
+        },
+        {
+          "ja": "小さな１歩を恐れるときは",
+          "en": "When you're afraid of taking a small step"
+        },
+        {
+          "ja": "大きな１歩を踏み出すときである",
+          "en": "It's time to take a big step forward."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "フランスの古い格言だよ",
+          "en": "It's an old French proverb."
+        },
+        {
+          "ja": "大きな１歩を踏み出すとき…",
+          "en": "It's time to take a big step..."
+        },
+        {
+          "ja": "ウソだけど",
+          "en": "Just kidding."
+        },
+        {
+          "ja": "小さな１歩",
+          "en": "A small step"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "大きな１歩…",
+          "en": "A big step..."
+        },
+        {
+          "ja": "決めた！　僕は　やるよ",
+          "en": "I've decided! I'm going to do it."
+        },
+        {
+          "ja": "やるって　まさか…",
+          "en": "You're actually going to do it...?"
+        },
+        {
+          "ja": "ペン子さんに告白する！",
+          "en": "I'm going to confess to Penko!"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "告白？",
+          "en": "Confess?"
+        },
+        {
+          "ja": "ごめん！　今の僕は ダジャレにつきあってる暇はないの",
+          "en": "Sorry! I don't have time to entertain puns right now."
+        },
+        {
+          "ja": "早速　行ってくるよ！",
+          "en": "I'm going right away!"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "行っちゃった…",
+          "en": "He went..."
+        },
+        {
+          "ja": "ヒャッハー！",
+          "en": "Woohoo!"
+        },
+        {
+          "ja": "それは　極悪？",
+          "en": "Is that evil?"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "でも　どうやって言おう？",
+          "en": "But how should I say it?"
+        },
+        {
+          "ja": "ノープランなの？",
+          "en": "No plan?"
+        },
+        {
+          "ja": "当たり前でしょ！",
+          "en": "Of course!"
+        },
+        {
+          "ja": "さっき　思い立ったんだから",
+          "en": "I just thought of it a moment ago."
+        },
+        {
+          "ja": "どうしたらいいかな？",
+          "en": "What should I do?"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "例えばクジャクは羽を広げて愛の告白をするよね",
+          "en": "For example, a peacock spreads its feathers to confess its love, right?"
+        },
+        {
+          "ja": "なるほど！",
+          "en": "I see!"
+        },
+        {
+          "ja": "こんな感じ？",
+          "en": "Like this?"
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "地味だね",
+          "en": "That's plain."
+        },
+        {
+          "ja": "じゃあ…　他には！？",
+          "en": "Then... what else!?"
+        },
+        {
+          "ja": "グンカンドリは赤いノド袋を膨らますらしいよ",
+          "en": "It seems that the frigatebird inflates its red throat pouch."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "あんまり変わりませんね",
+          "en": "It doesn't really change much, does it?"
+        },
+        {
+          "ja": "もっと膨らまないの？",
+          "en": "Can't it inflate any more?"
+        },
+        {
+          "ja": "リクガメは甲羅アタック",
+          "en": "Tortoises use a shell attack."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "噛みつき マウントだよ",
+          "en": "Biting and mounting."
+        },
+        {
+          "ja": "え～　プロレス？",
+          "en": "Huh? Wrestling?"
+        },
+        {
+          "ja": "噛みつきは反則じゃないんですか？",
+          "en": "Isn't biting against the rules?"
+        },
+        {
+          "ja": "ワルだね　かっこいい！",
+          "en": "That's wicked, so cool!"
+        },
+        {
+          "ja": "あれ？ でも　ペンギンさん　甲羅ないよ",
+          "en": "Huh? But Mr. Penguin doesn't have a shell."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "お皿　付けたら？",
+          "en": "How about putting a plate on it?"
+        },
+        {
+          "ja": "カッパ？",
+          "en": "Kappa?"
+        },
+        {
+          "ja": "カッパって　なんて言って 告白するの？",
+          "en": "How do kappas confess their love?"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "ちょっと！　まじめに考えてよ！",
+          "en": "Hey! Be serious and think about it!"
+        },
+        {
+          "ja": "はぁ…　もう　どうしていいか わからないよ",
+          "en": "Sigh... I just don't know what to do anymore."
+        },
+        {
+          "ja": "最悪だ　世界の終わりだ",
+          "en": "This is the worst, it's the end of the world."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "や…　やっぱり　好きです　って シンプルなのがいちばんですよ",
+          "en": "Well... I still think 'I like you' is the best, keeping it simple."
+        },
+        {
+          "ja": "あからさますぎない？",
+          "en": "Isn't that too obvious?"
+        },
+        {
+          "ja": "それじゃあ 好きって　バレちゃうよ～！",
+          "en": "Then they'll find out I like them!"
+        },
+        {
+          "ja": "告白するんじゃないんですか？",
+          "en": "Aren't you going to confess?"
+        },
+        {
+          "ja": "はっ…　そうだった",
+          "en": "Oh... that's right."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "わかった　シンプルに頑張るよ",
+          "en": "Got it, I'll keep it simple and do my best."
+        },
+        {
+          "ja": "それじゃあ　行こうか",
+          "en": "Alright, let's go."
+        },
+        {
+          "ja": "ついてくる気！？",
+          "en": "Are you planning to come along!?"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "昔の武将は　こう言った",
+          "en": "A samurai of old once said this."
+        },
+        {
+          "ja": "１本の矢なら折れるが ３本の矢なら折れない　と",
+          "en": "A single arrow can be broken, but three arrows together cannot."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "え～っと… 三人寄れば　文殊の知恵",
+          "en": "Uh... they say \"Two heads are better than one.\""
+        },
+        {
+          "ja": "モンキーの知恵？",
+          "en": "Monkey's wisdom?"
+        },
+        {
+          "ja": "それじゃあ 猿知恵になっちゃうよ",
+          "en": "Then it would just be monkey wisdom."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "一人で大丈夫だから 来ないでね！",
+          "en": "I'm fine on my own, so don't come, okay!"
+        },
+        {
+          "ja": "うまくいくといいですね",
+          "en": "I hope it goes well."
+        },
+        {
+          "ja": "あ…　あれ？",
+          "en": "Oh... what's that?"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "す…　好きです！",
+          "en": "I... I like you!"
+        },
+        {
+          "ja": "これ　受け取ってください",
+          "en": "Please accept this."
+        },
+        {
+          "ja": "よ～し…　言える！　言えるぞ！",
+          "en": "Alright... I can say it! I can say it!"
+        },
+        {
+          "ja": "行くぞ…　よし　行くぞ！",
+          "en": "Here I go... Alright, here I go!"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "す…　好きです！ これ　受け取ってください！",
+          "en": "I... I like you! Please accept this!"
+        },
+        {
+          "ja": "よし！",
+          "en": "Alright!"
+        },
+        {
+          "ja": "す…　好きです　ペン子さん！",
+          "en": "I... I like you, Penko!"
+        },
+        {
+          "ja": "これ　受け取ってください！",
+          "en": "Please accept this!"
+        },
+        {
+          "ja": "す…　好きです！",
+          "en": "I... I like you!"
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "好きです これ　受け取ってください！",
+          "en": "I like you. Please accept this!"
+        },
+        {
+          "ja": "あれ　何？　何かのおまじない？",
+          "en": "What's that? Some kind of charm?"
+        },
+        {
+          "ja": "恋する者は",
+          "en": "Those in love"
+        },
+        {
+          "ja": "それが 意味のない行為だとしても",
+          "en": "Even if it's a meaningless act"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "幾度となく繰り返してしまう",
+          "en": "Repeatedly, time and again."
+        },
+        {
+          "ja": "また　古い格言？",
+          "en": "Another old saying?"
+        },
+        {
+          "ja": "ううん　いずれペンギンさんが作る未来の格言",
+          "en": "No, it's a future proverb that Mr. Penguin will create someday."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "やっぱり　僕に告白なんてムリなのかなぁ…",
+          "en": "I guess confessing my feelings is impossible for me after all..."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "もし　彼女が僕の愛を受け入れてくれたら…",
+          "en": "If she were to accept my love..."
+        },
+        {
+          "ja": "嬉しいよ　ペン子さん",
+          "en": "I'm happy, Penko."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "嬉しいよ　ペン子さん！",
+          "en": "I'm so happy, Penko!"
+        },
+        {
+          "ja": "おいしいよ　ペン子さん！",
+          "en": "It's delicious, Penko!"
+        },
+        {
+          "ja": "嬉しいよ…　イテッ！",
+          "en": "I'm so happy... Ouch!"
+        },
+        {
+          "ja": "あ…　しまった！",
+          "en": "Ah... darn it!"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "いけない　いけない 夢の世界に浸ってしまった",
+          "en": "Oh no, oh no, I got lost in a dream world."
+        },
+        {
+          "ja": "でも 夢が現実になる可能性はある！",
+          "en": "But there's a possibility that dreams can become reality!"
+        },
+        {
+          "ja": "そのためにも頑張らなくっちゃ！",
+          "en": "I have to work hard for that to happen!"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "あ～　よかった　行ったよ",
+          "en": "Ah, good, they left."
+        },
+        {
+          "ja": "うん　よかった",
+          "en": "Yeah, that's good."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "僕は言う　言うよ！",
+          "en": "I'll say it, I will!"
+        },
+        {
+          "ja": "ペン子さ…",
+          "en": "Penko, I..."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "ペンギンさん　なかなか起きないね",
+          "en": "Penguin, you're not waking up, are you?"
+        },
+        {
+          "ja": "もう帰ろうかな",
+          "en": "I think I'll head home now."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "あれ？　僕…",
+          "en": "Huh? I..."
+        },
+        {
+          "ja": "そうだ！ ペン子さんに告白！",
+          "en": "That's it! I'll confess to Penko!"
+        },
+        {
+          "ja": "でも　今日はやっぱやめとこうかな",
+          "en": "But maybe I should hold off for today after all."
+        },
+        {
+          "ja": "なんか空回りしてる感じだし…",
+          "en": "I feel like I'm just spinning my wheels..."
+        },
+        {
+          "ja": "いや！",
+          "en": "No!"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "思い立ったが吉日！",
+          "en": "There's no time like the present!"
+        },
+        {
+          "ja": "けどなぁ なんか調子悪い気もするしな…",
+          "en": "But, you know, I feel like I'm not in the best shape..."
+        },
+        {
+          "ja": "いやいや そんなこと言ってちゃダメだ！",
+          "en": "No, no, you can't say things like that!"
+        },
+        {
+          "ja": "でもなぁ…",
+          "en": "But still..."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "ねぇ　まだ？",
+          "en": "Hey, are you ready yet?"
+        },
+        {
+          "ja": "待ちくたびれたよ",
+          "en": "I've been waiting forever."
+        },
+        {
+          "ja": "えっ！？　なんで２人ともいるの？",
+          "en": "Huh!? Why are both of you here?"
+        },
+        {
+          "ja": "来ないでって言ったのに！",
+          "en": "I told you not to come!"
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "早くしてよ 僕　もう　お腹すいたよ",
+          "en": "Hurry up, I'm already hungry."
+        },
+        {
+          "ja": "知らないよ！",
+          "en": "I don't know!"
+        },
+        {
+          "ja": "しないの？　告白",
+          "en": "Aren't you going to confess?"
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "そ…　それは…",
+          "en": "Th-that's..."
+        },
+        {
+          "ja": "古きローマの詩人は言った",
+          "en": "An ancient Roman poet once said,"
+        },
+        {
+          "ja": "幸運と愛は勇者とともにあり",
+          "en": "Fortune and love favor the brave."
+        },
+        {
+          "ja": "勇者とともに？",
+          "en": "With the brave?"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "幸運も愛も　その勇者って人の ところにあるってことだね",
+          "en": "Both luck and love are with that person, the hero."
+        },
+        {
+          "ja": "今から行こう",
+          "en": "Let's go now."
+        },
+        {
+          "ja": "行くのは　ペン子さんのところ！",
+          "en": "We're going to Penko's place!"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "そうなの？",
+          "en": "Really?"
+        },
+        {
+          "ja": "よ～し　いくぞ！",
+          "en": "Alright, let's go!"
+        },
+        {
+          "ja": "…って　２人とも ついてこないで！",
+          "en": "...Hey, you two, don't follow me!"
+        },
+        {
+          "ja": "言うぞ　言うぞ！",
+          "en": "I'm gonna say it, I'm gonna say it!"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "なんで いざっていうとき邪魔するの！？",
+          "en": "Why do you always get in the way at crucial moments!?"
+        },
+        {
+          "ja": "パンダあんパンが気になっちゃって",
+          "en": "I got distracted by the panda bean paste bun."
+        },
+        {
+          "ja": "わかったよ！ 買ってきてあげるよ！",
+          "en": "Alright! I'll go buy it for you!"
+        },
+        {
+          "ja": "だから帰ってよ！ ほら　帰って帰って！",
+          "en": "So go home already! Come on, go home, go home!"
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "あの…",
+          "en": "Um..."
+        },
+        {
+          "ja": "あっ　あの…",
+          "en": "Uh, um..."
+        },
+        {
+          "ja": "大丈夫かな？　ペンギンさん",
+          "en": "Is Penguin-san going to be okay?"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "お～い！",
+          "en": "Hey!"
+        },
+        {
+          "ja": "やった！　やったよ～！",
+          "en": "I did it! I did it!"
+        },
+        {
+          "ja": "おめでとう　ペンギンさん",
+          "en": "Congratulations, Mr. Penguin!"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "へぇ～　じゃあ うまくいったんですね",
+          "en": "Oh, so it went well then."
+        },
+        {
+          "ja": "いやぁ　ホントまいっちゃう",
+          "en": "Wow, I'm really at a loss."
+        },
+        {
+          "ja": "それで　ペン子さんは何て？",
+          "en": "So, what did Penko say?"
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "うん？　知りたい？",
+          "en": "Hmm? You want to know?"
+        },
+        {
+          "ja": "もう　詳しく教えてくださいよ",
+          "en": "Come on, tell me all the details!"
+        },
+        {
+          "ja": "実はね　ペン子さん僕の顔を 覚えててくれたみたいでね",
+          "en": "Actually, it seems like Penko remembered my face."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "「よかったら　どうぞ」って　これ！",
+          "en": "\"If you'd like, here you go.\" Like this!"
+        },
+        {
+          "ja": "なんと　サービス券もらったの！",
+          "en": "I got a coupon, can you believe it!"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "ちょっと多めにって３枚も",
+          "en": "She gave me three, a little extra."
+        },
+        {
+          "ja": "ねっ　サービス券をサービスだよ！",
+          "en": "See, it's a freebie coupon as a bonus!"
+        },
+        {
+          "ja": "あの…　告白は？",
+          "en": "Um... what about the confession?"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "それどころじゃないよ！",
+          "en": "That's not the issue right now!"
+        },
+        {
+          "ja": "なんと受け取るときにちょっと手が触れちゃったんだよ",
+          "en": "When I received them, our hands accidentally touched a little."
+        },
+        {
+          "ja": "どうしよう　もう手洗わない！",
+          "en": "What should I do? I'll never wash my hand again!"
+        },
+        {
+          "ja": "洗えないよ！　洗いたくないよ！",
+          "en": "I can't wash it! I don't want to wash it!"
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "１枚のサービス券は　サービス券だが",
+          "en": "A service coupon is still just a service coupon, but..."
+        },
+        {
+          "ja": "３枚なら…　やっぱりサービス券だ",
+          "en": "If it's three tickets... they're still service tickets after all."
+        },
+        {
+          "ja": "それを言っちゃダメですよ",
+          "en": "You shouldn't say that."
+        },
+        {
+          "ja": "パンダくん聞いてる？",
+          "en": "Are you listening, Panda-kun?"
+        },
+        {
+          "ja": "聞いてるよ",
+          "en": "I'm listening."
+        },
+        {
+          "ja": "笹子さん　ほら！",
+          "en": "Sasako, look!"
+        },
+        {
+          "ja": "もう　幸せ！",
+          "en": "I'm so happy!"
+        }
+      ]
+    }
+  ]
+}

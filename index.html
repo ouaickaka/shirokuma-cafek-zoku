@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>シロクマ カフェ</title>
+  <link rel="stylesheet" href="includes/style.css">
+</head>
+<body>
+
+<nav class="site-nav">
+  <a class="nav-brand" href="index.html">シロクマ カフェ</a>
+  <div class="nav-links">
+    <a href="about.html">about</a>
+    <a href="diy.html">build your own</a>
+  </div>
+</nav>
+
+<div class="ep-grid">
+  <h1>シロクマ カフェ <span style="font-weight:normal;font-size:0.8em;color:#888">Episodes</span></h1>
+  <table class="ep-table" id="ep-table">
+    <thead>
+      <tr><th>EP</th><th>Title</th><th>EN</th></tr>
+    </thead>
+    <tbody id="ep-body">
+      <tr><td colspan="3" style="color:#aaa;font-size:0.9rem;padding:1rem;">Loading episodes…</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<script>
+// Load episode list from pre-built index (one request instead of 50)
+async function loadEpisodes() {
+  const tbody = document.getElementById('ep-body');
+  const rows = [];
+
+  try {
+    const r = await fetch('episodes/index.json');
+    if (!r.ok) throw new Error('no index');
+    const episodes = await r.json();
+
+    for (const e of episodes) {
+      const enCell = e.hasEn
+        ? `<a class="en-link" href="episode.html?ep=${e.ep}&en=1">EN</a>`
+        : '—';
+      rows.push(`<tr>
+        <td>${e.ep}</td>
+        <td><a href="episode.html?ep=${e.ep}">${e.title || 'Episode ' + parseInt(e.ep)}</a></td>
+        <td>${enCell}</td>
+      </tr>`);
+    }
+  } catch(e) {
+    tbody.innerHTML = '<tr><td colspan="3" style="color:#c00">Could not load episode index.</td></tr>';
+    return;
+  }
+
+  tbody.innerHTML = rows.length ? rows.join('') : '<tr><td colspan="3">No episodes found.</td></tr>';
+}
+
+loadEpisodes();
+</script>
+
+</body>
+</html>

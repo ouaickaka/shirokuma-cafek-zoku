@@ -1,0 +1,754 @@
+{
+  "ep": "09",
+  "title": "パンダくん　張り切る",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "どうしたの？　パンダくん",
+          "en": "What's wrong, Panda-kun?"
+        },
+        {
+          "ja": "元気ないですね",
+          "en": "You don't seem very energetic."
+        },
+        {
+          "ja": "実はさ…　常勤パンダさんが",
+          "en": "Actually... it's about Full-time Panda."
+        },
+        {
+          "ja": "親戚の結婚式で　しばらく 実家の中国に帰るんだって",
+          "en": "He's going back to his family home in China for a while for a relative's wedding."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "なんで　それで 元気ないの？",
+          "en": "Why does that make you feel down?"
+        },
+        {
+          "ja": "それがね…",
+          "en": "Well, you see..."
+        },
+        {
+          "ja": "１週間留守にするからって",
+          "en": "He said he'll be away for a week."
+        },
+        {
+          "ja": "代わりにバイト　フルに 入ることになっちゃったんだよ",
+          "en": "I ended up having to work full shifts as a substitute."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "動物園のバイト？",
+          "en": "The zoo job?"
+        },
+        {
+          "ja": "そう",
+          "en": "Yes."
+        },
+        {
+          "ja": "でも　たった１週間でしょ？",
+          "en": "But it's just one week, right?"
+        },
+        {
+          "ja": "１週間も　だよ～",
+          "en": "It's a whole week, you know!"
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "早起きできるかな…　しかも毎日",
+          "en": "I wonder if I can wake up early... and every day, too."
+        },
+        {
+          "ja": "自信がないよ",
+          "en": "I'm not confident."
+        },
+        {
+          "ja": "大変なのは早起きじゃなくて 満員電車じゃない？",
+          "en": "Isn't the hard part not waking up early, but the crowded train?"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "満員電車？",
+          "en": "Crowded train?"
+        },
+        {
+          "ja": "朝　会社に行く人たちで電車がいっぱいになるのが",
+          "en": "In the morning, the trains get packed with people going to work."
+        },
+        {
+          "ja": "満員電車だよ",
+          "en": "It's a packed train."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "僕ら　コウテイペンギンは 慣れてるからいいけど…",
+          "en": "We Emperor Penguins are used to it, so it's fine..."
+        },
+        {
+          "ja": "え？　ペンギンさんも電車　乗るの？",
+          "en": "Huh? Do penguins ride trains too?"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "違うよ",
+          "en": "No, that's not it."
+        },
+        {
+          "ja": "南極じゃ　みんな集まって 子育てするから",
+          "en": "In Antarctica, everyone gathers together to raise their young."
+        },
+        {
+          "ja": "もう　満員電車並みの混雑だよ",
+          "en": "It's as crowded as a packed train."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "みんな おしくらまんじゅう状態だもんね",
+          "en": "Everyone's packed in like sardines, you know."
+        },
+        {
+          "ja": "おしくらまんじゅう？",
+          "en": "Pushing and shoving?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "楽しそうだね",
+          "en": "That sounds fun."
+        },
+        {
+          "ja": "なんだか　楽しみになってきたよ",
+          "en": "Somehow, I'm starting to look forward to it."
+        },
+        {
+          "ja": "早く帰って　明日に備えなくちゃ",
+          "en": "I need to get home early and prepare for tomorrow."
+        },
+        {
+          "ja": "じゃあ…　ごちそうさま",
+          "en": "Well then... thank you for the meal."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "大丈夫かな…",
+          "en": "I wonder if it'll be okay..."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "あ…　早く　早く",
+          "en": "Oh... hurry, hurry"
+        },
+        {
+          "ja": "急がないと 満員電車に乗れないよ",
+          "en": "If we don't hurry, we won't be able to get on the crowded train."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "おはよう　パンダくん",
+          "en": "Good morning, Panda-kun."
+        },
+        {
+          "ja": "おはようございま～す",
+          "en": "Good morniiiing!"
+        },
+        {
+          "ja": "バイト？　頑張ってね～",
+          "en": "Part-time job? Good luck!"
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "行ってきま～す",
+          "en": "I'm off!"
+        },
+        {
+          "ja": "すみませ～ん",
+          "en": "Excuse me~"
+        },
+        {
+          "ja": "いらっしゃいませ",
+          "en": "Welcome!"
+        },
+        {
+          "ja": "お花　選んでいただけますか？",
+          "en": "Could you help me choose some flowers?"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "おしくらまんじゅうだね～",
+          "en": "It's like a game of \"push and shove,\" isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "ドアが閉まります ご注意ください　ドアが閉まります",
+          "en": "The doors are closing. Please be careful. The doors are closing."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "すみません パンダ専用車両はどこですか？",
+          "en": "Excuse me, where is the panda-only car?"
+        },
+        {
+          "ja": "ないと思います…",
+          "en": "I don't think there is one..."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "ど…　どこか… 空いてるところは…",
+          "en": "Is there... anywhere... with some space?"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "きついよ…",
+          "en": "It's tight..."
+        },
+        {
+          "ja": "この先　揺れますので ご注意ください",
+          "en": "Please be careful, as it will be bumpy ahead."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "パンダく～ん",
+          "en": "Panda-kun!"
+        },
+        {
+          "ja": "ごはんだよ？",
+          "en": "It's time to eat, okay?"
+        },
+        {
+          "ja": "そこ　置いといて",
+          "en": "Just leave it there."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "うん…",
+          "en": "Yeah..."
+        },
+        {
+          "ja": "朝からバイトで大変なのは わかるけどさ",
+          "en": "I understand it's tough having a part-time job from the morning, but..."
+        },
+        {
+          "ja": "もう少し　お客さんにサービスしてよ",
+          "en": "Please give the customers a little more service."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "もう　満員電車やだ…",
+          "en": "I'm so tired of crowded trains..."
+        },
+        {
+          "ja": "半田さん　朝代わってよ",
+          "en": "Handa, can you take the morning shift for me?"
+        },
+        {
+          "ja": "やだって言ったって 仕方ないでしょう？",
+          "en": "Even if you say you don't want to, there's nothing you can do about it, right?"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "僕　もう少し遅く来るから 朝だけパンダ代わって",
+          "en": "I'll come a little later, so just cover for me in the morning, Panda."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "代われって言われても　無理だし",
+          "en": "Even if you tell me to switch, it's impossible."
+        },
+        {
+          "ja": "大丈夫　体型似てるから",
+          "en": "It's fine, our body types are similar."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "いやいや…",
+          "en": "No way..."
+        },
+        {
+          "ja": "ありえないから 頑張ってよ　約束でしょ",
+          "en": "It's impossible, but do your best. It's a promise, right?"
+        },
+        {
+          "ja": "ごはん　ここ置いとくからね",
+          "en": "I'll leave the food here, okay?"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "チェッ",
+          "en": "Tch"
+        },
+        {
+          "ja": "あ～　満員電車のこと考えると",
+          "en": "Ah, when I think about the crowded train..."
+        },
+        {
+          "ja": "食欲が出ないよ",
+          "en": "I don't have an appetite."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "パンダくん",
+          "en": "Panda-kun"
+        },
+        {
+          "ja": "パンダくんにお届け物です",
+          "en": "A delivery for Panda-kun."
+        },
+        {
+          "ja": "花？",
+          "en": "Flowers?"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "いつも見てます お仕事頑張ってね",
+          "en": "I'm always watching. Keep up the good work!"
+        },
+        {
+          "ja": "あなたのファンより　リンリン",
+          "en": "From your fan, Lin Lin"
+        },
+        {
+          "ja": "僕のファン！？",
+          "en": "My fan!?"
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "リンリンちゃん",
+          "en": "Rinrin!"
+        },
+        {
+          "ja": "僕　頑張るよ！",
+          "en": "I'll do my best!"
+        },
+        {
+          "ja": "ママ　パンダさん立った！",
+          "en": "Mom, the panda stood up!"
+        },
+        {
+          "ja": "すごいわね",
+          "en": "That's amazing!"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "リンリンちゃん",
+          "en": "Rinrin!"
+        },
+        {
+          "ja": "いってきます！",
+          "en": "I'm off!"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "もしかして　リンリンちゃん？",
+          "en": "Could it be Linlin-chan?"
+        },
+        {
+          "ja": "もしもし",
+          "en": "Hello?"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "リンリンちゃん　僕　頑張るからね！",
+          "en": "Rinrin-chan, I'll do my best!"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "リンリンちゃんが 見ててくれるんだから",
+          "en": "Because Rinrin-chan is watching over me."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "きっと…　あのなかに リンリンちゃんが…",
+          "en": "I'm sure... Rinrin-chan is in there..."
+        },
+        {
+          "ja": "ここんとこ 張り切ってるな　パンダくん",
+          "en": "You've been really enthusiastic lately, Panda-kun."
+        },
+        {
+          "ja": "でも　どうして？",
+          "en": "But why?"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "お疲れ様",
+          "en": "Good job."
+        },
+        {
+          "ja": "今日　常勤パンダさん 戻って来たんでしょ？",
+          "en": "I heard that the full-time panda came back today, right?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "お土産もらった",
+          "en": "I got a souvenir."
+        },
+        {
+          "ja": "パンダくん１日も 遅刻しなかったんだってね",
+          "en": "I heard Panda-kun didn't arrive late even once."
+        },
+        {
+          "ja": "すごいじゃない",
+          "en": "That's impressive."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "大切な人が見ててくれるから",
+          "en": "Because someone important is watching over me."
+        },
+        {
+          "ja": "それにしても なんかすごく疲れてない？",
+          "en": "Still, don't you seem really tired?"
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "なんだか　あちこち ボロボロで汚れてるし",
+          "en": "Somehow, I'm all worn out and dirty all over."
+        },
+        {
+          "ja": "頑張りすぎなんじゃない",
+          "en": "Maybe you're trying too hard."
+        },
+        {
+          "ja": "ゆっくり 休んだほうがいいと思うよ",
+          "en": "I think you should take it easy and get some rest."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "うん あの子に こんな格好見せられないし",
+          "en": "Yeah, I can't let that kid see me looking like this."
+        },
+        {
+          "ja": "あの子？",
+          "en": "That kid?"
+        },
+        {
+          "ja": "今日はもう帰るね",
+          "en": "I'm going to head home for today."
+        },
+        {
+          "ja": "あ　忘れてるよ　天津甘栗チョコレート！",
+          "en": "Oh, you forgot your Tianjin chestnut chocolate!"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "昨日もステキ 今日も頑張ってね",
+          "en": "You were wonderful yesterday, and do your best today too!"
+        },
+        {
+          "ja": "リンリンちゃん　１週間　僕頑張ったよ",
+          "en": "Rinrin-chan, I worked hard for a week."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "急がなくっちゃ",
+          "en": "I have to hurry."
+        },
+        {
+          "ja": "リンリンちゃん　今日も　僕が 朝からいるって思ってないかな",
+          "en": "Rinrin, do you think I might be here from the morning again today?"
+        },
+        {
+          "ja": "すれ違いになったら大変",
+          "en": "It would be a problem if we miss each other."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "おはよう　パンダくん",
+          "en": "Good morning, Panda-kun."
+        },
+        {
+          "ja": "おはようございます",
+          "en": "Good morning."
+        },
+        {
+          "ja": "今日から　通常勤務じゃないの？",
+          "en": "Aren't you back to your regular shift starting today?"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "えっ？　ああ…　うん…",
+          "en": "Huh? Oh... yeah..."
+        },
+        {
+          "ja": "だよね　ドキッとしちゃったよ",
+          "en": "Right? It made my heart skip a beat."
+        },
+        {
+          "ja": "僕が選んだ花　気に入ってくれた？",
+          "en": "Did you like the flowers I chose?"
+        },
+        {
+          "ja": "えっ？　ああ　リンリンちゃんのお花？",
+          "en": "Huh? Oh, the flowers from Rinrin?"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "大切にしてるよ",
+          "en": "I'm taking good care of them."
+        },
+        {
+          "ja": "あっ　そうだ　ちょっと 見せたいものがあるんだ",
+          "en": "Oh, right, there's something I want to show you."
+        },
+        {
+          "ja": "待ってて",
+          "en": "Wait here."
+        },
+        {
+          "ja": "はい",
+          "en": "Sure."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "今日は　リンリンちゃん　来てないの？",
+          "en": "Isn't Rinrin-chan coming today?"
+        },
+        {
+          "ja": "ああ　リンリンって　僕のことね",
+          "en": "Oh, by \"Rinrin,\" you mean me."
+        },
+        {
+          "ja": "林厘太郎",
+          "en": "Rin Rintaro"
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "パンダ　大好きなんだ",
+          "en": "I love pandas."
+        },
+        {
+          "ja": "あっ　パンダくんは その中でも別格だよ",
+          "en": "Oh, but Panda-kun is in a league of his own."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "リンリンズ　ベストショットは　これ",
+          "en": "Rinrin's best shot is this one."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "お気に入りだから 大きくしてみたんだ",
+          "en": "I made it bigger because it's my favorite."
+        },
+        {
+          "ja": "パンダくんにもあげるね",
+          "en": "I'll give one to Panda-kun too."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "いらない…",
+          "en": "I don't need it..."
+        },
+        {
+          "ja": "これ　返す…",
+          "en": "I'll give this back..."
+        },
+        {
+          "ja": "なんで？",
+          "en": "Why?"
+        },
+        {
+          "ja": "ウワーン！",
+          "en": "Waaah!"
+        },
+        {
+          "ja": "あっ　パンダくん！",
+          "en": "Ah, Panda-kun!"
+        }
+      ]
+    }
+  ]
+}

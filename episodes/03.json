@@ -1,0 +1,1085 @@
+{
+  "ep": "03",
+  "title": "みんなのカフェ",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "僕の家の朝は早いです",
+          "en": "Mornings at my house start early."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "朝起きて一番に　中庭に集まって家族みんなで太極拳をします",
+          "en": "When we wake up in the morning, the first thing we do is gather in the courtyard and practice Tai Chi as a family."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "お爺ちゃんが中国拳法の達人だからです",
+          "en": "It's because Grandpa is a master of Chinese martial arts."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "太極拳が終わったら　朝ごはんを食べます",
+          "en": "After finishing Tai Chi, we have breakfast."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "いつまで寝てるの",
+          "en": "How long are you going to sleep?"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "今日動物園休みなんだから　寝かせて",
+          "en": "Let me sleep in since the zoo is closed today."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "みんなとっくに起きて太極拳やって　朝ごはん食べてるわよ",
+          "en": "Everyone's already up, doing Tai Chi, and having breakfast."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "太極拳でしょう　ベッドの上でやる",
+          "en": "It's Tai Chi, right? I'll do it on the bed."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "まったくもう",
+          "en": "Honestly..."
+        },
+        {
+          "ja": "あ～　す　吸わないで",
+          "en": "Ah~ Don't suck!"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "お疲れですか",
+          "en": "Are you tired?"
+        },
+        {
+          "ja": "最近運動不足だから　肩こちゃって",
+          "en": "I've been lacking exercise lately, so my shoulders are stiff."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "笹子さん　ちょっと　肩もんでくれない",
+          "en": "Mr. Sasago, could you give my shoulders a little massage?"
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "どうしたの",
+          "en": "What's wrong?"
+        },
+        {
+          "ja": "ちょっと肩が見つからなくて",
+          "en": "I can't seem to find your shoulder."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "ペンギンさんの肩って　どこにあるんですか",
+          "en": "Where exactly are a penguin's shoulders?"
+        },
+        {
+          "ja": "え　ここだよ　わかるでしょう",
+          "en": "Huh, it's right here. You can tell, right?"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "わかりません",
+          "en": "I don't know."
+        },
+        {
+          "ja": "じゃ　白熊君　肩揉んでくれる",
+          "en": "Then, Shirokuma-kun, could you give me a shoulder massage?"
+        },
+        {
+          "ja": "いいよ",
+          "en": "Sure"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "刺さってる　刺さってる",
+          "en": "It's poking, it's poking."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "いらっしゃいませ",
+          "en": "Welcome"
+        },
+        {
+          "ja": "いらっしゃい",
+          "en": "Welcome"
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "や　パンダ君",
+          "en": "Hey, Panda."
+        },
+        {
+          "ja": "ペンギンさん　来てたの",
+          "en": "Penguin, you came!"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "動物園のバイト　今日は休み",
+          "en": "I have the day off from my zoo part-time job today."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "うん　笹子さん　いつもの",
+          "en": "Yeah, Sasako, the usual."
+        },
+        {
+          "ja": "はい　竹大盛りね",
+          "en": "Sure, a large serving of bamboo."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "白熊君のお店　今日も人いっぱいだね",
+          "en": "Polar Bear's shop is packed with people again today."
+        },
+        {
+          "ja": "コーヒーも食べ物も美味しいよね",
+          "en": "The coffee and food are delicious, aren't they?"
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "おしゃれだしね",
+          "en": "And it's stylish, too."
+        },
+        {
+          "ja": "そうだね",
+          "en": "That's true."
+        },
+        {
+          "ja": "おしゃれな女の子がいっぱいだね",
+          "en": "There are a lot of stylish girls here."
+        },
+        {
+          "ja": "そうだね",
+          "en": "That's true."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "珍しい動物も来てるよね",
+          "en": "There are also some rare animals here, aren't there?"
+        },
+        {
+          "ja": "そうだね",
+          "en": "That's true."
+        },
+        {
+          "ja": "カフェやってる白熊君って格好よくない",
+          "en": "Isn't the polar bear running the café cool?"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "そう",
+          "en": "Yeah."
+        },
+        {
+          "ja": "まあ　お客でダラダラしてるペンギンさんは",
+          "en": "Well, the penguin who's always lounging around as a customer..."
+        },
+        {
+          "ja": "とくには格好よくないね",
+          "en": "He's not particularly cool."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "僕と比べるのはやめてくれない",
+          "en": "Could you stop comparing him to me?"
+        },
+        {
+          "ja": "あ　白熊君　カフェモカ頂戴",
+          "en": "Oh, Shirokuma-kun, can I have a café mocha?"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "それは卓袱台",
+          "en": "That's a low table."
+        },
+        {
+          "ja": "それは宿題",
+          "en": "That's homework."
+        },
+        {
+          "ja": "それは兄弟",
+          "en": "That's a sibling."
+        },
+        {
+          "ja": "「頂戴～」ね",
+          "en": "\"Like 'gimme'~\" huh?"
+        },
+        {
+          "ja": "はい　カフェモカ",
+          "en": "Here you go, a café mocha."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "普通にやってよね",
+          "en": "Just do it normally, okay?"
+        },
+        {
+          "ja": "どうぞごゆっくり",
+          "en": "Please take your time."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "笹子さん　ちょっと出てくるね",
+          "en": "Sasako, I'm stepping out for a bit."
+        },
+        {
+          "ja": "うん　はい　白熊さん　いってらっしゃい",
+          "en": "Yeah, okay. Bye, Polar Bear. Take care."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "そうだ　僕もカフェを開いてみたらどうかな",
+          "en": "Oh, right. How about I try opening a café too?"
+        },
+        {
+          "ja": "パンダ君が",
+          "en": "Panda-kun is..."
+        },
+        {
+          "ja": "パンダカフェ",
+          "en": "Panda Cafe"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "そのまんまだね",
+          "en": "That's exactly what it sounds like."
+        },
+        {
+          "ja": "どんなカフェにしようかなぁ",
+          "en": "What kind of café should I make?"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "まったりできる　レトロなカフェがいいな",
+          "en": "A retro café where you can relax would be nice."
+        },
+        {
+          "ja": "うん　コンセプトは悪くないね",
+          "en": "Yeah, the concept isn't bad."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "いらっしゃいませ",
+          "en": "Welcome"
+        },
+        {
+          "ja": "可愛いな　僕",
+          "en": "How cute, me."
+        },
+        {
+          "ja": "自分で言わないで",
+          "en": "Don't say that about yourself."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "それでね",
+          "en": "And so..."
+        },
+        {
+          "ja": "お店に中にね　僕のコレクションも飾ろうかな",
+          "en": "I'm thinking of displaying my collection inside the shop."
+        },
+        {
+          "ja": "パンダ君のコレクションって　パンダグッヅ",
+          "en": "Panda-kun's collection, you mean panda goods?"
+        },
+        {
+          "ja": "そうだよ　可愛いよ",
+          "en": "That's right, it's cute."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "何",
+          "en": "What?"
+        },
+        {
+          "ja": "パンダ推しだね",
+          "en": "You're really into pandas, aren't you?"
+        },
+        {
+          "ja": "何か問題ある",
+          "en": "Is there a problem?"
+        },
+        {
+          "ja": "いや　いいけど　それから",
+          "en": "No, it's fine, but then..."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "当店のおすすめは日替わり竹ランチです",
+          "en": "Our restaurant's recommendation is the daily bamboo lunch special."
+        },
+        {
+          "ja": "お品書きはこちらです",
+          "en": "Here is the menu."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "竹特上",
+          "en": "Premium Bamboo"
+        },
+        {
+          "ja": "竹上",
+          "en": "Bamboo Deluxe"
+        },
+        {
+          "ja": "竹並",
+          "en": "Bamboo Regular"
+        },
+        {
+          "ja": "若竹煮",
+          "en": "Simmered Young Bamboo"
+        },
+        {
+          "ja": "竹ずし",
+          "en": "Bamboo Sushi"
+        },
+        {
+          "ja": "竹かまぼこ……",
+          "en": "Bamboo fish cake..."
+        },
+        {
+          "ja": "……竹定食　松　竹　梅",
+          "en": "...Bamboo Set Meal: Pine, Bamboo, Plum"
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "ちょっと　ちょっと",
+          "en": "Wait a minute, wait a minute."
+        },
+        {
+          "ja": "パンダ君の好物しかおいてないじゃない　そのカフェ",
+          "en": "That café only has things that pandas like."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "僕の好きなものは　皆もきっと好きだよ",
+          "en": "The things I like, everyone else is sure to like too."
+        },
+        {
+          "ja": "美味しいよ　竹",
+          "en": "Bamboo is delicious."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "生魚はおいてないの",
+          "en": "Don't they have raw fish?"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "カフェに生魚はおいてないでしょう",
+          "en": "They don't serve raw fish at a café, do they?"
+        },
+        {
+          "ja": "カフェに竹なんておいてないでしょう",
+          "en": "There's no way they have bamboo at the café."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "しろくまカフェにはおいてあるよ",
+          "en": "They have it at the Polar Bear Café."
+        },
+        {
+          "ja": "頼むのパンダ君だけでしょう",
+          "en": "You're the only one who orders it, Panda-kun."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "僕はやっぱり生魚おいて欲しいね",
+          "en": "I still really want them to have raw fish."
+        },
+        {
+          "ja": "そう　若竹煮ならあるよ",
+          "en": "Yes, we do have simmered bamboo shoots."
+        },
+        {
+          "ja": "全然違うジャンルですね",
+          "en": "That's a completely different category."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "だよね",
+          "en": "Right?"
+        },
+        {
+          "ja": "だいたいその竹定食の松　竹　梅って紛らわしいよ",
+          "en": "The whole \"bamboo set meal\" with pine, bamboo, and plum is pretty confusing."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "そうかな",
+          "en": "Is that so?"
+        },
+        {
+          "ja": "まあ　竹中心のメニューだと　お客さんはあんまりこないよ",
+          "en": "Well, if the menu is centered around bamboo, not many customers will come."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "え　絶対来るよ",
+          "en": "Huh? They'd definitely come!"
+        },
+        {
+          "ja": "なんでそう思えるの",
+          "en": "Why do you think that?"
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "ラマさんはパンダカフェ来てくれるよね",
+          "en": "Llama, you'll come to the Panda Cafe, right?"
+        },
+        {
+          "ja": "僕竹食べるとお腹痛くなっちゃうんです",
+          "en": "Eating bamboo gives me a stomachache."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "どうしよう　ペンギンさん",
+          "en": "What should I do, Penguin?"
+        },
+        {
+          "ja": "普通の料理も出したら",
+          "en": "What if they served regular food too?"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "ほら　パスタとかさあ",
+          "en": "Look, like pasta or something."
+        },
+        {
+          "ja": "いいね　竹パスタ",
+          "en": "Sounds good, bamboo pasta."
+        },
+        {
+          "ja": "いや　竹忘れよう",
+          "en": "No, let's forget about the bamboo."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "やってみたいなあ　パンダカフェ",
+          "en": "I'd love to try it, Panda Cafe."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "悪い予感がするね",
+          "en": "I have a bad feeling about this."
+        },
+        {
+          "ja": "いらっしゃい",
+          "en": "Welcome"
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "戻してね",
+          "en": "Put it back, okay?"
+        },
+        {
+          "ja": "はい　竹いっちょう",
+          "en": "Sure, one bamboo coming up."
+        },
+        {
+          "ja": "大盛りもできますよ　どうしますか",
+          "en": "We can make it a large serving too. What would you like to do?"
+        },
+        {
+          "ja": "戻してね",
+          "en": "Put it back, okay?"
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "パンダ君じゃダメだね　僕がカフェやるよ",
+          "en": "Panda-kun isn't good enough, so I'll run the café."
+        },
+        {
+          "ja": "どんなカフェなの",
+          "en": "What kind of café is it?"
+        },
+        {
+          "ja": "そうだね　ペンギンカフェ",
+          "en": "Yeah, a Penguin Café."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "そのまんまだね",
+          "en": "That's exactly what it sounds like."
+        },
+        {
+          "ja": "いやいや　和風のカフェなんだよ",
+          "en": "No, no, it's actually a Japanese-style café."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "メニューは　そうだな",
+          "en": "The menu, let's see..."
+        },
+        {
+          "ja": "生魚とアルコールが中心から",
+          "en": "The menu mainly features raw fish and alcohol."
+        },
+        {
+          "ja": "和風カフェっていうより　お寿司屋さんみたいなメニューだね",
+          "en": "The menu is more like a sushi restaurant than a Japanese-style café."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "コンセプトは四季おり売りの新鮮な海の幸を",
+          "en": "The concept is to offer fresh seasonal seafood."
+        },
+        {
+          "ja": "店主が選んだ　こだわりのお酒でいただけるカフェ",
+          "en": "A café where you can enjoy carefully selected drinks chosen by the owner."
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "それカフェじゃなくて　お寿司屋さんじゃない",
+          "en": "That's not a café, it's a sushi restaurant."
+        },
+        {
+          "ja": "違うよ　でね",
+          "en": "No, it's not like that."
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "カフェの真ん中には水槽おいてね",
+          "en": "They have an aquarium in the middle of the café."
+        },
+        {
+          "ja": "水槽の中では魚が泳いでいて",
+          "en": "Fish are swimming inside the tank."
+        },
+        {
+          "ja": "お客さんは自分の選んだ魚を食られるの",
+          "en": "Customers can eat the fish they choose."
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "生け簀があるカフェなんてないよ",
+          "en": "There's no such thing as a café with a fish tank."
+        },
+        {
+          "ja": "カフェっぽさも入れてよ",
+          "en": "Include a café-like atmosphere too."
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "カフェっぽさ　入ってない",
+          "en": "It doesn't have the café vibe."
+        },
+        {
+          "ja": "ペンギンカフェだよ",
+          "en": "It's a penguin café."
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "名前だけでしょう",
+          "en": "It's just the name, right?"
+        },
+        {
+          "ja": "だったら　コーヒー出したりしたらどうですか",
+          "en": "Then how about serving coffee or something?"
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "でも　市場まで魚の仕入れがあるかな",
+          "en": "But I wonder if we can get fish from the market."
+        },
+        {
+          "ja": "そこまで手が回るかな",
+          "en": "Can we really manage all that?"
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "やめちゃえば　カフェ",
+          "en": "Why not just quit the café?"
+        },
+        {
+          "ja": "何言ってるの　やるよ　僕は",
+          "en": "What are you talking about? I'm doing it."
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "へ　いらっしゃい",
+          "en": "Welcome!"
+        },
+        {
+          "ja": "旦那　何しやしょうか",
+          "en": "What can I do for you, sir?"
+        },
+        {
+          "ja": "戻してね",
+          "en": "Put it back, okay?"
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "ラマカフェはどうですか",
+          "en": "How about a llama café?"
+        },
+        {
+          "ja": "どんなカフェ",
+          "en": "What kind of café?"
+        },
+        {
+          "ja": "ラマがいるカフェなんですけど",
+          "en": "It's a café with llamas."
+        },
+        {
+          "ja": "そのまんまだね",
+          "en": "That's exactly what it sounds like."
+        }
+      ]
+    },
+    {
+      "audio": 63,
+      "lines": [
+        {
+          "ja": "コーヒー運べるの",
+          "en": "Can they carry coffee?"
+        },
+        {
+          "ja": "バランス次第です",
+          "en": "It depends on the balance."
+        }
+      ]
+    },
+    {
+      "audio": 64,
+      "lines": [
+        {
+          "ja": "コンセプトとしては店内のラマに草をあげたり",
+          "en": "The concept is to feed grass to the llamas inside the café."
+        },
+        {
+          "ja": "毛繕いしたり　自由にかわいがって　いいカフェなんです",
+          "en": "It's a nice café where you can groom them, freely adore them, and enjoy yourself."
+        }
+      ]
+    },
+    {
+      "audio": 65,
+      "lines": [
+        {
+          "ja": "猫カフェみたいだね",
+          "en": "It's like a cat café."
+        },
+        {
+          "ja": "なんだって　毛繕いできるんですよ　すごくないですか",
+          "en": "You can even groom them, isn't that amazing?"
+        }
+      ]
+    },
+    {
+      "audio": 66,
+      "lines": [
+        {
+          "ja": "そうかな　楽しいのそれ",
+          "en": "Really? Is that fun?"
+        },
+        {
+          "ja": "しかもですね",
+          "en": "And what's more,"
+        },
+        {
+          "ja": "好きなラマを選んで一緒に外でお散歩できたりするんです",
+          "en": "You can choose your favorite llama and go for a walk outside with it."
+        }
+      ]
+    },
+    {
+      "audio": 67,
+      "lines": [
+        {
+          "ja": "じゃ　このラマ",
+          "en": "Then, this llama."
+        },
+        {
+          "ja": "ありがとうございま～～す",
+          "en": "Thank you so muuuuch!"
+        }
+      ]
+    },
+    {
+      "audio": 68,
+      "lines": [
+        {
+          "ja": "ちょっと　草食べってかない",
+          "en": "Hey, why don't we stop and let them eat some grass?"
+        },
+        {
+          "ja": "少し塩気が足りないね",
+          "en": "It's a bit lacking in saltiness, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 69,
+      "lines": [
+        {
+          "ja": "素敵でしょう",
+          "en": "Isn't it wonderful?"
+        },
+        {
+          "ja": "楽しいかな　それ",
+          "en": "Do you think that's fun?"
+        },
+        {
+          "ja": "やっぱりパンダカフェが一番だよ",
+          "en": "After all, the Panda Cafe is the best."
+        }
+      ]
+    },
+    {
+      "audio": 70,
+      "lines": [
+        {
+          "ja": "ペンギンカフェじゃない",
+          "en": "Not the Penguin Cafe."
+        },
+        {
+          "ja": "ねえ　白熊君はどう思う",
+          "en": "Hey, what do you think, Shirokuma-kun?"
+        },
+        {
+          "ja": "うん　ラマカフェ",
+          "en": "Yeah, the Llama Cafe."
+        }
+      ]
+    },
+    {
+      "audio": 71,
+      "lines": [
+        {
+          "ja": "ほらね",
+          "en": "See?"
+        },
+        {
+          "ja": "笹子さんは",
+          "en": "What about Sasako?"
+        },
+        {
+          "ja": "はい",
+          "en": "Sure"
+        },
+        {
+          "ja": "どのカフェがいいと思う",
+          "en": "Which café do you think is good?"
+        },
+        {
+          "ja": "うん　そうですね",
+          "en": "Yeah, let's see..."
+        },
+        {
+          "ja": "笹子カフェ",
+          "en": "Sasago Cafe"
+        }
+      ]
+    },
+    {
+      "audio": 72,
+      "lines": [
+        {
+          "ja": "やっぱりパンダカフェだよね",
+          "en": "It's got to be Panda Cafe, right?"
+        },
+        {
+          "ja": "え　ペンギンカフェでしょう",
+          "en": "Huh? It should be the Penguin Cafe."
+        },
+        {
+          "ja": "いえいえ　ラマカフェですよ",
+          "en": "No, no, it's the Llama Cafe."
+        }
+      ]
+    },
+    {
+      "audio": 73,
+      "lines": [
+        {
+          "ja": "ちょ　ちょっと　聞いてくださいよ",
+          "en": "Hey, hey, listen to me for a second."
+        },
+        {
+          "ja": "うん　どんなの",
+          "en": "Yeah, what kind?"
+        },
+        {
+          "ja": "えーと　そうですね",
+          "en": "Um, well, let's see."
+        }
+      ]
+    },
+    {
+      "audio": 74,
+      "lines": [
+        {
+          "ja": "パンダっぽい笹子さんがいるんでしょう",
+          "en": "There's that Sasako who looks like a panda, right?"
+        },
+        {
+          "ja": "え　それじゃパンダカフェと変わらないじゃない",
+          "en": "Eh, then it's no different from a panda cafe."
+        },
+        {
+          "ja": "いえいえ　ラマっぽい笹子さんが",
+          "en": "No, no, it's more like a llama-like Sasako-san."
+        }
+      ]
+    }
+  ]
+}

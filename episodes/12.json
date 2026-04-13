@@ -1,0 +1,860 @@
+{
+  "ep": "12",
+  "title": "目指せ！　ワイルドパンダ",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "いらっしゃい",
+          "en": "Welcome"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "こんにちは",
+          "en": "Hello"
+        },
+        {
+          "ja": "何してるの　パンダくん",
+          "en": "What are you doing, Panda-kun?"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "どうしたの　その格好",
+          "en": "What's with that outfit?"
+        },
+        {
+          "ja": "悪いヤツな気分になってみたくて",
+          "en": "I wanted to see what it feels like to be a bad guy."
+        },
+        {
+          "ja": "ワルな人って憧れちゃうな",
+          "en": "I really admire bad guys."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "パンダくん　いつもの？",
+          "en": "Panda-kun, the usual?"
+        },
+        {
+          "ja": "うん　あ　いや　ストロングコーヒー",
+          "en": "Yeah, uh, no, strong coffee."
+        },
+        {
+          "ja": "えっ　ストロング？　結構　苦いよ",
+          "en": "Huh, strong? It's pretty bitter, you know."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "今日は　ワルの気分だから",
+          "en": "I'm feeling like a bad guy today."
+        },
+        {
+          "ja": "はい　ストロング",
+          "en": "Here's your strong coffee."
+        },
+        {
+          "ja": "いただきます",
+          "en": "Thank you."
+        },
+        {
+          "ja": "外せば",
+          "en": "If you take it off"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "ねぇ　ワルのどこに憧れたの？",
+          "en": "Hey, what made you admire the bad guys?"
+        },
+        {
+          "ja": "ほら　僕って優柔不断だから",
+          "en": "You see, I'm indecisive."
+        },
+        {
+          "ja": "強気な人が羨ましくって",
+          "en": "I envy people who are strong-willed."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "それ　ワルとは関係ないでしょ",
+          "en": "That has nothing to do with being a bad guy, right?"
+        },
+        {
+          "ja": "えっ　そう？",
+          "en": "Oh, really?"
+        },
+        {
+          "ja": "僕に足りないのは ワイルドさだと思うんだ",
+          "en": "I think what I'm lacking is a bit of wildness."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "ワイルドねぇ…",
+          "en": "Wild, huh..."
+        },
+        {
+          "ja": "うわ～　苦っ！",
+          "en": "Wow, that's bitter!"
+        },
+        {
+          "ja": "やっぱり…",
+          "en": "I knew it..."
+        },
+        {
+          "ja": "マイルドなコーヒーね",
+          "en": "Mild coffee, huh?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "いろいろビデオを見て ワイルドなイメージを膨らませてみたの",
+          "en": "I watched various videos to expand my idea of what \"wild\" means."
+        },
+        {
+          "ja": "ビデオ？",
+          "en": "Video?"
+        },
+        {
+          "ja": "うんとね…",
+          "en": "Well, you see..."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "山吹色の お菓子でございます",
+          "en": "It’s a yellow confectionery."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "越後屋　お主もワルよのう",
+          "en": "Echigoya, you're quite the villain yourself."
+        },
+        {
+          "ja": "ノー　ノー！",
+          "en": "No, no!"
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "微妙に　ズレてない？　それ",
+          "en": "Isn't that a bit off?"
+        },
+        {
+          "ja": "イマイチ強気で ワイルドなイメージがつかめなくて",
+          "en": "I can't quite grasp the strong and wild image."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "強気で　ワイルドですか",
+          "en": "Confident and wild, you say?"
+        },
+        {
+          "ja": "グリズリーくんとか　そうかも",
+          "en": "Maybe like Grizzly-kun or something."
+        },
+        {
+          "ja": "えっ　誰？　誰？",
+          "en": "Huh? Who? Who?"
+        },
+        {
+          "ja": "お店やってるから 夜　行ってみる？",
+          "en": "Since he runs a shop, do you want to go check it out tonight?"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "グリズリーさんのお店って　この辺りなの？",
+          "en": "Is Grizzly's shop around here?"
+        },
+        {
+          "ja": "いや　もっと先",
+          "en": "No, it's further ahead."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "ここを抜けると　すぐそこ",
+          "en": "Once you get through here, it's right there."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "着いたよ　ここね",
+          "en": "We're here. This is the place."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "パンダくん　こっち　こっち",
+          "en": "Panda, over here, over here!"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "確かに　ワイルドなお店だね",
+          "en": "It's definitely a wild shop."
+        },
+        {
+          "ja": "猛獣館って感じ？",
+          "en": "Does it feel like a wild animal house?"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "こんばんは　グリズリーくん",
+          "en": "Good evening, Grizzly."
+        },
+        {
+          "ja": "よお　シロクマ 久しぶりじゃねえか",
+          "en": "Hey, Polar Bear! Long time no see!"
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "本当に　ワイルドだ…",
+          "en": "It's really wild..."
+        },
+        {
+          "ja": "相変わらず なまっちろい野郎だぜ　この　シロクマ野郎",
+          "en": "You're still as pale as ever, you polar bear punk."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "ちょっと焼いてこいよ　日サロで",
+          "en": "Go get a tan at the tanning salon."
+        },
+        {
+          "ja": "いや…　行っても たぶん変わらない",
+          "en": "No... Even if I go, I probably won't change."
+        },
+        {
+          "ja": "今日は　友達を連れてきた",
+          "en": "I brought a friend today."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "は…　はじめまして",
+          "en": "N-Nice to meet you."
+        },
+        {
+          "ja": "白いのか　黒いのか はっきりしねえ野郎だな",
+          "en": "Make up your mind, are you white or black?"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "パンダだからね",
+          "en": "Because I'm a panda."
+        },
+        {
+          "ja": "まあ　いいか　座れ",
+          "en": "Well, whatever. Have a seat."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "何にする？",
+          "en": "What would you like?"
+        },
+        {
+          "ja": "シングルモルト",
+          "en": "Single malt"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "おい　パンダ",
+          "en": "Hey, Panda."
+        },
+        {
+          "ja": "はい…",
+          "en": "Yes..."
+        },
+        {
+          "ja": "お前は？",
+          "en": "What about you?"
+        },
+        {
+          "ja": "えっと…　竹　大盛り",
+          "en": "Uh... bamboo, large serving."
+        },
+        {
+          "ja": "悪いな　ヘルシーなものは 置いてないんだ",
+          "en": "Sorry, we don't have anything healthy here."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "じゃ…　じゃあ… アイスコーヒー　お願いします",
+          "en": "Th-then... then... I'll have an iced coffee, please."
+        },
+        {
+          "ja": "ソフトドリンクもないね",
+          "en": "There's no soft drinks either."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "じゃあ　笹の入ったパフェを お願いします",
+          "en": "Then, I'll have a parfait with bamboo leaves, please."
+        },
+        {
+          "ja": "ヘルシーなものは ないっつってんだろ！！",
+          "en": "I told you, we don't have anything healthy!!"
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "グリズリーくん",
+          "en": "Grizzly-kun"
+        },
+        {
+          "ja": "しようがねえな",
+          "en": "I guess there's no helping it."
+        },
+        {
+          "ja": "シロクマの友人だ 特別に　コーヒー　いれてやるよ",
+          "en": "He's a friend of the polar bear. I'll make you a special coffee."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "ミルクは？",
+          "en": "Milk?"
+        },
+        {
+          "ja": "なしで",
+          "en": "Without milk."
+        },
+        {
+          "ja": "あっ　いや…　ありで",
+          "en": "Oh, actually... with milk."
+        },
+        {
+          "ja": "あっ　やっぱ　なしで",
+          "en": "Oh, actually, without it."
+        },
+        {
+          "ja": "白黒　はっきりしろ！！",
+          "en": "Make up your mind!!"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "もう…　相変わらず短気だな",
+          "en": "Jeez... You're as short-tempered as ever."
+        },
+        {
+          "ja": "まあ　パンダが白黒はっきりしたら",
+          "en": "Well, if a panda were clearly black and white..."
+        },
+        {
+          "ja": "シロクマか ただのクマになっちまうよな",
+          "en": "It would just become a polar bear or a regular bear, right?"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "グリズリーさんって　怖い人だね",
+          "en": "Grizzly is a scary person, isn't he?"
+        },
+        {
+          "ja": "そう？",
+          "en": "Really?"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "よう　兄ちゃん",
+          "en": "Hey, bro."
+        },
+        {
+          "ja": "アンタ　丸々と太ってて うまそうだな",
+          "en": "You look plump and delicious."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "どうやって食べるのがいいかな",
+          "en": "How should I eat you?"
+        },
+        {
+          "ja": "丸飲みとか",
+          "en": "Swallowing whole, maybe."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "ヤシの実とか",
+          "en": "Like a coconut or something."
+        },
+        {
+          "ja": "バーベキューとか",
+          "en": "Barbecue, maybe."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "もろきゅうとか",
+          "en": "Maybe with some morokyu."
+        },
+        {
+          "ja": "活け作りとか",
+          "en": "Sashimi platter, maybe."
+        },
+        {
+          "ja": "若作りとか",
+          "en": "Trying to look young, or something like that."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "おい　お前！",
+          "en": "Hey, you!"
+        },
+        {
+          "ja": "あんまり他の客を 怖がらすんじゃねえよ",
+          "en": "Don't scare the other customers too much."
+        },
+        {
+          "ja": "か…　帰ります！",
+          "en": "I... I'm going home!"
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "おい　パンダ！",
+          "en": "Hey, Panda!"
+        },
+        {
+          "ja": "悪かったな ほらよ　コーヒーだ",
+          "en": "Sorry about that. Here, have a coffee."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "グリズリーさん　ありがとう！",
+          "en": "Thank you, Mr. Grizzly!"
+        },
+        {
+          "ja": "ねぇ　グリズリーさん",
+          "en": "Hey, Mr. Grizzly"
+        },
+        {
+          "ja": "何だ？",
+          "en": "What is it?"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "あの写真って グリズリーさんだよね？",
+          "en": "That photo, that's you, right Grizzly?"
+        },
+        {
+          "ja": "うん？　おお　あれか",
+          "en": "Hmm? Oh, that one."
+        },
+        {
+          "ja": "愛車で　アメリカを 横断したときのやつさ",
+          "en": "That's from when I crossed America in my beloved car."
+        },
+        {
+          "ja": "かっこいい！",
+          "en": "So cool!"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "よかったぜ　地平線まで続く道を ぶっ飛ばしてよ",
+          "en": "It was great, speeding down the road that stretched all the way to the horizon."
+        },
+        {
+          "ja": "わぁ～　憧れちゃうな",
+          "en": "Wow, I really admire that."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "どうせ　お前らはスローライフとかいって ダラダラ暮らしてやがんだろ？",
+          "en": "You're probably just living a laid-back life, going on about slow living, aren't you?"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "ロハスって言ってよ",
+          "en": "It's called \"Lohas.\""
+        },
+        {
+          "ja": "言い方変えただけだろ",
+          "en": "You're just changing the wording."
+        },
+        {
+          "ja": "ゆっくりでも そんなに変わらないよ",
+          "en": "Even if it's slow, it's not that different."
+        },
+        {
+          "ja": "昔からマイペースだよな　お前は",
+          "en": "You've always been laid-back, haven't you?"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "人生は　一度きりだぜ",
+          "en": "You only live once."
+        },
+        {
+          "ja": "熱く　ぶっ飛ばさなきゃな",
+          "en": "Gotta go all out and give it everything we've got."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "グリズリーさん　すごくかっこいいね",
+          "en": "Mr. Grizzly, you're really cool."
+        },
+        {
+          "ja": "僕　そういうの大好き！",
+          "en": "I love that kind of stuff!"
+        },
+        {
+          "ja": "おっ？ シロクマの知り合いにしちゃあ",
+          "en": "Oh? For an acquaintance of a polar bear..."
+        },
+        {
+          "ja": "話のわかるヤツじゃないか",
+          "en": "You're someone who understands."
+        },
+        {
+          "ja": "ほら　冷めちまうぞ　飲めよ",
+          "en": "Hey, it'll get cold. Drink up."
+        },
+        {
+          "ja": "うん！",
+          "en": "Yeah!"
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "どうだ？ アイリッシュコーヒーにしてみたんだ",
+          "en": "How is it? I made it into an Irish coffee."
+        },
+        {
+          "ja": "まっ　コーヒーより　ウイスキーのほうが 多かったかもな",
+          "en": "Well, maybe there was more whiskey than coffee."
+        },
+        {
+          "ja": "えっ？　それは…",
+          "en": "Huh? Is that..."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "また　ソイツと来いよ",
+          "en": "Come again with that one."
+        },
+        {
+          "ja": "今度は　インスタントじゃないコーヒーを いれてやるから",
+          "en": "Next time, I'll make you coffee that's not instant."
+        },
+        {
+          "ja": "うん　マイルドで　よろしくね",
+          "en": "Yeah, make it mild, please."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "あれ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "目が覚めた？",
+          "en": "Are you awake?"
+        },
+        {
+          "ja": "シロクマくん　運んでくれたんだね",
+          "en": "Polar Bear, you carried me, didn't you?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "ありがとう",
+          "en": "Thank you."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "いいよ　別に",
+          "en": "It's no problem."
+        },
+        {
+          "ja": "それと　もうひとつ　ありがとう",
+          "en": "And also, thank you for one more thing."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "えっ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "僕　だいぶ　ワイルドってのが わかった気がするよ",
+          "en": "I think I've realized that I'm quite wild."
+        },
+        {
+          "ja": "そう　それならよかった",
+          "en": "Oh, I'm glad to hear that."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "シロクマくん　どう？　これ",
+          "en": "Shirokuma-kun, what do you think of this?"
+        },
+        {
+          "ja": "ワイルド？",
+          "en": "Wild?"
+        },
+        {
+          "ja": "いやぁ　マイルドかな",
+          "en": "Hmm, maybe more like mild."
+        },
+        {
+          "ja": "じゃあ！",
+          "en": "See you!"
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "あれ？　パンダくん　どこ行くの？",
+          "en": "Huh? Panda, where are you going?"
+        },
+        {
+          "ja": "ワルは後ろを振り返らない",
+          "en": "Bad guys don't look back."
+        },
+        {
+          "ja": "あっ　そう…",
+          "en": "Oh, I see..."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "ペンギンさん　ペンギンさん",
+          "en": "Penguin, Penguin"
+        },
+        {
+          "ja": "どうしたの　パンダ君",
+          "en": "What's wrong, Panda?"
+        },
+        {
+          "ja": "ペンギンさんって　どうしてみんなに嫌われてるんだっけ",
+          "en": "Why is it that everyone dislikes you, Penguin?"
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "そんな事実ないでしょう",
+          "en": "There's no such fact, is there?"
+        },
+        {
+          "ja": "人気ものだよ　僕は",
+          "en": "I'm popular, you know."
+        },
+        {
+          "ja": "どっちでもいいじゃない",
+          "en": "Doesn't matter either way."
+        },
+        {
+          "ja": "次回のしろくまカフェは",
+          "en": "The next episode of Polar Bear Café is..."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "鉛筆書きでお送りします",
+          "en": "We'll be presenting it in pencil sketch."
+        },
+        {
+          "ja": "塗ります",
+          "en": "We'll color it in."
+        },
+        {
+          "ja": "お楽しみに",
+          "en": "Look forward to it!"
+        }
+      ]
+    }
+  ]
+}

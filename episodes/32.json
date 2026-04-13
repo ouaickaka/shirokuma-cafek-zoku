@@ -1,0 +1,1002 @@
+{
+  "ep": "32",
+  "title": "見知らぬお店",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "私が仕事で その街を訪れたのは",
+          "en": "I visited that town for work."
+        },
+        {
+          "ja": "とある暑い夏の日のことだった",
+          "en": "It was on a hot summer day."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "まとわりつく 熱気もさることながら",
+          "en": "Not only was the lingering heat oppressive, but..."
+        },
+        {
+          "ja": "何よりも私の心を ささくれさせたのは",
+          "en": "What really frayed my nerves was..."
+        },
+        {
+          "ja": "昼に入った駅前の中華屋だ",
+          "en": "The Chinese restaurant in front of the station that I went to at noon."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "蒸し暑い店内",
+          "en": "The stuffy interior of the restaurant"
+        },
+        {
+          "ja": "生ぬるい冷やし中華の麺は",
+          "en": "The lukewarm noodles of the chilled Chinese dish"
+        },
+        {
+          "ja": "みごとにのびきっていた",
+          "en": "The noodles were completely overcooked."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "しかし　頼んだものを残すのは 私のプライドが許さない",
+          "en": "However, my pride won't allow me to leave behind what I ordered."
+        },
+        {
+          "ja": "が",
+          "en": "But"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "胃はまだもたれている",
+          "en": "My stomach still feels heavy."
+        },
+        {
+          "ja": "リフレッシュせねば",
+          "en": "I need to refresh myself."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "見知らぬ街で 見知らぬ店に入るのは",
+          "en": "Entering an unfamiliar shop in an unfamiliar town is"
+        },
+        {
+          "ja": "当たりハズレが大きい",
+          "en": "It's a big hit or miss."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "生き返る",
+          "en": "I feel alive again."
+        },
+        {
+          "ja": "いらっしゃいませ お好きな席へどうぞ",
+          "en": "Welcome! Please feel free to sit wherever you like."
+        },
+        {
+          "ja": "あれは…",
+          "en": "What's that..."
+        },
+        {
+          "ja": "シロクマさんです",
+          "en": "It's Mr. Polar Bear."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "そ　それはわかります",
+          "en": "I understand that."
+        },
+        {
+          "ja": "店長なんです",
+          "en": "He's the manager."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "シロクマが　店長なんですか",
+          "en": "Is the polar bear the manager?"
+        },
+        {
+          "ja": "ええ　しろくまカフェですから",
+          "en": "Yes, because it's the Polar Bear Café."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "そ　そうですか",
+          "en": "I see."
+        },
+        {
+          "ja": "いらっしゃいませ",
+          "en": "Welcome!"
+        },
+        {
+          "ja": "お決まりの頃 おうかがいします",
+          "en": "I'll come by to take your order when you're ready."
+        },
+        {
+          "ja": "あ…　はい",
+          "en": "Ah... okay."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "チャックなどは見つからない",
+          "en": "I can't find the zipper or anything like that."
+        },
+        {
+          "ja": "やはり着ぐるみではなく本物",
+          "en": "It's not a costume after all, but the real thing."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "この街は 動物が多いと聞いていたが",
+          "en": "I had heard that this town has a lot of animals."
+        },
+        {
+          "ja": "こうして 働く動物を見たのは初めてだ",
+          "en": "This is the first time I've seen animals working like this."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "大きい　あんな手で 料理をするのだろうか",
+          "en": "With such big hands, I wonder how they manage to cook."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "カフェなのに輪切り　ありえない",
+          "en": "It's a café, but they're slicing things into rings? Unbelievable."
+        },
+        {
+          "ja": "でも　そんな想像しかできない",
+          "en": "But that's the only way I can imagine it."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "ムダがなく　しかも美しい動き",
+          "en": "Effortless and yet beautifully graceful movements."
+        },
+        {
+          "ja": "疑ってすまない",
+          "en": "Sorry for doubting you."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "さぁ　もはや偏見は捨てて　注文するぞ",
+          "en": "Alright, let's put aside our prejudices and place an order."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "メニューが動物用だなんてことは…",
+          "en": "The menu is for animals..."
+        },
+        {
+          "ja": "あ～　さすがに普通か",
+          "en": "Oh, it's actually pretty normal."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "これは　竹…",
+          "en": "This is bamboo..."
+        },
+        {
+          "ja": "いや待て　もしかすると 竹をモチーフにしたスイーツかもしれん",
+          "en": "Wait, hold on. It might be a dessert inspired by bamboo."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "しかし　正真正銘の 竹であることも否定できない",
+          "en": "However, we can't deny that it might be genuine bamboo."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "お決まりですか？",
+          "en": "Have you decided?"
+        },
+        {
+          "ja": "あ　えっと…　アイスコーヒー",
+          "en": "Ah, um... I'll have an iced coffee."
+        },
+        {
+          "ja": "アイスコーヒーを おひとつでよろしいですか",
+          "en": "Would you like just one iced coffee?"
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "はい　いえ…",
+          "en": "Yes, no..."
+        },
+        {
+          "ja": "竹を",
+          "en": "Bamboo"
+        },
+        {
+          "ja": "竹ですか？",
+          "en": "Bamboo?"
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "大盛りもできますが",
+          "en": "We can also make it a large size."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "じゃ　それで",
+          "en": "Alright, I'll have that then."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "注文してしまった しかも大盛り",
+          "en": "I ended up ordering it, and a large portion at that."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "この選択　吉と出るか 凶と出るか",
+          "en": "Will this choice turn out to be good or bad?"
+        },
+        {
+          "ja": "お待たせしました",
+          "en": "Thank you for waiting."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "やっぱ凶か！",
+          "en": "I knew it was a bad choice!"
+        },
+        {
+          "ja": "あ　いや待て　今まで 食べる機会がなかっただけで",
+          "en": "Ah, no, wait. It's just that I haven't had the chance to eat it until now."
+        },
+        {
+          "ja": "案外おいしいのかもしれない",
+          "en": "It might actually be surprisingly delicious."
+        },
+        {
+          "ja": "そうだ　きっとそうだ",
+          "en": "Yes, that's it, I'm sure of it."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "竹の香りが だんだんと青臭さに変わり",
+          "en": "The scent of bamboo gradually turns into a green, raw smell."
+        },
+        {
+          "ja": "噛み切れない筋とともに 口の中に広がってくる",
+          "en": "The sinewy texture that can't be bitten through spreads throughout my mouth."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "やっぱ　ただの竹だ",
+          "en": "It's just plain bamboo after all."
+        },
+        {
+          "ja": "どうする こっそり出しちゃおうか",
+          "en": "What should we do? Should we secretly get rid of it?"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "しかし　一度口に入れたものを 出すなど　言語道断",
+          "en": "However, spitting out something once it's in your mouth is absolutely unacceptable."
+        },
+        {
+          "ja": "う～　だが意識が飲み込めと 命令しても体が拒否する",
+          "en": "Ugh... but even though my mind orders me to swallow, my body refuses."
+        },
+        {
+          "ja": "水　水だ…",
+          "en": "Water... I need water..."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "うわ～　しまった！",
+          "en": "Oh no, I messed up!"
+        },
+        {
+          "ja": "さっき全部飲み干してしまった",
+          "en": "I just drank it all earlier."
+        },
+        {
+          "ja": "もはや限界…",
+          "en": "I'm at my limit..."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "アイスコーヒーです",
+          "en": "It's iced coffee."
+        },
+        {
+          "ja": "天の助け",
+          "en": "A godsend"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "戦いはまだ始まったばかり",
+          "en": "The battle has only just begun."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "こんにちは",
+          "en": "Hello"
+        },
+        {
+          "ja": "パンダ！",
+          "en": "Panda!"
+        },
+        {
+          "ja": "よいしょ",
+          "en": "Here we go!"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "パンダだ",
+          "en": "It's a panda."
+        },
+        {
+          "ja": "子供の頃　動物園に行ったときは",
+          "en": "When I went to the zoo as a child"
+        },
+        {
+          "ja": "人の頭しか見えなかったパンダが",
+          "en": "The panda that I could only see the top of people's heads."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "今まさにこんな近くに",
+          "en": "Now, it's right here, so close."
+        },
+        {
+          "ja": "しかし至近距離過ぎて 見るのが気まずい",
+          "en": "But it's so close that it's awkward to look at."
+        },
+        {
+          "ja": "どうしたものか",
+          "en": "What should I do?"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "そうだ　まわりを見るふりして",
+          "en": "That's it, I'll pretend to look around."
+        },
+        {
+          "ja": "えっと…　お手洗いはどっちかな",
+          "en": "Um... which way is the restroom?"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "見られてる パンダにメッチャ見られてる",
+          "en": "I'm being watched. The panda is totally staring at me."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "食べないの？",
+          "en": "Aren't you going to eat?"
+        },
+        {
+          "ja": "えっ　いっ？！",
+          "en": "Huh? What?!"
+        },
+        {
+          "ja": "もらってあげてもいいよ",
+          "en": "I can take it for you if you'd like."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "このチャンスを逃してはならぬ",
+          "en": "I must not miss this opportunity."
+        },
+        {
+          "ja": "よ…　よかったら どうぞ",
+          "en": "If you'd like... please go ahead."
+        },
+        {
+          "ja": "ありがとう",
+          "en": "Thank you."
+        },
+        {
+          "ja": "ピンチ脱出！",
+          "en": "Crisis averted!"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "なんだか　すみませんね",
+          "en": "I'm sorry about this somehow."
+        },
+        {
+          "ja": "ああ　いえいえ",
+          "en": "Oh, no, no."
+        },
+        {
+          "ja": "よろしかったら　どうぞ　サービスです",
+          "en": "If you'd like, please go ahead. It's on the house."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "ふ…　振り出しに戻った…",
+          "en": "Back to square one..."
+        },
+        {
+          "ja": "いらっしゃい",
+          "en": "Welcome"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "こんにちは",
+          "en": "Hello"
+        },
+        {
+          "ja": "今度は　ペンギン！？",
+          "en": "This time, a penguin!?"
+        },
+        {
+          "ja": "かわいい…",
+          "en": "So cute..."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "そのイスに座るつもりか？",
+          "en": "Are you planning to sit in that chair?"
+        },
+        {
+          "ja": "よじ登るのか？　跳ぶのか？ 誰かにのせてもらうのか？",
+          "en": "Are you going to climb up? Jump? Or have someone lift you?"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "コーヒー　おかわり　いかがです？",
+          "en": "Would you like a coffee refill?"
+        },
+        {
+          "ja": "ありがとうございます",
+          "en": "Thank you."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "クソ！　見そこねた！",
+          "en": "Damn! I missed it!"
+        },
+        {
+          "ja": "今日は暑いね",
+          "en": "It's hot today, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "ホント　仕事場にもクーラー欲しいよ",
+          "en": "I really wish we had air conditioning at work."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "それは　カーラー",
+          "en": "That's a collar."
+        },
+        {
+          "ja": "それは　セーラー",
+          "en": "That's a sailor."
+        },
+        {
+          "ja": "それは　ディーラー",
+          "en": "That's a dealer."
+        },
+        {
+          "ja": "それは…　何だっけ？",
+          "en": "What was that again...?"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "何とかラー？",
+          "en": "Something-ler?"
+        },
+        {
+          "ja": "ラー…　ラー…",
+          "en": "La... La..."
+        },
+        {
+          "ja": "マーラー？　トレーラー？",
+          "en": "Mahler? Trailer?"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "ハスラーだ！",
+          "en": "It's Hustler!"
+        },
+        {
+          "ja": "ハスラー！",
+          "en": "Hustler!"
+        },
+        {
+          "ja": "何だっけ？",
+          "en": "What was it again?"
+        },
+        {
+          "ja": "教えてよ",
+          "en": "Tell me."
+        },
+        {
+          "ja": "ひ　み　つ",
+          "en": "Se-cret"
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "言いたい… 言ってしまいたい…",
+          "en": "I want to say it... I really want to say it..."
+        },
+        {
+          "ja": "しかし　いきなり 会話に入り込むなど…",
+          "en": "However, suddenly jumping into the conversation like that..."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "ああ　レスラー",
+          "en": "Ah, a wrestler."
+        },
+        {
+          "ja": "惜しい！",
+          "en": "So close!"
+        },
+        {
+          "ja": "じゃあ　ブロイラー！",
+          "en": "Then, broiler!"
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "遠ざかった…",
+          "en": "Drifted away..."
+        },
+        {
+          "ja": "もう我慢できない どう思われても　私は言う！！",
+          "en": "I can't take it anymore. No matter what people think, I'm going to say it!"
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "ハス…",
+          "en": "Lotus..."
+        },
+        {
+          "ja": "いらっしゃい",
+          "en": "Welcome"
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "これまた　動物園のアイドル　コアラ！",
+          "en": "Here comes another zoo favorite, the koala!"
+        },
+        {
+          "ja": "根強い人気のラッコ",
+          "en": "The ever-popular otter."
+        },
+        {
+          "ja": "マンドリル　色　鮮やか！",
+          "en": "Mandrill, so colorful!"
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "ラクダ？",
+          "en": "Camel?"
+        },
+        {
+          "ja": "ロバ…　じゃない　え～",
+          "en": "Donkey... no, wait, uh..."
+        },
+        {
+          "ja": "タ…　タマ…　いや　そんな感じの…",
+          "en": "Ta... Tama... No, something like that..."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "ああ　思い出せない…　クソ！",
+          "en": "Ah, I can't remember... Damn it!"
+        },
+        {
+          "ja": "いらっしゃい　ラマさん",
+          "en": "Welcome, Mr. Llama."
+        },
+        {
+          "ja": "そうだ！　ラマだ",
+          "en": "That's it! A llama!"
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "ああ…　すっきりした",
+          "en": "Ah... I feel relieved."
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "そういえば　この前の 半田さん　おもしろかったよね",
+          "en": "Come to think of it, Handa-san was really funny the other day, wasn't he?"
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "気がついたら　私以外 周りは　みんな動物",
+          "en": "Before I knew it, everyone around me except for me was an animal."
+        },
+        {
+          "ja": "しかも　みんな　常連風だ",
+          "en": "Moreover, they all seemed like regulars."
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "なんか　居づらい…",
+          "en": "I feel kind of out of place..."
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "せ…　席が　いっぱいだよ",
+          "en": "Th-The seats are all taken."
+        },
+        {
+          "ja": "テーブル席は空いてるよ",
+          "en": "The table seats are available."
+        },
+        {
+          "ja": "あ…　あの…　よかったら　どうぞ",
+          "en": "Uh... um... if you'd like, please go ahead."
+        },
+        {
+          "ja": "もう帰りますので",
+          "en": "I'm leaving now, so..."
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "もう帰っちゃうの？ ゆっくりしていけばいいのに",
+          "en": "Are you leaving already? You should take your time and stay a bit longer."
+        },
+        {
+          "ja": "いつの間に仲よくなったの？",
+          "en": "When did you two become so close?"
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "ネクタイさんとは 竹をもらった仲だよ",
+          "en": "We're friends who received bamboo from Mr. Necktie."
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "ね？",
+          "en": "Right?"
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "ありがとうございました",
+          "en": "Thank you very much."
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "ごちそうさま",
+          "en": "That was delicious."
+        },
+        {
+          "ja": "あの…",
+          "en": "Um..."
+        },
+        {
+          "ja": "は…　はい？",
+          "en": "Uh... yes?"
+        },
+        {
+          "ja": "お持ち帰りできますので　どうぞ",
+          "en": "You can take it to go, so please feel free."
+        },
+        {
+          "ja": "あ…　ありがとうございます…",
+          "en": "Oh... thank you..."
+        }
+      ]
+    },
+    {
+      "audio": 63,
+      "lines": [
+        {
+          "ja": "さて…　あと　ひと仕事　頑張るか",
+          "en": "Alright... time to tackle one more task."
+        }
+      ]
+    },
+    {
+      "audio": 64,
+      "lines": [
+        {
+          "ja": "そうして　私は日暮れまで働き",
+          "en": "And so, I worked until sunset."
+        }
+      ]
+    },
+    {
+      "audio": 65,
+      "lines": [
+        {
+          "ja": "この街で夜を迎えた",
+          "en": "I welcomed the night in this town."
+        },
+        {
+          "ja": "一杯　やるか",
+          "en": "Shall we grab a drink?"
+        }
+      ]
+    },
+    {
+      "audio": 66,
+      "lines": [
+        {
+          "ja": "おう　そこは空いてるぜ　座んな",
+          "en": "Hey, that spot's open. Have a seat."
+        },
+        {
+          "ja": "いや…　その…",
+          "en": "Uh... well..."
+        },
+        {
+          "ja": "座れって　遠慮すんな",
+          "en": "Sit down, don't be shy."
+        }
+      ]
+    },
+    {
+      "audio": 67,
+      "lines": [
+        {
+          "ja": "見知らぬ店に入るのは",
+          "en": "Going into an unfamiliar place is..."
+        },
+        {
+          "ja": "当たりはずれが　とても大きい",
+          "en": "The hit-or-miss can be quite significant."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1037 @@
+{
+  "ep": "19",
+  "title": "半田さんの合コン？",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "すみませんでした",
+          "en": "I'm sorry."
+        },
+        {
+          "ja": "どうしたの？",
+          "en": "What's wrong?"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "いつものって頼んだらさ",
+          "en": "When I asked for the usual, you know"
+        },
+        {
+          "ja": "餃子が出てきたんだよ",
+          "en": "Dumplings came out."
+        },
+        {
+          "ja": "僕　カフェで餃子頼んだことあった？",
+          "en": "Have I ever ordered dumplings at a café?"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "ありませんでしたっけ？",
+          "en": "Haven't you?"
+        },
+        {
+          "ja": "ないでしょ",
+          "en": "Of course not."
+        },
+        {
+          "ja": "餃子…　メニューにないでしょ",
+          "en": "Dumplings... they're not on the menu, right?"
+        },
+        {
+          "ja": "はい…",
+          "en": "Yes..."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "わざわざ　作ったの？",
+          "en": "Did you go out of your way to make it?"
+        },
+        {
+          "ja": "はい",
+          "en": "Here you go."
+        },
+        {
+          "ja": "笹子さん　偉い！",
+          "en": "Ms. Sasako, you're amazing!"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "褒めるところかな？",
+          "en": "Is that really something to praise?"
+        },
+        {
+          "ja": "おいしいよ",
+          "en": "It's delicious."
+        },
+        {
+          "ja": "ホントですか？",
+          "en": "Really?"
+        },
+        {
+          "ja": "喜ぶところかな！？",
+          "en": "Is this something to be happy about!?"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "まぁ　いいや　いつものくれる？",
+          "en": "Well, whatever. Can I have the usual?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "何　これ",
+          "en": "What's this?"
+        },
+        {
+          "ja": "餃子定食",
+          "en": "Gyoza set meal."
+        },
+        {
+          "ja": "頼んだことある？",
+          "en": "Have you ever ordered it?"
+        },
+        {
+          "ja": "ないね",
+          "en": "No, I haven't."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "遊んでる？",
+          "en": "Are you playing around?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "はぁ…　疲れた",
+          "en": "*Sigh*... I'm tired."
+        },
+        {
+          "ja": "バイト　お疲れ",
+          "en": "Good job at work."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "いつものちょうだい",
+          "en": "I'll have the usual."
+        },
+        {
+          "ja": "いつものね",
+          "en": "The usual, right?"
+        },
+        {
+          "ja": "笹子さん　餃子定食",
+          "en": "Sasago-san, the gyoza set meal."
+        },
+        {
+          "ja": "はい",
+          "en": "Here you go."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "竹大盛りとアイスコーヒーね",
+          "en": "A large bamboo set and an iced coffee, right?"
+        },
+        {
+          "ja": "ねぇねぇ　聞いてよ　今日ね…",
+          "en": "Hey, hey, listen, today..."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "え～？　もう　こんな時間？",
+          "en": "Huh? Is it already this late?"
+        },
+        {
+          "ja": "まだ眠いよ もうちょっと寝よう",
+          "en": "I'm still sleepy. Let's sleep a little longer."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "ちょっと待って！",
+          "en": "Wait a minute!"
+        },
+        {
+          "ja": "二度寝の話がしたいの？",
+          "en": "Do you want to talk about going back to sleep?"
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "どっから話そうかなと思って",
+          "en": "I was just thinking about where to start talking from."
+        },
+        {
+          "ja": "もうちょっと　まとめてから 話してくれる？",
+          "en": "Could you organize your thoughts a bit more before you talk?"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "ヒマじゃないんだから",
+          "en": "I'm not just sitting around doing nothing, you know."
+        },
+        {
+          "ja": "うん　わかった",
+          "en": "Yeah, got it."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "桐野君　おはよう",
+          "en": "Good morning, Kirino."
+        },
+        {
+          "ja": "おはよう　パンダ君",
+          "en": "Good morning, Panda."
+        },
+        {
+          "ja": "って…　早くないよ　遅刻だよ？",
+          "en": "Isn't it... early? You're late, you know?"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "半田さんのお弁当だ 開けてみよう",
+          "en": "It's Handa-san's bento. Let's open it."
+        },
+        {
+          "ja": "ダメだよ　パンダ君",
+          "en": "No, Panda-kun, you can't."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "ちょっと開けるだけだよ",
+          "en": "I'm just going to open it a little."
+        },
+        {
+          "ja": "ダーメ！",
+          "en": "No way!"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "ダメだからね",
+          "en": "I said no, okay?"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "開けるだけだよ",
+          "en": "I'm just going to open it."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "なんて　茶色いお弁当なんだろう",
+          "en": "What a brown lunchbox this is."
+        },
+        {
+          "ja": "おばあちゃんのお弁当みたいだ",
+          "en": "It's like Grandma's bento."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "ちょっと待って！",
+          "en": "Wait a minute!"
+        },
+        {
+          "ja": "お弁当の話がしたいの？",
+          "en": "Do you want to talk about the bento?"
+        },
+        {
+          "ja": "もう まだ　話してる途中なんだから",
+          "en": "We're still in the middle of talking."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "頼むよ！ ヒマじゃないって言ってるでしょ",
+          "en": "Come on! I told you I'm not free right now."
+        },
+        {
+          "ja": "ヒマでしょ？",
+          "en": "You're not busy, are you?"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "いつも　ここにいるじゃない",
+          "en": "You're always here, aren't you?"
+        },
+        {
+          "ja": "ペンギンさんって ふだん　何してんの？",
+          "en": "What do you usually do, Mr. Penguin?"
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "い…　いいから 早く本題に入ってよ",
+          "en": "J-just get to the point already."
+        },
+        {
+          "ja": "わかったよ",
+          "en": "Alright, I got it."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "パンダ君　今日は午後から小学生の団体が来るから",
+          "en": "Panda, there's a group of elementary school students coming this afternoon."
+        },
+        {
+          "ja": "サービスしようね",
+          "en": "Let's give them good service, okay?"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "はい　いつもより多めに　ゴロゴロしま～す",
+          "en": "Sure, I'll be lazing around more than usual!"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "ねぇ　常勤パンダさん",
+          "en": "Hey, Full-time Panda."
+        },
+        {
+          "ja": "何？",
+          "en": "What?"
+        },
+        {
+          "ja": "今日　半田さんの お弁当見ちゃったんだけどね",
+          "en": "Today, I happened to see Handa-san's lunch."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "茶色くてさ　おばあちゃんの お弁当みたいだったよ",
+          "en": "It was all brown, like a grandma's lunchbox."
+        },
+        {
+          "ja": "おいしかったけど",
+          "en": "But it was delicious."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "食べちゃったの？",
+          "en": "Did you eat it?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "食べちゃったの…",
+          "en": "Did you eat it...?"
+        },
+        {
+          "ja": "うん！",
+          "en": "Yeah!"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "お弁当おいしかったけど 何ていうのかな…",
+          "en": "The bento was delicious, but how should I put it..."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "男が男のために 作ったお弁当というか",
+          "en": "A lunchbox made by a man for another man, or something like that."
+        },
+        {
+          "ja": "まぁ　半田さんが 自分のために作った弁当だからね",
+          "en": "Well, because Handa made the bento for himself."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "というより　おばあちゃんが おばあちゃんのために作ったお弁当というか",
+          "en": "It's more like a bento that a grandma made for herself."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "ひと言でいうと　モテなさそう",
+          "en": "In a word, it seems unpopular."
+        },
+        {
+          "ja": "モテなさそうなお弁当なんだよね",
+          "en": "It's a lunchbox that doesn't seem very appealing."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "見たかったな そのモテなさそうな弁当",
+          "en": "I would have liked to see that unappealing lunchbox."
+        },
+        {
+          "ja": "聞こえてますよ",
+          "en": "I can hear you."
+        },
+        {
+          "ja": "聞こえるように言ったんだよ",
+          "en": "I said it so you could hear."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "半田さん　今度そのモテなさそうな弁当私にも見せてよ",
+          "en": "Handa, next time show me that unappealing lunch too."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "ちょっと　失礼だな",
+          "en": "That's a bit rude."
+        },
+        {
+          "ja": "じゃあ　モテるの？",
+          "en": "So, are you popular?"
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "最近　女性と喋った？",
+          "en": "Have you talked to any women recently?"
+        },
+        {
+          "ja": "何　急に",
+          "en": "What? All of a sudden?"
+        },
+        {
+          "ja": "だから",
+          "en": "That's why."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "最近　女性と喋った？",
+          "en": "Have you talked to any women recently?"
+        },
+        {
+          "ja": "お母さん以外だよ",
+          "en": "Other than Mom."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "動物以外だよ",
+          "en": "Other than animals."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "ほらね",
+          "en": "See?"
+        },
+        {
+          "ja": "おかしいな",
+          "en": "That's strange."
+        },
+        {
+          "ja": "そんなモテない半田さんのために",
+          "en": "For the not-so-popular Handa-san..."
+        },
+        {
+          "ja": "僕が桐野くんに頼んでおいたから",
+          "en": "I asked Kirino-kun for you."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "え　何を",
+          "en": "Huh? What did you ask for?"
+        },
+        {
+          "ja": "半田さん！",
+          "en": "Handa!"
+        },
+        {
+          "ja": "決まりましたよ",
+          "en": "It's been decided!"
+        },
+        {
+          "ja": "何だ？",
+          "en": "What's going on?"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "合コンですよ 半田さんがやりたいって　パンダくんが",
+          "en": "It's a group date. Panda-kun said you wanted to do it, Handa-san."
+        },
+        {
+          "ja": "俺言ってないよ",
+          "en": "I didn't say that."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "そんなの行かないよ",
+          "en": "I'm not going to that."
+        },
+        {
+          "ja": "ちょっと待ってくださいよ",
+          "en": "Hold on a second."
+        },
+        {
+          "ja": "半田さんのために セッティングしたんですから",
+          "en": "We set it up for Handa-san."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "相手は　ＯＬさんですよ",
+          "en": "The other party is office ladies."
+        },
+        {
+          "ja": "俺　忙しいから",
+          "en": "I'm busy."
+        },
+        {
+          "ja": "何かあるんですか？",
+          "en": "Is something going on?"
+        },
+        {
+          "ja": "帰って風呂の掃除しないと",
+          "en": "I need to go home and clean the bathroom."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "それは忙しいに入りませんよ",
+          "en": "That doesn't count as being busy."
+        },
+        {
+          "ja": "行くよね　半田さん",
+          "en": "You're going, right, Handa?"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "桐野くん　半田さんをよろしくお願いします",
+          "en": "Kirino, please take care of Handa."
+        },
+        {
+          "ja": "もう　勝手に決めないで",
+          "en": "Don't just decide on your own."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "行きましょうよ　半田さん",
+          "en": "Let's go, Handa-san."
+        },
+        {
+          "ja": "半田さん！",
+          "en": "Handa!"
+        },
+        {
+          "ja": "かわいくてもダメ！",
+          "en": "Even if it's cute, no way!"
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "桐野くんはね パンダくんに言われて",
+          "en": "Kirino-kun was told by Panda-kun."
+        },
+        {
+          "ja": "半田さんのために やったこともない合コンをセッティングしたんだよ",
+          "en": "I set up a group date, something I've never done before, for Handa-san's sake."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "ちょっとくらいは やったことありますけど",
+          "en": "I've done it a little bit before, though."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "半田さん行こうよ！",
+          "en": "Let's go, Handa!"
+        },
+        {
+          "ja": "もういいよ　２人とも",
+          "en": "It's fine, you two."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "わかりました",
+          "en": "Alright."
+        },
+        {
+          "ja": "半田さんが どうしても嫌なら　断ります",
+          "en": "If Handa-san really doesn't want to, I'll decline."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "わかった　行くよ",
+          "en": "Alright, I'll go."
+        },
+        {
+          "ja": "ホントですか！",
+          "en": "Really!?"
+        },
+        {
+          "ja": "よかった",
+          "en": "I'm glad."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "男性チームは　僕の友人が来て ３対３です",
+          "en": "The men's team will be three-on-three with my friend joining us."
+        },
+        {
+          "ja": "じゃあ　今晩７時ですから",
+          "en": "Then, it's at 7 PM tonight."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "半田さん　ＯＬさんにお弁当見せちゃダメだよ",
+          "en": "Mr. Handa, you shouldn't show your lunch box to the office ladies."
+        },
+        {
+          "ja": "見せないよ",
+          "en": "I won't show them."
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "お疲れ様",
+          "en": "Good work."
+        },
+        {
+          "ja": "今日　合コン頑張ってね",
+          "en": "Good luck with the group date today."
+        },
+        {
+          "ja": "シーッ！",
+          "en": "Shh!"
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "声が大きいよ",
+          "en": "Your voice is too loud."
+        },
+        {
+          "ja": "ごめん　ごめん",
+          "en": "Sorry, sorry."
+        },
+        {
+          "ja": "じゃあ　また明日",
+          "en": "See you tomorrow then."
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "これで 半田さんのお弁当も変わるな",
+          "en": "With this, Handa-san's lunch will change too."
+        },
+        {
+          "ja": "えっ　ウソ　ホントに？",
+          "en": "Huh? No way, really?"
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "そうか　わかった",
+          "en": "I see, got it."
+        },
+        {
+          "ja": "困ったな",
+          "en": "This is a problem."
+        },
+        {
+          "ja": "どうしたの？",
+          "en": "What's wrong?"
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "今日の合コンなんだけど 友達が来られなくなっちゃって",
+          "en": "About today's group date, my friend can't make it."
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "今からじゃ　メンバー見つからないよ",
+          "en": "We won't be able to find a replacement member at this point."
+        },
+        {
+          "ja": "桐野くん",
+          "en": "Kirino-kun"
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "大丈夫だよ",
+          "en": "It's okay."
+        },
+        {
+          "ja": "僕にあてがあるから",
+          "en": "I have someone in mind."
+        },
+        {
+          "ja": "ホント？",
+          "en": "Really?"
+        },
+        {
+          "ja": "うん　任せておいて",
+          "en": "Yeah, leave it to me."
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "ありがとう パンダくん　ありがとう",
+          "en": "Thank you, Panda. Thank you."
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "そういうわけなんだ",
+          "en": "That's how it is."
+        },
+        {
+          "ja": "ふ～ん　話はわかった",
+          "en": "Hmm, I understand the story."
+        },
+        {
+          "ja": "要するに 合コンのメンバーが必要なんだね",
+          "en": "In short, you need members for the group date, right?"
+        }
+      ]
+    },
+    {
+      "audio": 63,
+      "lines": [
+        {
+          "ja": "それでシロクマくんを誘おうと思うんだけど　どう思う？",
+          "en": "So I was thinking of inviting Shirokuma-kun. What do you think?"
+        },
+        {
+          "ja": "えっ！？　僕じゃなくて？",
+          "en": "Huh!? Not me?"
+        },
+        {
+          "ja": "シロクマくん　今日　ヒマ？",
+          "en": "Shirokuma-kun, are you free today?"
+        }
+      ]
+    },
+    {
+      "audio": 64,
+      "lines": [
+        {
+          "ja": "今日　ヒマ？",
+          "en": "Are you free today?"
+        },
+        {
+          "ja": "僕じゃないんだ…",
+          "en": "It's not me..."
+        },
+        {
+          "ja": "僕　結構　話　聞いてたのに",
+          "en": "I was actually listening quite a bit."
+        }
+      ]
+    },
+    {
+      "audio": 65,
+      "lines": [
+        {
+          "ja": "ペンギンさん　さっきから ヒマじゃない　ヒマじゃないって…",
+          "en": "Penguin, you've been saying \"I'm not free, I'm not free\" for a while now..."
+        }
+      ]
+    },
+    {
+      "audio": 66,
+      "lines": [
+        {
+          "ja": "いや　まあ　そうだけど…",
+          "en": "Well, yeah, I guess so..."
+        },
+        {
+          "ja": "やりくりすれば　合コンに行けないことも ないんじゃないかな",
+          "en": "If I manage my time, I might be able to go to the group date."
+        }
+      ]
+    },
+    {
+      "audio": 67,
+      "lines": [
+        {
+          "ja": "ヒマじゃないんでしょ？",
+          "en": "You're not free, right?"
+        },
+        {
+          "ja": "ああ　僕　ヒマじゃないからね",
+          "en": "Ah, I'm not free, you know."
+        },
+        {
+          "ja": "じゃ　楽しんでくれば？",
+          "en": "Then, why don't you go and have fun?"
+        }
+      ]
+    },
+    {
+      "audio": 68,
+      "lines": [
+        {
+          "ja": "パンダくんにシロクマさん？",
+          "en": "Panda-kun and Shirokuma-san?"
+        },
+        {
+          "ja": "どうして…",
+          "en": "Why..."
+        },
+        {
+          "ja": "今日の男性チームです",
+          "en": "Today's men's team."
+        }
+      ]
+    },
+    {
+      "audio": 69,
+      "lines": [
+        {
+          "ja": "半田さん　頑張ろうね",
+          "en": "Let's do our best, Handa."
+        }
+      ]
+    },
+    {
+      "audio": 70,
+      "lines": [
+        {
+          "ja": "半田さん　すみません 頑張りましょうね",
+          "en": "Mr. Handa, I'm sorry. Let's do our best, okay?"
+        },
+        {
+          "ja": "じゃあ　行こうか",
+          "en": "Alright, let's go."
+        },
+        {
+          "ja": "後半へつづく",
+          "en": "To be continued in the second half."
+        }
+      ]
+    }
+  ]
+}

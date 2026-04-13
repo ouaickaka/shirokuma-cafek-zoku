@@ -1,0 +1,886 @@
+{
+  "ep": "36",
+  "title": "パンダくんの家出",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "あれ？　パンダくん？",
+          "en": "Huh? Panda-kun?"
+        },
+        {
+          "ja": "大荷物だね　おつかいかな？",
+          "en": "That's a lot of luggage. Are you running an errand?"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "聞かないでください",
+          "en": "Please don't ask."
+        },
+        {
+          "ja": "いってらっしゃい",
+          "en": "Take care."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "それでさ　僕こう言ったわけよ",
+          "en": "So then, I said this."
+        },
+        {
+          "ja": "それもしかして座敷童子じゃないの？　って",
+          "en": "Could it be a Zashiki-warashi?"
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "それより　ペン子さんたちとは どうなったの？",
+          "en": "By the way, what happened with Penko and the others?"
+        },
+        {
+          "ja": "その件は　ここにいる間だけ 忘れさせてくれない？",
+          "en": "Could you let me forget about that while I'm here?"
+        },
+        {
+          "ja": "今は　座敷童子の話だけに 集中したいんだ",
+          "en": "Right now, I just want to focus on the story about the Zashiki-warashi."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "逃避行動だね",
+          "en": "That's an avoidance tactic."
+        },
+        {
+          "ja": "なんとでも言って",
+          "en": "Say whatever you want."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "入れない…",
+          "en": "I can't get in..."
+        },
+        {
+          "ja": "どうしたの？　あの荷物",
+          "en": "What's wrong? That luggage..."
+        },
+        {
+          "ja": "フリマ？",
+          "en": "Flea market?"
+        },
+        {
+          "ja": "元気ないね　何かあったの？",
+          "en": "You seem down. Did something happen?"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "お母さんが　いつも 僕のこと怒るんだ",
+          "en": "My mom is always getting mad at me."
+        },
+        {
+          "ja": "また　あなたは 昼間から　ゴロゴロして…",
+          "en": "There you go again, lazing around in the middle of the day..."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "パンダがゴロゴロして　何が悪いの？",
+          "en": "What's wrong with a panda lazing around?"
+        },
+        {
+          "ja": "まぁ　基本　ゴロゴロしてるもんね",
+          "en": "Well, basically, I'm always just lazing around."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "僕から　ゴロゴロを奪ったら なんにも残らないよ？",
+          "en": "If you take away my lounging around, there'll be nothing left of me, you know?"
+        },
+        {
+          "ja": "なんにも残らないんだ？",
+          "en": "Nothing would be left?"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "逆に　すごいね",
+          "en": "That's impressive, in a way."
+        },
+        {
+          "ja": "お母さんは　きっと 僕が嫌いなんだ",
+          "en": "My mom must really dislike me."
+        },
+        {
+          "ja": "え～っと…　お母さんは　もっと　お手伝いして ほしいんじゃないの？",
+          "en": "Um... maybe your mom just wants you to help out more?"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "でも　弟や　妹だって ゴロゴロしてるのに",
+          "en": "But even my younger brother and sister laze around."
+        },
+        {
+          "ja": "お母さん　怒らないんだよ？",
+          "en": "Your mom doesn't get mad?"
+        },
+        {
+          "ja": "それは…　その子たちはまだ小さいからでしょ？",
+          "en": "That's because they're still little, right?"
+        },
+        {
+          "ja": "弟や　妹は　かわいいけど 僕は違うからだよ",
+          "en": "It's because my younger brother and sister are cute, but I'm not."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "パンダなんて みんな　かわいいじゃない",
+          "en": "Pandas are cute, aren't they?"
+        },
+        {
+          "ja": "これ　妹の写真",
+          "en": "Here's a picture of my sister."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "パンダでも違うんだね",
+          "en": "Even pandas are different, huh?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah"
+        },
+        {
+          "ja": "あっ…",
+          "en": "Oh..."
+        },
+        {
+          "ja": "やっぱり　僕は 橋の下で拾われた子なんだ",
+          "en": "I guess I really was a child found under a bridge."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "橋の下で　パンダ拾えるなら",
+          "en": "If you can find a panda under a bridge, then..."
+        },
+        {
+          "ja": "動物園が　みんな拾いに行くよ",
+          "en": "If you could pick up a panda under a bridge, the zoo would go and pick them all up."
+        },
+        {
+          "ja": "で　どうしたの？",
+          "en": "So, what's wrong?"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "実は　家出してきたの",
+          "en": "Actually, I ran away from home."
+        },
+        {
+          "ja": "あ　やっぱり",
+          "en": "Oh, I knew it."
+        },
+        {
+          "ja": "それで　どこに行くの",
+          "en": "So, where are you going?"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "橋の下？",
+          "en": "Under the bridge?"
+        },
+        {
+          "ja": "え～っ　もうちょっと心配して 僕んちおいで　とか言ってよ",
+          "en": "What? At least show a little concern and say something like 'Come to my place.'"
+        },
+        {
+          "ja": "言わないよ",
+          "en": "I won't say that."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "で　どこ行くの？",
+          "en": "So, where are you going?"
+        },
+        {
+          "ja": "うんとね　ゴロゴロしてても何も言われなくて",
+          "en": "Hmm, somewhere I can laze around without being told off."
+        },
+        {
+          "ja": "黙っててもご飯が出てきて",
+          "en": "Even if I stay silent, meals are served."
+        },
+        {
+          "ja": "パンダくん　かわいいって 言ってくれる",
+          "en": "Someone who will say \"Panda-kun, you're cute.\""
+        },
+        {
+          "ja": "誰かがいるところ",
+          "en": "A place where someone is there."
+        },
+        {
+          "ja": "それ　かなり限定されてるよね",
+          "en": "That's pretty specific, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "あ～　リンリンのところは？",
+          "en": "Ah, what about Linlin's place?"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "イヤだよ",
+          "en": "No way."
+        },
+        {
+          "ja": "もっと放っておいてほしいんだよ",
+          "en": "I just want to be left alone more."
+        },
+        {
+          "ja": "だったら　動物園は？",
+          "en": "Then how about the zoo?"
+        },
+        {
+          "ja": "住み込みでバイトすればいいでしょ",
+          "en": "You could just work part-time while living there, right?"
+        },
+        {
+          "ja": "うわ～　パンダさん　かわいい！",
+          "en": "Wow, the panda is so cute!"
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "どうして毎日 働かないといけないの？",
+          "en": "Why do I have to work every day?"
+        },
+        {
+          "ja": "僕　絶対に 毎日　働くのはイヤなんだよ",
+          "en": "I absolutely don't want to work every day."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "そんなに堂々と 言うことじゃないね",
+          "en": "That's not something you should say so boldly."
+        },
+        {
+          "ja": "あ！",
+          "en": "Oh!"
+        },
+        {
+          "ja": "何？",
+          "en": "What?"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "シロクマくん　あの荷物置いといていい？",
+          "en": "Shirokuma-kun, is it okay to leave that luggage there?"
+        },
+        {
+          "ja": "えっ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "家で　晩ご飯食べてくるよ",
+          "en": "I'm going to eat dinner at home."
+        },
+        {
+          "ja": "じゃあね",
+          "en": "See you then."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "帰るんだ",
+          "en": "Heading home, huh?"
+        },
+        {
+          "ja": "いろんな家出があるんだね",
+          "en": "There are all sorts of ways to leave home, aren't there?"
+        },
+        {
+          "ja": "こういうのは 家出って言わないでしょ",
+          "en": "You wouldn't call this running away from home, would you?"
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "パンダくん　まだ取りに来てないの家出の荷物",
+          "en": "Panda-kun hasn't come to pick up his runaway luggage yet."
+        },
+        {
+          "ja": "うん　昨日 晩ご飯食べに帰ったっきり",
+          "en": "Yeah, since last night when I went back home for dinner."
+        },
+        {
+          "ja": "家で寝たんだね",
+          "en": "You slept at home, huh?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "家出の仕方間違ってない？",
+          "en": "Aren't you doing the whole running away from home thing wrong?"
+        },
+        {
+          "ja": "家出の続きをしに来ました",
+          "en": "I've come to continue my runaway."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "あのさ　パンダくん",
+          "en": "Hey, Panda."
+        },
+        {
+          "ja": "お腹が空いたら 家に帰っちゃうんだとさ",
+          "en": "I heard that when he gets hungry, he just goes back home."
+        },
+        {
+          "ja": "家出というかさ",
+          "en": "It's more like running away from home, you know."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "何だろう…　日常生活？",
+          "en": "I wonder... is this everyday life?"
+        },
+        {
+          "ja": "家には戻らないよ",
+          "en": "I'm not going back home."
+        },
+        {
+          "ja": "もう戻らないよ",
+          "en": "I won't go back anymore."
+        },
+        {
+          "ja": "いや　戻っていいんだよ",
+          "en": "No, it's okay to go back."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "何があったの？",
+          "en": "What happened?"
+        },
+        {
+          "ja": "夕べ　また 大ショックなことがあったんだよ",
+          "en": "Last night, something really shocking happened again."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "来週は　あなたの お誕生日だけど",
+          "en": "Next week is your birthday, though."
+        },
+        {
+          "ja": "お母さんが ちょっと　忙しくてね",
+          "en": "My mom is a bit busy, you see."
+        },
+        {
+          "ja": "弟たちと一緒に 来月お祝いにするから…",
+          "en": "We'll celebrate it next month with your younger brothers..."
+        },
+        {
+          "ja": "えっ！",
+          "en": "Huh!"
+        },
+        {
+          "ja": "まぁ　大人の都合ってやつだね",
+          "en": "Well, that's just how it is with adult circumstances."
+        },
+        {
+          "ja": "ケーキが１個で済むとかさ",
+          "en": "Like, we can get away with just one cake."
+        },
+        {
+          "ja": "ケーキは　何個食べたって いいじゃない",
+          "en": "It's okay to eat as many cakes as you want."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "お祝いは　何回もあったほうが 楽しいのに",
+          "en": "It's more fun to have celebrations multiple times."
+        },
+        {
+          "ja": "どうして 減らそうとするんだろうね",
+          "en": "I wonder why they try to cut back."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "もう…　あんな家にはいられないよ",
+          "en": "I can't stay in a house like that anymore..."
+        },
+        {
+          "ja": "まあ　まあ",
+          "en": "There, there."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "けど　どうしてパンダくんの誕生日じゃなくて",
+          "en": "But why isn't it Panda-kun's birthday?"
+        },
+        {
+          "ja": "弟さんたちの誕生日に合わせるんですかね？",
+          "en": "Why are you aligning it with your younger brothers' birthdays instead of Panda-kun's?"
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "へえ～っ！",
+          "en": "Wow!"
+        },
+        {
+          "ja": "かわいいでしょ",
+          "en": "Isn't it cute?"
+        },
+        {
+          "ja": "ああ…　シロクマくん　ダメだよ！",
+          "en": "Ah... Shirokuma-kun, that's not okay!"
+        },
+        {
+          "ja": "この　かわいい妹さんの写真をかわいくないパンダくんの前で褒めちゃ！",
+          "en": "You shouldn't praise this cute picture of his sister in front of the not-so-cute Panda!"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "あ…　ごめん",
+          "en": "Oh... sorry."
+        },
+        {
+          "ja": "ま…　待とうよ　パンダくん",
+          "en": "W-Wait, Panda-kun."
+        },
+        {
+          "ja": "お祝いはしてくれるんだし",
+          "en": "They'll celebrate for me, after all."
+        },
+        {
+          "ja": "１か月遅れでも　いいじゃない",
+          "en": "It's okay even if it's a month late."
+        },
+        {
+          "ja": "そこは　子供側も 妥協が必要じゃないかな？",
+          "en": "Don't you think the kids should compromise a little there too?"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "よくないよ",
+          "en": "It's not okay."
+        },
+        {
+          "ja": "どうして？",
+          "en": "Why not?"
+        },
+        {
+          "ja": "僕は　プレゼントに パンダかき氷機が欲しかったんだよ！",
+          "en": "I wanted a panda-shaped shaved ice machine as a present!"
+        },
+        {
+          "ja": "ひと月後だと　もう　かき氷が 食べたくなくなっちゃうよ！",
+          "en": "A month later, I won't want to eat shaved ice anymore!"
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "え…　そんな理由？",
+          "en": "Huh... for that reason?"
+        },
+        {
+          "ja": "僕　もう　ペンギンさんちの子になるよ",
+          "en": "I'm going to become a member of the Penguin family now."
+        },
+        {
+          "ja": "ちょっと！　勝手に 僕の戸籍に入ってこないで！",
+          "en": "Wait a minute! Don't just add yourself to my family register without permission!"
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "ペンギンさんは　僕のことかわいくないんだ…",
+          "en": "Mr. Penguin doesn't think I'm cute..."
+        },
+        {
+          "ja": "そういう問題じゃないよね？",
+          "en": "That's not the issue here, is it?"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "いいじゃないですか 置いてあげれば",
+          "en": "Why not just let him stay?"
+        },
+        {
+          "ja": "えっ？　笹子さん！？",
+          "en": "Huh? Sasako!?"
+        },
+        {
+          "ja": "何を言うんだい？",
+          "en": "What are you talking about?"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "じゃあ　今から　笹子さんちか シロクマくんちの子になるよ",
+          "en": "Then I'll become a member of either Sasako's or Shirokuma's family from now on."
+        },
+        {
+          "ja": "それは　無理",
+          "en": "That's impossible."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "みんな　僕を 子供にするのは　イヤなんだ…",
+          "en": "Everyone doesn't want to make me their child..."
+        },
+        {
+          "ja": "やっぱり　僕が かわいくないからなんだね…",
+          "en": "It's because I'm not cute, isn't it..."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "そういうことでは ないんだけど…",
+          "en": "That's not what I meant, though..."
+        },
+        {
+          "ja": "あっ　だったら",
+          "en": "Oh, in that case..."
+        },
+        {
+          "ja": "僕たちが　今月 かき氷機を　プレゼントすれば？",
+          "en": "What if we give them a shaved ice machine as a present this month?"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "かき氷パーティーしようよ",
+          "en": "Let's have a shaved ice party!"
+        },
+        {
+          "ja": "本当？　いつ？　いつ？",
+          "en": "Really? When? When?"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "今日が　ここ",
+          "en": "Today, right here."
+        },
+        {
+          "ja": "いつ？いつ？",
+          "en": "When? When?"
+        },
+        {
+          "ja": "カフェが休みの日曜で…",
+          "en": "On a Sunday when the café is closed..."
+        },
+        {
+          "ja": "あっ　来週は 町内会の用事があるんだった",
+          "en": "Oh, I just remembered I have a neighborhood association meeting next week."
+        },
+        {
+          "ja": "僕　再来週は法事でいないよ",
+          "en": "I'll be away for a memorial service the week after next."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "私も　親戚の結婚式で いないですね",
+          "en": "I won't be around either because of a relative's wedding."
+        },
+        {
+          "ja": "じゃあ…　あっ　来月になっちゃうね",
+          "en": "Then... oh, it looks like it'll have to be next month."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "こ…　今週末",
+          "en": "Th... this weekend"
+        },
+        {
+          "ja": "土曜の午後なら　どう？",
+          "en": "How about Saturday afternoon?"
+        },
+        {
+          "ja": "そうですね",
+          "en": "Sounds good."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "じゃあね",
+          "en": "See you then."
+        },
+        {
+          "ja": "僕　お家　帰る",
+          "en": "I'm going home."
+        },
+        {
+          "ja": "もう家出はいいんだ？",
+          "en": "Have you given up on running away from home?"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "うん",
+          "en": "Yeah"
+        },
+        {
+          "ja": "荷物　持って帰ったら？",
+          "en": "Why don't you take your stuff back home?"
+        },
+        {
+          "ja": "ああ　それね かき氷パーティーするなら必要だから",
+          "en": "Oh, that? If we're having a shaved ice party, we'll need it."
+        },
+        {
+          "ja": "うん？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "かき氷パーティーには これが　なくっちゃね",
+          "en": "You can't have a shaved ice party without this, right?"
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "やっぱり　家出の仕方 間違ってるよね？",
+          "en": "I guess I'm going about running away from home the wrong way, huh?"
+        },
+        {
+          "ja": "楽しみだな　週末",
+          "en": "I'm looking forward to the weekend."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "今日は涼しいですね",
+          "en": "It's cool today, isn't it?"
+        },
+        {
+          "ja": "かき氷パーティーは中止かな",
+          "en": "I guess the shaved ice party is canceled."
+        },
+        {
+          "ja": "だね",
+          "en": "Yeah, it is."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "うんうんうん……",
+          "en": "Yeah, yeah, yeah..."
+        },
+        {
+          "ja": "やろう！　今すぐ　やろう！！",
+          "en": "Let's do it! Let's do it right now!!"
+        },
+        {
+          "ja": "はい…",
+          "en": "Okay..."
+        },
+        {
+          "ja": "いただきま～す！",
+          "en": "Let's dig in!"
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "やっぱり…",
+          "en": "I knew it..."
+        },
+        {
+          "ja": "雨の日だと　おいしくないね",
+          "en": "Food doesn't taste as good on rainy days, huh?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah"
+        }
+      ]
+    }
+  ]
+}

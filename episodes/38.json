@@ -1,0 +1,906 @@
+{
+  "ep": "38",
+  "title": "バイセンって　ナンダ！？",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "うま～！",
+          "en": "Yummy!"
+        },
+        {
+          "ja": "しろくまカフェのパフェって マジ　最高！",
+          "en": "The parfaits at Shirokuma Café are seriously the best!"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "あれ？　ペンギンさんじゃない",
+          "en": "Huh? Isn't that Mr. Penguin?"
+        },
+        {
+          "ja": "あ…　どうも　俺…",
+          "en": "Ah... hello, I'm..."
+        },
+        {
+          "ja": "人間くんだよ",
+          "en": "It's Human-kun."
+        },
+        {
+          "ja": "シロクマさん… 間違ってはないんすけど",
+          "en": "Mr. Polar Bear... you're not exactly wrong, but..."
+        },
+        {
+          "ja": "マサキくんだよ",
+          "en": "It's Masaki."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "パンダくんは　いつものでいい？",
+          "en": "Is the usual okay for you, Panda-kun?"
+        },
+        {
+          "ja": "うん　コーヒー 今日は　ブラックにする",
+          "en": "Yeah, coffee. I'll have it black today."
+        },
+        {
+          "ja": "パンダさん　コーヒーっすか？",
+          "en": "Panda, are you having coffee?"
+        },
+        {
+          "ja": "渋いっすね",
+          "en": "That's bold."
+        },
+        {
+          "ja": "違いのわかるパンダって呼んで",
+          "en": "Call me the panda with a discerning taste."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "ブラックって　苦くて おいしくなくないっすか？",
+          "en": "Isn't black coffee bitter and not tasty?"
+        },
+        {
+          "ja": "おいしくなくなくないよ",
+          "en": "It's not that it's not tasty."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "違いのわかるパンダだから",
+          "en": "Because I'm a panda who knows the difference."
+        },
+        {
+          "ja": "え～っ！　でも　苦いんでしょ？",
+          "en": "What?! But it's bitter, right?"
+        },
+        {
+          "ja": "飲んでみる？",
+          "en": "Want to try it?"
+        },
+        {
+          "ja": "しろくまカフェのは　おいしいよ",
+          "en": "The coffee at Shirokuma Café is delicious."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "ホントにおいしいじゃん！",
+          "en": "It's really delicious!"
+        },
+        {
+          "ja": "そうでしょう？",
+          "en": "Isn't it?"
+        },
+        {
+          "ja": "めっちゃいい香りだし",
+          "en": "It has such a great aroma, too."
+        },
+        {
+          "ja": "こんなコーヒー淹れられるなんて すげぇっすね！",
+          "en": "It's amazing that you can brew coffee like this!"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "おいしさの秘密は 焙煎にあるんだよ",
+          "en": "The secret to its deliciousness lies in the roasting."
+        },
+        {
+          "ja": "バイセン？　それ何？",
+          "en": "Roasting? What's that?"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "それ　海鮮だし！",
+          "en": "That's seafood stock!"
+        },
+        {
+          "ja": "それ　対戦だし！",
+          "en": "That's a match!"
+        },
+        {
+          "ja": "それ　ゲーセンだし！",
+          "en": "That's an arcade!"
+        },
+        {
+          "ja": "バイセンってなんだよ！",
+          "en": "What the heck is \"baisen\"?!"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "焙煎って コーヒー豆を煎ることですよ",
+          "en": "Roasting means to roast coffee beans."
+        },
+        {
+          "ja": "豆を煎る？",
+          "en": "Roasting beans?"
+        },
+        {
+          "ja": "うちは　達人が焙煎した豆を 仕入れてるから",
+          "en": "We source beans roasted by a master."
+        },
+        {
+          "ja": "達人？",
+          "en": "Master?"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "へぇ～　知らなかった",
+          "en": "Oh, I didn't know that."
+        },
+        {
+          "ja": "会ってみてぇ！",
+          "en": "I want to meet them!"
+        },
+        {
+          "ja": "連れていってあげてもいいよ",
+          "en": "I can take you there if you want."
+        },
+        {
+          "ja": "マジっすか？",
+          "en": "For real?"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "ちょっと　遠いよ？",
+          "en": "It's a bit far, you know?"
+        },
+        {
+          "ja": "え…　外国っすか？ ブラジル？　コロンビア？",
+          "en": "Huh... Is it abroad? Brazil? Colombia?"
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "着いた　着いた",
+          "en": "We're here, we're here."
+        },
+        {
+          "ja": "シロクマさん…",
+          "en": "Mr. Polar Bear..."
+        },
+        {
+          "ja": "何？",
+          "en": "What?"
+        },
+        {
+          "ja": "めっちゃ　近いじゃないっすか！",
+          "en": "It's really close, isn't it!"
+        },
+        {
+          "ja": "うん　だから ちょっとだけ遠い",
+          "en": "Yeah, that's why it's just a little far."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "こんにちは",
+          "en": "Hello"
+        },
+        {
+          "ja": "あら　シロクマさん！",
+          "en": "Oh, Mr. Polar Bear!"
+        },
+        {
+          "ja": "エゾリスママさん 達人に用があるんだけど…",
+          "en": "Ezorisu Mama, I need to talk to the expert..."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "ごめんなさい 今　手が離せないところなのよ",
+          "en": "I'm sorry, I can't step away right now."
+        },
+        {
+          "ja": "リスが焙煎してんだ",
+          "en": "The squirrel is roasting."
+        },
+        {
+          "ja": "パートのママさんたちだよ",
+          "en": "It's the moms from the part-time group."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "あ…　あの人が？",
+          "en": "Oh... that person?"
+        },
+        {
+          "ja": "うん　達人のキノボリカンガルーさん",
+          "en": "Yeah, it's Master Kinobori Kangaroo."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "よし",
+          "en": "Alright."
+        },
+        {
+          "ja": "なんの用だ？",
+          "en": "What do you want?"
+        },
+        {
+          "ja": "キノボリカンガルーさん　このマサキくんが…",
+          "en": "Mr. Tree Kangaroo, this is Masaki..."
+        },
+        {
+          "ja": "弟子になりたいです！",
+          "en": "I want to become your apprentice!"
+        },
+        {
+          "ja": "えっ！？",
+          "en": "What!?"
+        },
+        {
+          "ja": "僕も弟子になりたいです！",
+          "en": "I want to become a disciple too!"
+        },
+        {
+          "ja": "え？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "やめときなさいよ",
+          "en": "You should stop."
+        },
+        {
+          "ja": "焙煎士なんて地味な仕事よ",
+          "en": "Being a roaster is such a dull job."
+        },
+        {
+          "ja": "私たち　パートだけど…",
+          "en": "We're just part-timers, though..."
+        },
+        {
+          "ja": "根気がいるし",
+          "en": "It requires patience."
+        },
+        {
+          "ja": "力仕事だし",
+          "en": "And it's physically demanding work."
+        },
+        {
+          "ja": "じゃあ　やめときます",
+          "en": "Then I'll pass on it."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "最初から　やる気ないでしょ",
+          "en": "You weren't motivated from the start, were you?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "俺は　マジっす",
+          "en": "I'm serious."
+        },
+        {
+          "ja": "今日 しろくまカフェのコーヒーを飲んで",
+          "en": "Today, I drank coffee at Shirokuma Café."
+        },
+        {
+          "ja": "俺　生まれて初めて ブラックがおいしいと思ったんです",
+          "en": "For the first time in my life, I thought black coffee was delicious."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "あんなおいしいコーヒーを 自分でも作ってみたいんです",
+          "en": "I want to try making such delicious coffee myself."
+        },
+        {
+          "ja": "ムリよ",
+          "en": "Impossible."
+        },
+        {
+          "ja": "弟子を置かない主義らしいから",
+          "en": "It seems he has a policy of not taking on apprentices."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "いいだろう",
+          "en": "Sure, why not?"
+        },
+        {
+          "ja": "えっ！？",
+          "en": "What!?"
+        },
+        {
+          "ja": "ホントですか！？",
+          "en": "Really!?"
+        },
+        {
+          "ja": "あぁ",
+          "en": "Ah."
+        },
+        {
+          "ja": "や…　やった～！",
+          "en": "Y-Yes! I did it!"
+        },
+        {
+          "ja": "まぁ　しばらく 通ってみればいいさ",
+          "en": "Well, you should try attending for a while."
+        },
+        {
+          "ja": "頑張ります！",
+          "en": "I'll do my best!"
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "達人！　今日から お世話になります　マサキです",
+          "en": "Master! Starting today, I'll be in your care. I'm Masaki."
+        },
+        {
+          "ja": "あぁ　エゾリスたちに教わるといい",
+          "en": "Ah, you should learn from the Ezo squirrels."
+        },
+        {
+          "ja": "はい！",
+          "en": "Yes!"
+        },
+        {
+          "ja": "わぁ…　豆が白いっつうか　薄緑？",
+          "en": "Wow... the beans are white, or maybe light green?"
+        },
+        {
+          "ja": "カビ生えてるの？",
+          "en": "Is it moldy?"
+        },
+        {
+          "ja": "イタッ！",
+          "en": "Ouch!"
+        },
+        {
+          "ja": "これは　コーヒーの生豆よ！",
+          "en": "These are raw coffee beans!"
+        },
+        {
+          "ja": "生豆？",
+          "en": "Raw beans?"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "これを煎るから茶色になるの",
+          "en": "When you roast these, they turn brown."
+        },
+        {
+          "ja": "なるほど",
+          "en": "I see."
+        },
+        {
+          "ja": "じゃあ　まず 豆のよりわけ方から教えるわね",
+          "en": "Alright, first I'll teach you how to sort the beans."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "コーヒーを焙煎する前に 悪い豆を取り除いておくのよ",
+          "en": "Before roasting the coffee, you need to remove the bad beans."
+        },
+        {
+          "ja": "１粒ずつ？",
+          "en": "One by one?"
+        },
+        {
+          "ja": "混ざると味が悪くなるのよ",
+          "en": "The taste will get worse if they get mixed in."
+        },
+        {
+          "ja": "うわ～　大変っすね",
+          "en": "Wow, that's tough."
+        },
+        {
+          "ja": "悪い豆っていうのは こういう虫が食ってるやつ",
+          "en": "The bad beans are the ones that have been eaten by bugs like this."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "腐ってるやつ",
+          "en": "Rotten ones."
+        },
+        {
+          "ja": "そういう豆は見逃さないで 絶対取らないとダメよ",
+          "en": "You must not overlook those beans; you absolutely have to remove them."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "あ　大きい豆も取って",
+          "en": "Oh, make sure to pick the big beans too."
+        },
+        {
+          "ja": "何で？大きいのいいじゃん",
+          "en": "Why? Big ones are fine, aren't they?"
+        },
+        {
+          "ja": "アタッ！",
+          "en": "Attack!"
+        },
+        {
+          "ja": "大きいと火のとおりに ムラが出るでしょ",
+          "en": "When they're big, they cook unevenly, right?"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "これ全部やるんすか？",
+          "en": "Are we doing all of this?"
+        },
+        {
+          "ja": "そうよ　今日中よ",
+          "en": "Yes, all of it by today."
+        },
+        {
+          "ja": "マジ？",
+          "en": "Seriously?"
+        },
+        {
+          "ja": "さぁ　急いで",
+          "en": "Come on, hurry up."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "遅いわよ",
+          "en": "You're slow!"
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "もっと　チャッチャと",
+          "en": "Hurry up!"
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "もっと　リズミカルに",
+          "en": "More rhythmically."
+        },
+        {
+          "ja": "何だよ　もう！",
+          "en": "What the heck, already!"
+        },
+        {
+          "ja": "俺は　キノボリカンガルーさんに 弟子入りしたのに",
+          "en": "I became an apprentice to Mr. Tree Kangaroo, but..."
+        },
+        {
+          "ja": "アタッ！",
+          "en": "Attack!"
+        },
+        {
+          "ja": "下っ端が口ごたえしない！",
+          "en": "Underlings shouldn't talk back!"
+        },
+        {
+          "ja": "口より手を動かす",
+          "en": "Move your hands, not your mouth."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "ほら　チャッチャと",
+          "en": "Come on, hurry up!"
+        },
+        {
+          "ja": "マサキ　手が止まってる！",
+          "en": "Masaki, your hands have stopped!"
+        },
+        {
+          "ja": "動かしてるよ",
+          "en": "I'm moving them!"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "マサキくん　どうなりましたかね",
+          "en": "Masaki, how's it going?"
+        },
+        {
+          "ja": "誰　それ",
+          "en": "Who is that?"
+        },
+        {
+          "ja": "えっ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "キミが　すすめたブラックコーヒーに 感動したって人でしょ",
+          "en": "He's the one who was impressed by the black coffee you recommended, right?"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "ああ",
+          "en": "Oh, right."
+        },
+        {
+          "ja": "ああって",
+          "en": "Oh, right."
+        },
+        {
+          "ja": "僕　ワルだから 過去は　振り返らないの",
+          "en": "I'm a bad guy, so I don't look back on the past."
+        },
+        {
+          "ja": "カフェモカちょうだい",
+          "en": "I'll have a café mocha."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "ごちそうさま",
+          "en": "Thank you for the meal."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "ねぇ　マサキ",
+          "en": "Hey, Masaki"
+        },
+        {
+          "ja": "腹ごなしに　バレーボールやらない",
+          "en": "How about playing some volleyball to work off the meal?"
+        },
+        {
+          "ja": "いいっすよ",
+          "en": "Sure thing"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "できた！",
+          "en": "Done!"
+        },
+        {
+          "ja": "これが　ネットね",
+          "en": "This is the net."
+        },
+        {
+          "ja": "何気に　本格的っすね",
+          "en": "This is surprisingly professional."
+        },
+        {
+          "ja": "じゃあ　ゲーム開始よ",
+          "en": "Alright, let's start the game!"
+        },
+        {
+          "ja": "いきます！",
+          "en": "Here we go!"
+        },
+        {
+          "ja": "ほい！ センター！",
+          "en": "Here it comes! Center!"
+        },
+        {
+          "ja": "はい！ アタック！",
+          "en": "Yes! Attack!"
+        },
+        {
+          "ja": "アタッ！",
+          "en": "Attack!"
+        },
+        {
+          "ja": "ナイスコース！",
+          "en": "Nice shot!"
+        },
+        {
+          "ja": "イタッ！　よし　本気出すぞ",
+          "en": "Ouch! Alright, I'm getting serious now!"
+        },
+        {
+          "ja": "ヒューヒュー！",
+          "en": "Woo-hoo!"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "ねぇ　あれから ペン子さんたちとはどうなったの？",
+          "en": "Hey, what happened with Penko and the others after that?"
+        },
+        {
+          "ja": "思い出させないでくれる",
+          "en": "Please don't remind me."
+        },
+        {
+          "ja": "カフェモカ　おかわり",
+          "en": "Cafe mocha, refill please."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "ペンギンさんも たまには　ブラック飲めば？",
+          "en": "Why don't you try drinking black coffee once in a while, Mr. Penguin?"
+        },
+        {
+          "ja": "これ以上 苦い思いはしたくないよ",
+          "en": "I don't want any more bitter experiences."
+        },
+        {
+          "ja": "はい　ブラック　サービスね",
+          "en": "Here you go, a black coffee, on the house."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "苦いんでしょ",
+          "en": "It's bitter, isn't it?"
+        },
+        {
+          "ja": "あっ　キノボリカンガルーさん",
+          "en": "Oh, it's Tree Kangaroo!"
+        },
+        {
+          "ja": "ほい　豆",
+          "en": "Here you go, beans."
+        },
+        {
+          "ja": "いつも　お疲れさまです",
+          "en": "Thank you for your hard work as always."
+        },
+        {
+          "ja": "マサキくん　頑張ってる？",
+          "en": "Masaki, are you doing your best?"
+        },
+        {
+          "ja": "ああ　まぁ",
+          "en": "Oh, well."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "エゾリスたちとは 打ち解けたみたいだな",
+          "en": "Seems like you've gotten along well with the Ezo squirrels."
+        },
+        {
+          "ja": "イタッ！",
+          "en": "Ouch!"
+        },
+        {
+          "ja": "イエーイ　ストレート勝ち！",
+          "en": "Yay! A straight win!"
+        },
+        {
+          "ja": "やったわ！",
+          "en": "I did it!"
+        },
+        {
+          "ja": "もういっちょ！",
+          "en": "One more time!"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "あっ　おいしい",
+          "en": "Oh, delicious!"
+        },
+        {
+          "ja": "でしょ",
+          "en": "Right?"
+        },
+        {
+          "ja": "まろやかで　あと味　スッキリ",
+          "en": "It's smooth and has a refreshing aftertaste."
+        },
+        {
+          "ja": "すごく平凡な感想だね",
+          "en": "That's a really ordinary comment."
+        },
+        {
+          "ja": "えっ！",
+          "en": "Huh!?"
+        },
+        {
+          "ja": "だな",
+          "en": "It is, isn't it?"
+        },
+        {
+          "ja": "えっ！",
+          "en": "Huh!?"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "グルメレポーター失格だね",
+          "en": "You're disqualified as a gourmet reporter."
+        },
+        {
+          "ja": "ちょっと待って",
+          "en": "Wait a minute."
+        },
+        {
+          "ja": "ペンギンさん　いつから グルメレポーターになったんですか？",
+          "en": "Mr. Penguin, since when did you become a gourmet reporter?"
+        },
+        {
+          "ja": "今日から",
+          "en": "Starting today."
+        },
+        {
+          "ja": "なってないから！",
+          "en": "I haven't become one!"
+        },
+        {
+          "ja": "なってないのに レポーター気取りなの？",
+          "en": "You're acting like a reporter even though you're not one?"
+        }
+      ]
+    }
+  ]
+}

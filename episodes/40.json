@@ -1,0 +1,883 @@
+{
+  "ep": "40",
+  "title": "夏のお祭り",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "今日は　しろくまカフェと グリズリーバーのジョイント企画で",
+          "en": "Today, it's a joint event between Shirokuma Café and Grizzly Bar."
+        },
+        {
+          "ja": "屋台をやりま～す！",
+          "en": "We'll be running a food stall!"
+        },
+        {
+          "ja": "いいね",
+          "en": "Sounds good!"
+        },
+        {
+          "ja": "楽しみ！",
+          "en": "Looking forward to it!"
+        },
+        {
+          "ja": "似合ってるね　笹子さん",
+          "en": "You look great, Sasako."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "みんなで盛り上げましょう！",
+          "en": "Let's all make it a great time!"
+        },
+        {
+          "ja": "は～い！",
+          "en": "Okaaaay!"
+        },
+        {
+          "ja": "祭りなら任せろ！",
+          "en": "Leave the festival to me!"
+        },
+        {
+          "ja": "炎上　炎上！",
+          "en": "Going up in flames! Going up in flames!"
+        },
+        {
+          "ja": "かっこいい！",
+          "en": "Cool!"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "グリズリーくんは 焼そばを作ってね",
+          "en": "Grizzly, you make the yakisoba."
+        },
+        {
+          "ja": "おう　ガンガン作ってやるぜ",
+          "en": "Oh, I'll make them like crazy!"
+        },
+        {
+          "ja": "パンダくんは ソースを塗ったりする担当",
+          "en": "Panda-kun is in charge of spreading the sauce."
+        },
+        {
+          "ja": "任せて！",
+          "en": "Leave it to me!"
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "ペンギンさんは　呼び込みで",
+          "en": "Penguin will be in charge of attracting customers."
+        },
+        {
+          "ja": "了解！",
+          "en": "Got it!"
+        },
+        {
+          "ja": "あの　僕も何か お手伝いしましょうか？",
+          "en": "Um, should I help with something too?"
+        },
+        {
+          "ja": "ああ　お久しぶり！",
+          "en": "Oh, it's been a while!"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "パンダくんの知り合い？",
+          "en": "Are you an acquaintance of Panda-kun?"
+        },
+        {
+          "ja": "うん　お兄さん！",
+          "en": "Yeah, he's my brother!"
+        },
+        {
+          "ja": "お兄さん？",
+          "en": "Brother?"
+        },
+        {
+          "ja": "みたいな",
+          "en": "Something like that."
+        },
+        {
+          "ja": "ど…　どういう関係？",
+          "en": "Wh-what kind of relationship?"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "名前は同じだけど",
+          "en": "We have the same name, but..."
+        },
+        {
+          "ja": "種属違いの親戚",
+          "en": "Relatives of a different species"
+        },
+        {
+          "ja": "うん？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "もともと　パンダって呼ばれてたのは 僕たちだったんですよ",
+          "en": "Originally, we were the ones called pandas."
+        },
+        {
+          "ja": "へぇ～　そうだったんですか",
+          "en": "Oh, really? Is that so?"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "でも　ジャイアントパンダくんが 出てきてから",
+          "en": "But after the giant panda came along"
+        },
+        {
+          "ja": "僕たちは 小さいほうのパンダ　レッサーパンダって 呼ばれるようになったんです",
+          "en": "We started being called the smaller pandas, the red pandas."
+        },
+        {
+          "ja": "へぇ～",
+          "en": "Oh, really?"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "今も　笹情報まわしたりとか",
+          "en": "Even now, we still share bamboo information and such."
+        },
+        {
+          "ja": "親戚づきあいは 続いてるんだよね",
+          "en": "We still keep in touch with our relatives, right?"
+        },
+        {
+          "ja": "笹情報って？",
+          "en": "Bamboo information?"
+        },
+        {
+          "ja": "はい　どこの笹が おいしいとか調べたり",
+          "en": "Yes, like researching which bamboo is tasty."
+        },
+        {
+          "ja": "僕たちも　笹　大好きなんで",
+          "en": "We love bamboo leaves too."
+        },
+        {
+          "ja": "こまめに動くタイプなんです",
+          "en": "I'm the type who stays on top of things."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "へぇ～！",
+          "en": "Wow!"
+        },
+        {
+          "ja": "じゃあ　私は　注文や お客さんをさばいたりするから",
+          "en": "Then I'll handle the orders and customers."
+        },
+        {
+          "ja": "お勘定係　お願いしてもいいかな？",
+          "en": "Could you handle the billing for me?"
+        },
+        {
+          "ja": "はい！",
+          "en": "Yes!"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "すげぇ！",
+          "en": "Awesome!"
+        },
+        {
+          "ja": "これが　いい！",
+          "en": "This is great!"
+        },
+        {
+          "ja": "きれい！",
+          "en": "Beautiful!"
+        },
+        {
+          "ja": "そう　そう… これを立てておこう",
+          "en": "Yeah, yeah... Let's set this up."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "タイムサービス？",
+          "en": "Time service?"
+        },
+        {
+          "ja": "どんなサービスするんだ？",
+          "en": "What kind of service is it?"
+        },
+        {
+          "ja": "増量か？　値引きか？",
+          "en": "Is it an increase in quantity? Or a discount?"
+        },
+        {
+          "ja": "別に何も",
+          "en": "Nothing in particular."
+        },
+        {
+          "ja": "あぁ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "でも　これを見たら",
+          "en": "But if you see this..."
+        },
+        {
+          "ja": "今買わなきゃって思う",
+          "en": "I feel like I have to buy it now."
+        },
+        {
+          "ja": "正々堂々とやれ！",
+          "en": "Play fair!"
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "いらっしゃい　いらっしゃい！",
+          "en": "Welcome, welcome!"
+        },
+        {
+          "ja": "シロクマ風お好み焼と グリズリー焼そばだよ",
+          "en": "It's Shirokuma-style okonomiyaki and Grizzly yakisoba!"
+        },
+        {
+          "ja": "一度　食べたら　忘れられない味",
+          "en": "Once you taste it, you'll never forget the flavor."
+        },
+        {
+          "ja": "しかも　めったに食べられないよ",
+          "en": "Plus, you can hardly ever get to eat it."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "え～い！　まどろっこしい！！",
+          "en": "Ugh! This is so frustrating!!"
+        },
+        {
+          "ja": "おりゃ～！　オラ　オラ！！",
+          "en": "Here we go! Take that, take that!!"
+        },
+        {
+          "ja": "グリズリー焼そばの激うまさに驚け！",
+          "en": "Prepare to be amazed by the incredible taste of Grizzly Yakisoba!"
+        },
+        {
+          "ja": "グリズリーくん　勢いよすぎ",
+          "en": "Grizzly, you're way too enthusiastic."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "焼そば　２つ！",
+          "en": "Two orders of yakisoba!"
+        },
+        {
+          "ja": "お好み焼　１つと　焼そば　１つ！",
+          "en": "One okonomiyaki and one yakisoba!"
+        },
+        {
+          "ja": "は～い",
+          "en": "Sure!"
+        },
+        {
+          "ja": "焼そば　３つと　お好み焼　１つ",
+          "en": "Three yakisoba and one okonomiyaki."
+        },
+        {
+          "ja": "モダン焼　できる？",
+          "en": "Can you make a modern-yaki?"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "はい　できますよ",
+          "en": "Yes, we can do that."
+        },
+        {
+          "ja": "パンダくん　早く　お好み焼　お願い！",
+          "en": "Panda, hurry up with the okonomiyaki, please!"
+        },
+        {
+          "ja": "う…　うん　今…",
+          "en": "Uh... okay, right now..."
+        },
+        {
+          "ja": "あっ！　自分に　ソース塗っちゃった",
+          "en": "Oh! I accidentally put sauce on myself."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "パンダ　急げ！",
+          "en": "Panda, hurry up!"
+        },
+        {
+          "ja": "う…　うん",
+          "en": "Uh... okay."
+        },
+        {
+          "ja": "ぐわっ！　何しやがる！？",
+          "en": "Gah! What are you doing!?"
+        },
+        {
+          "ja": "あっ！　逆だった",
+          "en": "Oh! It was the other way around."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "笹子に代われ！",
+          "en": "Switch to Sasako!"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "はい　どうぞ",
+          "en": "Here you go."
+        },
+        {
+          "ja": "やった～！",
+          "en": "Yay!"
+        },
+        {
+          "ja": "よかったわね",
+          "en": "That's great!"
+        },
+        {
+          "ja": "ありがとうございました",
+          "en": "Thank you very much."
+        },
+        {
+          "ja": "うりきれ！　店じまいです",
+          "en": "Sold out! The store is closing."
+        },
+        {
+          "ja": "お疲れさまでした",
+          "en": "Thank you for your hard work."
+        },
+        {
+          "ja": "ふぅ…　お疲れ！",
+          "en": "Phew... Good job!"
+        },
+        {
+          "ja": "お疲れさま",
+          "en": "Good job."
+        },
+        {
+          "ja": "あぁ…　疲れた！",
+          "en": "Ah... I'm exhausted!"
+        },
+        {
+          "ja": "働くのって大変",
+          "en": "Working is tough."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "パンダくんは 途中で　クビになったでしょ",
+          "en": "Panda got fired halfway through, right?"
+        },
+        {
+          "ja": "他の屋台回ってみようよ",
+          "en": "Let's check out the other stalls."
+        },
+        {
+          "ja": "おっ！　いいね",
+          "en": "Oh! Sounds good."
+        },
+        {
+          "ja": "わぁ～！　たくさんあるね",
+          "en": "Wow! There are so many!"
+        },
+        {
+          "ja": "僕　これにする",
+          "en": "I'll go with this one."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "パンダ　イン　パンダ！",
+          "en": "Panda in Panda!"
+        },
+        {
+          "ja": "変だよ　それ…",
+          "en": "That's weird..."
+        },
+        {
+          "ja": "じゃあ…",
+          "en": "Well then..."
+        },
+        {
+          "ja": "パンダ　アンド　パンダ",
+          "en": "Panda and Panda"
+        },
+        {
+          "ja": "なんか　怖いよ…",
+          "en": "It's kind of scary..."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "あれ　おもしろそう　やってみたい！",
+          "en": "That looks interesting, I want to try it!"
+        },
+        {
+          "ja": "また　そんな ご迷惑なことを…",
+          "en": "Again with such troublesome things..."
+        },
+        {
+          "ja": "いいよ　やってみるかい？",
+          "en": "Sure, do you want to give it a try?"
+        },
+        {
+          "ja": "やる　やる！",
+          "en": "I'll do it, I'll do it!"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "別の生きものに なっちゃってるよ",
+          "en": "You've turned into a different creature!"
+        },
+        {
+          "ja": "う～ん…　ベロが届かないよ！",
+          "en": "Hmm... I can't reach it with my tongue!"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "あぁ～！　惜しい…",
+          "en": "Ahh! So close..."
+        },
+        {
+          "ja": "もう１回　もう１回！",
+          "en": "One more time, one more time!"
+        },
+        {
+          "ja": "あっ　今…",
+          "en": "Oh, now..."
+        },
+        {
+          "ja": "銃がよくないよ　おじさん　交換して",
+          "en": "The gun isn't good, mister. Exchange it."
+        },
+        {
+          "ja": "また　そんなワガママ言って",
+          "en": "There you go again, being so demanding."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "やった！　ねぇ　ほら！",
+          "en": "I did it! Hey, look!"
+        },
+        {
+          "ja": "貸してみろ",
+          "en": "Let me try."
+        },
+        {
+          "ja": "おらぁっ！",
+          "en": "Take that!"
+        },
+        {
+          "ja": "どうだ！",
+          "en": "How's that!"
+        },
+        {
+          "ja": "俺にかかりゃ　こんなもんよ",
+          "en": "When it comes to me, this is nothing."
+        },
+        {
+          "ja": "あ… ほらよ",
+          "en": "Ah... Here you go."
+        },
+        {
+          "ja": "あ…　ありがとうございます",
+          "en": "Ah... thank you."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "おらぁっ！",
+          "en": "Take that!"
+        },
+        {
+          "ja": "細かすぎんだよ",
+          "en": "You're too picky!"
+        },
+        {
+          "ja": "コイツら！ サケやマスなら　一発なのによ！",
+          "en": "These guys! If it were salmon or trout, I'd get them in one shot!"
+        },
+        {
+          "ja": "シロクマさん　すご～い",
+          "en": "Mr. Polar Bear, you're amazing!"
+        },
+        {
+          "ja": "もう２０匹目ですよ",
+          "en": "That's the 20th one already!"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "さすがだね",
+          "en": "As expected!"
+        },
+        {
+          "ja": "いっそのこと　直に…",
+          "en": "Why not just go directly..."
+        },
+        {
+          "ja": "お客さん　困ります",
+          "en": "Excuse me, sir, that's not allowed."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "あれ？　半田さん",
+          "en": "Huh? Handa-san?"
+        },
+        {
+          "ja": "あっ　パンダくん",
+          "en": "Oh, Panda-kun."
+        },
+        {
+          "ja": "仕事終わって 今　来たところなんだ",
+          "en": "I just finished work and got here now."
+        },
+        {
+          "ja": "笹子さん…　あ　いや　屋台は？",
+          "en": "Sasako... Oh, I mean, what about the food stall?"
+        },
+        {
+          "ja": "うん　完売で もう　みんな遊んでるよ",
+          "en": "Yeah, we sold out, so now everyone is just hanging out."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "そ…　そう",
+          "en": "I... I see."
+        },
+        {
+          "ja": "何？ それ…",
+          "en": "What's that...?"
+        },
+        {
+          "ja": "笹子さ…　あ　いや！みんなに差し入れをと思って…",
+          "en": "Sasako... Ah, no! I thought I'd bring a treat for everyone..."
+        },
+        {
+          "ja": "お茶とかジュース",
+          "en": "Tea and juice."
+        },
+        {
+          "ja": "笹子さんなら　あっちにいるよ",
+          "en": "If you're looking for Sasako, she's over there."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "え？　あ～　そう…",
+          "en": "Huh? Oh, I see..."
+        },
+        {
+          "ja": "渡しにいこうよ",
+          "en": "Let's go give it to them."
+        },
+        {
+          "ja": "えっ！",
+          "en": "Huh!"
+        },
+        {
+          "ja": "みんなじゃなくて ２人で飲めばいいと思うよ",
+          "en": "I think it would be better if just the two of us have a drink, not everyone."
+        },
+        {
+          "ja": "いや　いや…",
+          "en": "No, no..."
+        },
+        {
+          "ja": "あれ？　半田さん？",
+          "en": "Huh? Handa?"
+        },
+        {
+          "ja": "さ…　笹子さん",
+          "en": "Sa... Sasako-san"
+        },
+        {
+          "ja": "こんばんは",
+          "en": "Good evening."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "ど…　ど…　どうも",
+          "en": "Uh... uh... hi."
+        },
+        {
+          "ja": "半田さんが 差し入れにきてくれたよ",
+          "en": "Handa-san brought us a treat."
+        },
+        {
+          "ja": "ど…　どうぞ",
+          "en": "He... here you go."
+        },
+        {
+          "ja": "あら…　ありがとうございます",
+          "en": "Oh... thank you very much."
+        },
+        {
+          "ja": "いやいや　つまらないものだから",
+          "en": "Oh, it's nothing special."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "ちょっと…　パンダくん",
+          "en": "Hey... Panda-kun"
+        },
+        {
+          "ja": "おう　半田 ありがたくもらうぜ",
+          "en": "Oh, Handa, I'll gladly accept it."
+        },
+        {
+          "ja": "僕も飲む～！",
+          "en": "I'll have some too!"
+        },
+        {
+          "ja": "僕ももらおうかな",
+          "en": "Maybe I'll take some too."
+        },
+        {
+          "ja": "もう一本！",
+          "en": "Another one!"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "せっかくなんで いただきます",
+          "en": "Since it's a special occasion, I'll have some."
+        },
+        {
+          "ja": "あ…　どうぞ　どうぞ",
+          "en": "Oh... please, go ahead."
+        },
+        {
+          "ja": "半田さん…　間が悪いなぁ",
+          "en": "Mr. Handa... your timing is off."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "わぁ… 花火",
+          "en": "Wow... fireworks"
+        },
+        {
+          "ja": "始まったみたいですね",
+          "en": "It looks like it started."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "わぁ…　きれい",
+          "en": "Wow... it's beautiful."
+        },
+        {
+          "ja": "私　花火　大好きなんですよ",
+          "en": "I really love fireworks."
+        },
+        {
+          "ja": "僕も…　僕も大好きです",
+          "en": "Me too... I love them too."
+        },
+        {
+          "ja": "いいですよね　花火",
+          "en": "Fireworks are great, aren't they?"
+        },
+        {
+          "ja": "は…　はい",
+          "en": "Y-yeah... yes."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "笹子さんは座ってください",
+          "en": "Please have a seat, Sasako."
+        },
+        {
+          "ja": "あ…　すみません",
+          "en": "Ah... sorry."
+        },
+        {
+          "ja": "ダメだよ　半田さん　遠慮してちゃ",
+          "en": "You can't, Handa-san, don't hold back."
+        },
+        {
+          "ja": "でも　これで 一緒に並んで座れたでしょ？",
+          "en": "But now we can sit together, right?"
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "あ…　あの…　最後の１本に なっちゃいましたが",
+          "en": "Uh... um... it looks like we're down to the last one."
+        },
+        {
+          "ja": "お茶　どうぞ",
+          "en": "Please have some tea."
+        },
+        {
+          "ja": "ありがとうございます",
+          "en": "Thank you."
+        },
+        {
+          "ja": "すごく　ノドが渇いてたんですよ",
+          "en": "I was really thirsty."
+        },
+        {
+          "ja": "冷たくて気持いい",
+          "en": "It's cold and refreshing."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "きれ～い！",
+          "en": "So refreshing!"
+        },
+        {
+          "ja": "おぉ～！炎上　炎上！",
+          "en": "Oh wow! It's on fire, it's on fire!"
+        },
+        {
+          "ja": "グリズリーくん　それ違うから",
+          "en": "Grizzly, that's not right."
+        },
+        {
+          "ja": "きらめいてます！",
+          "en": "It's sparkling!"
+        },
+        {
+          "ja": "もう…　みんな 空気読まないんだから",
+          "en": "Geez... no one ever gets the hint around here."
+        }
+      ]
+    }
+  ]
+}

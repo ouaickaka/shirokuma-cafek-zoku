@@ -1,0 +1,890 @@
+{
+  "ep": "29",
+  "title": "真夏の雑草取り",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "やっと着いた",
+          "en": "Finally arrived."
+        },
+        {
+          "ja": "近道しようとしたら　雑草がすごくて迷ちゃったよ",
+          "en": "I tried to take a shortcut, but the weeds were so overgrown that I got lost."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "そうなの　迷ちゃうお客さんもいるみたい",
+          "en": "It seems like there are some customers who get lost too."
+        },
+        {
+          "ja": "隣なのに家から20分かかちゃったよ",
+          "en": "Even though it's next door, it took me 20 minutes from my house."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "雑草すごいね",
+          "en": "The weeds are really something."
+        },
+        {
+          "ja": "中の席にしようか",
+          "en": "Shall we take a seat inside?"
+        },
+        {
+          "ja": "よし　やろう",
+          "en": "Alright, let's do it."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "よいしょ",
+          "en": "Alright, let's do this."
+        },
+        {
+          "ja": "何してるの　白熊君",
+          "en": "What are you doing, Shirokuma?"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "テラスで風を感じながら キンキンに冷したミントティーを飲んでる",
+          "en": "I'm drinking ice-cold mint tea on the terrace while feeling the breeze."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "そうじゃなくて",
+          "en": "That's not what I meant."
+        },
+        {
+          "ja": "なんで僕に君の店の雑草取りさせて",
+          "en": "Why are you making me pull weeds at your shop?"
+        },
+        {
+          "ja": "君がテラスをすすんでるの",
+          "en": "You're tidying up the terrace."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "僕は普通寒いところにいるでしょう",
+          "en": "I'm usually in cold places, right?"
+        },
+        {
+          "ja": "僕もだよ",
+          "en": "Me too."
+        },
+        {
+          "ja": "真夏に雑草取りをするペンギンなんて どこの世界にいるの",
+          "en": "What kind of world has a penguin pulling weeds in the middle of summer?"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "ごちそうさまでした",
+          "en": "Thank you for the meal."
+        },
+        {
+          "ja": "では",
+          "en": "Well then"
+        },
+        {
+          "ja": "らまさん　どこ行くの",
+          "en": "Llama, where are you going?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "もう食べられないんで　失礼しようかなって",
+          "en": "I can't eat anymore, so I thought I'd excuse myself."
+        },
+        {
+          "ja": "ちょっと待って　なんで帰ちゃうの",
+          "en": "Wait a minute, why are you leaving?"
+        },
+        {
+          "ja": "僕たちの雑草取り始まったばかりでしょう",
+          "en": "Our weeding has just begun, hasn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "けど　もうお腹いっぱいですよ",
+          "en": "But I'm already full."
+        },
+        {
+          "ja": "雑草取りって　そういうことじゃないでしょう",
+          "en": "Pulling weeds isn't about that, is it?"
+        },
+        {
+          "ja": "もうちょっと頑張ろうよ",
+          "en": "Let's try a little harder."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "僕　もうお腹はじけちゃいますよ",
+          "en": "I'm about to burst, you know."
+        },
+        {
+          "ja": "そうじゃなくて",
+          "en": "That's not what I meant."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "食べる以外の方法で雑草を取れないのかな",
+          "en": "Isn't there a way to get rid of the weeds without eating them?"
+        },
+        {
+          "ja": "そうでしたか　ちょっと考えてみます",
+          "en": "I see, I'll think about it."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "寝てる",
+          "en": "Sleeping."
+        },
+        {
+          "ja": "起きてますよ",
+          "en": "I'm awake."
+        },
+        {
+          "ja": "寝てたでしょう",
+          "en": "You were sleeping, weren't you?"
+        },
+        {
+          "ja": "ミントティー　どう？",
+          "en": "How about some mint tea?"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "あ　いただきます",
+          "en": "Oh, thank you."
+        },
+        {
+          "ja": "もう　皆　頑張ろうよ",
+          "en": "Come on, everyone, let's do our best!"
+        },
+        {
+          "ja": "頑張りたいんだけど　僕ユーカリしか食べられなっくて",
+          "en": "I want to try my best, but I can only eat eucalyptus."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "だから　食べない方法もあるんじゃないかな",
+          "en": "So maybe there's a way to not eat it."
+        },
+        {
+          "ja": "ペンギンさん",
+          "en": "Mr. Penguin"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "変な形の石拾った",
+          "en": "I found a strangely shaped stone."
+        },
+        {
+          "ja": "要らないの　その報告は　雑草取ろう",
+          "en": "We don't need that report. Let's pull out the weeds."
+        },
+        {
+          "ja": "ペンギンさん",
+          "en": "Mr. Penguin"
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "笹子さん　それは？",
+          "en": "Sasako-san, what is that?"
+        },
+        {
+          "ja": "土偶です",
+          "en": "It's a clay figurine."
+        },
+        {
+          "ja": "拾いました",
+          "en": "I picked it up."
+        },
+        {
+          "ja": "要らない報告でした",
+          "en": "It was an unnecessary report."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "何　この庭",
+          "en": "What's with this garden?"
+        },
+        {
+          "ja": "よく落ちてるんだ",
+          "en": "They often fall around here."
+        },
+        {
+          "ja": "遮光器土偶ですね",
+          "en": "It's a Shakōki-dogū, isn't it?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "面白い顔だね",
+          "en": "That's an interesting face."
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "僕だけかな　雑草取り真面目にやってるの",
+          "en": "Am I the only one seriously weeding?"
+        },
+        {
+          "ja": "僕も～",
+          "en": "Me too~"
+        },
+        {
+          "ja": "あ",
+          "en": "Oh."
+        },
+        {
+          "ja": "いるよ～～",
+          "en": "I'm here~~"
+        },
+        {
+          "ja": "怠け者くん",
+          "en": "Lazybones"
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "が～ん～ば～る～ぞ～",
+          "en": "I’m gonna do my best!"
+        },
+        {
+          "ja": "やる気はあるんだけどな",
+          "en": "I do have the motivation, though."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "クーラーは涼しいな",
+          "en": "The air conditioner is nice and cool."
+        },
+        {
+          "ja": "ねぇ　笹持ってきて　お母さん",
+          "en": "Hey, bring the bamboo, Mom."
+        },
+        {
+          "ja": "涼しいでしょう",
+          "en": "It's cool, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "あ　ペンギンさん何してるの",
+          "en": "Oh, Mr. Penguin, what are you doing?"
+        },
+        {
+          "ja": "何してるのじゃないよパンダ君　雑草取りは？",
+          "en": "It's not 'what are you doing,' Panda-kun. What about weeding?"
+        },
+        {
+          "ja": "ペンギンさんはなんでそんなに雑草取りがすきなの",
+          "en": "Why do you like weeding so much, Mr. Penguin?"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "好きじゃないよ",
+          "en": "I don't like it."
+        },
+        {
+          "ja": "けど　このままじゃ一日じゃ終わらないよ",
+          "en": "But if we leave it like this, we won't finish in a day."
+        },
+        {
+          "ja": "分かったよ",
+          "en": "Alright, I got it."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "もう",
+          "en": "Fine."
+        },
+        {
+          "ja": "じゃ　行こうか",
+          "en": "Alright, let's go."
+        },
+        {
+          "ja": "うん　昼寝してからすぐ行くよ",
+          "en": "Yeah, I'll go right after I take a nap."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "あ～～～吸わないで～～～",
+          "en": "Ah~~~ don't suck it~~~"
+        },
+        {
+          "ja": "暑いな",
+          "en": "It's hot."
+        },
+        {
+          "ja": "僕だって暑いよ",
+          "en": "I'm hot too."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "何！　え！　火事？",
+          "en": "What! Huh! A fire?"
+        },
+        {
+          "ja": "ええ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "パンダ君　急ごう",
+          "en": "Panda, let's hurry!"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "ちょっと　何してるの",
+          "en": "Hey, what are you doing?"
+        },
+        {
+          "ja": "バーベキュー",
+          "en": "Barbecue"
+        },
+        {
+          "ja": "らまさん　お腹いっぱいだって言ってたでしょう",
+          "en": "Llama, you said you were full, didn't you?"
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "バーベキューは別腹ですよ",
+          "en": "Barbecue is a separate stomach, you know."
+        },
+        {
+          "ja": "聞いたことないよ　そんな言葉",
+          "en": "I've never heard of such a saying."
+        },
+        {
+          "ja": "ペンギンさん　そこで拾った土偶です",
+          "en": "Penguin, that's a clay figurine I found over there."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "また？",
+          "en": "Again?"
+        },
+        {
+          "ja": "だから　すごいんだけれど　要らないよ　その報告は",
+          "en": "That's impressive, but I don't need that report."
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "見せて　見せて",
+          "en": "Let me see, let me see."
+        },
+        {
+          "ja": "らまさん",
+          "en": "Llama-san"
+        },
+        {
+          "ja": "はい　どうぞ",
+          "en": "Here you go."
+        },
+        {
+          "ja": "焼けたよ",
+          "en": "It's done."
+        },
+        {
+          "ja": "ありがとうございます",
+          "en": "Thank you."
+        },
+        {
+          "ja": "僕ちょっと倒れるよ",
+          "en": "I think I'm going to faint."
+        },
+        {
+          "ja": "ペンギンさん",
+          "en": "Mr. Penguin"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "ナイス　ショット",
+          "en": "Nice shot!"
+        },
+        {
+          "ja": "打てるもんですね",
+          "en": "You can actually hit it."
+        },
+        {
+          "ja": "何してるの",
+          "en": "What are you doing?"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "ゴルフ",
+          "en": "Golf"
+        },
+        {
+          "ja": "誰も僕を見習って頑張ろうとしないなんて",
+          "en": "No one tries to follow my example and work hard."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "ごめん",
+          "en": "Sorry"
+        },
+        {
+          "ja": "ペンギンさん",
+          "en": "Mr. Penguin"
+        },
+        {
+          "ja": "何　笹子さん　また土偶？",
+          "en": "What, Sasako-san, another clay figure?"
+        },
+        {
+          "ja": "いいえ　皆でここだけはやったんですよ",
+          "en": "No, we all worked on just this part together."
+        },
+        {
+          "ja": "え？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "この木陰なら涼しいし",
+          "en": "This spot under the trees is nice and cool."
+        },
+        {
+          "ja": "ペンギンさんを休ませてあげられるって　らまさんが",
+          "en": "Llama-san said we can let Penguin-san rest here."
+        },
+        {
+          "ja": "テラスが日が射してきちゃって",
+          "en": "The terrace is getting sunny."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "ごめんね",
+          "en": "Sorry about that."
+        },
+        {
+          "ja": "友達と一緒に賑やかにできたほうがいいなぁって",
+          "en": "I think it would be better to have fun together with friends."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "だって　みんなでこうしてるだけで　楽しいよ",
+          "en": "Because just being here with everyone like this is fun."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "そうだね",
+          "en": "That's true."
+        },
+        {
+          "ja": "僕大事なこと忘れてたみたい",
+          "en": "It seems like I forgot something important."
+        },
+        {
+          "ja": "ミントティー　飲む？",
+          "en": "Would you like some mint tea?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "私たちは　雑草取りに戻りましょうか",
+          "en": "Shall we go back to weeding?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "ペンギンさんは休んでてください",
+          "en": "Mr. Penguin, please take a rest."
+        },
+        {
+          "ja": "じゃあ",
+          "en": "Okay"
+        },
+        {
+          "ja": "もう一頑張りしますか",
+          "en": "Shall we give it one more try?"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "もう食べられません",
+          "en": "I can't eat anymore."
+        },
+        {
+          "ja": "ペンギンさん　出番が来たよ",
+          "en": "Mr. Penguin, it's your turn."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "大～丈～夫～",
+          "en": "I'm o~kay~"
+        },
+        {
+          "ja": "後は　僕が～",
+          "en": "I'll take it from here."
+        },
+        {
+          "ja": "終わらないね",
+          "en": "It never ends, does it?"
+        },
+        {
+          "ja": "どうしましょうか",
+          "en": "What should we do?"
+        },
+        {
+          "ja": "バービキュ食べ過ぎて　僕もう草は食べられません",
+          "en": "I ate too much barbecue, I can't eat any more grass."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "もしもし",
+          "en": "Hello?"
+        },
+        {
+          "ja": "何だよ　このクソ暑い中に呼び出しやがって",
+          "en": "What the heck, calling me out in this damn heat."
+        },
+        {
+          "ja": "庭の雑草が伸びちゃってさ",
+          "en": "The weeds in the garden have grown too much."
+        },
+        {
+          "ja": "庭の雑草？",
+          "en": "The weeds in the yard?"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "白熊",
+          "en": "Polar bear"
+        },
+        {
+          "ja": "おめぇまさか　俺に雑草取らせようってじゃねんだろうな",
+          "en": "You're not seriously thinking of making me pull weeds, are you?"
+        },
+        {
+          "ja": "いい？",
+          "en": "Is that okay?"
+        },
+        {
+          "ja": "いい？",
+          "en": "Is that okay?"
+        },
+        {
+          "ja": "じゃねぇー",
+          "en": "Nope."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "これでいいのか",
+          "en": "Is this okay?"
+        },
+        {
+          "ja": "なんて　暴力的で　なんて　丁寧な仕事だ",
+          "en": "What a violent yet meticulous job."
+        },
+        {
+          "ja": "飯食わせろ！",
+          "en": "Feed me!"
+        },
+        {
+          "ja": "はい",
+          "en": "Sure"
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "うめぇー！",
+          "en": "Delicious!"
+        },
+        {
+          "ja": "またな",
+          "en": "See you again."
+        },
+        {
+          "ja": "暴風のように去っていた",
+          "en": "He left like a storm."
+        },
+        {
+          "ja": "今日はおごるよ",
+          "en": "I'll treat you today."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "ぺんぎんさんにも迷惑かけちゃったし",
+          "en": "I also ended up bothering Mr. Penguin."
+        },
+        {
+          "ja": "飲もうか",
+          "en": "Shall we drink?"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "やぁ　今日は働いたね",
+          "en": "Hey, we worked hard today."
+        },
+        {
+          "ja": "白熊さんもこっちに来て飲みましょう",
+          "en": "Shirokuma, come over here and let's have a drink."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "楽しにゃ",
+          "en": "Sounds fun!"
+        },
+        {
+          "ja": "でしょう",
+          "en": "Right?"
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "白熊君相談って何",
+          "en": "Polar Bear, what did you want to talk about?"
+        },
+        {
+          "ja": "それが",
+          "en": "Well, it's about that..."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "どうしたの　僕でよかったら相談に乗るよ",
+          "en": "What's wrong? If you don't mind, I'll listen to your concerns."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "え",
+          "en": "Huh?"
+        },
+        {
+          "ja": "たった数日でこんなに伸びたの",
+          "en": "Did it really grow this much in just a few days?"
+        },
+        {
+          "ja": "夏の雑草は　伸びるの早いんだよ",
+          "en": "Summer weeds grow quickly."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "僕が手伝う理由が見えないんだけど",
+          "en": "I don't see any reason for me to help."
+        },
+        {
+          "ja": "ほら　僕は寒いところの生き物だから",
+          "en": "You see, I'm a creature from a cold place."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "だから　僕もだよ",
+          "en": "That's why I am too."
+        },
+        {
+          "ja": "さっき見つけた土偶です",
+          "en": "Here's a clay figure I just found."
+        },
+        {
+          "ja": "笹子さん　その報告はもういいから",
+          "en": "Ms. Sasako, that's enough of that report."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1483 @@
+{
+  "ep": "44",
+  "title": "いつもの動物園",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "サービス サービス",
+          "en": "Service, service!"
+        },
+        {
+          "ja": "サービス サービス",
+          "en": "Service, service."
+        },
+        {
+          "ja": "サービス サービス サービス サービス",
+          "en": "Service service service service"
+        },
+        {
+          "ja": "みんな 次は キリンさんを見ましょう",
+          "en": "Everyone, let's look at the giraffe next."
+        },
+        {
+          "ja": "は～い",
+          "en": "Okay!"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "サービス サービス サービス サービス",
+          "en": "Service, service, service, service"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "いやぁ いい汗かいたね",
+          "en": "Phew, that was a good workout!"
+        },
+        {
+          "ja": "ありがとう 常勤さん",
+          "en": "Thank you, Jokin-san."
+        },
+        {
+          "ja": "えっ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "常勤さんがいるおかげで 僕のかわいさが引き立っちゃうよ",
+          "en": "Thanks to Jokin being here, my cuteness really gets to stand out!"
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "うん？ どうしたの？",
+          "en": "Huh? What's wrong?"
+        },
+        {
+          "ja": "ああ 何でもないよ",
+          "en": "Ah, it's nothing."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "ああ そうだ",
+          "en": "Oh, that's right."
+        },
+        {
+          "ja": "うん？",
+          "en": "Hm?"
+        },
+        {
+          "ja": "ねぇねぇ 常勤さん ２人で ゴロゴロしようよ",
+          "en": "Hey, hey, Jokin-san, let's lounge around together, just the two of us."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "しようがないな",
+          "en": "I guess I can't help it."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "１人で ゴロゴロするのも楽しいけど",
+          "en": "Rolling around alone is fun too, but..."
+        },
+        {
+          "ja": "２人で ゴロゴロすると もっと楽しいよね",
+          "en": "When the two of us lounge around together, it's even more fun, right?"
+        },
+        {
+          "ja": "そうだね じゃあ 次は",
+          "en": "That's right. Well then, next time..."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "２人で内職しよう",
+          "en": "Let's do some piecework together, the two of us."
+        },
+        {
+          "ja": "え～っ また内職？",
+          "en": "Huh? Piecework again?"
+        },
+        {
+          "ja": "やだよ お客さんがいないときは プライベートで ゴロゴロするんだもん",
+          "en": "Nope, no way! When there aren't any customers, I want to spend my private time lazing around!"
+        },
+        {
+          "ja": "パンダ君 ２人でやったら 内職も楽しいよ",
+          "en": "Panda, if we do the piecework together, it'll be fun too."
+        },
+        {
+          "ja": "一緒にやると 作業みたいじゃない？",
+          "en": "When we do it together, doesn't it feel less like work?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "一緒にやりたいんだ 今日は",
+          "en": "I want to do it together. Today is..."
+        },
+        {
+          "ja": "僕は ここで見てるよ",
+          "en": "I'll be watching from here."
+        },
+        {
+          "ja": "内職っていうのは 参加することに意義があるんだよ",
+          "en": "The meaning of piecework is that the value lies in participating in it."
+        },
+        {
+          "ja": "だから 内職はダメですよ",
+          "en": "That's why piecework won't work."
+        },
+        {
+          "ja": "じゃあ どうやって ヒマをつぶせばいいんだい？",
+          "en": "Well then, how am I supposed to kill time?"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "仕事してください",
+          "en": "Do your work."
+        },
+        {
+          "ja": "ねぇ パンダ君 一緒にやろう",
+          "en": "Hey, Panda, let's do it together."
+        },
+        {
+          "ja": "え～っ？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "いいですよ",
+          "en": "Sure, I'll do it."
+        },
+        {
+          "ja": "あれ？ 半田さん いいの？",
+          "en": "Huh? Handa, is that okay?"
+        },
+        {
+          "ja": "いいんですか？",
+          "en": "Is that really okay?"
+        },
+        {
+          "ja": "いいんだよ",
+          "en": "It's fine"
+        },
+        {
+          "ja": "うん？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "悪いね",
+          "en": "Sorry about this"
+        },
+        {
+          "ja": "ほら パンダ君",
+          "en": "Come on, Panda."
+        },
+        {
+          "ja": "わかったよ",
+          "en": "Got it."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "またのご来園を お待ちしております",
+          "en": "We look forward to your next visit."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "お疲れさま パンダ君",
+          "en": "Thanks for your hard work, Panda."
+        },
+        {
+          "ja": "またね",
+          "en": "See you again"
+        },
+        {
+          "ja": "パンダ君",
+          "en": "Panda"
+        },
+        {
+          "ja": "なぁに？",
+          "en": "What is it?"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "いや 何でもない またね",
+          "en": "Never mind. See you later."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "うん？ またね",
+          "en": "Huh? See you later."
+        },
+        {
+          "ja": "うん またね",
+          "en": "Yeah, see you later."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "笹子さん どうでもいい話していい？",
+          "en": "Sasako-san, can I talk about something pointless?"
+        },
+        {
+          "ja": "どうでもいい話はやっぱり どうでもいい感じで 聞いたほうがいいんでしょうか？",
+          "en": "Should I listen to trivial talk with that sort of \"doesn't matter\" kind of attitude?"
+        },
+        {
+          "ja": "その確認は いらないんじゃないかな",
+          "en": "You probably don't need to confirm that, do you?"
+        },
+        {
+          "ja": "笹子さん ペンギンさんの話は 基本 適当に聞けば大丈夫だよ",
+          "en": "Sasako, when it comes to Penguin's stories, basically you can just listen to them casually and you'll be fine."
+        },
+        {
+          "ja": "ちょっと 気の合う仲間とどうでもいい話するのって 最高でしょ？",
+          "en": "Don't you think chatting about pointless stuff with friends who really get you is just the best?"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "そうですね 聞くよ どうでもいい話",
+          "en": "Yeah, I'll listen. Go ahead with your pointless story."
+        },
+        {
+          "ja": "そう言われてまで話す 話じゃないんだよな",
+          "en": "Well, when you put it that way, it's not really the kind of story worth telling anymore, is it?"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "疲れたよ",
+          "en": "I'm tired."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "やっぱり バイト週１日にしてもらおうかな",
+          "en": "I guess I should ask to cut back my shifts to just one day a week."
+        },
+        {
+          "ja": "ペンギンさん 半田さんに頼んでみてよ",
+          "en": "Penguin, why don't you try asking Handa for that?"
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "僕が頼む理由が 見つからないんだけど",
+          "en": "I can't find a reason for me to be the one asking."
+        },
+        {
+          "ja": "シロクマ君 見つかった？",
+          "en": "Polar Bear, did you find it?"
+        },
+        {
+          "ja": "気の合う仲間の無理な頼みを聞いてあげるのも 最高でしょ？",
+          "en": "Isn't it great to do favors for friends you get along with, even if they're unreasonable requests?"
+        },
+        {
+          "ja": "それはまぁ 最高だけどね",
+          "en": "That's true, it is pretty great, but..."
+        },
+        {
+          "ja": "わかったよ",
+          "en": "Alright, I got it."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "常勤パンダさんに言ってもらうよ",
+          "en": "I'll ask Permanent Employee Panda to tell him."
+        },
+        {
+          "ja": "笹子さん いつものお願い",
+          "en": "Sasako, the usual favor."
+        },
+        {
+          "ja": "はい",
+          "en": "Yes."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "あれ？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "常勤パンダさん 遅刻かな？",
+          "en": "Is the full-time panda late?"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "しようがないな",
+          "en": "Well, I guess there's nothing to be done about it."
+        },
+        {
+          "ja": "ヒマだから手伝ってあげよう",
+          "en": "Since we've got some free time, I'll help you out."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "あっ 半田さん",
+          "en": "Oh, Handa!"
+        },
+        {
+          "ja": "常勤さんは？ 遅刻？",
+          "en": "Where's the full-timer? Is he late?"
+        },
+        {
+          "ja": "えっと…",
+          "en": "Um..."
+        },
+        {
+          "ja": "うん？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "先輩",
+          "en": "Senpai"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah?"
+        },
+        {
+          "ja": "常勤パンダさん シンガポールに行ったんだよ",
+          "en": "Full-timer Panda went to Singapore."
+        },
+        {
+          "ja": "シンガポール？",
+          "en": "Singapore?"
+        },
+        {
+          "ja": "うん 外国だね",
+          "en": "Yeah, it's a foreign country, isn't it."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "いつ戻ってくるの？",
+          "en": "When will he come back?"
+        },
+        {
+          "ja": "いや 外国へ転勤になったんだよ",
+          "en": "No, he got transferred to a job overseas."
+        },
+        {
+          "ja": "もう この動物園には 戻ってこないんだ",
+          "en": "So he's not coming back to this zoo anymore."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "え？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "これ 常勤パンダさんから",
+          "en": "This is from the full-time Panda."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "辞令は ちょっと前に 出てたんだけど",
+          "en": "The official notice came out a little while ago, but..."
+        },
+        {
+          "ja": "常勤パンダさんが パンダ君には言わないでくれって",
+          "en": "The full-time panda asked me not to tell Panda-kun about it."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "常勤パンダさんがいないと 僕のかわいさが引き立たないよ",
+          "en": "If the full-time panda isn't here, my cuteness won't stand out!"
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "かわいい",
+          "en": "That's cute."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "かわいいね",
+          "en": "That's cute, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "パンダ君の様子は どう？",
+          "en": "How is Panda boy doing?"
+        },
+        {
+          "ja": "いつもと変わらない感じですけど",
+          "en": "He seems the same as always, but..."
+        },
+        {
+          "ja": "そう ならいいけど…",
+          "en": "That's good then, but..."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "じゃあ また明日",
+          "en": "Well then, see you tomorrow."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "大丈夫ですかね パンダ君",
+          "en": "Is he alright, do you think? Panda-kun."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "パンダくんへ",
+          "en": "To Panda"
+        },
+        {
+          "ja": "何も言わないで いなくなって ごめん",
+          "en": "I'm sorry for disappearing without saying anything."
+        },
+        {
+          "ja": "私 急に転勤が決まってね",
+          "en": "I suddenly got transferred."
+        },
+        {
+          "ja": "シンガポールの動物園で 働くことになったんだ",
+          "en": "I ended up getting a job working at a zoo in Singapore."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "半田さんたちには パンダ君に言わないでって私がお願いしたんだ",
+          "en": "I asked Handa and the others not to tell Panda about it."
+        },
+        {
+          "ja": "私のワガママなんだ",
+          "en": "It's my selfishness."
+        },
+        {
+          "ja": "だから 半田さんたちを 責めないでほしい",
+          "en": "So please don't blame Handa and the others"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "最後の日まで いつもどおり ２人で楽しく過ごしたくてね",
+          "en": "Until the last day, I wanted to spend time together with him just like always, having fun."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "パンダ君とは 動物園で 週２日しか会わなかったけど",
+          "en": "I only get to see Panda at the zoo twice a week, but..."
+        },
+        {
+          "ja": "キミがいてくれて ずいぶん楽しかったよ",
+          "en": "Having you here made things so much fun."
+        },
+        {
+          "ja": "それから シンガポールは 暑いだろうから コタツ置いてくね",
+          "en": "And since Singapore will be hot, I'll leave the kotatsu here for you."
+        },
+        {
+          "ja": "よかったら使ってよ",
+          "en": "If you'd like, feel free to use it."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "あと 私の内職道具も 置いていくからヒマならやっていいよ",
+          "en": "And I'll leave behind my side-job tools too, so feel free to use them if you get bored."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "もっと２人で お客さん 喜ばせたかったな",
+          "en": "I wish we could have made more customers happy together, just the two of us."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "ありがとう パンダ君",
+          "en": "Thank you, Panda."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "ありがとう",
+          "en": "Thank you."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "どうぞ どうぞ",
+          "en": "Please, please."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "どうぞ",
+          "en": "Please help yourself."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "パンダ君 ２人でやったら 内職も楽しいよ",
+          "en": "Panda, when we do it together, even piecework is fun!"
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "あっ すみません いりませんでした？",
+          "en": "Oh, sorry. Didn't you need this?"
+        },
+        {
+          "ja": "常勤さんがいないと 僕…",
+          "en": "Without Jokin-san here, I..."
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "常勤さん…",
+          "en": "Regular-san..."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "あ あの…",
+          "en": "Uh, well..."
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "あ あの…",
+          "en": "Uh, um..."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "大丈夫ですか？",
+          "en": "Are you okay?"
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "やあ ペンギンやってると 小銭入れる場所に困るね",
+          "en": "Hey, when you're a penguin, you really don't know where to put your loose change, huh?"
+        },
+        {
+          "ja": "ペンギンさん",
+          "en": "Penguin."
+        },
+        {
+          "ja": "あん？ なに？",
+          "en": "Huh? What?"
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "どうしたの？ パンダ君",
+          "en": "What's wrong? Panda."
+        },
+        {
+          "ja": "そっとしておいてあげて",
+          "en": "Leave him be."
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "で どうなの？ パンダ君は？",
+          "en": "So what's the deal? How about you, Panda?"
+        },
+        {
+          "ja": "元気ないみたいですよ",
+          "en": "He seems to be lacking energy"
+        },
+        {
+          "ja": "常勤パンダさん 急だったからね",
+          "en": "Well, Mr. Panda does work full-time, so it was sudden."
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "今日 パンダ君に 相談できればって思ったのはね…",
+          "en": "You see, the thing is... I was hoping I could talk to Panda today..."
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "ほら 常勤パンダさんが 転勤しちゃったでしょ",
+          "en": "Look, Panda who works here full-time got transferred, didn't he?"
+        },
+        {
+          "ja": "あっ… うん",
+          "en": "Ah... Yeah."
+        },
+        {
+          "ja": "で 今 うちの動物園 パンダ君しか パンダがいないでしょ",
+          "en": "So right now, our zoo only has you as a panda, doesn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "うん…",
+          "en": "Yeah..."
+        },
+        {
+          "ja": "パンダ君って ほら 週２日の バイトで来てるでしょ",
+          "en": "Panda, you know, he only comes in as a part-time worker two days a week, right?"
+        },
+        {
+          "ja": "そうすると うちの動物園  週２日しか パンダが見られないじゃない",
+          "en": "So that means at our zoo, you can only see pandas two days a week, right?"
+        },
+        {
+          "ja": "だから できたらでいいんだけど 新しいパートのパンダさんが 見つかるまで",
+          "en": "So if possible, until we can find a new part-time panda..."
+        },
+        {
+          "ja": "パンダ君に 週５日くらい 出てもらえると助かるんだ",
+          "en": "It would really help if Panda could come in about five days a week."
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "あっ イヤなら 週３日だけでもいいんだけど",
+          "en": "Ah, or if you don't want to, even just three days a week would help."
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "常勤さん もういないもんね",
+          "en": "Yeah, the full-time staff member isn't around anymore, huh."
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "パンダ君 どうしたんですかね？",
+          "en": "What's wrong with Panda?"
+        },
+        {
+          "ja": "まさか 週７日も出勤するって 言うとは思わなかったな",
+          "en": "I never would have thought he'd say he'd come in seven days a week."
+        },
+        {
+          "ja": "ホント助かりますよね",
+          "en": "That really helps us out, doesn't it?"
+        },
+        {
+          "ja": "うん けど…",
+          "en": "Yeah, but..."
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "早くパートさん探さないとな",
+          "en": "We need to find a part-timer soon."
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "ええ～",
+          "en": "Ugh..."
+        },
+        {
+          "ja": "週７日？",
+          "en": "Seven days a week?"
+        },
+        {
+          "ja": "ええ",
+          "en": "Yeah."
+        },
+        {
+          "ja": "週７日って あの週７日？",
+          "en": "Seven days a week? You mean... that seven days a week?"
+        },
+        {
+          "ja": "みんな 驚いてます",
+          "en": "Everyone's surprised."
+        }
+      ]
+    },
+    {
+      "audio": 63,
+      "lines": [
+        {
+          "ja": "週２日のバイトを 週１日にしたがってたパンダ君が？",
+          "en": "The panda who wanted to reduce his part-time job from two days a week to one day a week?"
+        },
+        {
+          "ja": "半田さんは 週３日でもいいって 言ったらしいんですけど",
+          "en": "According to what I heard, Handa said that even three days a week would be fine."
+        },
+        {
+          "ja": "週２日のバイトすら 午後出勤にしたがる あのパンダ君が？",
+          "en": "Even that panda guy who wanted to switch his two-day-a-week job to afternoon shifts?"
+        },
+        {
+          "ja": "最近 うちにも あんまり来てないんですよ",
+          "en": "Recently he hasn't been coming to our place much either."
+        },
+        {
+          "ja": "忙しそうです",
+          "en": "He seems busy."
+        }
+      ]
+    },
+    {
+      "audio": 64,
+      "lines": [
+        {
+          "ja": "どうしたの？ パンダ君は",
+          "en": "What's going on? Is Panda alright?"
+        },
+        {
+          "ja": "カレンダー わからなくなっちゃったのかな",
+          "en": "Maybe he got confused about the calendar?"
+        },
+        {
+          "ja": "そういうことじゃ ないんじゃないですか",
+          "en": "That's not quite what's going on, is it?"
+        },
+        {
+          "ja": "シロクマさん おかわりもらえますか",
+          "en": "Polar Bear, could I get a refill?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        }
+      ]
+    },
+    {
+      "audio": 65,
+      "lines": [
+        {
+          "ja": "おはようございます パンダ君",
+          "en": "Good morning, Panda."
+        },
+        {
+          "ja": "おはよう ラマさん",
+          "en": "Good morning, Llama."
+        }
+      ]
+    },
+    {
+      "audio": 66,
+      "lines": [
+        {
+          "ja": "結構 続きますね パンダ君",
+          "en": "It's going on for quite a while, isn't it, Panda?"
+        },
+        {
+          "ja": "今のところ休みなしだな",
+          "en": "So far, no days off, huh."
+        }
+      ]
+    },
+    {
+      "audio": 67,
+      "lines": [
+        {
+          "ja": "先輩 ちょっとここ つねってみてくれます？",
+          "en": "Senior, could you pinch me here for a second?"
+        },
+        {
+          "ja": "え？ あのパンダ君が毎日 働いてるのが 信じられなくて",
+          "en": "Huh? I can't believe that Panda is working every day."
+        },
+        {
+          "ja": "さあ 俺たちも仕事 仕事",
+          "en": "Come on, let's get back to work, work."
+        },
+        {
+          "ja": "あ… はい",
+          "en": "Ah... yes."
+        }
+      ]
+    },
+    {
+      "audio": 68,
+      "lines": [
+        {
+          "ja": "はい コーヒー",
+          "en": "Yes, coffee."
+        },
+        {
+          "ja": "ありがとうございます",
+          "en": "Thank you very much."
+        },
+        {
+          "ja": "パンダ君 頑張ってるらしいですね",
+          "en": "It seems Panda is doing his best, huh?"
+        },
+        {
+          "ja": "ええ 週７日は大変だと思いますよ",
+          "en": "Yeah, I think working seven days a week must be tough on him."
+        },
+        {
+          "ja": "パンダの仕事は 動物園の中でも忙しいですから",
+          "en": "Panda's work is busy even within the zoo, you see."
+        }
+      ]
+    },
+    {
+      "audio": 69,
+      "lines": [
+        {
+          "ja": "そうですよね 大丈夫ですかね？ パンダ君",
+          "en": "That's right, I wonder if he's okay? Panda..."
+        },
+        {
+          "ja": "もう半月になるけど",
+          "en": "It's already been half a month."
+        },
+        {
+          "ja": "ねぇ みんな心配するけど 毎日 働くのは普通だよね？",
+          "en": "Hey, everyone worries about me, but working every day is normal, right?"
+        },
+        {
+          "ja": "みんな パンダ君に 甘すぎるんじゃないかな？",
+          "en": "Everyone is being too soft on Panda, don't you think?"
+        },
+        {
+          "ja": "そうですか？",
+          "en": "Is that so?"
+        }
+      ]
+    },
+    {
+      "audio": 70,
+      "lines": [
+        {
+          "ja": "疲れて寝ちゃってますね",
+          "en": "He's so tired he fell asleep."
+        },
+        {
+          "ja": "もう半月だからな",
+          "en": "It's already been half a month, you know."
+        },
+        {
+          "ja": "そうですね",
+          "en": "That's true."
+        }
+      ]
+    },
+    {
+      "audio": 71,
+      "lines": [
+        {
+          "ja": "それにしても先輩",
+          "en": "That said, senpai..."
+        }
+      ]
+    },
+    {
+      "audio": 72,
+      "lines": [
+        {
+          "ja": "やっぱり雨でも バレンタインデーは お客さん多いっすね",
+          "en": "Even with the rain, Valentine's Day sure brings in a lot of customers, doesn't it?"
+        },
+        {
+          "ja": "しかも カップルが…",
+          "en": "And on top of that, there are so many couples..."
+        }
+      ]
+    },
+    {
+      "audio": 73,
+      "lines": [
+        {
+          "ja": "いいから 仕事 仕事",
+          "en": "Come on, work, work."
+        },
+        {
+          "ja": "先輩は誰かにチョコもら…",
+          "en": "Did you get chocolate from someone, Senpai..."
+        },
+        {
+          "ja": "仕事",
+          "en": "Work."
+        },
+        {
+          "ja": "あ はい",
+          "en": "Yeah, understood."
+        },
+        {
+          "ja": "あ～ パンダここにいた",
+          "en": "Ah~ There you are, Panda."
+        }
+      ]
+    },
+    {
+      "audio": 74,
+      "lines": [
+        {
+          "ja": "ほらほら",
+          "en": "Come on, come on"
+        },
+        {
+          "ja": "わかった わかった",
+          "en": "Got it, got it."
+        }
+      ]
+    },
+    {
+      "audio": 75,
+      "lines": [
+        {
+          "ja": "なんか寝てばっかで動かねえな",
+          "en": "Man, he just keeps sleeping and won't move at all."
+        }
+      ]
+    },
+    {
+      "audio": 76,
+      "lines": [
+        {
+          "ja": "なんだよ あのパンダ",
+          "en": "What's up with that panda?"
+        }
+      ]
+    },
+    {
+      "audio": 77,
+      "lines": [
+        {
+          "ja": "つまんねえ",
+          "en": "That's boring"
+        },
+        {
+          "ja": "行こう",
+          "en": "Let's go."
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "つまんないって 何？",
+          "en": "What do you mean, \"boring\"?"
+        }
+      ]
+    },
+    {
+      "audio": 78,
+      "lines": [
+        {
+          "ja": "つまんないって何？",
+          "en": "What does \"boring\" mean?"
+        },
+        {
+          "ja": "えっ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "確かに パンダ君はね ふだん週２日しか働かない だらしないヤツだよ",
+          "en": "You're right, Panda really is a hopeless guy—he only works two days a week normally."
+        },
+        {
+          "ja": "な… なんだよ",
+          "en": "Wh-what?"
+        },
+        {
+          "ja": "パンダ君は…",
+          "en": "Panda is..."
+        }
+      ]
+    },
+    {
+      "audio": 79,
+      "lines": [
+        {
+          "ja": "何かあると すぐにバイトを 代わってもらおうとするし",
+          "en": "Whenever something comes up, he immediately tries to get someone to cover his shift for him."
+        },
+        {
+          "ja": "ゴロゴロして仕事はサボるし 朝の満員電車が嫌いで",
+          "en": "And he just lounges around and skips work, and he hates crowded trains in the morning."
+        },
+        {
+          "ja": "いつも いつも サボることばっかり考えてて 働くのが大嫌いで",
+          "en": "Always, always thinking only about skipping work, and hates working."
+        },
+        {
+          "ja": "カフェで だらだらするのが 大好きなヤツなんだよ",
+          "en": "The cafe is the only place that guy loves to loaf around in."
+        }
+      ]
+    },
+    {
+      "audio": 80,
+      "lines": [
+        {
+          "ja": "本当に最高に ダメなヤツなんだよ",
+          "en": "He's really the worst kind of hopeless guy, I'm telling you."
+        },
+        {
+          "ja": "そのパンダ君が どれだけ 頑張ってるか知ってんのかよ",
+          "en": "Do you have any idea how hard that panda is working?"
+        },
+        {
+          "ja": "知ってんのかよ つまんないとか言うなよ",
+          "en": "Don't you know that? Don't say it's boring."
+        }
+      ]
+    },
+    {
+      "audio": 81,
+      "lines": [
+        {
+          "ja": "なんだ コイツ",
+          "en": "What's with this guy?"
+        },
+        {
+          "ja": "パンダ君の親友だよ",
+          "en": "He's Panda's best friend."
+        }
+      ]
+    },
+    {
+      "audio": 82,
+      "lines": [
+        {
+          "ja": "おい 行こうぜ",
+          "en": "Hey, let's go."
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        }
+      ]
+    },
+    {
+      "audio": 83,
+      "lines": [
+        {
+          "ja": "へえ パートのパンダさん決まったの？",
+          "en": "Huh? So the part-time panda got decided?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        },
+        {
+          "ja": "やっぱり週２日だと 人生の充実感が違うよ",
+          "en": "It really does make a difference in how fulfilling life feels when you're working two days a week."
+        },
+        {
+          "ja": "はい パンダ君 これ",
+          "en": "Yes, Panda. Here you go."
+        },
+        {
+          "ja": "うん？",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 84,
+      "lines": [
+        {
+          "ja": "何？ 頼んでないよ",
+          "en": "What? I didn't ask for this."
+        },
+        {
+          "ja": "サービスだよ",
+          "en": "It's on the house."
+        }
+      ]
+    },
+    {
+      "audio": 85,
+      "lines": [
+        {
+          "ja": "ああ ペンギンさん",
+          "en": "Ah, Penguin."
+        }
+      ]
+    },
+    {
+      "audio": 86,
+      "lines": [
+        {
+          "ja": "やあ パンダ君 来てたんだ",
+          "en": "Hey there, Panda! You're here!"
+        },
+        {
+          "ja": "半田さんに聞いたんだけど",
+          "en": "I heard it from Handa."
+        },
+        {
+          "ja": "あ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "この間 動物園で 怒ってたらしいね",
+          "en": "I heard from Handa that you got angry at the zoo the other day."
+        },
+        {
+          "ja": "日常のストレス？",
+          "en": "Everyday stress?"
+        }
+      ]
+    },
+    {
+      "audio": 87,
+      "lines": [
+        {
+          "ja": "僕は キミを…",
+          "en": "I'm you..."
+        }
+      ]
+    },
+    {
+      "audio": 88,
+      "lines": [
+        {
+          "ja": "まあ いいや",
+          "en": "Never mind."
+        }
+      ]
+    },
+    {
+      "audio": 89,
+      "lines": [
+        {
+          "ja": "はい",
+          "en": "Yeah."
+        },
+        {
+          "ja": "え？ 頼んでないよ",
+          "en": "Huh? I didn't ask for that."
+        },
+        {
+          "ja": "サービスだよ",
+          "en": "It's on the house."
+        },
+        {
+          "ja": "そうなの？ ありがとう",
+          "en": "Is that so? Thank you."
+        }
+      ]
+    },
+    {
+      "audio": 90,
+      "lines": [
+        {
+          "ja": "おいしいね ペンギンさん",
+          "en": "It's delicious, isn't it, Mr. Penguin?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        }
+      ]
+    },
+    {
+      "audio": 91,
+      "lines": [
+        {
+          "ja": "ねえ ペンギンさん 何？",
+          "en": "Hey, Penguin, what is it?"
+        },
+        {
+          "ja": "久しぶりに どうでもいい話を たくさん聞かせてよ",
+          "en": "It's been a while, so tell me lots of pointless stories."
+        },
+        {
+          "ja": "話したくなくなる言い方だけど うん 話そうか",
+          "en": "That's kind of a discouraging way to put it, but... yeah, I guess I'll tell you."
+        },
+        {
+          "ja": "あっ そうだ",
+          "en": "Oh, that's right!"
+        }
+      ]
+    },
+    {
+      "audio": 92,
+      "lines": [
+        {
+          "ja": "えっと… スルーかい？",
+          "en": "Um... Are you just going to ignore me?"
+        },
+        {
+          "ja": "ペンギンさん これ見てよ",
+          "en": "Penguin, look at this!"
+        },
+        {
+          "ja": "何？",
+          "en": "What?"
+        },
+        {
+          "ja": "ほら 絵ハガキが来たんだよ",
+          "en": "Look, I got a postcard with a picture on it."
+        },
+        {
+          "ja": "常勤パンダさんから？",
+          "en": "From the full-time Panda?"
+        }
+      ]
+    },
+    {
+      "audio": 93,
+      "lines": [
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        }
+      ]
+    },
+    {
+      "audio": 94,
+      "lines": [
+        {
+          "ja": "シンガポールにも内職があるんだって",
+          "en": "Apparently there's side work in Singapore too."
+        }
+      ]
+    },
+    {
+      "audio": 95,
+      "lines": [
+        {
+          "ja": "元気そうだね 常勤パンダさん",
+          "en": "He seems to be doing well, the full-time panda."
+        },
+        {
+          "ja": "これから ときどき 絵ハガキ 送るって",
+          "en": "From now on, he says he'll send picture postcards to me sometimes."
+        }
+      ]
+    },
+    {
+      "audio": 96,
+      "lines": [
+        {
+          "ja": "よかったね パンダ君",
+          "en": "That's great, Panda!"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        }
+      ]
+    }
+  ]
+}

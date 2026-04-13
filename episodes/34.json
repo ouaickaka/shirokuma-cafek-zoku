@@ -1,0 +1,899 @@
+{
+  "ep": "34",
+  "title": "女子高生とリンリン",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "笹子さん　人間の鼻の下の溝は 何のためにあるの？",
+          "en": "Sasako, what is the groove under the human nose for?"
+        },
+        {
+          "ja": "さぁ　よく知りません",
+          "en": "Well, I don't really know."
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "ペンギンさん　ペンギンさん 何　パンダくん",
+          "en": "Penguin, Penguin.  \nWhat is it, Panda?"
+        },
+        {
+          "ja": "ペンギンさんって カフェでいつもダラダラしてるけど",
+          "en": "Penguin, you're always lounging around at the café, aren't you?"
+        },
+        {
+          "ja": "たまには僕みたいに ちゃんと働いたほうがいいよ",
+          "en": "You should work properly like me once in a while."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "キミに言われたくないってことで いいかな",
+          "en": "Can we just say that I don't want to hear that from you?"
+        },
+        {
+          "ja": "そういうパンダくんこそ 今日バイトじゃないの？",
+          "en": "Aren't you the one who has a part-time job today, Panda-kun?"
+        },
+        {
+          "ja": "午後からだよ",
+          "en": "It's from the afternoon."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "週２は　キツイから 午後からにしたんだ",
+          "en": "Working two days a week is tough, so I switched to afternoons."
+        },
+        {
+          "ja": "よくクビにならないね",
+          "en": "It's surprising you haven't been fired."
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "あれ　パンダくん来てたの",
+          "en": "Oh, Panda-kun, you came?"
+        },
+        {
+          "ja": "え　何？",
+          "en": "Huh, what?"
+        },
+        {
+          "ja": "はい　これ　パンダくんに",
+          "en": "Here, this is for you, Panda-kun."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "何　今日パンダの日",
+          "en": "What, is today Panda Day or something?"
+        },
+        {
+          "ja": "何の日それ",
+          "en": "What day is that?"
+        },
+        {
+          "ja": "シロクマくん　これどうしたの？",
+          "en": "Shirokuma, what's this about?"
+        },
+        {
+          "ja": "さっき…",
+          "en": "Earlier..."
+        },
+        {
+          "ja": "パンダくんに 渡してください",
+          "en": "Please give this to Panda."
+        },
+        {
+          "ja": "って頼まれた",
+          "en": "...was asked to give it to you."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "あげる",
+          "en": "Here you go."
+        },
+        {
+          "ja": "またリンリンだよ",
+          "en": "It's Lin Lin again."
+        },
+        {
+          "ja": "あの花屋さん",
+          "en": "That flower shop"
+        },
+        {
+          "ja": "うん　僕に何の恨みがあるんだろう",
+          "en": "Yeah, I wonder what kind of grudge they have against me."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "花くれてるだけじゃない",
+          "en": "It's not just about giving flowers."
+        },
+        {
+          "ja": "パンダくん　喜んでくれたかな？",
+          "en": "I wonder if Panda-kun was happy about it."
+        },
+        {
+          "ja": "あっ… 厘太郎さんだ…",
+          "en": "Oh... it's Rintaro..."
+        },
+        {
+          "ja": "いらっしゃいませ",
+          "en": "Welcome"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "あっ…　これください",
+          "en": "Oh... I'll take this, please."
+        },
+        {
+          "ja": "すみません　これください",
+          "en": "Excuse me, I'll take this, please."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "ありがとうございました",
+          "en": "Thank you very much."
+        },
+        {
+          "ja": "厘太郎さん いつ見ても　ステキ…",
+          "en": "Ritaro, you always look so wonderful..."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "あの…　何か？",
+          "en": "Um... is there something you need?"
+        },
+        {
+          "ja": "あっ…　いえ…",
+          "en": "Oh... no..."
+        },
+        {
+          "ja": "あの…　また来ます",
+          "en": "Um... I'll come again."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "キミ！",
+          "en": "You!"
+        },
+        {
+          "ja": "はい？",
+          "en": "Yes?"
+        },
+        {
+          "ja": "今から　僕に つきあってくれないかな？",
+          "en": "Would you like to go out with me from now on?"
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "えっ！？ど…　ど…　ど…　どうしよう…",
+          "en": "Huh!? Wh- wh- wh- what should I do..."
+        },
+        {
+          "ja": "厘太郎さんに誘われちゃった",
+          "en": "Rintarou invited me out."
+        },
+        {
+          "ja": "これって…　デート？ ど…　ど…　ど…　どうしよう…",
+          "en": "Is this... a date? Wh... wh... wh... what should I do..."
+        },
+        {
+          "ja": "でも　どうして私なんて…",
+          "en": "But why me..."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "あんなステキな女の人たちが たくさんいるのに",
+          "en": "Even though there are so many wonderful women around."
+        },
+        {
+          "ja": "あっ…　地味さ？",
+          "en": "Oh... is it because I'm plain?"
+        },
+        {
+          "ja": "女子高生の地味さが勝ったの？",
+          "en": "Did the plainness of a high school girl win out?"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "デート…　厘太郎さんが 私を　デートに…",
+          "en": "A date... Rintaro-san is taking me on a date..."
+        },
+        {
+          "ja": "大丈夫？　行ける？",
+          "en": "Are you okay? Can you go?"
+        },
+        {
+          "ja": "はい！！",
+          "en": "Yes!!"
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "センスがいい 厘太郎さんのことだから",
+          "en": "Because Rintarou has good taste."
+        },
+        {
+          "ja": "きっと　すごくステキなところに…",
+          "en": "I'm sure it'll be somewhere really wonderful..."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "は～い　みんな ゾウさんですよ",
+          "en": "Hello everyone, it's an elephant!"
+        },
+        {
+          "ja": "え～っと…",
+          "en": "Umm..."
+        },
+        {
+          "ja": "どうしたの？",
+          "en": "What's wrong?"
+        },
+        {
+          "ja": "あっ…　いえ　意外で…",
+          "en": "Oh... no, it's just unexpected..."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "じゃあ　行こうか",
+          "en": "Alright, shall we go?"
+        },
+        {
+          "ja": "はい！",
+          "en": "Okay!"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "あの…　厘太郎さん",
+          "en": "Um... Rintaro-san"
+        },
+        {
+          "ja": "何？",
+          "en": "What is it?"
+        },
+        {
+          "ja": "いえ…",
+          "en": "No..."
+        },
+        {
+          "ja": "どうしたの？ 何でも聞いていいよ",
+          "en": "What's wrong? You can ask me anything."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "あの…　厘太郎さんの恋人って　ステキな人なんでしょうね",
+          "en": "Um... Rintaro, your partner must be a wonderful person, right?"
+        },
+        {
+          "ja": "恋人は　いないんだ",
+          "en": "I don't have a partner."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "えっ…　そうなんですか？",
+          "en": "Oh... really?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "でも　僕を 夢中にさせてくれる人はいるよ",
+          "en": "But there is someone who captivates me."
+        },
+        {
+          "ja": "それって　もしかして…",
+          "en": "Could it be that..."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "と…　歳の差は　いいんですか？",
+          "en": "So... is the age difference okay?"
+        },
+        {
+          "ja": "歳の差？　そういうのは 考えたことないな",
+          "en": "Age difference? I haven't really thought about that."
+        },
+        {
+          "ja": "私も…",
+          "en": "Me neither..."
+        },
+        {
+          "ja": "その人って どんな人なんですか？",
+          "en": "What kind of person are they?"
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "白と黒が　かわいくて…",
+          "en": "The black and white is so cute..."
+        },
+        {
+          "ja": "制服？　制服フェチ？",
+          "en": "Uniform? A uniform fetish?"
+        },
+        {
+          "ja": "いい…　それでも　全然いい！",
+          "en": "That's fine... it's totally fine!"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "フサフサしてて…",
+          "en": "Fluffy and..."
+        },
+        {
+          "ja": "これだ！　ツインテだ",
+          "en": "This is it! Twin tails!"
+        },
+        {
+          "ja": "偉い！　偉いよ　私！",
+          "en": "Great! I'm amazing!"
+        },
+        {
+          "ja": "ポッチャリしてて…",
+          "en": "Chubby..."
+        },
+        {
+          "ja": "ポテチだ… ポテチを食べすぎた…",
+          "en": "Potato chips... I ate too many potato chips..."
+        },
+        {
+          "ja": "ダメ…　ダメよ　私…",
+          "en": "No... No, I can't..."
+        },
+        {
+          "ja": "ゴロゴロしてる姿が たまらなくて…",
+          "en": "The way you're lounging around is just irresistible..."
+        },
+        {
+          "ja": "えっ！？ 盗撮？　盗撮されてる！？",
+          "en": "Huh!? Secretly filming? I'm being secretly filmed!?"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "そんな…　パンダくんに最高に夢中なんだ",
+          "en": "No way... I'm totally obsessed with Panda-kun."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "パンダ…",
+          "en": "Panda..."
+        },
+        {
+          "ja": "うん　パンダ",
+          "en": "Yeah, panda."
+        },
+        {
+          "ja": "リンリン　また来てる",
+          "en": "Rinrin, you're here again."
+        },
+        {
+          "ja": "ねぇ　ねぇ　キミ　ちょっと　これ　お願い",
+          "en": "Hey, hey, could you do me a favor with this?"
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "ありがとう！",
+          "en": "Thank you!"
+        },
+        {
+          "ja": "パンダくんと一緒に撮った写真 初めてだよ！",
+          "en": "It's my first time taking a picture with Mr. Panda!"
+        },
+        {
+          "ja": "キミに来てもらって　よかったよ",
+          "en": "I'm glad you came."
+        },
+        {
+          "ja": "いえ…",
+          "en": "No..."
+        },
+        {
+          "ja": "キミ　パンダ好きでしょ？　それ見て　すぐわかったよ",
+          "en": "You like pandas, right? I could tell right away by looking at you."
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "パンダ好きは パンダ好きを知るんだよね",
+          "en": "Panda lovers recognize other panda lovers, you know."
+        },
+        {
+          "ja": "ねっ！",
+          "en": "See?"
+        },
+        {
+          "ja": "なに　このテンション…",
+          "en": "What's with this energy..."
+        },
+        {
+          "ja": "本当に　あの厘太郎さん？",
+          "en": "Is that really Rintaro?"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "けど…　パンダで厘太郎さんと 仲よくなれるなら",
+          "en": "But... if I can become friends with Rintaro-san through pandas..."
+        },
+        {
+          "ja": "わぁ　かわいい！",
+          "en": "Wow, so cute!"
+        },
+        {
+          "ja": "違う違う",
+          "en": "No, no."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "かわいいのは あっちのパンダさんじゃなくて　こっちのパンダくん！",
+          "en": "The cute one isn't that panda over there, it's this panda here!"
+        },
+        {
+          "ja": "ち…　違うんですか？",
+          "en": "I-Is that not right?"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "全然　違うよ",
+          "en": "Not at all, it's completely different."
+        },
+        {
+          "ja": "いいかい？　よ～く見てごらん",
+          "en": "Listen, okay? Take a good look."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "ボーッとしてないで見て",
+          "en": "Stop spacing out and look."
+        },
+        {
+          "ja": "は…　はい！",
+          "en": "Y-yes!"
+        },
+        {
+          "ja": "あっちのパンダさんと　こっちのパンダくん",
+          "en": "The panda over there and the panda over here."
+        },
+        {
+          "ja": "あっちのパンダさんと　こっちのパンダくん",
+          "en": "The panda over there and the panda over here."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "ねっ！",
+          "en": "See?"
+        },
+        {
+          "ja": "全然　違いがわからない…",
+          "en": "I can't tell the difference at all..."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "けど…",
+          "en": "But..."
+        },
+        {
+          "ja": "本当　こっちのパンダのが　かわいい",
+          "en": "Honestly, this panda here is cuter."
+        },
+        {
+          "ja": "でしょ～！",
+          "en": "Right?!"
+        },
+        {
+          "ja": "キミ！",
+          "en": "You!"
+        },
+        {
+          "ja": "はい！",
+          "en": "Okay!"
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "一緒に　パンダくんの どこがかわいいか",
+          "en": "Let's talk about what makes Mr. Panda so cute together."
+        },
+        {
+          "ja": "小一時間　語り合わないか？",
+          "en": "Shall we spend a good hour discussing what makes Panda-kun so cute?"
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "愛くるしいよね",
+          "en": "It's adorable, isn't it?"
+        },
+        {
+          "ja": "あのモフモフした顔見た？",
+          "en": "Did you see that fluffy face?"
+        },
+        {
+          "ja": "僕は見たよ！　どうしよう！？",
+          "en": "I saw it! What should I do!?"
+        },
+        {
+          "ja": "あんな かわいいものってあるかな？",
+          "en": "Is there anything as cute as that?"
+        },
+        {
+          "ja": "ない！　ないよ！",
+          "en": "No! There isn't!"
+        },
+        {
+          "ja": "できるならパンダコーナーで パンダくんと一緒に住みたいよね",
+          "en": "If I could, I'd love to live in the panda section with the pandas, right?"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "いいな　それ！　どうしよう",
+          "en": "That sounds great! What should we do?"
+        },
+        {
+          "ja": "ああ　だけど パンダくん　週２日のバイトだから",
+          "en": "Ah, but Panda-kun only works part-time two days a week."
+        },
+        {
+          "ja": "それ以外のときはパンダコーナーでパンダ…",
+          "en": "When he's not working, he's at the panda corner with the pandas..."
+        },
+        {
+          "ja": "帰りたい…",
+          "en": "I want to go home..."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "パンダくんの かわいい転がってる姿を間近で見られるなんて 最高だよね！",
+          "en": "It's amazing to be able to see Panda-kun's cute rolling around up close, isn't it?"
+        },
+        {
+          "ja": "…転がってるパンダくんも可愛いんだよ",
+          "en": "...The rolling Panda-kun is cute too."
+        },
+        {
+          "ja": "帰りたい…",
+          "en": "I want to go home..."
+        },
+        {
+          "ja": "滑り台を滑ってるパンダ君もとびきり可愛いよね",
+          "en": "The panda going down the slide is super cute too, right?"
+        },
+        {
+          "ja": "閉園の時間になりました",
+          "en": "It's closing time."
+        },
+        {
+          "ja": "またのご来園を…",
+          "en": "We hope to see you again..."
+        },
+        {
+          "ja": "閉園時間だね",
+          "en": "It's closing time, isn't it?"
+        },
+        {
+          "ja": "ごめんね　長くなっちゃったね",
+          "en": "Sorry, it took longer than expected."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "い…　いえ",
+          "en": "N-no, it's fine."
+        },
+        {
+          "ja": "はぁ…　助かった",
+          "en": "*Sigh*... That was a relief."
+        },
+        {
+          "ja": "じゃあ　そろそろ",
+          "en": "Well, I guess it's about time."
+        },
+        {
+          "ja": "はい！",
+          "en": "Okay!"
+        },
+        {
+          "ja": "場所変えて　続きを話そう",
+          "en": "Let's change locations and continue our conversation."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "すげぇ　この人…",
+          "en": "This person is amazing..."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "どこに行こうか？",
+          "en": "Where should we go?"
+        },
+        {
+          "ja": "あっ　いえ　あの 私　宿題あるから　失礼します！",
+          "en": "Oh, um, well, I have homework, so I'll excuse myself!"
+        },
+        {
+          "ja": "ああ　キミ　ちょっと待って！",
+          "en": "Ah, hey, wait a minute!"
+        },
+        {
+          "ja": "パンダくんの話しようよ！",
+          "en": "Let's talk about Panda-kun!"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "あげます！",
+          "en": "I'll give it to you!"
+        },
+        {
+          "ja": "いいの？　ありがとう！ 一生　恩に着るよ！",
+          "en": "Is it okay? Thank you! I'll be forever grateful!"
+        },
+        {
+          "ja": "いいです 一生というほどのものでは…",
+          "en": "It's fine, it's not something worth a lifetime of gratitude..."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "大事にするよ",
+          "en": "I'll take good care of it."
+        },
+        {
+          "ja": "すごい嬉しい！",
+          "en": "I'm so happy!"
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "さようなら！",
+          "en": "Goodbye!"
+        },
+        {
+          "ja": "あっ！　ああ　キミ！",
+          "en": "Oh! Ah, it's you!"
+        },
+        {
+          "ja": "さようなら！　私の恋！",
+          "en": "Goodbye! My love!"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "またパンダの話しようね！",
+          "en": "Let's talk about pandas again!"
+        },
+        {
+          "ja": "さようなら　私の恋！",
+          "en": "Goodbye, my love!"
+        },
+        {
+          "ja": "これ　返せって言っても 返さないからね！",
+          "en": "Even if you tell me to give this back, I won't!"
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "お疲れ",
+          "en": "Take care."
+        },
+        {
+          "ja": "アイスコーヒー？",
+          "en": "Iced coffee?"
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah"
+        },
+        {
+          "ja": "やっぱり 労働って半日もきついな",
+          "en": "Work is tough, even for half a day."
+        },
+        {
+          "ja": "なんとか 半日の半分にしてもらおう",
+          "en": "Somehow, I'll try to get it down to half of a half-day."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "キミ　クビになってもいいのにね",
+          "en": "You might get fired for that, you know."
+        },
+        {
+          "ja": "なんで？",
+          "en": "Why?"
+        },
+        {
+          "ja": "あっ　リンリンの花！ どっかにやってよ",
+          "en": "Oh, the Linlin flower! Get rid of it somewhere."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "まぁまぁ　きれいな花じゃない",
+          "en": "Well, well, it's a pretty flower, isn't it?"
+        }
+      ]
+    }
+  ]
+}

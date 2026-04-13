@@ -1,0 +1,1998 @@
+{
+  "ep": "43",
+  "title": "ダジャレカフェ",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "俺 何かネットで注文してたっけ",
+          "en": "I ordered something online... didn't I?"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "おはよう",
+          "en": "Good morning."
+        },
+        {
+          "ja": "シロクマか",
+          "en": "Oh, it's Polar Bear."
+        },
+        {
+          "ja": "シロクマ？",
+          "en": "Polar Bear?"
+        },
+        {
+          "ja": "それは白ゴマだ",
+          "en": "That's white sesame."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "シマシマだ",
+          "en": "It's striped."
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "人妻だ",
+          "en": "It's a married woman."
+        },
+        {
+          "ja": "うっとうしいんだよ",
+          "en": "It's annoying/bothersome."
+        },
+        {
+          "ja": "うっとうしい？",
+          "en": "Irritating?"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "それはお通しだ",
+          "en": "That's an appetizer."
+        },
+        {
+          "ja": "それはししおどしだ",
+          "en": "That's a bamboo water dipper."
+        },
+        {
+          "ja": "寝起きでつっこませるんじゃねえ",
+          "en": "Don't make me do a retort right after I just woke up!"
+        },
+        {
+          "ja": "寝起き",
+          "en": "Just woken up"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "仕置き人だ",
+          "en": "It's a punishment person."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "七転び八起きだ",
+          "en": "Fall down seven times, stand up eight."
+        },
+        {
+          "ja": "やめろ",
+          "en": "Stop it!"
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "グリズリー君も大変だね",
+          "en": "Grizzly really has it tough, doesn't he?"
+        },
+        {
+          "ja": "起こされるのはもういいんだ 慣れたよ",
+          "en": "I'm done being woken up. I've gotten used to it."
+        },
+        {
+          "ja": "そうなの",
+          "en": "Is that so?"
+        },
+        {
+          "ja": "それより昔から気になってたんだけどよ",
+          "en": "More than that, I've been curious about something for a while now, you know?"
+        },
+        {
+          "ja": "シロクマの野郎のダジャレ なんとかならねえかな",
+          "en": "Can't you do something about that polar bear bastard's puns?"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "そうだね ダジャレ言われると",
+          "en": "Yeah, when he starts making those puns..."
+        },
+        {
+          "ja": "オシャレなカフェっぽさがなくなるんだよね",
+          "en": "It loses that stylish café vibe, you know?"
+        },
+        {
+          "ja": "だろ",
+          "en": "Right?"
+        },
+        {
+          "ja": "あっ そうだ",
+          "en": "Ah, that's right!"
+        },
+        {
+          "ja": "何だよ いいアイデアか",
+          "en": "What is it? A good idea?"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "こういうのはどう",
+          "en": "How about something like this?"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "ダジャレですか",
+          "en": "Is that a pun?"
+        },
+        {
+          "ja": "そう",
+          "en": "Yeah."
+        },
+        {
+          "ja": "シロクマ君に ダジャレのうっとうしさを教えるために",
+          "en": "In order to teach Polar Bear about how annoying puns are"
+        },
+        {
+          "ja": "みんなでシロクマ君が言うことにダジャレで返すんだよ",
+          "en": "Everyone responds to whatever Polar Bear says with puns and wordplay."
+        },
+        {
+          "ja": "いいよ やろう",
+          "en": "Okay, let's do it."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "キミの何も考えてない即答 どうもありがとう",
+          "en": "Your thoughtless instant reply — thank you so much for that."
+        },
+        {
+          "ja": "まぁまぁ いいじゃねえか",
+          "en": "Well, well, it's fine, isn't it?"
+        },
+        {
+          "ja": "グリズリーさんまで？",
+          "en": "Even Grizzly too?"
+        },
+        {
+          "ja": "おもしれぇじゃねえか",
+          "en": "That's pretty fun, isn't it?"
+        },
+        {
+          "ja": "アイツには毎年冬ごもりの邪魔されてっからよ",
+          "en": "That guy messes with my hibernation every single winter, so you know."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "よし やってみよう",
+          "en": "Alright, let's give it a try!"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "おっ 帰ってきたぜ",
+          "en": "Oh, he's back!"
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "ただいま",
+          "en": "I'm home."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "ただいま",
+          "en": "I'm back."
+        },
+        {
+          "ja": "とれたて新鮮",
+          "en": "Fresh-caught/Freshly picked"
+        },
+        {
+          "ja": "おっ タロイモかな",
+          "en": "Oh, is that taro potato?"
+        },
+        {
+          "ja": "お前 丸々と太っててうまそうだな",
+          "en": "You're looking plump and delicious, aren't you?"
+        },
+        {
+          "ja": "クロカイマンよりクライマーのほうがいいんじゃない",
+          "en": "Wouldn't a climber be better than a crocodile?"
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "おう 何だこれ虫くいまくってるじゃねえかよ",
+          "en": "Oy, what the heck—this thing's got bugs eating it all over the place!"
+        },
+        {
+          "ja": "クレイマー",
+          "en": "Complainer"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "ジュワッカラータイマー",
+          "en": "[Juwa kara ta timer]"
+        },
+        {
+          "ja": "ちょっと待ってみんな いったん休憩しよう",
+          "en": "Wait a second, everyone. Let's take a break for now."
+        },
+        {
+          "ja": "休憩",
+          "en": "Break time"
+        },
+        {
+          "ja": "曲芸",
+          "en": "Acrobatics"
+        },
+        {
+          "ja": "キューケンホフ公園",
+          "en": "Keukenhof Park"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "って どう表せばいいですかね",
+          "en": "How should I express that?"
+        },
+        {
+          "ja": "何それ",
+          "en": "What's that?"
+        },
+        {
+          "ja": "オランダの公園です",
+          "en": "It's a park in the Netherlands."
+        },
+        {
+          "ja": "休憩でしょ",
+          "en": "It's a break, right?"
+        },
+        {
+          "ja": "休憩 休憩…",
+          "en": "Break time, break time..."
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "無期求刑",
+          "en": "Life sentence demand"
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "どうだ シロクマ",
+          "en": "How is it, Polar Bear?"
+        },
+        {
+          "ja": "ダジャレを言われる側の気持を考えてみろ",
+          "en": "Consider how it feels to be on the receiving end of a pun/dad joke."
+        },
+        {
+          "ja": "考える",
+          "en": "Let me think about it."
+        },
+        {
+          "ja": "カンガルー",
+          "en": "Kangaroo"
+        },
+        {
+          "ja": "ダンボール",
+          "en": "Cardboard"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "マンホール",
+          "en": "Manhole"
+        },
+        {
+          "ja": "ゲートボール",
+          "en": "Gate ball"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "クソーッ 負けられないぜ",
+          "en": "Dammit! I can't afford to lose!"
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "もう降参したら",
+          "en": "Why don't you just give up already?"
+        },
+        {
+          "ja": "降参",
+          "en": "I surrender / I give up"
+        },
+        {
+          "ja": "おい ペンギン 何か出せ",
+          "en": "Hey Penguin, pull out something!"
+        },
+        {
+          "ja": "えっ 僕？ えと えと…",
+          "en": "Huh? Me? Um, um..."
+        },
+        {
+          "ja": "多少 強引でもいいんだよ",
+          "en": "Even if it's a bit forceful, that's fine."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "降参 降参…",
+          "en": "I surrender, I surrender..."
+        },
+        {
+          "ja": "なんまいだ",
+          "en": "[Sound effect of distress/resignation] \"Nanmaidaa\"\n\nor\n\n\"I give up, I give up...\" [groaning sound]"
+        },
+        {
+          "ja": "坊さん",
+          "en": "Monk/Buddhist priest"
+        },
+        {
+          "ja": "量産",
+          "en": "Mass production"
+        },
+        {
+          "ja": "父さん",
+          "en": "Dad"
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "象さん",
+          "en": "Mr. Elephant"
+        },
+        {
+          "ja": "三三七拍子",
+          "en": "Three-three-seven beat (a traditional Japanese clapping pattern)"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "ちょっと今のは強引じゃない",
+          "en": "That was a bit forced, wasn't it?"
+        },
+        {
+          "ja": "強引",
+          "en": "Forceful/Pushing it"
+        },
+        {
+          "ja": "病院",
+          "en": "Hospital"
+        },
+        {
+          "ja": "ドライブイン",
+          "en": "Drive-in"
+        },
+        {
+          "ja": "スローイン",
+          "en": "Slow-in"
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "フローリング",
+          "en": "Flooring"
+        },
+        {
+          "ja": "苦労人",
+          "en": "A person who has had a hard life"
+        },
+        {
+          "ja": "暴飲",
+          "en": "Binge drinking"
+        },
+        {
+          "ja": "素浪人",
+          "en": "Masterless wanderer / Ronin"
+        },
+        {
+          "ja": "プロテイン",
+          "en": "Protein"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "ヒロイン",
+          "en": "Heroine"
+        },
+        {
+          "ja": "ヒロイン… えっと…",
+          "en": "Heroine... um..."
+        },
+        {
+          "ja": "披露宴",
+          "en": "The unveiling ceremony"
+        },
+        {
+          "ja": "ゴロニャ～ン",
+          "en": "[Cat purring sound] ~ N"
+        },
+        {
+          "ja": "えと…ゴロニャン",
+          "en": "Um... Goronyan~"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "コインランドリー",
+          "en": "Coin laundry"
+        },
+        {
+          "ja": "公園 こんなのでもいいですか",
+          "en": "Park... Is something like this okay?"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "香典",
+          "en": "Offering of condolence money"
+        },
+        {
+          "ja": "寄ってたかってずるいな",
+          "en": "You're all ganging up on me—that's not fair!"
+        },
+        {
+          "ja": "ずるいな",
+          "en": "That's unfair"
+        },
+        {
+          "ja": "ウインナー",
+          "en": "Wiener"
+        },
+        {
+          "ja": "フランケンシュタイナー",
+          "en": "Frankensteiner"
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "ちょっと待って タイム",
+          "en": "Wait a second, time out."
+        },
+        {
+          "ja": "タイム",
+          "en": "Time out"
+        },
+        {
+          "ja": "マイムマイム",
+          "en": "Mime Mime"
+        },
+        {
+          "ja": "あれ",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "シロクマは",
+          "en": "Polar Bear is..."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "まいったな",
+          "en": "I'm stumped."
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "いらっしゃいませ",
+          "en": "Welcome!"
+        },
+        {
+          "ja": "まいっちゃったよ カフェラテくれる",
+          "en": "I'm totally beat. Give me a café latte."
+        },
+        {
+          "ja": "カフェラテ",
+          "en": "Café Latte"
+        },
+        {
+          "ja": "腕立て",
+          "en": "Push-ups"
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "函館",
+          "en": "Hakodate\n\n(A place name - the capital city of Hokkaido Prefecture)"
+        },
+        {
+          "ja": "あれ",
+          "en": "Huh?"
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "どうしたの",
+          "en": "What's wrong?"
+        },
+        {
+          "ja": "ああ コアリクイ君 いまそこでね レッサーパンダ君がね…",
+          "en": "Ah, Anteater! Right now over there, Lesser Panda was..."
+        },
+        {
+          "ja": "レッサーパンダ",
+          "en": "Red Panda"
+        },
+        {
+          "ja": "エッサーホイサー",
+          "en": "[Essa-hoisa!]\n\n(This is a nonsense exclamation or sound effect, likely used for comedic emphasis in the scene)"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "あれ",
+          "en": "Huh?"
+        },
+        {
+          "ja": "ゾウガメ君",
+          "en": "Tortoise"
+        },
+        {
+          "ja": "ゾウガメ ゾーリンゲン",
+          "en": "Tortoise, Solingen"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "どうしたんです",
+          "en": "What's wrong?"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "ああ 半田さん",
+          "en": "Ah, Handa."
+        },
+        {
+          "ja": "大丈夫ですか",
+          "en": "Are you alright?"
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "ちょっとお茶でも飲みますか",
+          "en": "How about we have some tea?"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "何があったんですか",
+          "en": "What happened?"
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "みんなが ダジャレを言うんだよ",
+          "en": "Everyone keeps making puns."
+        },
+        {
+          "ja": "ダジャレ",
+          "en": "Puns/Dad jokes"
+        },
+        {
+          "ja": "ダジャレ… ちょっと待ってください すぐ出しますから",
+          "en": "Puns... Just a moment, please. I'll bring some right away."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "半田さんまで",
+          "en": "Even Handa-san too."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "今まで ご迷惑をかけて すみませんでした",
+          "en": "I've been causing you trouble all this time. I'm very sorry."
+        },
+        {
+          "ja": "もうダジャレは言わないようにします",
+          "en": "I won't make any more puns from now on."
+        },
+        {
+          "ja": "それなんだけどね…",
+          "en": "But here's the thing..."
+        },
+        {
+          "ja": "いいんじゃねえかな ダジャレも",
+          "en": "That's not so bad, you know... puns and all."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "なんか 楽しくなっちゃって",
+          "en": "It's gotten kind of fun somehow."
+        },
+        {
+          "ja": "うん",
+          "en": "Yeah."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "まあいいよ お前らしいしな",
+          "en": "Well, it's fine. It's just like you, after all."
+        },
+        {
+          "ja": "そうですよ",
+          "en": "That's right."
+        },
+        {
+          "ja": "ダジャレって 案外 いいですよね",
+          "en": "Puns are actually pretty good, aren't they?"
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "あ そうそう",
+          "en": "Oh right, right."
+        },
+        {
+          "ja": "じゃあ 言うけどさ",
+          "en": "Well, I'm gonna say it then."
+        },
+        {
+          "ja": "ペンギンさんのダジャレ 無期求刑はちょっとないんじゃないかな",
+          "en": "Penguin's puns getting sentenced to indefinite imprisonment is a bit much, don't you think?"
+        },
+        {
+          "ja": "あと 強引のときのグリズリー君のゴロニャ～ン",
+          "en": "And also, Grizzly's 'Goronya～n' when he's being forceful."
+        },
+        {
+          "ja": "あれこそ 強引すぎるよね",
+          "en": "Yeah, that one's way too forced, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "やっぱり シロクマ君はダジャレ禁止にしよう",
+          "en": "Yeah, we should just ban Polar Bear from making puns after all."
+        },
+        {
+          "ja": "だな",
+          "en": "Yeah."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "あっ 師匠が淹れなくても俺が淹れますってば",
+          "en": "Wait, even if Master doesn't brew it, I'll brew it myself, okay!"
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "たまには自分で淹れたいんだな",
+          "en": "Every once in a while, I want to brew it myself, you know."
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "やっぱり淹れかたによって味って 違ってくるんすかね",
+          "en": "I guess the flavor really does change depending on how you brew it, huh?"
+        },
+        {
+          "ja": "俺のコーヒーは なってないって",
+          "en": "\"My coffee doesn't measure up\" or \"My coffee isn't good enough\""
+        },
+        {
+          "ja": "エゾリスたちにすっげえダメ出しされるんですよ",
+          "en": "The Ezo squirrels give me a ton of harsh criticism, you know."
+        },
+        {
+          "ja": "だめだめね",
+          "en": "No good, no good."
+        },
+        {
+          "ja": "いろんな要素があるんだな",
+          "en": "There are all sorts of different elements involved, huh."
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "要素",
+          "en": "Element / Factor / Component"
+        },
+        {
+          "ja": "豆の産地 いりかた 挽きかた 細かいか 粗いか",
+          "en": "The beans' origin, roasting method, grinding method, fine or coarse grind."
+        },
+        {
+          "ja": "お湯の温度",
+          "en": "The water temperature"
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "ゆっくり淹れるか",
+          "en": "Should I brew it slowly?"
+        }
+      ]
+    },
+    {
+      "audio": 55,
+      "lines": [
+        {
+          "ja": "手早く淹れるか",
+          "en": "Whether to brew it quickly or slowly."
+        }
+      ]
+    },
+    {
+      "audio": 56,
+      "lines": [
+        {
+          "ja": "ホントだ 全然違う",
+          "en": "You're right, they're completely different."
+        }
+      ]
+    },
+    {
+      "audio": 57,
+      "lines": [
+        {
+          "ja": "淹れかたによって違うのはわかったけど",
+          "en": "I understand the brewing method makes a difference, but..."
+        },
+        {
+          "ja": "奥が深そうで",
+          "en": "It seems quite profound/deep."
+        },
+        {
+          "ja": "エゾリスたちにおいしいって言わせるまでに",
+          "en": "Until I can get the Ezo squirrels to say it's delicious"
+        },
+        {
+          "ja": "どれだけかかるんだろう",
+          "en": "How long will it take before I can make the Ezo squirrels say it's delicious?"
+        },
+        {
+          "ja": "おいしいって言ってほしいんだ",
+          "en": "I want them to say it's delicious."
+        }
+      ]
+    },
+    {
+      "audio": 58,
+      "lines": [
+        {
+          "ja": "そりゃそうっすよ",
+          "en": "Yeah, that makes sense."
+        }
+      ]
+    },
+    {
+      "audio": 59,
+      "lines": [
+        {
+          "ja": "いい方法があるよ",
+          "en": "I've got a good idea."
+        }
+      ]
+    },
+    {
+      "audio": 60,
+      "lines": [
+        {
+          "ja": "どうぞ",
+          "en": "Here you go."
+        },
+        {
+          "ja": "あら トリュフ マサキにしちゃ気が利くじゃない",
+          "en": "Well, well, truffle — that's quite considerate of you, Masaki."
+        },
+        {
+          "ja": "疲労には甘いものが効くのよね",
+          "en": "Sweet things are effective for fatigue, you know."
+        }
+      ]
+    },
+    {
+      "audio": 61,
+      "lines": [
+        {
+          "ja": "ちょっと コーヒーまだ",
+          "en": "Just a moment, the coffee isn't ready yet."
+        },
+        {
+          "ja": "はいはい",
+          "en": "Yeah, yeah."
+        }
+      ]
+    },
+    {
+      "audio": 62,
+      "lines": [
+        {
+          "ja": "どうぞ",
+          "en": "Here you go."
+        }
+      ]
+    },
+    {
+      "audio": 63,
+      "lines": [
+        {
+          "ja": "あら",
+          "en": "Oh my!"
+        },
+        {
+          "ja": "これって…",
+          "en": "This is..."
+        },
+        {
+          "ja": "ええ",
+          "en": "Yes. / That's right. / Mm-hmm."
+        }
+      ]
+    },
+    {
+      "audio": 64,
+      "lines": [
+        {
+          "ja": "コーヒーの前に甘いものを食べさせる",
+          "en": "You're making me eat something sweet before the coffee."
+        },
+        {
+          "ja": "えっ それだけ",
+          "en": "Huh? That's all?"
+        },
+        {
+          "ja": "まあ 試してごらん",
+          "en": "Well, give it a try."
+        },
+        {
+          "ja": "おいしいわ マサキのくせに",
+          "en": "That's delicious. And here I thought Masaki couldn't make anything good."
+        },
+        {
+          "ja": "ホント ホント",
+          "en": "Really, really."
+        }
+      ]
+    },
+    {
+      "audio": 65,
+      "lines": [
+        {
+          "ja": "マサキ 上達したんじゃない",
+          "en": "Masaki, you've really improved."
+        },
+        {
+          "ja": "よっしゃ",
+          "en": "Alright!"
+        },
+        {
+          "ja": "ちょっと 調子にのらないの",
+          "en": "Don't get too full of yourself."
+        },
+        {
+          "ja": "だって おいしかったでしょ",
+          "en": "But it was delicious, wasn't it?"
+        },
+        {
+          "ja": "でも もっとまったりした味のも飲みたいわ",
+          "en": "But I'd also like to drink something with a more mellow, laid-back flavor."
+        }
+      ]
+    },
+    {
+      "audio": 66,
+      "lines": [
+        {
+          "ja": "わがまま過ぎ",
+          "en": "You're being too selfish."
+        }
+      ]
+    },
+    {
+      "audio": 67,
+      "lines": [
+        {
+          "ja": "ねぇ 常勤さん",
+          "en": "Hey, Jouchin"
+        },
+        {
+          "ja": "何だい パンダ君 手伝ってくれるの",
+          "en": "What is it, Panda? Are you going to help us out?"
+        },
+        {
+          "ja": "いやだよ",
+          "en": "No way."
+        },
+        {
+          "ja": "ホントにまっすぐな答えかただな パンダ君は",
+          "en": "You really do give the straightest answers, don't you, Panda."
+        },
+        {
+          "ja": "で 何だい",
+          "en": "So what is it?"
+        }
+      ]
+    },
+    {
+      "audio": 68,
+      "lines": [
+        {
+          "ja": "ゴロゴロするのも飽きたし 僕 早退するから",
+          "en": "I'm tired of lazing around anyway, so I'm heading out early."
+        },
+        {
+          "ja": "タイムカード押しておいてくれないかな",
+          "en": "Could you punch my time card for me?"
+        }
+      ]
+    },
+    {
+      "audio": 69,
+      "lines": [
+        {
+          "ja": "それなら私が頼みたいよ",
+          "en": "Then I'd like to ask you for a favor too."
+        },
+        {
+          "ja": "常勤さんがダメなら半田さんでもいいや",
+          "en": "If the full-timer won't do it, then Handa will do."
+        }
+      ]
+    },
+    {
+      "audio": 70,
+      "lines": [
+        {
+          "ja": "ダメです",
+          "en": "No way"
+        },
+        {
+          "ja": "どうしても",
+          "en": "No matter what"
+        },
+        {
+          "ja": "あたりまえです",
+          "en": "Of course (I can't do it)."
+        }
+      ]
+    },
+    {
+      "audio": 71,
+      "lines": [
+        {
+          "ja": "こたつも内職もダメです",
+          "en": "Both the kotatsu and the side work are out of the question."
+        }
+      ]
+    },
+    {
+      "audio": 72,
+      "lines": [
+        {
+          "ja": "これじゃ 真面目にダラダラできないよ",
+          "en": "At this rate, I can't seriously loaf around."
+        },
+        {
+          "ja": "しかたないよ パンダ君",
+          "en": "I guess there's nothing for it. Panda."
+        },
+        {
+          "ja": "こういうときはね…",
+          "en": "In times like this..."
+        },
+        {
+          "ja": "何",
+          "en": "What?"
+        },
+        {
+          "ja": "寝ちゃおう",
+          "en": "Let's just sleep instead."
+        }
+      ]
+    },
+    {
+      "audio": 73,
+      "lines": [
+        {
+          "ja": "寝てたら閉園時間なんて あっという間だから",
+          "en": "If I sleep through it, closing time will come in the blink of an eye."
+        },
+        {
+          "ja": "うん そうだね",
+          "en": "Yeah, that's right."
+        }
+      ]
+    },
+    {
+      "audio": 74,
+      "lines": [
+        {
+          "ja": "パンダなんて寝てりゃいいんだから",
+          "en": "A panda like me should just keep sleeping anyway."
+        }
+      ]
+    },
+    {
+      "audio": 75,
+      "lines": [
+        {
+          "ja": "パンダ君 タイヤで遊ぼうか",
+          "en": "Hey Panda, wanna play with the tire?"
+        },
+        {
+          "ja": "閉園時間になりました",
+          "en": "The closing time has arrived."
+        },
+        {
+          "ja": "またのご来園をお待ちしております",
+          "en": "We look forward to your next visit."
+        }
+      ]
+    },
+    {
+      "audio": 76,
+      "lines": [
+        {
+          "ja": "もう常勤さん 起こしてくれればいいのに",
+          "en": "If only the permanent staff would wake me up already."
+        },
+        {
+          "ja": "気持よさそうだったからさ",
+          "en": "Because he looked like he was having such a nice time sleeping."
+        },
+        {
+          "ja": "私 押しとくよ",
+          "en": "I'll push you."
+        }
+      ]
+    },
+    {
+      "audio": 77,
+      "lines": [
+        {
+          "ja": "ああ 私 帰るからさ",
+          "en": "Ah, I'm heading home now."
+        },
+        {
+          "ja": "うん 先お風呂入ってていいから",
+          "en": "Yeah, go ahead and take a bath first."
+        },
+        {
+          "ja": "はい",
+          "en": "Okay."
+        }
+      ]
+    },
+    {
+      "audio": 78,
+      "lines": [
+        {
+          "ja": "あっ どうもお疲れさま",
+          "en": "Ah, thanks for your hard work."
+        },
+        {
+          "ja": "駅まで 一緒にいきませんか",
+          "en": "Would you like to go to the station together?"
+        },
+        {
+          "ja": "私なんかね いつまでこの仕事ができるんだろうなとか",
+          "en": "I wonder how much longer I can keep doing this job, you know."
+        },
+        {
+          "ja": "先のこと よく考えますよ",
+          "en": "I think about what lies ahead quite a lot."
+        },
+        {
+          "ja": "わかります",
+          "en": "I understand."
+        }
+      ]
+    },
+    {
+      "audio": 79,
+      "lines": [
+        {
+          "ja": "僕もいつまでもラマでいいのかな とか考えたりして",
+          "en": "I wonder if it's okay for me to stay a llama forever too, or something like that."
+        },
+        {
+          "ja": "いやいやラマさんは ラマでいいでしょ",
+          "en": "No, no, you're fine as a llama."
+        }
+      ]
+    },
+    {
+      "audio": 80,
+      "lines": [
+        {
+          "ja": "駅着いちゃいましたね",
+          "en": "We've arrived at the station, haven't we?"
+        }
+      ]
+    },
+    {
+      "audio": 81,
+      "lines": [
+        {
+          "ja": "まっすぐ帰ります",
+          "en": "I'll head straight home."
+        }
+      ]
+    },
+    {
+      "audio": 82,
+      "lines": [
+        {
+          "ja": "乾杯",
+          "en": "Cheers!"
+        },
+        {
+          "ja": "いや 嬉しいよ 私は",
+          "en": "No, I'm happy though."
+        },
+        {
+          "ja": "ええ 本当ですね",
+          "en": "Yeah, that's really true."
+        },
+        {
+          "ja": "さあ ジャンジャンいっちゃってジャンジャン",
+          "en": "Come on, let's go all out, let's go all out! (janjan janjan)"
+        }
+      ]
+    },
+    {
+      "audio": 83,
+      "lines": [
+        {
+          "ja": "串 ３６",
+          "en": "Skewer 36"
+        },
+        {
+          "ja": "串が くしで３６",
+          "en": "Thirty-six skewers on a skewer."
+        }
+      ]
+    },
+    {
+      "audio": 84,
+      "lines": [
+        {
+          "ja": "ラマさん アンタ おもしろいな",
+          "en": "Llama, you're pretty funny, aren't you?"
+        },
+        {
+          "ja": "そうですか 地味ってよく言われるんですけど",
+          "en": "Is that so? People tell me I'm bland all the time, but..."
+        },
+        {
+          "ja": "地味じゃないよ 派手だよ",
+          "en": "It's not plain! It's flashy!"
+        },
+        {
+          "ja": "いやいや いやいやとんでもないですよ",
+          "en": "No, no, no, that's absolutely not the case!"
+        },
+        {
+          "ja": "ラマさんが 人気ないなんておかしいよ",
+          "en": "It's strange that Llama isn't popular."
+        }
+      ]
+    },
+    {
+      "audio": 85,
+      "lines": [
+        {
+          "ja": "ちょっと アルパカ連れてきなさいよ",
+          "en": "Bring that alpaca over here for a minute, would you?"
+        },
+        {
+          "ja": "私が ビジッと言ってやりますから",
+          "en": "I'll tell him straight up for you."
+        },
+        {
+          "ja": "本当お気持だけで",
+          "en": "It's just the thought that counts."
+        },
+        {
+          "ja": "常勤さん もう一杯",
+          "en": "Regular-san, one more cup."
+        },
+        {
+          "ja": "いや どうも",
+          "en": "Yeah, thanks for the offer."
+        }
+      ]
+    },
+    {
+      "audio": 86,
+      "lines": [
+        {
+          "ja": "乾杯",
+          "en": "Cheers!"
+        }
+      ]
+    },
+    {
+      "audio": 87,
+      "lines": [
+        {
+          "ja": "なんで 僕まで",
+          "en": "Why me too?"
+        },
+        {
+          "ja": "いいじゃない いつも損してる感じの３人で飲もうよ",
+          "en": "Come on, let's drink with the three of us who always seem to be losing out anyway."
+        },
+        {
+          "ja": "僕はべつに",
+          "en": "I'm not particularly [losing out]"
+        },
+        {
+          "ja": "まあまあ そう言わないで",
+          "en": "Come on, don't say that."
+        }
+      ]
+    },
+    {
+      "audio": 88,
+      "lines": [
+        {
+          "ja": "暇だね 今日は",
+          "en": "We sure are free/have a lot of time today, huh?"
+        },
+        {
+          "ja": "そうですね",
+          "en": "That's right."
+        },
+        {
+          "ja": "ペンギンさん ペンギンさん",
+          "en": "Penguin! Penguin!"
+        },
+        {
+          "ja": "何 パンダ君",
+          "en": "What's up, Panda?"
+        },
+        {
+          "ja": "暇だったら土曜日 僕の代わりにバイト行ってきてよ",
+          "en": "If you're bored, why don't you go to my shift on Saturday instead of me?"
+        }
+      ]
+    },
+    {
+      "audio": 89,
+      "lines": [
+        {
+          "ja": "今暇なのと キミのバイトを僕がやることの関連性が見いだせないんだけど",
+          "en": "I can't find any connection between you being bored right now and me doing your part-time job for you."
+        },
+        {
+          "ja": "今日 シロクマ君はちょっと出てくるって",
+          "en": "Today, Polar Bear said he'd be stepping out for a bit."
+        }
+      ]
+    },
+    {
+      "audio": 90,
+      "lines": [
+        {
+          "ja": "暇だね",
+          "en": "You're bored, huh?"
+        },
+        {
+          "ja": "そうですね",
+          "en": "That's right."
+        },
+        {
+          "ja": "ちょっと小腹減ったから",
+          "en": "I got a bit peckish."
+        },
+        {
+          "ja": "キッチン借りてお茶漬け作ってもいいかな",
+          "en": "Can I borrow the kitchen and make some ochazuke?"
+        },
+        {
+          "ja": "やめてもらっていいですか",
+          "en": "Could you please not do that?"
+        }
+      ]
+    },
+    {
+      "audio": 91,
+      "lines": [
+        {
+          "ja": "こっちですよ",
+          "en": "This way. / Over here."
+        }
+      ]
+    },
+    {
+      "audio": 92,
+      "lines": [
+        {
+          "ja": "大丈夫 ラマさん",
+          "en": "It's fine, Lama."
+        },
+        {
+          "ja": "大丈夫ですよ",
+          "en": "It's fine / It'll be okay."
+        },
+        {
+          "ja": "林さん まだ",
+          "en": "Hayashi-san, still—"
+        }
+      ]
+    },
+    {
+      "audio": 93,
+      "lines": [
+        {
+          "ja": "大丈夫なの ここ",
+          "en": "Is it okay here?"
+        },
+        {
+          "ja": "入りましょう",
+          "en": "Let's go in."
+        },
+        {
+          "ja": "猛獣なんて僕に任せておけば大丈夫ですから",
+          "en": "Leave it to me when it comes to wild beasts — you'll be fine."
+        },
+        {
+          "ja": "いらっしゃい",
+          "en": "Welcome!"
+        },
+        {
+          "ja": "あれ シロクマさん 今日はカワウソ君は",
+          "en": "Huh? Polar Bear, where's Otter today?"
+        }
+      ]
+    },
+    {
+      "audio": 94,
+      "lines": [
+        {
+          "ja": "カワウソ君 彼女の誕生日だっていうから 代わってあげた",
+          "en": "Otter boy said it was his girlfriend's birthday, so I filled in for him."
+        }
+      ]
+    },
+    {
+      "audio": 95,
+      "lines": [
+        {
+          "ja": "今日は珍しい組み合わせだね",
+          "en": "Today's an unusual combination, isn't it?"
+        },
+        {
+          "ja": "何が珍しいのよ",
+          "en": "What's so unusual about it?"
+        },
+        {
+          "ja": "私たち親友だからね",
+          "en": "We're best friends, after all."
+        },
+        {
+          "ja": "いや 本当 嬉しいよ私は",
+          "en": "No, really, I'm happy about it."
+        },
+        {
+          "ja": "ええ 本当に",
+          "en": "Yeah, really."
+        }
+      ]
+    },
+    {
+      "audio": 96,
+      "lines": [
+        {
+          "ja": "林さんは よく来るんですか ここ",
+          "en": "Does Mr. Hayashi come here often?"
+        },
+        {
+          "ja": "ときどきちょっと飲みたいときに",
+          "en": "Sometimes when I feel like having a drink."
+        },
+        {
+          "ja": "しゃれてるね 若い人は",
+          "en": "You're pretty stylish, you young people."
+        },
+        {
+          "ja": "私は いつも焼きとり屋とかだからさ",
+          "en": "I always go to places like yakitori joints, you know."
+        },
+        {
+          "ja": "こういうとこ入っただけで酔っちゃうよ",
+          "en": "Just walking into a place like this gets me drunk."
+        }
+      ]
+    },
+    {
+      "audio": 97,
+      "lines": [
+        {
+          "ja": "まぁ すでに酔ってるんだけどもさ",
+          "en": "Well, I'm already drunk anyway, though."
+        },
+        {
+          "ja": "楽しいな",
+          "en": "This is fun!"
+        },
+        {
+          "ja": "ああ そういえば猛獣来ないの 猛獣",
+          "en": "Ah, come to think of it, the wild beasts aren't coming? Wild beasts."
+        },
+        {
+          "ja": "猛獣 早く来ないかなぁ",
+          "en": "Wild Beast, I wonder when he'll get here soon..."
+        },
+        {
+          "ja": "いいじゃないですか",
+          "en": "That's fine, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 98,
+      "lines": [
+        {
+          "ja": "いないならいないで落ち着いて飲めるし",
+          "en": "If he's not coming, then we can drink peacefully without him."
+        },
+        {
+          "ja": "そうですよ",
+          "en": "That's right."
+        }
+      ]
+    },
+    {
+      "audio": 99,
+      "lines": [
+        {
+          "ja": "最高だね 私たち",
+          "en": "That's the best, isn't it? Us."
+        },
+        {
+          "ja": "そうだ 私たちだけで動物園やろうよ",
+          "en": "That's right, let's run the zoo with just the three of us."
+        },
+        {
+          "ja": "やりましょう 林さん",
+          "en": "Let's do it, Hayashi!"
+        },
+        {
+          "ja": "えっ 僕もメンバーに入ってるんですか",
+          "en": "Huh? I'm a member too?"
+        },
+        {
+          "ja": "そうよ",
+          "en": "That's right."
+        }
+      ]
+    },
+    {
+      "audio": 100,
+      "lines": [
+        {
+          "ja": "ラマさんと私とルンルンの動物園",
+          "en": "A zoo with Llama-san, me, and Runrun."
+        },
+        {
+          "ja": "リンリンです…",
+          "en": "It's Lin Lin..."
+        },
+        {
+          "ja": "ジャンジャン客入るよ",
+          "en": "Customers are pouring in!"
+        },
+        {
+          "ja": "そうかな",
+          "en": "I wonder about that."
+        },
+        {
+          "ja": "うん 絶対いい",
+          "en": "Yeah, it'll definitely be good."
+        }
+      ]
+    },
+    {
+      "audio": 101,
+      "lines": [
+        {
+          "ja": "シロクマさんも入れてあげる",
+          "en": "I'll include Polar Bear in it too."
+        },
+        {
+          "ja": "あっ ちょっと待って",
+          "en": "Oh, wait a second."
+        }
+      ]
+    },
+    {
+      "audio": 102,
+      "lines": [
+        {
+          "ja": "なんだ",
+          "en": "What is it?"
+        },
+        {
+          "ja": "今さ 常勤パンダさんとラマさんたちでグリズリーバーで飲んでるんだけど 来ない",
+          "en": "Right now, I'm drinking at Grizzly Bar with Panda and Llama and the others, but you're not coming?"
+        },
+        {
+          "ja": "切るぞ",
+          "en": "I'm gonna hang up."
+        },
+        {
+          "ja": "切られちゃった グリズリー君も常勤さんたちの動物園に入れちゃおうと思ったのに",
+          "en": "I got hung up on! I was thinking of inviting Grizzly too to the zoo with the full-time staff and the others."
+        },
+        {
+          "ja": "４人でいいよ ４人で",
+          "en": "Four of us is fine. Four of us is enough."
+        }
+      ]
+    },
+    {
+      "audio": 103,
+      "lines": [
+        {
+          "ja": "シャンパン開けよう",
+          "en": "Let's open the champagne."
+        },
+        {
+          "ja": "いいですね",
+          "en": "That sounds good."
+        },
+        {
+          "ja": "いいの",
+          "en": "That's fine."
+        },
+        {
+          "ja": "飲みつくしちゃうよ 私",
+          "en": "I'm gonna drink it all up, you know."
+        },
+        {
+          "ja": "起きちまったよ まったく",
+          "en": "I'm wide awake now. Geez."
+        }
+      ]
+    },
+    {
+      "audio": 104,
+      "lines": [
+        {
+          "ja": "あっ 猛獣来たよよっ 猛獣",
+          "en": "Oh! A wild beast is here, yeah! A wild beast!"
+        },
+        {
+          "ja": "どうぞどうぞ 席あいてますよ",
+          "en": "Please, please have a seat. We have plenty of open seats."
+        },
+        {
+          "ja": "酔ってるな コイツら",
+          "en": "He's drunk. Those guys are drunk."
+        },
+        {
+          "ja": "ああ グリズリー君 ちょうどシャンパン開けたところだった",
+          "en": "Ah, Grizzly! I just happened to open the champagne."
+        },
+        {
+          "ja": "お店につけといていいよね",
+          "en": "You can put it on my tab, right?"
+        }
+      ]
+    },
+    {
+      "audio": 105,
+      "lines": [
+        {
+          "ja": "なに勝手に開けてんだよ",
+          "en": "What are you opening that for without permission!"
+        },
+        {
+          "ja": "じゃあ 僕は帰ろうかな",
+          "en": "Well then, I think I'll head home."
+        },
+        {
+          "ja": "バーボン ロックで",
+          "en": "Bourbon on the rocks."
+        },
+        {
+          "ja": "ええ 僕がやるの",
+          "en": "Yeah, I'll do it."
+        },
+        {
+          "ja": "お前のせいで起きちまったんだぞ",
+          "en": "It's your fault I got woken up!"
+        }
+      ]
+    },
+    {
+      "audio": 106,
+      "lines": [
+        {
+          "ja": "わかったよ",
+          "en": "Alright, I got it."
+        }
+      ]
+    },
+    {
+      "audio": 107,
+      "lines": [
+        {
+          "ja": "サーモンとホッケだっけ",
+          "en": "Was it salmon and atka mackerel?"
+        },
+        {
+          "ja": "バーボンのロックだよ めんどくせえな",
+          "en": "It's a bourbon on the rocks. What a pain."
+        }
+      ]
+    },
+    {
+      "audio": 108,
+      "lines": [
+        {
+          "ja": "はい",
+          "en": "Yes."
+        },
+        {
+          "ja": "わかってんじゃねえかよ",
+          "en": "Then why are you asking?"
+        }
+      ]
+    },
+    {
+      "audio": 109,
+      "lines": [
+        {
+          "ja": "お前ら",
+          "en": "You guys / You lot"
+        },
+        {
+          "ja": "ホント最高だな",
+          "en": "Man, this is really the best."
+        },
+        {
+          "ja": "よし 今度みんなで ツーリング行こう",
+          "en": "Alright, let's all go touring together next time."
+        },
+        {
+          "ja": "いいな 常勤 バイク乗れんのか",
+          "en": "That sounds good. You work here full-time—can you ride a bike?"
+        },
+        {
+          "ja": "私 免許ないから後ろ乗せて",
+          "en": "I don't have a license, so give me a ride in the back."
+        }
+      ]
+    },
+    {
+      "audio": 110,
+      "lines": [
+        {
+          "ja": "いいよ 乗れ乗れ",
+          "en": "Sure, hop on, hop on!"
+        },
+        {
+          "ja": "僕 バイク乗れますかね",
+          "en": "Can I ride a motorcycle?"
+        },
+        {
+          "ja": "んなもん 強引に乗っちまえばいいんだよ",
+          "en": "Just force your way onto it and ride, man."
+        },
+        {
+          "ja": "そっか",
+          "en": "I see."
+        },
+        {
+          "ja": "シロクマさん おかわり 同じの",
+          "en": "Mr. Polar Bear, seconds please. Same as before."
+        }
+      ]
+    },
+    {
+      "audio": 111,
+      "lines": [
+        {
+          "ja": "ああ 私もおかわり",
+          "en": "Ah, I'll have another one too."
+        },
+        {
+          "ja": "俺も 常勤 何飲んでんだよ",
+          "en": "I also [work full-time] — what are you drinking?"
+        },
+        {
+          "ja": "焼酎お湯割り",
+          "en": "Shochu with hot water"
+        },
+        {
+          "ja": "んなもんあるか 酔いすぎだぞ",
+          "en": "What are you talking about? You're too drunk."
+        },
+        {
+          "ja": "まぁいいや 俺も同じの",
+          "en": "Well, whatever. I'll have the same thing."
+        }
+      ]
+    },
+    {
+      "audio": 112,
+      "lines": [
+        {
+          "ja": "はい 梅入れる",
+          "en": "Here, I'll add plum."
+        },
+        {
+          "ja": "お前 どこから持ち込んだんだよ それ",
+          "en": "Where the hell did you bring that from?"
+        },
+        {
+          "ja": "あれ なになに",
+          "en": "Huh? What? What is it?"
+        },
+        {
+          "ja": "今日 盛り上がってるね",
+          "en": "Today's really lively, isn't it?"
+        },
+        {
+          "ja": "よおう",
+          "en": "Yo!"
+        }
+      ]
+    },
+    {
+      "audio": 113,
+      "lines": [
+        {
+          "ja": "わっ すごいまた猛獣 来たよ",
+          "en": "Whoa! Amazing, another wild beast came!"
+        },
+        {
+          "ja": "あいてる あいてる",
+          "en": "It's open, it's open!"
+        },
+        {
+          "ja": "入っちゃって 入っちゃって",
+          "en": "Come on in, come on in!"
+        },
+        {
+          "ja": "悪ぃな",
+          "en": "Sorry about that"
+        }
+      ]
+    },
+    {
+      "audio": 114,
+      "lines": [
+        {
+          "ja": "ほら もう一杯",
+          "en": "Here, have another cup."
+        },
+        {
+          "ja": "どうも",
+          "en": "Thanks / Thanks a lot"
+        },
+        {
+          "ja": "だからね 私 思うんだね",
+          "en": "That's why, you see, I think..."
+        }
+      ]
+    },
+    {
+      "audio": 115,
+      "lines": [
+        {
+          "ja": "賑やかでやんすね",
+          "en": "It's quite lively, isn't it?"
+        },
+        {
+          "ja": "おかえり",
+          "en": "Welcome back."
+        },
+        {
+          "ja": "おお カワウソ お前も飲め飲め",
+          "en": "Oh Otter, you drink too, drink up!"
+        },
+        {
+          "ja": "あれ",
+          "en": "Huh?"
+        }
+      ]
+    }
+  ]
+}

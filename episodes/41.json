@@ -1,0 +1,905 @@
+{
+  "ep": "41",
+  "title": "パンダくん パンダじゃなくなる",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "僕 明日から パンダじゃなくなるんだ",
+          "en": "I'm not going to be a panda anymore starting tomorrow."
+        },
+        {
+          "ja": "ちょっと待って…",
+          "en": "Wait a minute..."
+        },
+        {
+          "ja": "いきなり 何？",
+          "en": "What do you mean all of a sudden?"
+        },
+        {
+          "ja": "どういうこと？",
+          "en": "What do you mean?"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "だから パンダじゃなくなるの",
+          "en": "That's why I'm not going to be a panda anymore."
+        },
+        {
+          "ja": "流していいとこかな？",
+          "en": "Is this something I should just let go?"
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "じゃあ 何になるの？",
+          "en": "So, what will it become then?"
+        },
+        {
+          "ja": "パンダ以外だ",
+          "en": "Something other than a panda."
+        },
+        {
+          "ja": "いや… パンダは パンダ以外にはなれないでしょ",
+          "en": "No... A panda can't become anything other than a panda, right?"
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "なれるよ",
+          "en": "It can."
+        },
+        {
+          "ja": "配置換えを希望したもん",
+          "en": "I requested a transfer."
+        },
+        {
+          "ja": "配置換え？",
+          "en": "Reassignment?"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "辞令",
+          "en": "Official Notice"
+        },
+        {
+          "ja": "非常勤パンダ アナグマコーナーに配属を命ず",
+          "en": "Part-time panda assigned to the badger corner."
+        },
+        {
+          "ja": "園長",
+          "en": "Director"
+        },
+        {
+          "ja": "パンダくんが アナグマコーナーに？",
+          "en": "Panda-kun is being assigned to the Anaguma Corner?"
+        },
+        {
+          "ja": "何 考えてるんですかね？ 園長は…",
+          "en": "What is the director thinking...?"
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "今日から配属になった パンダです",
+          "en": "I'm Panda, assigned here starting today."
+        },
+        {
+          "ja": "よろしくお願いしま～す",
+          "en": "Looking forward to working with you!"
+        },
+        {
+          "ja": "えっ！？ パンダくん アナグマになったの？",
+          "en": "What!? Panda-kun became a badger?"
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "辞令が出たんだよ",
+          "en": "An official order was issued."
+        },
+        {
+          "ja": "そうなんだ",
+          "en": "I see."
+        },
+        {
+          "ja": "まぁ パンダの目も 夜行性動物と同じらしいからね",
+          "en": "Well, I heard that panda eyes are similar to those of nocturnal animals."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "難しい話はいいよ",
+          "en": "Let's not get into complicated stuff."
+        },
+        {
+          "ja": "僕 アナグマ がんばるよ",
+          "en": "I'll do my best as a badger!"
+        },
+        {
+          "ja": "じゃあ 一緒に穴を掘ろうか",
+          "en": "Then, shall we dig a hole together?"
+        },
+        {
+          "ja": "は～い",
+          "en": "Okay!"
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "寝てる…",
+          "en": "Asleep..."
+        },
+        {
+          "ja": "ちょっと パンダくん 起きてよ！",
+          "en": "Hey, Panda, wake up!"
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "あぁ 半田さん おはよう",
+          "en": "Ah, good morning, Handa-san."
+        },
+        {
+          "ja": "ちょっと 半田さん！",
+          "en": "Hey, Handa!"
+        },
+        {
+          "ja": "パンダくん 寝てばかりで",
+          "en": "Panda-kun, you're always sleeping."
+        },
+        {
+          "ja": "アナグマとしてのやる気が 全然 感じられないよ",
+          "en": "I don't feel any motivation from you as a badger at all."
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "やっぱり やる気がないからかな？",
+          "en": "Maybe it's because I really don't have any motivation?"
+        },
+        {
+          "ja": "自分で 配置換え 希望したんでしょ？",
+          "en": "You requested a transfer yourself, didn't you?"
+        },
+        {
+          "ja": "だって ここ暗いし",
+          "en": "But it's dark here."
+        },
+        {
+          "ja": "日の当たらないパンダは",
+          "en": "A panda that doesn't get any sunlight"
+        },
+        {
+          "ja": "パンダじゃないよ",
+          "en": "A panda isn't a panda without sunlight."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "そうだ！",
+          "en": "That's right!"
+        },
+        {
+          "ja": "別の所に配置換えを頼んでみるよ",
+          "en": "I'll try asking to be transferred to another place."
+        },
+        {
+          "ja": "そんな希望 通るわけないでしょ",
+          "en": "There's no way such a request will be approved."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "通った…",
+          "en": "It went through..."
+        },
+        {
+          "ja": "今度は ラッコ…",
+          "en": "This time, it's an otter..."
+        },
+        {
+          "ja": "今日から配属になった パンダです",
+          "en": "I'm Panda, assigned here starting today."
+        },
+        {
+          "ja": "よろしくお願いします",
+          "en": "Nice to meet you."
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "がんばってよ 結構きついよ ラッコ",
+          "en": "Do your best, it's pretty tough, you know, Otter."
+        },
+        {
+          "ja": "じゃ 早速 飛び込んでみようか",
+          "en": "Well, let's dive right in, shall we?"
+        },
+        {
+          "ja": "僕は ここで見てるよ",
+          "en": "I'll be watching from here."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "何言ってるの",
+          "en": "What are you talking about?"
+        },
+        {
+          "ja": "ラッコは 水の中に入らないとダメでしょ",
+          "en": "The otter has to get into the water, right?"
+        },
+        {
+          "ja": "じゃあ これ 割ってみようか",
+          "en": "Alright, let's try cracking this open."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "これは大事だから",
+          "en": "This is important, so..."
+        },
+        {
+          "ja": "ハマグリ割れないと ラッコできないから",
+          "en": "If I can't crack the clam, I can't be a sea otter."
+        },
+        {
+          "ja": "そうなんだ？",
+          "en": "Is that so?"
+        },
+        {
+          "ja": "見てて",
+          "en": "Watch this."
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "じゃあ やってみようか",
+          "en": "Alright, let's give it a try."
+        },
+        {
+          "ja": "割れないよ？",
+          "en": "It won't crack, you know?"
+        },
+        {
+          "ja": "もっと力入れて",
+          "en": "Put more strength into it."
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "ムリだよ？",
+          "en": "It's impossible, you know?"
+        },
+        {
+          "ja": "何言ってるの がんばってよ",
+          "en": "What are you talking about? Come on, give it your best!"
+        },
+        {
+          "ja": "お腹 痛いんだよね",
+          "en": "My stomach hurts, you know."
+        },
+        {
+          "ja": "僕だって痛いよ",
+          "en": "I'm hurting too, you know."
+        },
+        {
+          "ja": "あっ そうだ！",
+          "en": "Oh, that's right!"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "ラッコさんのお腹で割らせてよ",
+          "en": "Let me crack it on Mr. Otter's belly."
+        },
+        {
+          "ja": "人のお腹で 貝割るラッコなんていないよ？",
+          "en": "There's no such thing as an otter that cracks shells on a person's stomach, you know?"
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "あっ 半田さん",
+          "en": "Oh, Handa-san."
+        },
+        {
+          "ja": "何？",
+          "en": "What?"
+        },
+        {
+          "ja": "この新人さん ダメだよ",
+          "en": "This new guy is no good."
+        },
+        {
+          "ja": "そもそも 貝割らないからね パンダは",
+          "en": "To begin with, pandas don't crack open shells."
+        },
+        {
+          "ja": "仕事としては割るけど",
+          "en": "They crack them open as part of their job, though."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "割ってないじゃない",
+          "en": "You're not breaking them, are you?"
+        },
+        {
+          "ja": "半田さん ラッコはムリだよ",
+          "en": "Handa, a sea otter is impossible."
+        },
+        {
+          "ja": "パンダくんが配置換え 希望したんでしょ？",
+          "en": "Panda-kun requested a transfer, right?"
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "今度は ラマ…",
+          "en": "This time, a llama..."
+        },
+        {
+          "ja": "お母さん 早く早く",
+          "en": "Mom, hurry, hurry!"
+        },
+        {
+          "ja": "はいはい",
+          "en": "Alright, alright."
+        },
+        {
+          "ja": "えっと…",
+          "en": "Um..."
+        },
+        {
+          "ja": "なんで 僕まで？",
+          "en": "Why me too?"
+        },
+        {
+          "ja": "桐野くん… もう一人いないと 僕 ラマできないからね",
+          "en": "Kirino-kun... I can't be the llama without one more person, you know."
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "でも 僕 他に仕事が…",
+          "en": "But I have other work to do..."
+        },
+        {
+          "ja": "ラマをするのも立派な仕事だよ？",
+          "en": "Being a llama is a respectable job too, you know?"
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "わかったよ",
+          "en": "Alright, I understand."
+        },
+        {
+          "ja": "でも 前が見えなくて 苦しいね",
+          "en": "But it's hard because I can't see ahead."
+        },
+        {
+          "ja": "じゃあ 前後交代する？",
+          "en": "Then, shall we switch positions?"
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "僕が前だと 意味ないんじゃ…",
+          "en": "If I'm in front, it doesn't make any sense..."
+        },
+        {
+          "ja": "やっぱり 僕が前かな",
+          "en": "I guess I should be in front after all."
+        },
+        {
+          "ja": "こんにちは パンダくん",
+          "en": "Hello, Panda-kun."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "あぁ ラマさん",
+          "en": "Ah, Llama."
+        },
+        {
+          "ja": "よろしくお願いしま～す",
+          "en": "Looking forward to working with you!"
+        },
+        {
+          "ja": "こちらこそ",
+          "en": "Likewise."
+        },
+        {
+          "ja": "ねぇねぇ 僕 何か ラマっぽいことしたほうがいいよね",
+          "en": "Hey, hey, I should do something llama-like, right?"
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "別にいいんじゃないでしょうか",
+          "en": "I don't think it's really necessary."
+        },
+        {
+          "ja": "何で？",
+          "en": "Why?"
+        },
+        {
+          "ja": "誰も見ないと思うんですよ",
+          "en": "I don't think anyone will notice."
+        },
+        {
+          "ja": "みんな 隣のキリンさんのほうへ 行っちゃうんですよね",
+          "en": "Everyone ends up going over to the giraffe next door, you know."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "キリンさんだ！",
+          "en": "It's the giraffe!"
+        },
+        {
+          "ja": "首長い！",
+          "en": "Long neck!"
+        },
+        {
+          "ja": "大きいね",
+          "en": "It's big."
+        },
+        {
+          "ja": "ねっ",
+          "en": "Right?"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "どう ラマうまくやれてる？",
+          "en": "How's it going with the llama? Are you getting along?"
+        },
+        {
+          "ja": "あっ 半田さん",
+          "en": "Oh, Handa-san."
+        },
+        {
+          "ja": "あのね ここはちょっと やりがいがないと思うんだよね",
+          "en": "You know, I think there's not much of a challenge here."
+        },
+        {
+          "ja": "え～っ？",
+          "en": "What?!"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "え～っ！ 今度は飼育係？",
+          "en": "What?! Now you're a zookeeper?"
+        },
+        {
+          "ja": "先輩 パンダが飼育係ってありですか？",
+          "en": "Senior, is it possible for a panda to be a zookeeper?"
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "半田さん 桐野くん 今日も１日頑張ろう！",
+          "en": "Handa-san, Kirino-kun, let's do our best today!"
+        },
+        {
+          "ja": "パンダくん ちゃんとやってるかな",
+          "en": "I wonder if Panda-kun is doing his job properly."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "あれ？",
+          "en": "Huh?"
+        },
+        {
+          "ja": "おや？",
+          "en": "Oh?"
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "はい ふれあい動物園です",
+          "en": "Yes, this is the petting zoo."
+        },
+        {
+          "ja": "僕 よくわからないので あとでかけ直してください",
+          "en": "I'm not really sure, so please call back later."
+        },
+        {
+          "ja": "じゃあ",
+          "en": "Okay, then."
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "あっ いいな この温泉",
+          "en": "Oh, this hot spring is nice."
+        },
+        {
+          "ja": "どこにあるんだろう？",
+          "en": "I wonder where it is."
+        },
+        {
+          "ja": "パンダくん 何してるの",
+          "en": "Panda, what are you doing?"
+        },
+        {
+          "ja": "あっ ちょうどいいところに",
+          "en": "Oh, you came at just the right time."
+        },
+        {
+          "ja": "ねぇねぇ この 温泉どこにあるか知ってる？",
+          "en": "Hey, do you know where this hot spring is located?"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "そこ僕の席なんだけど",
+          "en": "That's my seat, though."
+        },
+        {
+          "ja": "あぁ 半田さん 安心して",
+          "en": "Ah, Handa, don't worry."
+        },
+        {
+          "ja": "半田さんの荷物は そこに置いておいてあげたよ",
+          "en": "I put Handa-san's luggage there for you."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "ちょっと 勝手に片づけないでよ",
+          "en": "Hey, don't just clean up my stuff without asking!"
+        },
+        {
+          "ja": "っていうか みんなに飼育係の 仕事させて何やってるの！",
+          "en": "By the way, what are you doing making everyone else do the caretaker's job!"
+        },
+        {
+          "ja": "デスクワークだよ",
+          "en": "It's desk work."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "いや～ 忙しいよ",
+          "en": "Oh, I'm so busy."
+        },
+        {
+          "ja": "電話切ったり パソコンやったり 電話切ったり",
+          "en": "Hanging up the phone, working on the computer, hanging up the phone."
+        },
+        {
+          "ja": "全然 仕事してないじゃない",
+          "en": "You're not working at all."
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "ねぇ パンダくん",
+          "en": "Hey, Panda-kun."
+        },
+        {
+          "ja": "何？",
+          "en": "What?"
+        },
+        {
+          "ja": "飼育係が自分で食べちゃダメでしょ",
+          "en": "The zookeeper shouldn't be eating it themselves."
+        },
+        {
+          "ja": "僕 思うんだけどね やっぱり動物に動物の世話は",
+          "en": "I think, you know, animals taking care of other animals is..."
+        },
+        {
+          "ja": "ムリだと思うんだよね",
+          "en": "I think it's impossible."
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "そんなに文句ばかり言ってたら パンダくんの配属先もうないよ",
+          "en": "If you keep complaining like that, there won't be any place left for you to be assigned, Panda-kun."
+        },
+        {
+          "ja": "え～っ じゃあ もうあとは 園長やるしかないかな",
+          "en": "Oh, well then, I guess I'll just have to become the director."
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "園長？",
+          "en": "Zoo director?"
+        },
+        {
+          "ja": "先輩… それだけは 絶対に阻止しましょうね",
+          "en": "Senior... We absolutely must prevent that from happening."
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "常勤パンダさんは しっかり やってるかな？",
+          "en": "Do you think the full-time panda is doing their job properly?"
+        },
+        {
+          "ja": "あっ パンダくんじゃないですか",
+          "en": "Oh, isn't that Panda-kun?"
+        },
+        {
+          "ja": "ラマさん 何やってるの？",
+          "en": "What are you doing, Llama?"
+        },
+        {
+          "ja": "配置換えを希望したんですよ",
+          "en": "I requested a transfer."
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "園長… ラマさんを パンダコーナーに配属したんですね",
+          "en": "Director... you assigned Mr. Llama to the panda section, didn't you?"
+        },
+        {
+          "ja": "お～い ラマくん",
+          "en": "Hey, Llama!"
+        },
+        {
+          "ja": "今から団体さん来るから サービス よろしくね",
+          "en": "A group is coming soon, so please take care of the service."
+        },
+        {
+          "ja": "はい わかりました",
+          "en": "Yes, understood."
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "あっ かわいい！",
+          "en": "Oh, how cute!"
+        },
+        {
+          "ja": "すご～い！！",
+          "en": "Amazing!!"
+        },
+        {
+          "ja": "うわ～っ！",
+          "en": "Wow!"
+        },
+        {
+          "ja": "見て 見て！ かわいい！",
+          "en": "Look, look! So cute!"
+        },
+        {
+          "ja": "すごいね",
+          "en": "That's amazing!"
+        },
+        {
+          "ja": "ラマさん 大人気ですね 先輩",
+          "en": "The llamas are really popular, aren't they, senpai?"
+        },
+        {
+          "ja": "そうだな",
+          "en": "Yeah, they sure are."
+        },
+        {
+          "ja": "サービス サービス",
+          "en": "Service, service!"
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "いいねぇ キミ いいよ",
+          "en": "Nice, you're great!"
+        },
+        {
+          "ja": "パンダ 向いてるんじゃない？",
+          "en": "Maybe you're suited for pandas?"
+        },
+        {
+          "ja": "ラマやってるより 輝いてるよ",
+          "en": "You're shining more than when you're playing the llama."
+        },
+        {
+          "ja": "本当ですか？",
+          "en": "Really?"
+        },
+        {
+          "ja": "サービス サービス！ サービス サービス！",
+          "en": "Service, service! Service, service!"
+        },
+        {
+          "ja": "いいねぇ キミ ホント 向いてるよ",
+          "en": "You're really suited for this, you know."
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "非常勤パンダ パンダコーナーに配属を命ず",
+          "en": "Part-time Panda, you are assigned to the Panda Corner."
+        },
+        {
+          "ja": "パンダくん 元に 戻してもらったみたいですね",
+          "en": "It looks like you've been reassigned back to the panda section, Panda-kun."
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "やっぱり 僕は パンダが いちばん向いてるね",
+          "en": "After all, being a panda suits me best."
+        },
+        {
+          "ja": "ラマさん これ 今日のお昼ご飯ね",
+          "en": "Llama, here's your lunch for today."
+        },
+        {
+          "ja": "ありがとうございます",
+          "en": "Thank you."
+        },
+        {
+          "ja": "掃除は 午後にやるから",
+          "en": "I'll do the cleaning in the afternoon."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "半田さん",
+          "en": "Mr. Handa"
+        },
+        {
+          "ja": "何？",
+          "en": "What?"
+        },
+        {
+          "ja": "また配置換えの辞令 出ないですかね",
+          "en": "Do you think there will be another reassignment order?"
+        }
+      ]
+    }
+  ]
+}

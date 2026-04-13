@@ -1,0 +1,893 @@
+{
+  "ep": "04",
+  "title": "カフェのお花見",
+  "scenes": [
+    {
+      "audio": 0,
+      "lines": [
+        {
+          "ja": "誰にも言わないでよ",
+          "en": "Don't tell anyone."
+        },
+        {
+          "ja": "はい",
+          "en": "Okay"
+        }
+      ]
+    },
+    {
+      "audio": 1,
+      "lines": [
+        {
+          "ja": "僕、好きなペンギンさんが居るんだ",
+          "en": "I have a favorite penguin."
+        },
+        {
+          "ja": "すみません、抹茶パフェください",
+          "en": "Excuse me, I'll have a matcha parfait, please."
+        }
+      ]
+    },
+    {
+      "audio": 2,
+      "lines": [
+        {
+          "ja": "それで",
+          "en": "And then?"
+        },
+        {
+          "ja": "僕好きなペンギンさんが",
+          "en": "I like a certain penguin."
+        },
+        {
+          "ja": "すみません、やっぱりいちごパフェにしてくれますか",
+          "en": "Excuse me, could you change it to a strawberry parfait after all?"
+        },
+        {
+          "ja": "ちょっと！聞く気ある？！",
+          "en": "Hey! Are you even listening?!"
+        }
+      ]
+    },
+    {
+      "audio": 3,
+      "lines": [
+        {
+          "ja": "こんにちは",
+          "en": "Hello"
+        },
+        {
+          "ja": "しろくま君　いつもの",
+          "en": "Shirokuma-kun, the usual."
+        },
+        {
+          "ja": "お待ち遠様　竹大盛りね",
+          "en": "Thanks for waiting. Here's your large bamboo serving."
+        },
+        {
+          "ja": "いただきま～す",
+          "en": "Let's eat!"
+        }
+      ]
+    },
+    {
+      "audio": 4,
+      "lines": [
+        {
+          "ja": "やろうか",
+          "en": "Shall we start?"
+        },
+        {
+          "ja": "何を",
+          "en": "What?"
+        },
+        {
+          "ja": "ん？お花見",
+          "en": "Hmm? Cherry blossom viewing."
+        }
+      ]
+    },
+    {
+      "audio": 5,
+      "lines": [
+        {
+          "ja": "すごいね、桜",
+          "en": "The cherry blossoms are amazing."
+        },
+        {
+          "ja": "綺麗ですね",
+          "en": "It's beautiful, isn't it?"
+        },
+        {
+          "ja": "あそこにしよう",
+          "en": "Let's do it over there."
+        }
+      ]
+    },
+    {
+      "audio": 6,
+      "lines": [
+        {
+          "ja": "すごいね",
+          "en": "That's amazing."
+        },
+        {
+          "ja": "今年も綺麗に咲いたね",
+          "en": "They bloomed beautifully again this year."
+        }
+      ]
+    },
+    {
+      "audio": 7,
+      "lines": [
+        {
+          "ja": "お摘みどうしよう",
+          "en": "What should we do about snacks?"
+        },
+        {
+          "ja": "情緒がないなぁ",
+          "en": "It lacks charm."
+        },
+        {
+          "ja": "桜は綺麗だなって話してるんだから",
+          "en": "We're talking about how beautiful the cherry blossoms are."
+        }
+      ]
+    },
+    {
+      "audio": 8,
+      "lines": [
+        {
+          "ja": "うん、お摘み持ってない？",
+          "en": "Yeah, do you have any snacks?"
+        },
+        {
+          "ja": "聞いてないな　まぁ、いいや",
+          "en": "Not listening, huh? Oh well, never mind."
+        }
+      ]
+    },
+    {
+      "audio": 9,
+      "lines": [
+        {
+          "ja": "花弁って食べられますかね",
+          "en": "Can you eat flower petals?"
+        },
+        {
+          "ja": "もう一人情緒ないのがいるよ",
+          "en": "There's another person here with no sense of emotion."
+        },
+        {
+          "ja": "ラマさんは草が食べられるなら　食べられるんじゃない？",
+          "en": "If llamas can eat grass, then maybe we can eat them too, right?"
+        }
+      ]
+    },
+    {
+      "audio": 10,
+      "lines": [
+        {
+          "ja": "ね～竹持ってない？",
+          "en": "Hey, do you have any bamboo?"
+        },
+        {
+          "ja": "持ってないよ",
+          "en": "I don't have any."
+        }
+      ]
+    },
+    {
+      "audio": 11,
+      "lines": [
+        {
+          "ja": "お弁当なら持って来たよ",
+          "en": "I brought a lunchbox."
+        },
+        {
+          "ja": "さすがしろくま君",
+          "en": "As expected of Shirokuma-kun."
+        }
+      ]
+    },
+    {
+      "audio": 12,
+      "lines": [
+        {
+          "ja": "僕買い出しいって来るね",
+          "en": "I'll go do some shopping."
+        },
+        {
+          "ja": "なまけもの君？",
+          "en": "Sloth-kun?"
+        }
+      ]
+    },
+    {
+      "audio": 13,
+      "lines": [
+        {
+          "ja": "コンビニで",
+          "en": "At the convenience store."
+        },
+        {
+          "ja": "何か乾き物買ってくる",
+          "en": "I'll go buy some snacks."
+        },
+        {
+          "ja": "いいよ、あるものだけで",
+          "en": "It's fine, we'll just use what we have."
+        }
+      ]
+    },
+    {
+      "audio": 14,
+      "lines": [
+        {
+          "ja": "すぐそこだから",
+          "en": "It's just around the corner."
+        },
+        {
+          "ja": "行ってくるね",
+          "en": "I'll be right back."
+        }
+      ]
+    },
+    {
+      "audio": 15,
+      "lines": [
+        {
+          "ja": "じゃね～",
+          "en": "See you later!"
+        },
+        {
+          "ja": "いってらっしゃい",
+          "en": "Take care!"
+        }
+      ]
+    },
+    {
+      "audio": 16,
+      "lines": [
+        {
+          "ja": "乾杯～",
+          "en": "Cheers!"
+        },
+        {
+          "ja": "最高だなぁ",
+          "en": "This is the best!"
+        }
+      ]
+    },
+    {
+      "audio": 17,
+      "lines": [
+        {
+          "ja": "こんなに綺麗なのに、すぐに散っちゃうんだから",
+          "en": "Even though they're so beautiful, they fall so quickly."
+        },
+        {
+          "ja": "ホント　儚いよね",
+          "en": "Yeah, it's really fleeting, isn't it?"
+        }
+      ]
+    },
+    {
+      "audio": 18,
+      "lines": [
+        {
+          "ja": "これ　試しに作って見たんだ",
+          "en": "I tried making this as a test."
+        },
+        {
+          "ja": "あ～美味しそう　いただきます",
+          "en": "Ah, this looks delicious. Let's eat!"
+        }
+      ]
+    },
+    {
+      "audio": 19,
+      "lines": [
+        {
+          "ja": "ちょっと、食べてばかないで",
+          "en": "Hey, don't just eat it all up!"
+        },
+        {
+          "ja": "もっとお花見らしいことしようよ",
+          "en": "Let's do something more like a proper cherry blossom viewing."
+        }
+      ]
+    },
+    {
+      "audio": 20,
+      "lines": [
+        {
+          "ja": "お花見らしいこと？",
+          "en": "Something like a cherry blossom viewing?"
+        },
+        {
+          "ja": "歌うとか",
+          "en": "Like singing, for example."
+        },
+        {
+          "ja": "僕歌下手",
+          "en": "I'm bad at singing."
+        },
+        {
+          "ja": "同じく",
+          "en": "Same here."
+        },
+        {
+          "ja": "同じく",
+          "en": "Same here."
+        }
+      ]
+    },
+    {
+      "audio": 21,
+      "lines": [
+        {
+          "ja": "踊るとか",
+          "en": "Dancing, maybe?"
+        },
+        {
+          "ja": "踊り？",
+          "en": "Dancing?"
+        },
+        {
+          "ja": "踊るんですか",
+          "en": "Are you going to dance?"
+        },
+        {
+          "ja": "ダンスですか",
+          "en": "Is it dance?"
+        },
+        {
+          "ja": "フラダンス？",
+          "en": "Hula dance?"
+        },
+        {
+          "ja": "ベリーダンス？",
+          "en": "Belly dance?"
+        },
+        {
+          "ja": "腹ダンス？",
+          "en": "Belly dance?"
+        }
+      ]
+    },
+    {
+      "audio": 22,
+      "lines": [
+        {
+          "ja": "ペンギンさん寝てる",
+          "en": "The penguin is sleeping."
+        },
+        {
+          "ja": "違うよ、ダジャレどうしようもなくて倒れちゃったんだよ",
+          "en": "No, it's just that the pun was so bad I collapsed."
+        }
+      ]
+    },
+    {
+      "audio": 23,
+      "lines": [
+        {
+          "ja": "ひどいなぁ、ペンギンさん",
+          "en": "That's terrible, Mr. Penguin."
+        },
+        {
+          "ja": "もっとあるでしょう！",
+          "en": "There must be more!"
+        },
+        {
+          "ja": "お花見らしいこと、物真似とか",
+          "en": "Something typical of cherry blossom viewing, like impersonations or something."
+        }
+      ]
+    },
+    {
+      "audio": 24,
+      "lines": [
+        {
+          "ja": "わ～～名倉さんの物真似でしょう",
+          "en": "Wow, that's an impression of Mr. Nagura, isn't it?"
+        },
+        {
+          "ja": "食べてるだけなのに",
+          "en": "I'm just eating."
+        }
+      ]
+    },
+    {
+      "audio": 25,
+      "lines": [
+        {
+          "ja": "物足りないね",
+          "en": "It's not enough."
+        },
+        {
+          "ja": "よし、しろくま君",
+          "en": "Alright, Shirokuma-kun."
+        },
+        {
+          "ja": "僕をその木の上に挙げて　空を飛んでみせるよ",
+          "en": "Lift me up to that tree, and I'll show you how I can fly."
+        },
+        {
+          "ja": "止めたほうがいいよ",
+          "en": "You should stop."
+        }
+      ]
+    },
+    {
+      "audio": 26,
+      "lines": [
+        {
+          "ja": "なんで止めるの？",
+          "en": "Why should I stop?"
+        },
+        {
+          "ja": "じゃパンダ君でいいよ",
+          "en": "Then Panda-kun will do."
+        }
+      ]
+    },
+    {
+      "audio": 27,
+      "lines": [
+        {
+          "ja": "ほら、僕を木の上に乗せて",
+          "en": "Here, put me on top of the tree."
+        },
+        {
+          "ja": "僕ラマですけど",
+          "en": "I'm a llama, though."
+        },
+        {
+          "ja": "酔ってますね",
+          "en": "You're drunk, aren't you?"
+        }
+      ]
+    },
+    {
+      "audio": 28,
+      "lines": [
+        {
+          "ja": "飲み過ぎじゃない",
+          "en": "Aren't you drinking too much?"
+        }
+      ]
+    },
+    {
+      "audio": 29,
+      "lines": [
+        {
+          "ja": "すごいすごい",
+          "en": "Amazing, amazing!"
+        },
+        {
+          "ja": "お花見らしくなってきたよ、ペンギンさん",
+          "en": "It's starting to feel like a proper cherry blossom viewing, Mr. Penguin."
+        }
+      ]
+    },
+    {
+      "audio": 30,
+      "lines": [
+        {
+          "ja": "寝てる",
+          "en": "Asleep."
+        },
+        {
+          "ja": "熟睡ですね",
+          "en": "Sleeping soundly, huh?"
+        },
+        {
+          "ja": "寝るな",
+          "en": "Don't fall asleep."
+        },
+        {
+          "ja": "起きてるよ",
+          "en": "I'm awake."
+        }
+      ]
+    },
+    {
+      "audio": 31,
+      "lines": [
+        {
+          "ja": "最近の若いペンギンはなっちゃないんだよ",
+          "en": "Young penguins these days just aren't what they used to be."
+        },
+        {
+          "ja": "可愛いだけじゃダメなんだよ",
+          "en": "Being cute isn't enough."
+        },
+        {
+          "ja": "そうでしょう",
+          "en": "That's true."
+        }
+      ]
+    },
+    {
+      "audio": 32,
+      "lines": [
+        {
+          "ja": "絡むね",
+          "en": "You're quite persistent."
+        },
+        {
+          "ja": "聞いてる、吉崎さん",
+          "en": "Are you listening, Yoshizaki-san?"
+        }
+      ]
+    },
+    {
+      "audio": 33,
+      "lines": [
+        {
+          "ja": "誰それ",
+          "en": "Who is that?"
+        },
+        {
+          "ja": "吉崎さん、目の周りにあざがあるよ",
+          "en": "Mr. Yoshizaki, you have a bruise around your eye."
+        },
+        {
+          "ja": "誰かに殴られたよ？大丈夫？",
+          "en": "Did someone hit you? Are you okay?"
+        }
+      ]
+    },
+    {
+      "audio": 34,
+      "lines": [
+        {
+          "ja": "面倒臭いな",
+          "en": "What a hassle."
+        },
+        {
+          "ja": "ね～名倉さん、聞いてる？",
+          "en": "Hey, Nagura-san, are you listening?"
+        },
+        {
+          "ja": "食べてるだけなのに",
+          "en": "I'm just eating."
+        }
+      ]
+    },
+    {
+      "audio": 35,
+      "lines": [
+        {
+          "ja": "誰にも言わないでね",
+          "en": "Don't tell anyone, okay?"
+        },
+        {
+          "ja": "何を",
+          "en": "What?"
+        },
+        {
+          "ja": "好きなペンギンがいるんだよ",
+          "en": "There's a penguin I like."
+        }
+      ]
+    },
+    {
+      "audio": 36,
+      "lines": [
+        {
+          "ja": "パン屋のバイトのペンコさんっていうんだけど",
+          "en": "Her name is Penko, and she works part-time at a bakery."
+        },
+        {
+          "ja": "ペンコさん！",
+          "en": "Penco!"
+        }
+      ]
+    },
+    {
+      "audio": 37,
+      "lines": [
+        {
+          "ja": "僕パンダだよ",
+          "en": "I'm a panda, you know."
+        },
+        {
+          "ja": "ペンコさん　一生僕と同じ魚を食べてください！",
+          "en": "Penco, please eat the same fish as me for the rest of your life!"
+        },
+        {
+          "ja": "お願いします",
+          "en": "Please!"
+        }
+      ]
+    },
+    {
+      "audio": 38,
+      "lines": [
+        {
+          "ja": "助けて！",
+          "en": "Help!"
+        },
+        {
+          "ja": "もう面白いから、見ていいよ",
+          "en": "It's already funny, so go ahead and watch."
+        },
+        {
+          "ja": "き、聞いてくれますか",
+          "en": "W-Will you listen to me?"
+        }
+      ]
+    },
+    {
+      "audio": 39,
+      "lines": [
+        {
+          "ja": "何を",
+          "en": "What?"
+        },
+        {
+          "ja": "僕　ペンコさんのポエムを書いたんです",
+          "en": "I wrote a poem for Penko."
+        },
+        {
+          "ja": "どんな？",
+          "en": "What kind?"
+        }
+      ]
+    },
+    {
+      "audio": 40,
+      "lines": [
+        {
+          "ja": "theペンコさん",
+          "en": "Penco's, of course."
+        },
+        {
+          "ja": "the？",
+          "en": "The?"
+        },
+        {
+          "ja": "ペンコさんが笑う",
+          "en": "Penco laughs."
+        },
+        {
+          "ja": "ペンコさんが歩く",
+          "en": "Penco starts walking."
+        },
+        {
+          "ja": "ペンコさんが魚を食べる",
+          "en": "Penco eats the fish."
+        },
+        {
+          "ja": "どうですか、ペンコさん",
+          "en": "How is it, Penko?"
+        },
+        {
+          "ja": "僕？",
+          "en": "Me?"
+        }
+      ]
+    },
+    {
+      "audio": 41,
+      "lines": [
+        {
+          "ja": "ペンギンさん、ちょっとペンコさんと散歩してきたら、",
+          "en": "Penguin, why don't you go for a walk with Penko for a bit?"
+        },
+        {
+          "ja": "え？いいの",
+          "en": "Huh? Really?"
+        },
+        {
+          "ja": "じゃ、行こうか、ペンコさん",
+          "en": "Well, shall we go, Penko?"
+        },
+        {
+          "ja": "なんでまた僕？",
+          "en": "Why me again?"
+        }
+      ]
+    },
+    {
+      "audio": 42,
+      "lines": [
+        {
+          "ja": "ほら、行こう",
+          "en": "Come on, let's go."
+        },
+        {
+          "ja": "二人きりのロマンチックな夜だね",
+          "en": "It's a romantic night, just the two of us."
+        },
+        {
+          "ja": "いろいろ違ってる気がするよ",
+          "en": "I feel like a lot of things are off."
+        }
+      ]
+    },
+    {
+      "audio": 43,
+      "lines": [
+        {
+          "ja": "いつまでもこうして歩いていたいなぁ",
+          "en": "I wish we could keep walking like this forever."
+        },
+        {
+          "ja": "帰りたいよ",
+          "en": "I want to go home."
+        },
+        {
+          "ja": "ペンコさん！よかったら僕と付き合い……",
+          "en": "Penco! If you'd like, would you go out with me..."
+        },
+        {
+          "ja": "あれ！吉崎さん、いつの間に",
+          "en": "Oh! Yoshizaki, when did you get here?"
+        }
+      ]
+    },
+    {
+      "audio": 44,
+      "lines": [
+        {
+          "ja": "吉崎さんって誰",
+          "en": "Who's Yoshizaki?"
+        },
+        {
+          "ja": "ペンコさん、どこ！ペンコさん！",
+          "en": "Penco, where are you? Penco!"
+        },
+        {
+          "ja": "ペンギンさん！",
+          "en": "Penguin!"
+        }
+      ]
+    },
+    {
+      "audio": 45,
+      "lines": [
+        {
+          "ja": "寝ている",
+          "en": "Sleeping."
+        }
+      ]
+    },
+    {
+      "audio": 46,
+      "lines": [
+        {
+          "ja": "お待たせ",
+          "en": "Sorry to keep you waiting."
+        },
+        {
+          "ja": "コンビニ行ってきたよ",
+          "en": "I went to the convenience store."
+        },
+        {
+          "ja": "誰もいない",
+          "en": "There's no one here."
+        }
+      ]
+    },
+    {
+      "audio": 47,
+      "lines": [
+        {
+          "ja": "夜桜も綺麗だよ",
+          "en": "The night cherry blossoms are beautiful too."
+        }
+      ]
+    },
+    {
+      "audio": 48,
+      "lines": [
+        {
+          "ja": "昨日はびっくりしたね",
+          "en": "Yesterday was surprising, wasn't it?"
+        },
+        {
+          "ja": "毎年こうだから",
+          "en": "It's like this every year."
+        },
+        {
+          "ja": "ペンギンさんって酒癖悪いね",
+          "en": "Penguin, you have a bad drinking habit, don't you?"
+        }
+      ]
+    },
+    {
+      "audio": 49,
+      "lines": [
+        {
+          "ja": "いらっしゃい",
+          "en": "Welcome"
+        },
+        {
+          "ja": "なんか頭が痛いよ",
+          "en": "I have a bit of a headache."
+        }
+      ]
+    },
+    {
+      "audio": 50,
+      "lines": [
+        {
+          "ja": "あれ　それでペンコさんのパン屋さんで買ったの",
+          "en": "Oh, so you bought it at Penko's bakery?"
+        }
+      ]
+    },
+    {
+      "audio": 51,
+      "lines": [
+        {
+          "ja": "え？なんで知ってるの",
+          "en": "Huh? How do you know that?"
+        },
+        {
+          "ja": "theペンコさん",
+          "en": "Penco's, of course."
+        },
+        {
+          "ja": "なんで僕のポエムを　なんで知ってるの",
+          "en": "How do you know about my poem?"
+        }
+      ]
+    },
+    {
+      "audio": 52,
+      "lines": [
+        {
+          "ja": "ペンコさん　一生僕と同じ魚を食べてください",
+          "en": "Penco, please eat the same fish as me for the rest of our lives."
+        },
+        {
+          "ja": "僕が考えてるプロポーズの言葉！！",
+          "en": "The proposal words I'm thinking of!!"
+        },
+        {
+          "ja": "な　何でそれを！",
+          "en": "Wh-why do you know that?!"
+        }
+      ]
+    },
+    {
+      "audio": 53,
+      "lines": [
+        {
+          "ja": "覚えてないんですか",
+          "en": "Don't you remember?"
+        },
+        {
+          "ja": "誰にも話してないのに",
+          "en": "Even though I haven't told anyone."
+        }
+      ]
+    },
+    {
+      "audio": 54,
+      "lines": [
+        {
+          "ja": "ペンコさんが笑う",
+          "en": "Penco laughs."
+        },
+        {
+          "ja": "ペンコさんが歩く",
+          "en": "Penco starts walking."
+        },
+        {
+          "ja": "ペンコさんが魚を食べる",
+          "en": "Penco eats the fish."
+        },
+        {
+          "ja": "やめて",
+          "en": "Stop it."
+        }
+      ]
+    }
+  ]
+}
