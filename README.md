@@ -8,14 +8,11 @@ Each episode presents the original Japanese dialogue scene by scene with audio c
 
 ---
 
-## What's new in this version
+## A foundation for more
 
-- All **50 episodes** (original covered ~20)
-- **Data-driven architecture** — 51 JSON files + a single `episode.html` template, replacing ~200 static HTML files
-- **No dependencies** — vanilla JS and CSS, no Bootstrap or jQuery
-- **JP/EN toggle** — English translations hidden by default, revealed on hover or with one button
-- **Automated pipeline** — subtitle parsing → audio clipping → translation via Claude API
-- **One-command deploy** via Docker
+This project is built as a reusable pipeline — not just for Shirokuma Cafe, but for any anime or Japanese-language show. Given a video file and Japanese subtitles, the tooling here can automatically parse dialogue, clip audio, and generate translations, producing a complete interactive learning site ready to deploy.
+
+The goal is to make this kind of immersive, audio-first learning accessible for more shows beyond this one.
 
 ---
 
@@ -30,27 +27,27 @@ docker compose up -d
 
 ---
 
-## Adding new episodes
+## Adding a new show
 
-You'll need the MKV video file and a Japanese subtitle file (.ass or .srt).
+You'll need the video files and Japanese subtitle files (.ass or .srt).
 
 ```bash
-# 1. Install dependencies
+# 1. Set up
 cp env.template .env        # add your ANTHROPIC_API_KEY
 pip install -r requirements.txt
 
-# 2. Build episode (parses subtitles, clips audio, writes episodes/XX.json)
-python3 build-episode.py 51 \
-  "subtitles/MyShow-51.ja.ass" \
-  "/media/MyShow/S01E51.mkv"
+# 2. Build an episode
+python3 build-episode.py 1 \
+  "subtitles/show-01.ja.ass" \
+  "/media/show/S01E01.mkv"
 
-# 3. Translate to English
-python3 translate.py episodes/51.json en
+# 3. Translate
+python3 translate.py episodes/01.json en
 
-# 4. Rebuild episode index
+# 4. Rebuild index
 python3 convert-to-json.py 0 0
 
-# 5. Redeploy
+# 5. Deploy
 docker compose up -d
 ```
 
@@ -59,14 +56,13 @@ docker compose up -d
 ## Project structure
 
 ```
-episodes/          # JSON episode data (51 files + index.json)
+episodes/          # JSON episode data + index.json
 audio/             # MP3 clips per episode (Git LFS)
 includes/          # style.css
 episode.html       # single episode template
 index.html         # episode list
 build-episode.py   # subtitle → audio + JSON pipeline
 translate.py       # Claude Haiku translation (in-place, resumable)
-convert-to-json.py # converts old HTML episodes + rebuilds index.json
 docker-compose.yml # nginx static file server
 ```
 
